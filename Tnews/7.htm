@@ -1,0 +1,81 @@
+<%@ Language=VBScript %>
+<html><head><meta http-equiv=Content-Type content='text/html; charset=gb2312'>
+<style type='text/css'>
+<!--
+.yxy1{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#000000;text-decoration:none}
+.yxy2{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#0000FF}a:hover{color:red;text-decoration:underline}a.yxy3{color:#000000;text-decoration:none}-->
+</style>
+<title>复兴新闻</title>
+</head>
+
+ 
+  <BODY bgcolor=#FFFFE1>
+<Center>
+  <br>
+  <table border=0 width=452 cellspacing=0 cellpadding=0 height="50">
+<tr><td width=273 height=15>
+<font color=#000000>
+<span style=font-family:宋体;font-size:9pt;color:rgb(0,0,0)>
+上海市复兴高级中学 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+新闻中心 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+</span></font>       
+</td>       
+      <td width=179 height=15>        
+        <p align="right"><font size="2" color="#990033">发布时间：2005-01-10</font> 
+      </td></tr>
+<tr><td width=273 height=18></td>
+<td width=179 height=18></td>
+</tr>
+<tr><td width=452 height=17 colspan=2><p align=right>&nbsp;</td></tr>
+</table>
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="255">
+<tr>
+ &nbsp;&nbsp;&nbsp; 1月6日中午，复兴师生在之升楼前广场上举行爱心义卖活动，为近日印度洋海啸灾民募集善款。&nbsp;&nbsp;&nbsp;&nbsp;<br>    
+ &nbsp;&nbsp;&nbsp;&nbsp; 2004年底突发的印度洋海啸给当地人民造成巨大损失，中国和国际社会纷纷行动起来，全力帮助当地人民自救重建。为了表达复兴学子对灾区人民的深切同情，团学联举办了这次爱心义卖。校园里挂着“浓情复兴园，爱心永传承”、“爱满天下无南北，心系比邻同手足”的标语，各班同学纷纷献出自己心爱的书籍、碟片、文具、工艺品参加义卖，现场人头攒动、熙熙攘攘，充满浓浓的爱意。本次义卖共募集善款2万多元，将通过市红十字会送往灾区。上海电视台新闻综合频道报道了我校的这次活动。   
+</tr>
+<tr><td width=406 height="19">
+        <p align=right>
+<img border="0" src="yimai.jpg" width="600" height="1800">
+</td></tr>
+
+
+  <%
+   adoRS.Close
+   SqlString="select * from news where id=" & Request.QueryString ("ID")+1
+   adoRS.Open SqlString ,adoConn 
+   if not adoRS.EOF then %>
+ 
+   <tr><td width=452 height="21"><hr size=1 color=#0000FF></td></tr>
+   <tr>
+      <td width=452 height="15"> <span class=yxy1> <font color=#408080> 上一条:                  
+        </font>      
+        </span>   
+        <a href="5.htm"><font size="2">我校第二套校本教材隆重推出</font></a> </td>                                                                                                                                                                                                                                                                                      
+    </tr>     
+   <tr>     
+      <td width=452 height="18"> </td>       
+    </tr>     
+<%end if%>     
+<tr><td width=452 height="21"><hr size=1 color=#0000FF></td></tr>     
+     
+     
+     
+<%     
+   adoRS.Close      
+   UpdateStr="update news set Counter = Counter+1 where id=" & Request.QueryString ("ID")     
+   adoRS.Open UpdateStr,adoConn     
+   adoConn.Close %>     
+</table>     
+     
+  <hr size=1 color=#0000FF>     
+<table border=0 width=452 cellspacing=0 cellpadding=0>     
+<tr><td width=452>
+    <p>　</td></tr><tr><td width=452 height=21>     
+</td></tr><tr><td width=452 height=14>     
+<p align=center><span style=font-family:宋体;font-size:9pt>     
+<font color=#FE0000>上海市复兴高级中学</font>*车站南路28号</span></td></tr>     
+<tr><td width=452 height=14><p align=center><span style=font-family:宋体;font-size:9pt>Email:<a href=mailto:webmaster@fuxing.sh.cn>webmaster@fuxing.sh.cn</a></span></td></tr>     
+</table>     
+</Center>     
+</BODY>     
+</HTML>     

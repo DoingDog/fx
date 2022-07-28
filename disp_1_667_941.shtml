@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_667_2938.shtml' title='标题:喜报&#13;点击:570次&#13;日期:2013-9-2 7:47:56'  ><span style='color:;'>喜报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_2239.shtml' title='标题:文汇报"楷模风采"介绍我校陈寅老师&#13;点击:342次&#13;日期:2012-9-6 15:16:58'  ><span style='color:;'>文汇报”楷模风采”介绍我校陈</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_2233.shtml' title='标题:热烈祝贺陈寅老师荣获2012年度“上海市教书育人楷模”&#13;点击:302次&#13;日期:2012-8-31 9:38:12'  ><span style='color:;'>热烈祝贺陈寅老师荣获2012年</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_1794.shtml' title='标题:简讯：我校化学、政治教研组被评为区优秀教研组&#13;点击:379次&#13;日期:2012-3-15 11:28:47'  ><span style='color:;'>简讯：我校化学、政治教研组</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_941.shtml' title='标题:喜报2011年1月&#13;点击:864次&#13;日期:2011-5-30 15:11:28'  ><span style='color:;'>喜报2011年1月</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_940.shtml' title='标题:喜报2010年9月&#13;点击:520次&#13;日期:2011-5-30 15:10:20'  ><span style='color:;'>喜报2010年9月</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_667.shtml">教师荣誉</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>喜报2011年1月</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:学校管理员&nbsp;&nbsp; 编辑日期:2011-5-30 15:11:28&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=941"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p><img alt="" src="/userfiles/upload/image/2011/05/30/20110530150412690112060.jpg" /></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=941&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=941"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

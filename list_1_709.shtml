@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<script src="js/XtScript.js" type="text/javascript"></script>
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+    <title>德育科研</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/list_fxdy.css" rel="stylesheet" type="text/css" />
+    <script src="Template/FXGJ/js/tabjs.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+</head>
+<body>
+    <div id="maintop">
+        <script type="text/javascript">            var f = new Flash("template/fxgj/images/list_fxdy/pgfx.swf", "flash", "962", "205", true);
+            f.add("maintop");
+</script>
+    </div>
+    <div id="pubmenu"><script src="/template/FXGJ/menu.js" type="text/javascript"></script></div>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2"></div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div711" class='listitem3'><a href='list_1_711.shtml'>德育概况</a></div></td></tr><tr><td><div id="div706" class='listitem3'><a href='list_1_706.shtml'>管理保障</a></div></td></tr><tr><td><div id="div707" class='listitem3'><a href='list_1_707.shtml'>品格养成</a></div></td></tr><tr><td><div id="div708" class='listitem3'><a href='list_1_708.shtml'>教师垂范</a></div></td></tr><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr><tr><td><div id="div709" class='listitem3'><a href='list_1_709.shtml'>德育科研</a></div></td></tr></table>
+            </div>
+            <div class="listbtm"></div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav"><div class="nav"><a>上海市复兴高级中学</a> &gt;&gt;  <a href="channel_1.shtml">复兴高级</a>>> <a href="list_1_103.shtml">复兴德育</a>>> <a href="list_1_709.shtml">德育科研</a> <a href="rss.aspx?classid=709" target="_blank" class="rsscss"></a></div></div>
+            <div class="listclassbox">
+            <table style="width:100%;margin:0 5px 0 5px;"></table>
+            </div>
+            <iframe  allowTransparency="true"  name='main' id='main'  onload="iframeFitHeight(this)"  src="Listsub.aspx?ClassID=709&IsShow=&WID=" style="width: 100%;" frameborder="0" scrolling="no"></iframe>
+        </div>
+        <div style="height:10px; clear:both; overflow:hidden;"></div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:28px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

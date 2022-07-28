@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div107" class='listitem3'><a href='list_1_107.shtml'>对外交流</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_132_1072.shtml' title='标题:第13周工作安排 &#13;点击:94次&#13;日期:2011-11-18 15:53:55'  ><span style='color:;'>第13周工作安排&nbsp;</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_1054.shtml' title='标题:第12周工作安排&#13;点击:201次&#13;日期:2011-11-11 13:55:47'  ><span style='color:;'>第12周工作安排</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_1043.shtml' title='标题:第11周工作安排&#13;点击:323次&#13;日期:2011-11-4 16:09:53'  ><span style='color:;'>第11周工作安排</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_1039.shtml' title='标题:第10周工作安排&#13;点击:173次&#13;日期:2011-10-28 15:07:59'  ><span style='color:;'>第10周工作安排</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_1028.shtml' title='标题:第9周工作安排&#13;点击:98次&#13;日期:2011-10-27 10:48:50'  ><span style='color:;'>第9周工作安排</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_1005.shtml' title='标题:2011年上海市高中生信息科技学习水平起点调查问卷&#13;点击:508次&#13;日期:2011-9-13 15:55:04'  ><span style='color:;'>2011年上海市高中生信息科技</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_999.shtml' title='标题:2014届新生暑假作业&#13;点击:1363次&#13;日期:2011-8-18 16:34:09'  ><span style='color:;'>2014届新生暑假作业</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_951.shtml' title='标题:数字化校园平台登录说明&#13;点击:1731次&#13;日期:2011-6-3 8:31:41'  ><span style='color:;'>数字化校园平台登录说明</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_906.shtml' title='标题:新网站招生信息查询&#13;点击:3631次&#13;日期:2011-5-24 17:22:37'  ><span style='color:;'>新网站招生信息查询</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_132_780.shtml' title='标题:学校办学基本情况公示表&#13;点击:427次&#13;日期:2009-2-6 12:42:49'  ><span style='color:;'>学校办学基本情况公示表</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_132_906.shtml' title='新网站招生信息查询'  target='_blank'  >新网站招生信息查询</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_132_951.shtml' title='数字化校园平台登录说明'  target='_blank'  >数字化校园平台登录说明</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_132_999.shtml' title='2014届新生暑假作业'  target='_blank'  >2014届新生暑假作业</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_132_1005.shtml' title='2011年上海市高中生信息科技学习水平起点调查问卷'  target='_blank'  >2011年上海市高中生信息科技</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_132_1043.shtml' title='第11周工作安排'  target='_blank'  >第11周工作安排</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_132_1054.shtml' title='第12周工作安排'  target='_blank'  >第12周工作安排</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_132_1039.shtml' title='第10周工作安排'  target='_blank'  >第10周工作安排</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_132_1028.shtml' title='第9周工作安排'  target='_blank'  >第9周工作安排</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_132_1072.shtml' title='第13周工作安排 '  target='_blank'  >第13周工作安排&nbsp;</a><img src='images/atrri/new.gif' /></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_132.shtml">公告栏</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2014届新生暑假作业</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:教导处&nbsp;&nbsp; 编辑日期:2011-8-18 16:34:09&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=999"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>高一暑假作业要求</b></div>
+<div><b>语文：</b></div>
+<div>1、熟读、背诵、默写初中所有须背写的古诗文<span>&nbsp;&nbsp;&nbsp; </span></div>
+<div>2、练写钢笔字（要求以楷书或行楷为主，每天写一页，每页上都要注明日期）<span>&nbsp;&nbsp;&nbsp; &nbsp;3</span>、深入阅读中外经典名著各一部，读完后自选角度写两篇读后感（每篇不少于&nbsp;</div>
+<div>800字）<span>&nbsp;&nbsp;&nbsp; </span></div>
+<div>4、关注时事，每周至少完成一则时事思考（要求：勿泛泛而谈，要写自己深有感触之事，自拟标题，字数不限）</div>
+<div><b>数学：</b></div>
+<div>复习：</div>
+<div>1、方程：一元二次方程、绝对值方程、分式方程的解法与性质</div>
+<div>2、函数：（1）一次函数、二次函数、反比例函数的性质与图像</div>
+<div><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>（2）二次函数的最值讨论</div>
+<div>3、几何：三角与圆的平面几何性质与应用</div>
+<div>预习：高中第一章&ldquo;集合与命题&rdquo;的集合部分知识</div>
+<div><b>英语：</b></div>
+<div>1、背诵、复习初中英语词汇手册</div>
+<div>2、经常听/ 看英语广播/ 电视节目</div>
+<div>3、每周完成4-5篇阅读（语篇后带选择题或回答问题）</div>
+<div><b>物理：</b></div>
+<div>1、利用假期时间，找两到三位你所熟悉的、并且在学习高中物理方面很成功的哥哥、姐姐，当一回小记者，采访他们学习高中物理的成功经验，通过采访，了解高中物理与初中物理的关系、高中物理与初中物理的不同、学习高中物理应当注意些什么？用你所喜欢的写作方式，把采访内容整理成文。一定要精彩唷。开学时让老师和同学们一同欣赏你的采访报道。</div>
+<div>2、参观科技馆、也可以参观工厂或企业（如宝钢、上海洋山深水港、江南造船建厂、上海飞机制造有限公司、上海无线电厂&hellip;&hellip;），写一篇观后感，谈谈物理在各个领域的应用。</div>
+<div>3、去图书馆读书3天，查阅《科学画报》等科学杂志或书籍。</div>
+<div>（1）通过阅读，请你用书信的形式将你在这三天内所阅读的书籍名称告诉你的物理老师，请你用朋友的口气和老师交流。</div>
+<div>（2）通过阅读，你最好能向老师推荐一至两本书或一两篇好的科普文章。</div>
+<div>4、请你上网查询&ldquo;自然科学前沿介绍&rdquo;、&ldquo;科学前沿&rdquo;、&ldquo;物理科学前沿简介&rdquo;，了解科学前沿内容，请你做一个简要的介绍。（<a href="https://course33.gzedu.com/a1018/cover.htm"><span>https://course33.gzedu.com/a1018/cover.htm</span>）</a></div>
+<div>5、查阅相关资料，并向你爸爸、妈妈了解相关杆秤的知识，你还可以去中药房向有关叔叔、阿姨请教读数方法，看看实际的杆秤到底&ldquo;长的是什么模样&rdquo;，然后动手做一根杆秤。看看哪位同学能拿制作的一等奖呀！</div>
+<div>6、复习初中物理，有条件可以对高中物理适当预习。开学第一天是初中物理基础知识竞赛，看谁的知识面广，请各位同学稍作准备。</div>
+<div>物理老师祝同学们暑假快乐！</div>
+<div><b>化学：</b></div>
+<div>鉴于开学后高一化学将有一次摸底考试（考试时间为90分钟，满分为100分），旨在考察大家在初三阶段所学内容的掌握情况及学科知识的拓展能力。主要包括：① 基本化学概念与原理<span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></div>
+<div>② 简单的原子结构理论<span><span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></div>
+<div>③ 氧化还原反应的基本常识</div>
+<div>④ 元素化学的知识（非金属如氧气、空气、二氧化碳等&hellip;物质的性质）</div>
+<div><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>（金属如铝、铁等&hellip;物质的性质）</div>
+<div>⑤ 基础化学实验的常识（物质检验、除杂、制取等 &hellip;）<span>&nbsp;&nbsp; </span>&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+<div>⑥ 生活中的化学常识及其应用</div>
+<div>希望同学们将所学的化学知识做进一步的整理与强化并有所拓宽，在开学后的摸底考试中发挥出最佳水平，考出好成绩！</div>
+<div>注：开学后9月1日、2日进行摸底考试，请同学们认真准备，过一个快乐而充实的假期。</div>
+<div align="right">教导处、高一年级组</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2011.6</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=999&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=999"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

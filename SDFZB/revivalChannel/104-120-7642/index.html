@@ -1,0 +1,532 @@
+<!--header start-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200,user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>上海市复兴高级中学</title>
+<link rel="shortcut icon" href="https://fx.xxoo.skin/SDFZB/fuxing.ico">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/normalize.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/selectordie.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/bingoui.min.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/htmleaf.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/jquery-accordion-menu.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/style2.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/viewer.css">
+<!--[if lt IE 9]>
+    <script src="https://fx.xxoo.skin/SDFZB/js/dist/lib/respond/respond.min.js"></script>
+    <script src="https://fx.xxoo.skin/SDFZB/js/dist/lib/html5/html5shiv.js"></script>
+    <![endif]-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3123741bf033dd59b436068417d7bd92";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    
+</head>
+<body class="">
+	<div class="whiteBack">
+
+	<div id="header">
+		<div class="contant1">
+		<div class="contant" style="">
+	    <div style="padding: 6px 15px;background: #ecf1f5;">
+	        <ol class="breadcrumb navOl" style="font-size: 14px;">
+	            <li>
+					<a href="https://oa.fuxing.sh.cn/oa/register.action" target="_Blank">招生系统</a>
+			    </li>
+			    <li>
+					<a href="https://fx.xxoo.skin/SDFZB/revivalChannel/findQuickEntries/1">在校学生</a>
+			    </li>
+			    <li>
+					<a href="https://fx.xxoo.skin/SDFZB/revivalChannel/findQuickEntries/2">在校员工</a>
+			    </li>
+			    <!-- <li>
+					<a href="https://fx.xxoo.skin/SDFZB/revivalChannel/findQuickEntries/3">校友开放</a>
+			    </li> -->
+	         </ol>
+	         <ol class="breadcrumb pull-right" id="topGatway" style="font-size: 14px">
+
+	         </ol>
+	    </div>
+	    </div>
+	    </div>
+	    <div class="contant2" >
+	    <div class="contant" style="width:1000px;margin:0 auto;height: 90px;background: #ecf1f5">
+	    <div id="logoDiv">
+	        <div id="blueDiv" style="position:relative">
+	            <a href="https://fx.xxoo.skin/SDFZB/revival"><img style="width:30%;margin-left:20px" src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/logo.png" class="img-responsive pull-left"></a>
+	            <img style="width: 550px;position: relative;left: 130px;height: 90px" src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/head4.png" class="img-responsive pull-left">
+	            <!-- <img style="width:90%" src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/head.png" class="img-responsive"> -->
+	            <!-- <span id="nav-toggle"></span>-->
+	            <div id="topMenue">
+
+	            <form class="form-horizontal" id="headSearchForm" action="https://fx.xxoo.skin/SDFZB/common/queryNewsListBy" method="POST">
+		                    <div class="form-group">
+		                        <span class="search search-sm mgr10">
+							          <input type="text" class="form-control" name="title" placeholder="搜索新闻" id="searchInput" style="height:30px;" value="">
+							    </span>
+		                    </div>
+		                    <input class="hide" name="pageNo" value=""/>
+							<input class="hide" name="clicks" value=""/>
+							<input class="hide" name="time" value=""/>
+		        </form>
+	            </div>
+
+	        </div>
+	    </div>
+	    </div>
+	    </div>
+	    <div class="contant3">
+	    	<div id="cssmenu">
+		        <ul class="nav nav-tabs contant" id="navBar" style="margin:0 auto;background:#ecf1f5">
+
+		        </ul>
+	        </div>
+	    </div>
+	</div>
+	<div class="clearfix"></div>
+	<!--header end-->
+
+
+	<!-- 工具导航栏 -->
+	<script type="text/template" id="topGatway_tpl">
+		<%var arr=[];%>
+        <%_.each(topGetWay,function(item,index){%>
+        		<%if(item.id==619){arr.push(item)}%>
+        <%})%>
+        <%_.each(arr,function(item,index){%>
+                <%var linkurl="###";
+				 if(_.isEmpty(item.linkurl)){
+					 if (item.pid==0) {
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.id;
+					 }else if(item.pid!=0){
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.pid+"-"+item.id;
+					 }else{
+						 linkurl= seajs.baseHTTP;
+					 }
+				 }
+				%>
+				<li>
+                <a data-value="<%=item.id%>" href="<%=linkurl%>"><%=item.name%></a>
+                </li>
+        <%})%>
+        <li>
+		<a target="_Blank" href="https://fx.xxoo.skin/SDFZB/login">登录</a>
+    	</li>
+	</script>
+	<!-- 导航栏 -->
+	<script type="text/template" id="nav_tpl">
+        <%_.each(indexChannel,function(item,index){%>
+                <%var linkurl="###";
+				 if(_.isEmpty(item.linkurl)){
+					 if (item.pid==0) {
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.id;
+					 }else if(item.pid!=0){
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.pid+"-"+item.id;
+					 }else{
+						 linkurl= seajs.baseHTTP;
+					 }
+				 }
+				%>
+				<li style="width:90px;">
+                <a data-value="<%=item.id%>" href="<%=linkurl%>"><%=item.name%></a>
+                </li>
+        <%})%>
+
+	</script>
+	<!-- 友情链接 -->
+	<script type="text/template" id="friendLinkTpl">
+        <%_.each(friendshipLink,function(item,index){%>
+        <%if(item.cwc_linkurl){%>
+        		<p><a target="_Blank" href="<%=item.cwc_linkurl%>"><%=item.cwc_name%></a></p>
+        	<%}%>
+        <%})%>
+	</script>
+
+<style>
+    .panel-body{
+        padding:0 5px;padding-bottom: 15%;background:none;
+    }
+    .panel .panel-footer{
+        background:none;
+        border-top:0;
+    }
+    .panel{
+        background:none;
+    }
+    .panel-primary-outline .panel-heading {
+        border-top: 0;
+    }
+    .panel-heading{
+        font-size:20px;padding:5px 0;
+        background: -webkit-linear-gradient(#E3EEFC, #B0CDF8);
+        background: -o-linear-gradient(#E3EEFC, #B0CDF8); /* Opera 11.1 - 12.0 */
+        background: -moz-linear-gradient(#E3EEFC, #B0CDF8); /* Firefox 3.6 - 15 */
+        background: linear-gradient(#E3EEFC, #B0CDF8);
+        filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#E3EEFC, endColorstr=#B0CDF8);
+    }
+    .accordion-group {
+        margin: 8px;
+        border: 1px solid #b3b3b3;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        /*padding:10px 0;*/
+    }
+    .accordion-body{
+        border-top: 1px solid #d0d0d0;
+    }
+    .accordion-heading{
+        padding:10px 0;
+    }
+    .channelList a{
+        font-size:16px;color:#4c4c4c;
+    }
+    .articleTitle{
+        width: 90%;height: 20%;margin-left: 5%;margin-top:3%;
+    }
+	.articleContent{
+		padding: 20px 50px 20px;
+	}
+	.articleContent p{
+		text-indent: 2em;
+	}
+	.articleTitle div[class^=col-xs-]{
+    padding:0;
+    }
+    .accordion-inner{
+        padding-top:9px;height:40px;border-bottom: 1px solid #b3b3b3;
+    }
+    .accordion-inner:last-child{
+        border-bottom: 0;
+    }
+    .accordion-heading:hover{
+        border-top-left-radius:10px;border-top-right-radius:10px;
+        border-bottom-left-radius:10px;border-bottom-right-radius:10px;
+        background:#b3f0ff;
+    }
+    .accordion-inner:hover{
+        background:#b3f0ff;
+    }
+    .accordion-inner:last-child:hover{
+        background:#b3f0ff;
+        border-bottom-left-radius:10px;border-bottom-right-radius:10px;
+    }
+    .radiusClass:hover{
+        border-bottom-left-radius:0;border-bottom-right-radius:0;
+    }
+    .col-xs-3{
+        padding-left: 0;
+    }
+    .col-xs-9{
+        padding-right: 0;padding-left: 0;
+    }
+    .col-xs-12{
+        padding:0;
+    }
+</style>
+<div id="logoImg" class="carousel slide text-center contant" >
+     <img class="101" src="https://fx.xxoo.skin/SDFZB/upload/1/channel/1/20170419144656630.png" width="100%" onerror="this.src='https://fx.xxoo.skin/SDFZB/FXGW/css/img/p14.png'">
+</div>
+<div class="contant">
+<div id="location">您的位置 <span id="parentLocation"></span></div>
+<div id="middle" class="clearfix" >
+    <div class="col-xs-3" style="display:none">
+        <div class="panel panel-primary-outline" id="panelHeight4">
+            <div class="panel-heading text-center leftTitle"></div>
+            <div class="panel-body">
+                <div class="accordion channelList" id="listChannel">
+
+                </div>
+            </div>
+            <div class="panel-footer pad39">
+
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-9" style="display:none">
+        <div class="panel panel-primary-outline" id="panelHeight8" >
+              <div class="panel-heading text-left"><span class="articleTop" style="margin-left: 20px;"></span></div>
+              <div class="panel-body news-slider" id="article" style="padding:15px">
+
+                 <div class="title" id="titleRender">
+
+                 </div>
+                  <div class="content" id="content">
+                      <p id="baseContent">
+
+                      </p>
+                  </div>
+              </div>
+              <div class="panel-footer" id="footPage">
+
+              </div>
+        </div>
+    </div>
+</div>
+</div>
+<script>
+	var VIEW="new";
+	var base="https://fx.xxoo.skin/SDFZB";
+	var baseUpload="";
+	var VIEW_PARAM={"topGetWay":[],"location":[{"child":[{"child":[],"id":104,"node":"教育教学","order":3,"isleaf":1,"pid":0}],"id":120,"node":"课程建设","order":0,"isleaf":1,"pid":104}],"channelId":120,"next":{"cn_slite_img":null,"cn_clicks":1346,"newType":null,"cn_publishdate":"2018-04-13 15:44:49","type":null,"cn_channelid":120,"creator":"900386","id":6928,"modifer":null,"author":1,"cn_newtype":",3,","cn_opentype":1,"modfied_time":null,"cn_key_word":"","cn_linkurl":"","cn_img":"/upload/1/news/822/20180413154912317.jpg","isdel":0,"cn_type":0,"cn_number":null,"content":"<p>     2018年4月11日下午1：00，《高三英语作文实战指导》高三英语教研活动在复兴高级中学举行，全区六十余名高中英语教师参与了此次活动。</p><p>   首先复兴高级中学的周小彬老师呈现了一堂题为\u201CHow to write an application letter\u201D的高三英语作文课。本节课围绕如何申请志愿岗位，从内容、语言上为学生的写作任务提供支撑。通过brainstorm环节让学生清晰把握主要内容，然后从introduction、body、 conclusion 三个环节依次推进，融合师生、生生互动，运用丰富的词汇、句型激活学生已有知识背景。学生完成写作后，通过生生互评，教师点评等手段，让学生学会欣赏，学会批判，从而提升学生的整体作文层次。</p><p>     然后，复兴高级中学高三备课组长介绍了整堂公开课的设计思路；周小彬老师对课堂进行了总结反思，认为课堂上学生总体较好地完成了写作任务，但是过程中的操练还不够充分。</p><p>     最后，教研员姚继怀老师就公开课进行了点评。姚老师肯定了本堂写作课给高三老师带来的启发，比如：在高三下学期要有专门写作指导课，有针对性提升学生的作文层次；课堂上呈现的句型词汇能给学生的写作提供有效支撑。随后姚老师也指出了本节课可以优化改进的地方，比如：在brainstorm过程中如何引导学生帮助他人，从而更好地体现课堂的育人价值；如何优化时间，让学生有更多机会操练课堂呈现出的丰富句型、词汇。姚老师强调了高三教师要帮助学生从内容、语言、结构上全面提高作文层次的重要性和可操作性，从而提高高三英语写作课教学质量。</p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/822/20180413154906098.png' style='max-width:100%;'><br></p><p style='text-align: right; '>撰稿：周小彬</p><p><br></p>","cn_summary":"","cn_title":"资讯 | 《高三英语作文实战指导》高三英语教研活动在我校举行","ispublish":1,"cn_order":null,"create_time":"2018-04-13","fontNo":649},"resource":null,"pid":104,"indexChannel":[{"islink":0,"id":101,"child":[{"islink":0,"id":7779,"child":[],"opentype":null,"name":"学校概况","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7782,"child":[],"opentype":null,"name":"校史沿革","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7780,"child":[],"opentype":null,"name":"党政领导","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7781,"child":[],"opentype":null,"name":"组室机构","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7812,"child":[],"opentype":null,"name":" 领导关怀","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7811,"child":[],"opentype":null,"name":"学校荣誉","isleaf":null,"linkurl":"","pid":101,"pos":0}],"opentype":null,"name":"校情总览","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":103,"child":[{"islink":0,"id":115,"child":[],"opentype":null,"name":"主题活动","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":116,"child":[],"opentype":null,"name":"评选奖励","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":118,"child":[],"opentype":null,"name":"心理健康","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7785,"child":[],"opentype":null,"name":"社会实践","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7786,"child":[],"opentype":null,"name":"生涯规划","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7788,"child":[],"opentype":null,"name":"民族教育","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7800,"child":[],"opentype":null,"name":"学生荣誉","isleaf":null,"linkurl":"","pid":103,"pos":0}],"opentype":null,"name":"德育工作","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":104,"child":[{"islink":0,"id":120,"child":[],"opentype":null,"name":"课程建设","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":121,"child":[],"opentype":null,"name":"科创教育","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":122,"child":[],"opentype":null,"name":"资优生培养","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":660,"child":[],"opentype":null,"name":"教学成果","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":722,"child":[],"opentype":null,"name":"合作办学","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":7818,"child":[],"opentype":null,"name":"语言文字","isleaf":null,"linkurl":"","pid":104,"pos":0}],"opentype":null,"name":"教育教学","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":105,"child":[{"islink":0,"id":7791,"child":[],"opentype":null,"name":"学术活动","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":662,"child":[],"opentype":null,"name":"人才梯队","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":7790,"child":[],"opentype":null,"name":"科研成果","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":7792,"child":[],"opentype":null,"name":"教师培训","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":661,"child":[],"opentype":null,"name":"教师荣誉","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":7820,"child":[],"opentype":null,"name":"教师招聘","isleaf":null,"linkurl":"","pid":105,"pos":0}],"opentype":null,"name":"教师风采","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":108,"child":[{"islink":0,"id":7795,"child":[],"opentype":null,"name":"党建动态","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7794,"child":[],"opentype":null,"name":"党务公开","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7796,"child":[],"opentype":null,"name":"学习交流","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7797,"child":[],"opentype":null,"name":"党员风采","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7798,"child":[],"opentype":null,"name":"党群工作","isleaf":null,"linkurl":"","pid":108,"pos":0}],"opentype":null,"name":"党建工作","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":132,"child":[],"opentype":null,"name":"招生工作","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":106,"child":[{"islink":0,"id":129,"child":[],"opentype":null,"name":"校友风采","isleaf":null,"linkurl":"","pid":106,"pos":0},{"islink":0,"id":127,"child":[],"opentype":null,"name":"校友会信息","isleaf":null,"linkurl":"","pid":106,"pos":0},{"islink":0,"id":130,"child":[],"opentype":null,"name":"校友通讯","isleaf":null,"linkurl":"","pid":106,"pos":0}],"opentype":null,"name":"复兴校友","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":619,"child":[{"islink":0,"id":621,"child":[{"islink":0,"id":625,"child":[],"opentype":null,"name":"学校概况","isleaf":null,"linkurl":"","pid":621,"pos":0},{"islink":0,"id":626,"child":[],"opentype":null,"name":"学校领导","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_112.shtml","pid":621,"pos":0},{"islink":0,"id":627,"child":[],"opentype":null,"name":"机构设置","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_111.shtml","pid":621,"pos":0},{"islink":null,"id":628,"child":[],"opentype":null,"name":"制度规范","isleaf":null,"linkurl":null,"pid":621,"pos":0},{"islink":0,"id":629,"child":[],"opentype":null,"name":"规划计划","isleaf":null,"linkurl":"","pid":621,"pos":0},{"islink":null,"id":630,"child":[],"opentype":null,"name":"联系方式","isleaf":null,"linkurl":"https://fx.xxoo.skin/List.aspx?ClassID=108","pid":621,"pos":0}],"opentype":null,"name":"基本情况","isleaf":null,"linkurl":"","pid":619,"pos":0},{"islink":0,"id":622,"child":[{"islink":0,"id":631,"child":[],"opentype":null,"name":"学校新闻","isleaf":null,"linkurl":"https://fx.xxoo.skin/list.aspx?classid=101","pid":622,"pos":0},{"islink":0,"id":632,"child":[],"opentype":null,"name":"每周安排","isleaf":null,"linkurl":"","pid":622,"pos":0},{"islink":null,"id":633,"child":[],"opentype":null,"name":"教学工作","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_120.shtml","pid":622,"pos":0},{"islink":0,"id":634,"child":[],"opentype":null,"name":"学校收费","isleaf":null,"linkurl":"","pid":622,"pos":0},{"islink":null,"id":635,"child":[],"opentype":null,"name":"德育建设","isleaf":null,"linkurl":null,"pid":622,"pos":0},{"islink":null,"id":636,"child":[],"opentype":null,"name":"后勤服务","isleaf":null,"linkurl":null,"pid":622,"pos":0},{"islink":0,"id":637,"child":[],"opentype":null,"name":"应急预案","isleaf":null,"linkurl":"","pid":622,"pos":0},{"islink":0,"id":638,"child":[],"opentype":null,"name":"党建工作","isleaf":null,"linkurl":"https://fx.xxoo.skin/channel.aspx?channelid=2","pid":622,"pos":0},{"islink":0,"id":639,"child":[],"opentype":null,"name":"招生工作","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_122.shtml","pid":622,"pos":0},{"islink":null,"id":640,"child":[],"opentype":null,"name":"毕业生工作","isleaf":null,"linkurl":null,"pid":622,"pos":0}],"opentype":null,"name":"行政管理","isleaf":null,"linkurl":"","pid":619,"pos":0},{"islink":0,"id":623,"child":[{"islink":0,"id":641,"child":[],"opentype":null,"name":"队伍建设","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_121.shtml","pid":623,"pos":0},{"islink":0,"id":642,"child":[],"opentype":null,"name":"教研科研","isleaf":null,"linkurl":"https://fx.xxoo.skin/List.aspx?ClassID=105","pid":623,"pos":0},{"islink":null,"id":643,"child":[],"opentype":null,"name":"教师招聘","isleaf":null,"linkurl":null,"pid":623,"pos":0}],"opentype":null,"name":"教师工作","isleaf":null,"linkurl":"","pid":619,"pos":0},{"islink":0,"id":624,"child":[{"islink":null,"id":644,"child":[],"opentype":null,"name":"学籍管理","isleaf":null,"linkurl":null,"pid":624,"pos":0},{"islink":null,"id":645,"child":[],"opentype":null,"name":"帮困助学","isleaf":null,"linkurl":null,"pid":624,"pos":0},{"islink":null,"id":646,"child":[],"opentype":null,"name":"评选奖励","isleaf":null,"linkurl":"/List.aspx?ClassID=119","pid":624,"pos":0},{"islink":0,"id":647,"child":[],"opentype":null,"name":"团队活动","isleaf":null,"linkurl":"","pid":624,"pos":0},{"islink":0,"id":648,"child":[],"opentype":null,"name":"课外活动","isleaf":null,"linkurl":"https://fx.xxoo.skin/List.aspx?ClassID=116","pid":624,"pos":0}],"opentype":null,"name":"学生工作","isleaf":null,"linkurl":"","pid":619,"pos":0}],"opentype":null,"name":"信息公开","isleaf":null,"linkurl":"","pid":0,"pos":0}],"pre":{"cn_slite_img":null,"cn_clicks":1177,"newType":null,"cn_publishdate":"2018-05-25 08:47:46","type":null,"cn_channelid":120,"creator":"900386","id":7650,"modifer":null,"author":1,"cn_newtype":",4,","cn_opentype":1,"modfied_time":null,"cn_key_word":"","cn_linkurl":"","cn_img":null,"isdel":0,"cn_type":0,"cn_number":null,"content":"<p>为了不负每一位热爱教育，关注课改的朋友的期待，届时，我们将开通两个网络直播通道，您可以随时随地扫码观看活动盛况。<br></p><p><br></p><section><section><section><section><p style='text-align: center;'><b>通道一：中国教研网直播平台</b></p></section></section></section></section><p style='text-align: center;'>主会场：</p><p style='text-align: center;'>主持人：纪明泽</p><p style='text-align: center;'>（一）12:30-13:15  签到、参观校园</p><p style='text-align: center;'>（二）13:15-13:55  课堂教学展示</p><p style='text-align: center;'>（三）14:10-14:20  领导致辞　</p><p style='text-align: center;'>（四）14:20-15:10  复兴高级中学主旨报告</p><p style='text-align: center;'>（五）15:10-15:40  专家点评</p><p style='text-align: center; '>（六）15:40-16:00  领导讲话</p><p style='text-align: center; '><strong>观看方式一：长按识别二维码观看</strong><br></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/822/20180525084942707.png' style='max-width: 100%; width: 135.9px; height: 135.9px;' class='clicked'></p><p style='text-align: center; '><b>观看方式二：直接输入网址打开</b></p><p style='text-align: center; '>https://live.yanxiu.com/lv/page/program/877472db4ba5fbdf/view</p><p style='text-align: center; '><br></p><p style='text-align: center;'>第二会场：</p><p style='text-align: center;'>展示课：思想政治《经济全球化趋势》</p><p style='text-align: center;'>时间：5月25日 13:15-13:55  </p><p style='text-align: center;'>主讲人：张尚达</p><p style='text-align: center; '>地点：智慧教室9201</p><p style='text-align: center; '><strong>观看方式一：长按识别二维码观看</strong><br></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/822/20180525085201461.png' style='max-width: 100%; width: 129.6px; height: 129.6px;' class='clicked'></p><p style='text-align: center; '><b>观看方式二：直接输入网址打开</b></p><p style='text-align: center; '>https://live.yanxiu.com/lv/page/program/9ed7d32012b9b373/view</p><p style='text-align: center; '><br></p><p style='text-align: center;'>第三会场：</p><p style='text-align: center;'>展示课：STEM课程《骨水泥的制备及性能探究》 </p><p style='text-align: center;'>时间：5月25日 13:15-13:55  </p><p style='text-align: center;'>主讲人：徐梦驰 </p><p style='text-align: center; '>地点：化学实验室3106</p><p style='text-align: center; '><strong>观看方式一：长按识别二维码观看</strong></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/822/20180525085333564.png' style='max-width: 100%; width: 124.2px; height: 124.2px;' class='clicked'><br></p><p style='text-align: center; '><b>观看方式二：直接输入网址打开</b></p><p style='text-align: center; '>https://live.yanxiu.com/lv/page/program/e67bc7fd33b76c69/view</p><p style='text-align: center; '><br></p><p style='text-align: center; '><br></p><p style='text-align: center; '><b>通道二：创先泰克教育云直播平台</b><br></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/822/20180525085438647.png' style='max-width: 100%; width: 135.9px; height: 135px;' class='clicked'><br></p><p style='text-align: center; '><br></p><p style='text-align: center; '><br></p>","cn_summary":"","cn_title":"预告 | 上海课改30年相约活动直播地址来啦！","ispublish":1,"cn_order":null,"create_time":"2018-05-25","fontNo":606},"current":{"cn_slite_img":"/upload/1/news/822/20180522145035235.jpg","cn_clicks":5839,"newType":null,"cn_publishdate":"2018-05-22 14:47:58","type":null,"cn_channelid":120,"creator":"葛健业","id":7642,"modifer":null,"author":"网站管理员","cn_newtype":",2,3,","cn_opentype":1,"modfied_time":null,"cn_key_word":"","cn_linkurl":"","cn_img":"/upload/1/news/822/20180522145035234.jpg","isdel":0,"cn_type":0,"cn_number":null,"content":"PHA+5Li66Ie05pWs5LiK5rW36K++5pS5MzDlubTvvIzliqnlipvombnlj6PliqDlv6vlu7rorr7mlZnogrLlvLrljLrvvIzlsZXnpLrlrabmoKHor77nqIvmlZnlrabmlLnpnanmiJDmnpzvvIzlhbnlrprkuo4yMDE45bm0NeaciDI15pel77yI5ZGo5LqU77yJMTM6MTXvvIzlnKjlpI3lhbTpq5jnuqfkuK3lrabvvIjovabnq5nljZfot68yOOWPt++8ie+8jOS4vuihjDxzdHJvbmc+5LiK5rW36K++5pS5MzDlubTnm7jnuqbmtLvliqjigJTigJTlpI3lhbTpq5jkuK3igJzpq5jkvY7nu5PlkIjigJ3nmoTor77nqIvogrLkurrlrp7ot7XlsZXnpLo8L3N0cm9uZz7jgII8YnI+PC9wPjxwPjxicj48L3A+PHA+5LiA44CB5oyH5a+85oCd5oOzPC9wPjxwPuWcqOS5oOi/keW5s+aWsOaXtuS7o+S4reWbveeJueiJsuekvuS8muS4u+S5ieaAneaDs+W8lemihuS4i++8jOi0r+W9u+WFmueahOWNgeS5neWkp+eyvuelnuWSjOaVmeiCsuaWuemSiO+8jOiQveWunueri+W+t+agkeS6uuagueacrOS7u+WKoe+8jOa3seWMluaVmeiCsuaUuemdqe+8jOWKqeWKm+iZueWPo+aVmeiCsuW8uuWMuuW7uuiuvu+8jOWdmuaMgeKAnOmrmOe7k+aehOiuvuiuoeOAgeS9jue7k+aehOWunuaWveKAneeahOivvueoi+eQhuW/te+8jOW7uuaehOKAnOmrmOS9jue7k+WQiOKAneeahOivvueoi+S9k+ezu++8jOaJk+mAoOKAnOmrmOS9jue7k+WQiOKAneeahOacieaViOivvuWggu+8jOaOoue0ouKAnOmrmOS9jue7k+WQiOKAneeahOeglOS/ruaooeW8j++8jOWni+e7iOWdmuaMgeivvuWgguaVmeWtpueahOS7t+WAvOOAgeWtpuenkeaVmeWtpueahOS7t+WAvOOAgeaVmeW4iOiCsuS6uueahOS7t+WAvO+8jOWli+WKm+WunueOsOWtpuagoeivvueoi+e7k+aehOeahOmHjee7hOOAgeWtpuagoeiCsuS6uuacuuWItueahOmHjeWhkeOAgeWtpuagoeaVmeiCsueUn+aAgeeahOmHjeW7uuOAgjwvcD48cD48L3A+PHA+5LqM44CB5rS75Yqo5Li76aKYPC9wPjxwPuW7uuaehOWtpuS5oOeahOiEiee7nOS4juaDheWig+KAlOKAlOWkjeWFtOmrmOS4reKAnOmrmOS9jue7k+WQiOKAneeahOivvueoi+iCsuS6uuWunui3tTwvcD48cD48L3A+PHA+5LiJ44CB5rS75Yqo57uE57uHPC9wPjxwPuaMh+WvvOWNleS9je+8muS4iua1t+W4guaVmeiCsuWtpuS8mjwvcD48cD7kuLvlip7ljZXkvY3vvJrkuIrmtbfluILmlZnogrLlp5TlkZjkvJrln7rnoYDmlZnogrLlpIQ8L3A+PHA+5LiK5rW35biC5pWZ6IKy5aeU5ZGY5Lya5pWZ5a2m56CU56m25a6kPC9wPjxwPuiZueWPo+WMuuaVmeiCsuWxgDwvcD48cD7ljY/lip7ljZXkvY3vvJrkuIrmtbfluILpq5jkuK3mlZnogrLnrqHnkIbkuJPkuJrlp5TlkZjkvJo8L3A+PHA+5om/5Yqe5Y2V5L2N77ya5LiK5rW35biC5aSN5YW06auY57qn5Lit5a2mPC9wPjxwPjwvcD48cD7lm5vjgIHmtLvliqjorq7nqIs8L3A+PHA+77yI5LiA77yJMTI6MzAtMTM6MTUgwqDnrb7liLDjgIHlj4Lop4LmoKHlm608L3A+PHA+77yI5LqM77yJMTM6MTUtMTM6NTUgwqDor77loILmlZnlrablsZXnpLo8L3A+PHA+77yI5LiJ77yJMTQ6MTAtMTQ6MjDjgIDpooblr7zoh7Tovp7jgIA8L3A+PHA+77yI5Zub77yJMTQ6MjAtMTU6MTAgwqDlpI3lhbTpq5jnuqfkuK3lrabkuLvml6jmiqXlkYo8L3A+PHA+77yI5LqU77yJMTU6MTAtMTU6NDAgwqDkuJPlrrbngrnor4Q8L3A+PHA+77yI5YWt77yJMTU6NDAtMTY6MDAgwqDpooblr7zorrLor508L3A+PHA+PC9wPjxwPuS6lOOAgeivvuWgguaVmeWtpuWxleekuuWuieaOkjwvcD48cD48aW1nIHNyYz0naHR0cDovL2Z1eGluZy5zaC5jbi9TREZaQi91cGxvYWQvMS9uZXdzSW1nLzgyMi8yMDE4MDUyMjE0NTAyNDI3Ni5wbmcnIHN0eWxlPSdtYXgtd2lkdGg6MTAwJTsnPjxicj48L3A+PHA+6K+a6YKA5ZCE5L2N6aKG5a+844CB5LiT5a626I6F5Li05oyH5a+877yBPGJyPjwvcD48cD48YnI+PC9wPg==","cn_summary":"","cn_title":"预告 | 上海课改30年相约活动\u2014\u2014复兴高中\u201C高低结合\u201D的课程育人实践展示","ispublish":1,"cn_order":null,"create_time":"2018-05-22","fontNo":580},"userStatus":0,"friendshipLink":[{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":-1,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"上海教育","cwc_titlename":"","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7807,"modifer":"admin","cwc_order":1,"modfied_time":"2017-04-18 13:04:56","cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-04-17 09:35:51","cwc_opentype":0,"cwc_linkurl":"https://www.shmec.gov.cn/"},{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":-1,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"虹口教育","cwc_titlename":"","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7808,"modifer":"admin","cwc_order":2,"modfied_time":"2017-04-18 13:04:50","cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-04-17 10:24:52","cwc_opentype":0,"cwc_linkurl":"https://www.hkedu.sh.cn/hkpublicinfo"},{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":-1,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"虹口教育督导","cwc_titlename":"","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7809,"modifer":null,"cwc_order":3,"modfied_time":null,"cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-04-18 13:04:42","cwc_opentype":0,"cwc_linkurl":"https://jydd.hkedu.sh.cn/DuDaoPortalSite/"},{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":0,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"学生生涯规划","cwc_titlename":"fq ","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7821,"modifer":null,"cwc_order":4,"modfied_time":null,"cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-10-27 09:23:59","cwc_opentype":0,"cwc_linkurl":"https://www.yf678.net"}],"channelImg":"/upload/1/channel/1/20170419144656630.png","newsDownLoad":[]}||{};
+	if(typeof VIEW_PARAM =='string'){VIEW_PARAM=eval("("+VIEW_PARAM+")");}
+</script>
+
+<!-- 閺備即妞堥崘鍛啇 -->
+<script type="text/template" id="listChannel_tpl">
+<%var n = $('.active').index()-1,data = obj.indexChannel[n];%>
+<%_.each(data.child,function(item,index){%>
+<div class="accordion-group">
+<div class="accordion-heading accordion-toggle">
+<b>
+<%if(_.isEmpty(item.linkurl)){
+	 if (item.pid==0) {
+	 	linkurl= seajs.baseHTTP+"/revivalChannel/"+item.id;
+	 }else if(item.pid!=0){
+		 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.pid+"-"+item.id;
+	 }else{
+	 	linkurl= seajs.baseHTTP;
+ 	 }
+ }%>
+	<a href="<%=linkurl%>" data-value="<%=item.id%>" class="" >
+	<%=item.name%>
+	</a>
+</b>
+</div>
+<div data-value="<%=item.id%>" class="accordion-body collapse" style="height: 0px; ">
+
+</div>
+</div>
+<% }) %>
+</script>
+<script type="text/javascript">
+            var Base = new Base64();
+            function Base64() {
+
+
+             _keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+
+
+             this.encode = function (input) {
+              var output = "";
+              var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+              var i = 0;
+              input = _utf8_encode(input);
+              while (i < input.length) {
+               chr1 = input.charCodeAt(i++);
+               chr2 = input.charCodeAt(i++);
+               chr3 = input.charCodeAt(i++);
+               enc1 = chr1 >> 2;
+               enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+               enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+               enc4 = chr3 & 63;
+               if (isNaN(chr2)) {
+                enc3 = enc4 = 64;
+               } else if (isNaN(chr3)) {
+                enc4 = 64;
+               }
+               output = output +
+               _keyStr.charAt(enc1) + _keyStr.charAt(enc2) +
+               _keyStr.charAt(enc3) + _keyStr.charAt(enc4);
+              }
+              return output;
+             }
+
+
+             this.decode = function (input) {
+              var output = "";
+              var chr1, chr2, chr3;
+              var enc1, enc2, enc3, enc4;
+              var i = 0;
+              input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+              while (i < input.length) {
+               enc1 = _keyStr.indexOf(input.charAt(i++));
+               enc2 = _keyStr.indexOf(input.charAt(i++));
+               enc3 = _keyStr.indexOf(input.charAt(i++));
+               enc4 = _keyStr.indexOf(input.charAt(i++));
+               chr1 = (enc1 << 2) | (enc2 >> 4);
+               chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+               chr3 = ((enc3 & 3) << 6) | enc4;
+               output = output + String.fromCharCode(chr1);
+               if (enc3 != 64) {
+                output = output + String.fromCharCode(chr2);
+               }
+               if (enc4 != 64) {
+                output = output + String.fromCharCode(chr3);
+               }
+              }
+              output = _utf8_decode(output);
+              return output;
+             }
+
+             // private method for UTF-8 encoding
+             _utf8_encode = function (string) {
+              string = string.replace(/\r\n/g,"\n");
+              var utftext = "";
+              for (var n = 0; n < string.length; n++) {
+               var c = string.charCodeAt(n);
+               if (c < 128) {
+                utftext += String.fromCharCode(c);
+               } else if((c > 127) && (c < 2048)) {
+                utftext += String.fromCharCode((c >> 6) | 192);
+                utftext += String.fromCharCode((c & 63) | 128);
+               } else {
+                utftext += String.fromCharCode((c >> 12) | 224);
+                utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                utftext += String.fromCharCode((c & 63) | 128);
+               }
+
+              }
+              return utftext;
+             }
+
+             _utf8_decode = function (utftext) {
+              var string = "";
+              var i = 0;
+              var c = c1 = c2 = 0;
+              while ( i < utftext.length ) {
+               c = utftext.charCodeAt(i);
+               if (c < 128) {
+                string += String.fromCharCode(c);
+                i++;
+               } else if((c > 191) && (c < 224)) {
+                c2 = utftext.charCodeAt(i+1);
+                string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                i += 2;
+               } else {
+                c2 = utftext.charCodeAt(i+1);
+                c3 = utftext.charCodeAt(i+2);
+                string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                i += 3;
+               }
+              }
+              return string;
+             }
+            };
+        if(VIEW_PARAM.current=='-1'){
+          var inserText = "<div style='text-align:center;margin-top:200px'>暂无内容</div>";
+          document.getElementById( 'article').innerHTML=inserText;
+        }else{
+          var result = Base.decode(VIEW_PARAM.current.content);
+          document.getElementById("baseContent").insertAdjacentHTML("afterBegin",result);
+        }
+
+</script>
+
+<script type="text/template" id="titleTpl">
+
+                <h3 class="h3"><%=current.cn_title%></h3>
+                <p>
+                   作者：<%=current.author?current.author:'佚名'%>&nbsp;&nbsp;&nbsp;
+                   <span class="pubTime"><%=moment(current.cn_publishdate).format("YYYY-MM-DD")%></span>
+                </p>
+
+
+
+
+
+</script>
+
+<script type="text/template" id="footContentTpl">
+    <div class="content" id="page">
+        <%if(newsDownLoad.length !== 0){%>
+        <div>
+            <%_.each(newsDownLoad,function(i,k){%>
+              <span>附件<%=k+1%>：</span>
+              <span style="margin-right:10px"><a href="<%=seajs.baseHTTP+i.cnd_url%>"><%=i.cnd_name%></a></span>
+            <%})%>
+
+        </div>
+        <%}%>
+        <%if(obj.next|| obj.pre){%>
+        <div class="col-xs-6">
+                <%if(pre){%>
+                <span class="previous">上一篇：
+                  <a title="<%-pre.cn_title%>" style="display:inline" href="https://fx.xxoo.skin/SDFZB/revivalChannel/<%-pid%>-<%-obj.channelId%>-<%-pre.id%>"><%-pre.cn_title%></a>
+                </span>
+                <%}else{%>
+                    <span class="pre">
+                    </span>            <%}%>
+        </div>
+        <div class="col-xs-6 text-right">
+                <%if(next){%>
+                <span class="next">下一篇 :&nbsp;
+                  <a title="<%-next.cn_title%>" style="display:inline" href="https://fx.xxoo.skin/SDFZB/revivalChannel/<%-pid%>-<%-obj.channelId%>-<%-next.id%>"><%-next.cn_title%></a>
+                </span>
+                <%}else{%>
+                    <span class="next">
+                    </span>             <%}%>
+        </div>
+    </div>
+<%}%>
+<%if(!obj.next&& !obj.pre){%>
+    <div class="content" id="page">
+        <div class="col-xs-6">
+            <span class="previous">
+            </span>
+        </div>
+        <div class="col-xs-6 text-right">
+            <span class="next">
+            </span>
+        </div>
+    </div>
+<%}%>
+
+</script>
+<script src="https://fx.xxoo.skin/SDFZB/FXGW/js/sea.js"></script>
+<script>
+seajs.use("view_"+VIEW,function(m){
+	m.init();
+});
+</script>
+	<!-- footer> -->
+	<div class="clearfix"></div>
+
+	<div id="infoFoot" class="clearfix ydp-container" style="font-size:14px;">
+	   	<div class="contant">
+    	<div class="pull-left info" style="width:100px;padding: 0 10px;">
+    		 <p class="footTitle"><a href="https://bszs.conac.cn/sitename?method=show&id=2919B6564B217F55E053022819AC06C9" target="_blank"><img src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/blue.png"></a>
+    	</div>
+	    <div class="pull-left info" style="width:240px;padding: 0 10px;">
+	        <p class="footTitle" style="padding-bottom:15px">复兴教育集团</p>
+	        <p style="margin:0"><a target="_blank" href="https://fxcj.hkedu.sh.cn">民办新复兴初级中学</a></p>
+	        <p style="margin:0"><a target="_blank" href="https://fxsy.hkedu.sh.cn">复兴实验中学</a></p>
+	        <p style="margin:0">虹口区教育学院实验中学</p>
+	    </div>
+	    <div  id="friendLink" class="pull-left info" style="width:235px;padding: 0 10px;">
+	        <p class="footTitle" style="padding-bottom:15px">友情链接</p>
+
+	    </div>
+	    <div class="pull-left info"   style="width:250px;padding: 0 10px;">
+	        <p class="footTitle" style="padding-bottom:15px">联系我们</p>
+	        <p><span class="icon-envelope-alt" style="margin-right:0.1em"></span>邮箱：fxheadmaster@163.com</span></p>
+	        <p><span class="icon-phone"></span>电话：021-65606715</span></p>
+	        <p ><span class="icon-home" style="margin:0.1em;"></span>地址：虹口区车站南路28号&nbsp;&nbsp;</p>
+	        <p ><span class="icon-inbox"></span>邮编：200434</p>
+
+	    </div>
+	    <div class="pull-left" style="width:100px;padding: 0 10px;">
+	    		<img   src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/twoMa.jpg" width="120">
+	    </div>
+	    </div>
+	</div>
+	<div id="foot" class="ydp-container">
+	        <div class="text-center" style="line-height: 35px;">
+	            Copyright©上海市复兴高级中学版权所有&nbsp;&nbsp;<a style="color:#fff" href="https://www.miitbeian.gov.cn" target="_blank">沪ICP备：11009688号-1</a></p>
+	         </div>
+	</div>
+
+</div>
+
+
+</body>
+</html>
+<!--nav end-->

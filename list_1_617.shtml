@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>内网应用</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="template/fxgj/css/nwyy.css" rel="stylesheet" type="text/css" />
+    <link href="css/nwyy.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="body">
+        <div class="header">
+            <a class="logoa" href="index.shtml"></a>
+        </div>
+        <div class="con">
+            <div class="icon clearfix">
+                <div class="h1">
+                    <a href="https://172.16.0.31:8000/" class="btn" target="_blank">办公平台 </a>
+                    <a href="file://172.16.20.36/公共文件区/教师/"
+                        class="btn" target="_blank">文件共享 </a><a href="file://fxshipin/复兴照片库/" 
+                        class="btn" target="_blank">
+                            照片库 </a>
+                </div>
+                <div class="h2">
+                    <a href="https://172.16.4.116:8007/weixiu/index.asp" class="btn" target="_blank">设备报修 </a>
+                    <a href="https://172.16.0.63:801/bees/" class="btn" target="_blank">电教网站 </a><a href="https://172.16.4.112:8080"
+                        class="btn">复兴视频 </a>
+					<a href="https://www.fuxing.sh.cn:8000/" class="btn xwbg">校外办公
+                        </a>	
+                </div>
+                <div>
+                    <a href="https://172.16.0.31" class="btn" target="_blank">复兴魔灯 </a><a href="schinfo"
+                        class="btn" target="_blank">数字校园 </a><a href="https://10.57.6.203/" class="btn">课堂实录
+                        </a>
+					<a href="https://www.zaifan.com/" class="btn zyk">资源库
+                        </a>	
+                </div>
+            </div>
+            <div style=" position:absolute; width:224px; height:355px; left:538px; top:100px; text-align:left; text-indent:1em; line-height:25px">
+            如果您在学校外访问“复兴视频”，您可以点击复兴首页左侧的“复兴视频”按钮进行访问。
+            </div>
+        </div>
+    </div>
+</body>
+</html>

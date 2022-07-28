@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div109" class='listitem3'><a href='list_1_109.shtml'>校史沿革</a></div></td></tr><tr><td><div id="div110" class='listitem3'><a href='list_1_110.shtml'>办学特色</a></div></td></tr><tr><td><div id="div111" class='listitem3'><a href='list_1_111.shtml'>机构设置</a></div></td></tr><tr><td><div id="div112" class='listitem3'><a href='list_1_112.shtml'>学校领导</a></div></td></tr><tr><td><div id="div113" class='listitem3'><a href='list_1_113.shtml'>漫步校园</a></div></td></tr><tr><td><div id="div114" class='listitem3'><a href='list_1_114.shtml'>学校荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_112_799.shtml' title='标题:校长寄语&#13;点击:1749次&#13;日期:2011-5-19 13:57:50'  ><span style='color:;'>校长寄语</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_112_798.shtml' title='标题:历任校长&#13;点击:2943次&#13;日期:2011-5-19 13:49:54'  ><span style='color:;'>历任校长</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_112_800.shtml' title='标题:现任总支书记、副校长&#13;点击:3937次&#13;日期:2009-3-5 14:00:53'  ><span style='color:;'>现任总支书记、副校长</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_112_801.shtml' title='标题:现任校长&#13;点击:4777次&#13;日期:2008-12-25 14:09:37'  ><span style='color:;'>现任校长</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_112.shtml">学校领导</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>历任校长</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:学校管理员&nbsp;&nbsp; 编辑日期:2011-5-19 13:49:54&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=798"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>
+<table border="0" cellspacing="0" cellpadding="0" width="540" align="center">
+    <tbody>
+        <tr>
+            <td height="98" width="284">
+            <div align="center">
+            <p align="center"><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616130035609441440.jpg" /></p>
+            <p align="center">赵鼎新<br />
+            1946年-1949年</p>
+            </div>
+            </td>
+            <td valign="top" width="256">
+            <div align="center">
+            <p align="center"><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616134337328966140.jpg" /></p>
+            <p>张信鸿<br />
+            1949年-1950年</p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td height="262">
+            <div align="center">
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616133538406831650.jpg" /></p>
+            <p>黄丹艧<br />
+            1950年-1960年<br />
+            &nbsp;</p>
+            </div>
+            </td>
+            <td valign="top">
+            <div align="center">
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/2011061613513889012950.jpg" /></p>
+            <p>姚晶<br />
+            1960年-1966年<br />
+            1978年-1985年</p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td height="98" valign="top">
+            <div align="center">
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616131239640338220.jpg" /></p>
+            <p>彭文怡<br />
+            1985年-1993年</p>
+            </div>
+            </td>
+            <td valign="top">
+            <div align="center">
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616132739484697160.jpg" /></p>
+            <p>杨墨秋<br />
+            1993年-1995年<br />
+            <br />
+            &nbsp;</p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td height="98">
+            <div align="center">
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616134939250806550.jpg" /></p>
+            <p>李立<br />
+            1995年-1997年 <br />
+            &nbsp;</p>
+            </div>
+            </td>
+            <td valign="top">
+            <div align="center">
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616130140390572290.JPG" /></p>
+            <p>马惠生<br />
+            1997年-2001年</p>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td height="98">
+            <div align="center">
+            <p>&nbsp;</p>
+            <p align="center"><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616132540640386160.jpg" /></p>
+            <p align="center">胡锦星<br />
+            2001年&mdash;&mdash;2005年</p>
+            </div>
+            </td>
+            <td valign="top">
+            <div align="center">
+            <p>&nbsp;</p>
+            <p><img alt="" width="152" height="200" src="/userfiles/upload/image/2011/06/16/20110616134040796264220.jpg" /></p>
+            <p>陈奕望<br />
+            2005年&mdash;&mdash;至今</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=798&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=798"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

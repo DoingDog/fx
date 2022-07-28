@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_671_4093.shtml' title='标题:教育因你而温暖----2015上海教育年度新闻人物揭晓&#13;点击:160次&#13;日期:2016-2-16 13:01:41'  ><span style='color:;'>教育因你而温暖----2015上海</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_4091.shtml' title='标题:《中国教育报》报道：涵养现代学校发展“蓄水池”&#13;点击:231次&#13;日期:2016-2-16 12:56:27'  ><span style='color:;'>《中国教育报》报道：涵养现</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3886.shtml' title='标题:热烈祝贺我校领导班子荣获“2014学年虹教系统党政干部考核领导班子”集体记功&#13;点击:85次&#13;日期:2015-10-15 10:03:10'  ><span style='color:;'>热烈祝贺我校领导班子荣获“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3840.shtml' title='标题:【被多个微信号转载】：让孩子一生可持续发展，应该培养哪些综合素质？&#13;点击:241次&#13;日期:2015-6-27 9:31:33'  ><span style='color:;'>【被多个微信号转载】：让孩</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3820.shtml' title='标题:复兴高级中学：聚焦“高效课堂” 校庆为教育事业建言&#13;点击:332次&#13;日期:2015-6-12 9:18:51'  ><span style='color:;'>复兴高级中学：聚焦“高效课</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3817.shtml' title='标题:虹口报报道复兴校庆活动&#13;点击:104次&#13;日期:2015-6-12 9:15:27'  ><span style='color:;'>虹口报报道复兴校庆活动</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3818.shtml' title='标题:我在复兴高级中学听了一堂“眼高手低“的课(转自《上海教育-第一教育》)&#13;点击:598次&#13;日期:2015-5-30 9:53:09'  ><span style='color:;'>我在复兴高级中学听了一堂“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3505.shtml' title='标题:上海教育电视台头条报道我校：互动激发学生的思维潜能&#13;点击:522次&#13;日期:2014-5-30 9:00:38'  ><span style='color:;'>上海教育电视台头条报道</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3427.shtml' title='标题:虹口区复兴高级中学以提升课堂教学质量，破解发展“瓶颈”&#13;点击:443次&#13;日期:2014-4-9 16:19:35'  ><span style='color:;'>虹口区复兴高级中学以提升课</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3041.shtml' title='标题:告别枯燥跑跳 自选体育课程  &#13;点击:383次&#13;日期:2013-12-19 14:51:23'  ><span style='color:;'>告别枯燥跑跳&nbsp;自选体育课程&nbsp;</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_671_4091.shtml' title='《中国教育报》报道：涵养现代学校发展“蓄水池”'  target='_blank'  >《中国教育报》报道：涵养现</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_671_4093.shtml' title='教育因你而温暖----2015上海教育年度新闻人物揭晓'  target='_blank'  >教育因你而温暖----2015上海</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_671.shtml">媒体报道</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>《中国教育报》报道：涵养现代学校发展“蓄水池”</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:陈永平&nbsp;&nbsp; 编辑日期:2016-2-16 12:56:27&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=4091"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center"><img alt="" src="/userfiles/upload/image/2016/02/16/20160216123157399206220.jpg" /></p>
+<p class="MsoNormal" style="text-align: left; margin-left: 6pt; line-height: 12.6pt; margin-right: 6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 楷体_GB2312; mso-font-kerning: 0.0000pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-spacerun: 'yes'">今年是<font face="宋体">&ldquo;</font><font face="楷体_GB2312">十三五</font><font face="宋体">&rdquo;</font><font face="楷体_GB2312">开局之年，2016年全国教育工作会议将提升教师队伍整体素质，作为提升办学要素水平这一提高教育质量重点任务的首要工作。上海市复兴高级中学作为走在教育改革前沿的代表性学校，其对现代学校建设要求下的教师队伍建设，做了卓有成效的探索。</font></span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: right; margin-left: 6pt; line-height: 12.6pt; margin-right: 6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 楷体_GB2312; mso-font-kerning: 0.0000pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 8.5pt; font-family: 楷体_GB2312; font-weight: bold; mso-font-kerning: 0.0000pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-spacerun: 'yes'">&mdash;&mdash;<font face="楷体_GB2312">编者</font></span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;选择适合学校发展的路径，实现区域一流名校的目标，离不开一支有理想信念、有道德情操、有扎实学识、有仁爱之心的教师队伍，这支队伍是一所学校持续发展的&ldquo;蓄水池&rdquo;。学校要通过规划引领、研修提升、管理促进、开放培育等整体运行体系，不断涵养这个灌溉现代学校成长的&ldquo;蓄水池&rdquo;。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin-left: 6pt; line-height: 12.6pt; margin-right: 6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;规划引领成长</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校师资队伍建设，是学校发展的重中之重和本中之本。为此，在学校的整体发展规划中，应制定专项师资队伍建设规划。我校侧重从宏观的师资队伍建设规划、中观的教师团队发展计划、微观的教师个人发展方案三个层面来引领教师队伍的成长。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;作为学校发展的顶层设计，规划具有引领与导航作用。学校每年均须制定教师队伍建设年度工作计划、学校教师校本研修计划，为全校各类教师的持续专业发展提供有效支持。譬如我校在历轮的教师队伍发展规划和历年的教师队伍发展计划中均注重体现两点：一是通过核心价值观的确立，打造全校教师发展的命运共同体，要的是团队的优秀；二是通过分层分类分段的发展目标和路径指引，为每一个教师成长指明方向和确立路径，要的是个体的卓越。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校不仅要重视队伍建设规划，还重点研制了切实可行的教师团队发展计划。如，我校有若干市内、区内有知名度的学科（化学、英语等），为了进一步做大做强这些学科，我校积极争取上级支持，以扶特扶强的方针，集聚区内外专家资源的指导，专门制定了这两个学科教师团队的切实可行的发展计划，重点打造了区级的化学和英语学科高地，促使学校的特色学科建设更上一层楼，同时其团队建设的经验也成功向其他学科辐射，带动了各学科教师团队的百舸争流。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校教师队伍建设规划的同时，也应推动教师个人专业发展方案的制定，并要求每位教师要成为一名主动的学习者，成为学习型的教师，在认真分析自我专业发展的优势、机遇的基础上，进行发展路径的选择和规划。我校对教师个人专业发展的方案采取&ldquo;协商式评价&rdquo;的方式，所有个人发展方案，校领导班子成员跟教师个体一一协商，帮助教师明确自己的定位，既避免教师个人目标过于保守或激进，又能把学校对每一个教师发展的积极期许传导给每一个教师。总之，在个人专业发展方案的制定层面，我校采取的方针是先价值尊重再价值协商，最终达到价值引领。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin-left: 6pt; line-height: 12.6pt; margin-right: 6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;研修提升智慧</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校要注重通过校本研修的开展，立足课堂，立足岗位，提升教师的实践智慧。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校要根据教育发展大局、学校发展状况及本校教师发展需求，按照本校发展规划，有目的地制定培训目标。首先应通过调研教师学情、素养状态、不同发展要求，让主持培训的设计人员，明确培训目标和参加培训的对象，在此基础上有效编制和开展培训工作，最终使参加培训的教师明确培训要求、过程、评价方式和目标等。比如，我校根据虹口区教师培训要求，每学期申报两门&ldquo;师德与素养&rdquo;类课程，开设一门&ldquo;实践与体验&rdquo;课程，经教师进修学院师训处审核通过后实施。参加培训的各学习组制定组内培训计划，学期结束后，有详细的培训总结，并以此为依据制定下一学期的校本培训计划。全校教师知晓校本培训方案，并严格按照计划接受培训。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;同时，学校要根据本校教师队伍建设与发展的目标与任务，依据不同培训目的和对象，创设教师喜闻乐见的情境，定制培训课程。如我校以&ldquo;丰富的案例性知识向策略性知识转化，提升教学实践智慧&rdquo;为线索，将&ldquo;教育案例、教学中的关键事件&rdquo;作为研修主旨，通过&ldquo;个人谈问题，众人议问题；培训教师亮理论，共同求解问题；课例研究，求证问题；岗位实践，深化问题；跟师学艺，催生问题&rdquo;等形式开展培训课程。这在一过程中，我们注重以典型教学案例为载体，创设课堂真实教学情境，强化基于教学现场、走进真实课堂的培训环节。这种&ldquo;需求+案例&rdquo;培训方式深受教师喜爱。最近，我校还围绕&ldquo;高结构设计、低结构实施&rdquo;的高效课堂、智慧课堂、博雅课堂建设，开展青年教师比武大赛工作和作为长期日常工作的&ldquo;每周一星&rdquo;校公开课活动。通过充分发挥特级教师、学科带头人、区骨干教师特长，精心组织和落实好&ldquo;示范课&rdquo;，使其起到引领和示范作用；通过要求新教师和青年教师认真上好&ldquo;日常课&rdquo;，促进和帮助年轻老师发展；通过教研组组织的集体备课、共同探讨，群策群力设计&ldquo;概念课&rdquo;，以求能体现深具特色的智慧课堂。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;参训教师的需求和行为改善是检验培训效果的砝码。对培训进行评价可分为两个层面：一是对培训设计、组织管理是否满足教师需求的有效性评估；二是对参训教师学习过程性评价，即通过培训，教育教学理念和实践智慧是否有所提高。在这方面，我校建立了完整的教师培训管理体系，由校长及科研室负责，师训专管员落实具体工作，各部门领导密切配合，每一位教师积极参与。为规范教师的绩效考核，我校建立了教师业务成长档案，将每位教师的专业发展纳入科学化的考核体系之中。而且，从2014年下半年起，我校启用新智慧校园平台，使用数字化工具实现校本培训实时记录、实时汇总，实现即时化、定量化的过程监控。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin-left: 6pt; line-height: 12.6pt; margin-right: 6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;管理促进发展</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校要做强教师队伍，一方面需要通过内育外引做大增量，另一方面则需要通过优化管理激活教师队伍，盘活存量。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校应通过为教师成长搭建多样化的专业发展平台，进行内部培育，形成内部人才喷涌的良好机制。在诸多相关专业发展平台中，当前最重要的平台当属全面提升教师的课程意识和能力，在课程开发中实现教师独特的个人价值。为此，我校把课程校本化作为学校的主要工作和发展教师最主要的抓手，由此教师课程能力的发展自然就找到了机会和平台，其专业水平自然就会获得飞速的发展。我校通过基地、课题及各种培育性、展示性的项目，积极为每一位教师特别是青年教师，创造锻炼和发展的机会。如在本学年的&ldquo;一师一优课&rdquo;活动中，学校积极推荐多堂好课、优课参与评选，最终有两位老师在上海市300多节课中脱颖而出，荣获&ldquo;部级&rdquo;优课。同时，学校还应通过吸引优秀人才的加盟，为教师人才&ldquo;蓄水池&rdquo;引入源源不断的活水，形成教师人才队伍建设内外良性互动的积极格局。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;教师是鲜活的生命个体，其真实转变不仅要依靠政策、舆论、制度等外在的要求与监督，更关键的是要激发起教师实现自我价值的渴望，通过自我认识、自我设计、自我提高，实现专业发展的目标。所以，学校应进一步打造教师专业发展平台，赋予教师更多更大的课程开发自主权，激活教师创造力，让教师能够根据课堂教学和学生的实际，创造性、个性化地设置开发课程，实现自主反思、自我发展、赋权增能的目标。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;除了通过外引内育，把学校教师队伍的增量做大，学校也应注重通过管理的优化，来激活现有教师队伍的发展。一是以能力匹配原则，把合适的人放到合适的位置上。通过领导考核、同行评价、学生评议、自我评估等策略，建立能力匹配模型，把教师分成相应层次，根据教师的能力安排合适的岗位。这样一方面可以形成活水效应，让队伍有序流动起来，同时也是优化配置，通过更优化的排列组合，发挥现有队伍最大的效能。在这个匹配过程中，也要注意兼顾少部分教师的特殊情况，让他们有适合的施展舞台。二是以量化评价原则，建设基于证据的发展性评价体制。如借助信息化的手段，依托大数据平台的量化积累，对教师教学常规行为以及在学生评教和家长评校活动中，对教师的评价进行统计，建立起教师专业发展记录袋制度，科学记录教师专业发展过程，形成既注重过程又注重结果，分层考评、点面结合、公平公正的教师发展性评价体系。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin-left: 6pt; line-height: 12.6pt; margin-right: 6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; font-weight: bold; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;开放培育自信</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;学校应通过一系列开放举措，让名家走进校园与教师面对面，让教师走出校门与同行交流碰撞，由此激发教师队伍的文化自信，提升教师队伍综合素质。如我校近年来邀请科研院所、高等院校的国内知名专家走进校园，为教师开设关于科技、社会、人文、教育、教学等一系列高端的学术讲座，让教师与大师有机会面对面，开拓了他们的眼界，提升了他们的境界。同时，学校邀请教育专家学者，进行有关教育教学和教育改革等方面的最新进展讲座。除此之外，学校还把国内同行请进来，与本校教师同课异构，并约请各相应学科的特级教师进行评课。</span><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;除了请进来，学校还应把教师送出去，与国内的同行们交流、碰撞，这样既开阔教师的眼界，又能使他们获得对于学校、对于自我成长的自信。同时，有条件的学校要在区域内发挥辐射引领的作用，积极服务区域教育改革。比如，我校目前拥有三个市区名师基地，我校几名名师作为基地的主持人，在各自的领域发挥着积极的作用，为整体提升各学科教师的专业素养提供了优质的学习平台。这些名师基地、高地在全市产生一定的影响，探索的教师队伍建设经验也受到各级领导的赞扬，取得了累累硕果。再比如，从2012年开始，我校利用本校的优质资源，申报成为上海市见习教师规范化培训基地，学校每年均承担了十多名见习教师的培训工作，涵盖各门学科。此外，2014年，我校有3位教师开设区级课程，分别是乐燎原老师开设的&ldquo;古诗词鉴赏专项技能36讲&rdquo;、施娟老师开设的&ldquo;阿迪达斯健美操套路动作技能&rdquo;和楼蕾老师开设的&ldquo;高中英语微课设计与制作&rdquo;，获得各校教师的一致好评。</span></p>
+<p class="MsoNormal" style="text-align: left; margin: 6pt; line-height: 12.6pt; mso-pagination: widow-orphan"><span style="font-size: 8.5pt; font-family: 宋体; mso-font-kerning: 0.0000pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;&mdash;&mdash;载自《中国教育报》</span></p>
+<p><!--EndFragment--></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4091&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4091"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

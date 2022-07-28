@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_3812.shtml' title='标题:我在复兴高级中学听了一堂“眼高手低“的课(转自《上海教育-第一教育》)&#13;点击:333次&#13;日期:2015-5-30 9:53:09'  ><span style='color:;'>我在复兴高级中学听了一堂“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3707.shtml' title='标题:【推介】上海市奉贤区副区长、特级教师倪闽景：学习的意义&#13;点击:1176次&#13;日期:2015-3-21 14:22:18'  ><span style='color:;'>【推介】上海市奉贤区副区长</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3813.shtml' title='标题:海峡两岸中国语文教学观摩研讨会顺利召开&#13;点击:116次&#13;日期:2015-6-4 16:51:42'  ><span style='color:;'>海峡两岸中国语文教学观摩研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3802.shtml' title='标题:继往开来，展翅飞翔&#13;点击:392次&#13;日期:2015-5-18 8:08:53'  ><span style='color:;'>继往开来，展翅飞翔</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3796.shtml' title='标题:复兴机器人社赴美参加2015年VEX机器人世界锦标赛获殊荣&#13;点击:384次&#13;日期:2015-5-8 10:36:32'  ><span style='color:;'>复兴机器人社赴美参加2015年</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3790.shtml' title='标题:复兴高级中学党员责任区结对仪式&#13;点击:220次&#13;日期:2015-5-5 16:14:10'  ><span style='color:;'>复兴高级中学党员责任区结对</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3714.shtml' title='标题:复兴学子 清明节烈士陵园祭扫&#13;点击:572次&#13;日期:2015-4-7 13:35:45'  ><span style='color:;'>复兴学子&nbsp;清明节烈士陵园祭扫</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3710.shtml' title='标题:南方科技大学陈十一校长莅临复兴高级中学讲座&#13;点击:521次&#13;日期:2015-4-1 19:48:07'  ><span style='color:;'>南方科技大学陈十一校长莅临</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3703.shtml' title='标题:2014-2015年高三西藏生寒假总结&#13;点击:289次&#13;日期:2015-3-20 12:43:37'  ><span style='color:;'>2014-2015年高三西藏生寒假总</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3699.shtml' title='标题:复兴高级中学——上海市体育运动学校联谊会召开&#13;点击:682次&#13;日期:2015-3-18 14:46:35'  ><span style='color:;'>复兴高级中学——上海市体育</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_3645.shtml' title='高考理科状元吴曜辰回母校看望老师'  target='_blank'  >高考理科状元吴曜辰回母校看</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_3707.shtml' title='【推介】上海市奉贤区副区长、特级教师倪闽景：学习的意义'  target='_blank'  >【推介】上海市奉贤区副区长</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_3651.shtml' title='【今日头条】青春的无限可能---- 我校吴子婧同学用影像重新演绎《长恨歌》'  target='_blank'  >【今日头条】青春的无限可能</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_3689.shtml' title='2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕'  target='_blank'  >2015年复兴集团初三学生“走</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_3699.shtml' title='复兴高级中学——上海市体育运动学校联谊会召开'  target='_blank'  >复兴高级中学——上海市体育</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_3714.shtml' title='复兴学子 清明节烈士陵园祭扫'  target='_blank'  >复兴学子&nbsp;清明节烈士陵园祭扫</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_3710.shtml' title='南方科技大学陈十一校长莅临复兴高级中学讲座'  target='_blank'  >南方科技大学陈十一校长莅临</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_3693.shtml' title='新学期 永平说'  target='_blank'  >新学期&nbsp;永平说</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_3679.shtml' title='袁振国教授做客复兴讲座'  target='_blank'  >袁振国教授做客复兴讲座</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_3665.shtml' title='复兴中学三老新春团拜会举行'  target='_blank'  >复兴中学三老新春团拜会举行</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>复兴学子 清明节烈士陵园祭扫</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:陆佳一&nbsp;&nbsp; 编辑日期:2015-4-7 13:35:45&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3714"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center">复兴学子 清明节烈士陵园祭扫</div>
+<div align="center"><img alt="" width="600" src="/userfiles/upload/image/2015/04/09/20150409155009623536310.png" /></div>
+<div align="center"><img width="600" alt="" src="/userfiles/upload/image/2015/04/09/20150409153810888394100.png" /></div>
+<div>早晨，天空下着朦胧细雨，我们怀着无比崇敬的心情来到庄严肃穆的烈士陵园，走进<span><span><span>烈士陵园</span></span>，就可以看到开阔的纪念广场。广场的中央是红色的花岗石<span><span>纪念碑</span></span>，<span><span>纪念碑</span></span>上刻着江泽民同志题的词&ldquo;丹心碧血为人民&rdquo;，它的后面即是巍峨壮观的龙华烈士纪念馆。龙华烈士纪念馆用它的现代科技技术、照片、文字讲解和幸存下来的珍贵文物这种独特的方式向我们&ldquo;讲述&rdquo;了上海地区自<span>1840<span>年</span></span>以来为中国的独立、自由、解放和革命事业而献身的235名革命先烈、革命先驱的英雄事迹。</span></div>
+<div><br />
+&nbsp;冥寂无人的烈士墓地也使人感慨：当年阴风惨恻的刑场气氛保存得如此完好，除了一块简单的石碑和一个以写实手法陈列出当年从地下挖出的冯铿就义时穿着的马甲和镣铐外，只有荒草萋萋，杂树低伏，半掩着一座朴素陈旧的砖塔，连两株高树上的米白色花朵都在增添着哀伤、苍凉的意味。在烈士墓前，庄严地献上花圈，带上我们无限的哀思，战争的年代造就了烈士们的坚强与无畏，和平美好的今天为我们提供了学习知识、增长才干，成为栋梁的机会。我们是幸运的，我们是幸福的！&ldquo;少年强则国强&rdquo;我们就是祖国的明天和希望，今天发奋学习，明天就会担负起祖国赋予的历史使命。</div>
+<div>作为复兴学子踏踏实实地为自己积极而幸福的人生做准备、勇敢地为将来服务和奉献社会蓄积力量，就是我们无悔的选择。让小事洗礼我们的灵魂，让英烈见证我们的成长。我们必定会以自己的实际行动来证明一切，继承先烈的遗志，完成他们的事业！</div>
+<div>青山埋忠骨，史册载功勋，革命烈士浩气长存，永垂不朽！</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3714&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3714"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

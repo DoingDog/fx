@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>学生荣誉</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+<script src="js/XtScript.js" type="text/javascript"></script>
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+    <script src="Template/FXGJ/js/tabjs.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_666_4337.shtml' title='标题:热烈祝贺我校学生在第七届全国机器人大赛中获得佳绩&#13;点击:120次&#13;日期:2016-9-6 15:10:12'  Target='_blank'  ><span style='color:;'>热烈祝贺我校学生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4330.shtml' title='标题:喜报&#13;点击:114次&#13;日期:2016-9-1 10:08:49'  Target='_blank'  ><span style='color:;'>喜报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4327.shtml' title='标题:我校学生荣获上海市中学生物理学术竞赛一等奖&#13;点击:118次&#13;日期:2016-9-1 9:59:05'  Target='_blank'  ><span style='color:;'>我校学生荣获上海市</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4325.shtml' title='标题:喜报——我校学生在第八届全国中学生数理化学科能力竞赛中获奖&#13;点击:97次&#13;日期:2016-8-31 13:45:26'  Target='_blank'  ><span style='color:;'>喜报——我校学生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4324.shtml' title='标题:喜报——我校师生在上海市第二届中学生物理学术竞赛中荣获一等奖&#13;点击:83次&#13;日期:2016-8-31 13:34:00'  Target='_blank'  ><span style='color:;'>喜报——我校师生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4323.shtml' title='标题:喜报——我校辩论社在第二届中国学术辩论协会全国总决赛中获奖&#13;点击:73次&#13;日期:2016-8-31 13:27:26'  Target='_blank'  ><span style='color:;'>喜报——我校辩论社</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4338.shtml' title='标题:热烈祝贺我校学生在劳技学科竞赛中获奖&#13;点击:206次&#13;日期:2016-7-1 15:15:21'  Target='_blank'  ><span style='color:;'>热烈祝贺我校学生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4304.shtml' title='标题:喜报——我校同学在2016年虹口区学生书画比赛中获奖&#13;点击:237次&#13;日期:2016-6-24 11:03:33'  Target='_blank'  ><span style='color:;'>喜报——我校同学在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4303.shtml' title='标题:喜报——我校同学在虹口区第八届学生规范汉字书写大赛中获奖&#13;点击:169次&#13;日期:2016-6-24 10:54:27'  Target='_blank'  ><span style='color:;'>喜报——我校同学在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4302.shtml' title='标题:喜报——我校同学在2016年上海市学生绘画书法展中获奖&#13;点击:148次&#13;日期:2016-6-24 10:30:39'  Target='_blank'  ><span style='color:;'>喜报——我校同学在</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_666_4337.shtml' title='标题:热烈祝贺我校学生在第七届全国机器人大赛中获得佳绩&#13;点击:120次&#13;日期:2016-9-6 15:10:12'  Target='_blank'  ><span style='color:;'>热烈祝贺我校学生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4330.shtml' title='标题:喜报&#13;点击:114次&#13;日期:2016-9-1 10:08:49'  Target='_blank'  ><span style='color:;'>喜报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4327.shtml' title='标题:我校学生荣获上海市中学生物理学术竞赛一等奖&#13;点击:118次&#13;日期:2016-9-1 9:59:05'  Target='_blank'  ><span style='color:;'>我校学生荣获上海市</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4325.shtml' title='标题:喜报——我校学生在第八届全国中学生数理化学科能力竞赛中获奖&#13;点击:97次&#13;日期:2016-8-31 13:45:26'  Target='_blank'  ><span style='color:;'>喜报——我校学生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4324.shtml' title='标题:喜报——我校师生在上海市第二届中学生物理学术竞赛中荣获一等奖&#13;点击:83次&#13;日期:2016-8-31 13:34:00'  Target='_blank'  ><span style='color:;'>喜报——我校师生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4323.shtml' title='标题:喜报——我校辩论社在第二届中国学术辩论协会全国总决赛中获奖&#13;点击:73次&#13;日期:2016-8-31 13:27:26'  Target='_blank'  ><span style='color:;'>喜报——我校辩论社</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4338.shtml' title='标题:热烈祝贺我校学生在劳技学科竞赛中获奖&#13;点击:206次&#13;日期:2016-7-1 15:15:21'  Target='_blank'  ><span style='color:;'>热烈祝贺我校学生在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4304.shtml' title='标题:喜报——我校同学在2016年虹口区学生书画比赛中获奖&#13;点击:237次&#13;日期:2016-6-24 11:03:33'  Target='_blank'  ><span style='color:;'>喜报——我校同学在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4303.shtml' title='标题:喜报——我校同学在虹口区第八届学生规范汉字书写大赛中获奖&#13;点击:169次&#13;日期:2016-6-24 10:54:27'  Target='_blank'  ><span style='color:;'>喜报——我校同学在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4302.shtml' title='标题:喜报——我校同学在2016年上海市学生绘画书法展中获奖&#13;点击:148次&#13;日期:2016-6-24 10:30:39'  Target='_blank'  ><span style='color:;'>喜报——我校同学在</span></a></div></td></tr></table>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt;  <a href="channel_1.shtml">复兴高级</a>>> <a href="list_1_102.shtml">复兴概况</a>>> <a href="list_1_114.shtml">学校荣誉</a>>> <a href="list_1_666.shtml">学生荣誉</a> <a href="rss.aspx?classid=666" target="_blank" class="rsscss"></a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div style="width: 770px; margin: 0">
+                <table style="width:100%;margin:0 5px 0 5px;"></table> <iframe  allowTransparency="true"  name='main' id='main'  onload="iframeFitHeight(this)"  src="Listsub.aspx?ClassID=666&IsShow=&WID=" style="width: 100%;" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

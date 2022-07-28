@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_671_3505.shtml' title='标题:上海教育电视台头条报道我校：互动激发学生的思维潜能&#13;点击:486次&#13;日期:2014-5-30 9:00:38'  ><span style='color:;'>上海教育电视台头条报道</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3427.shtml' title='标题:虹口区复兴高级中学以提升课堂教学质量，破解发展“瓶颈”&#13;点击:379次&#13;日期:2014-4-9 16:19:35'  ><span style='color:;'>虹口区复兴高级中学以提升课</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3041.shtml' title='标题:告别枯燥跑跳 自选体育课程  &#13;点击:344次&#13;日期:2013-12-19 14:51:23'  ><span style='color:;'>告别枯燥跑跳&nbsp;自选体育课程&nbsp;</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_2803.shtml' title='标题:数字影音实验室作品上电视啦！----复兴学子终结“电解水测水质”流言&#13;点击:396次&#13;日期:2013-3-16 20:33:42'  ><span style='color:;'>数字影音实验室作品上电</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_1871.shtml' title='标题:我校学生在美国比赛接受CCTV记者采访上电视啦&#13;点击:535次&#13;日期:2012-5-2 14:00:16'  ><span style='color:;'>我校学生在美国比赛接受</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_1864.shtml' title='标题:《解放日报》、东方网、新民网、上海教育官方微博等多家媒体报道我校：高中生自编“古汉语词典” &#13;点击:596次&#13;日期:2012-4-9 8:33:13'  ><span style='color:;'>《解放日报》、东方网、新民</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_671.shtml">媒体报道</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>告别枯燥跑跳 自选体育课程  </span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2013-12-19 14:51:23&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3041"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center">告别枯燥跑跳 自选体育课程&nbsp;</p>
+<p style="text-align: center">本市17所高中试点改革 注重培养学生终身运动习惯&nbsp; <br />
+马丹&nbsp;&nbsp;<br />
+&nbsp;<img alt="" src="/userfiles/upload/image/2013/12/19/20131219145955335124910.JPG" /></p>
+<p style="text-align: center"><span class="default" sizset="204" sizcache="32"><strong>2013年12月18日 </strong><strong>星期三</strong></span></p>
+<p style="text-align: left">&nbsp;<br />
+　　每周二上午三四节连上的体育课，是复兴高级中学高二（9）班刘尧天最喜欢的时段之一。从小喜爱舞蹈的她，要在这80分钟的时间里，和班里另外6位女生一起跟着体育老师施娟练习艺术体操。 <br />
+　　作为上海高中试点体育专项化教学改革的17所试点学校之一，目前复兴高级中学高一到高三的学生，每周都要上一堂80分钟的体育专项课，学篮球、足球、武术、乒乓还是排球，都由自己凭兴趣选择。</p>
+<p style="text-align: left">　　在上海，采用专项训练方式上体育课的学校将会越来越多。</p>
+<p style="text-align: left">　　自己寻找合适项目</p>
+<p style="text-align: left">　　复兴高级中学体育教研组组长施娟说：&ldquo;体育专项化教学后，学生不仅对体育课的兴趣更浓了，掌握一到两项体育技能，也能培养他们把体育当作一生的生活方式。&rdquo;她说，今年开始，体育专项化改革在高中三个年级全部展开，这在全上海也是仅此一所。高一年级实施的是体验式教学，学生每个项目都要先体验三周，然后再自我评定喜欢哪个项目。到了高二和高三，体育专项课就按学生的兴趣来分班授课。</p>
+<p style="text-align: left">　　因此，今年升入高二之后，刘尧天就领到了一张学校发的体育志愿填报书。&ldquo;在这张表上，你可以按照自己的兴趣喜好，填写体育课的第一志愿、第二志愿和第三志愿。&rdquo;</p>
+<p style="text-align: left">　　施娟说，早在上世纪80年代后期，学校就根据当时师资、场地，及学校传统特色项目等特点开设了二节连上的80分钟选项教学课，且是以小班化教学为主，每个班级的人数控制在20到28人之间。&nbsp;</p>
+<p style="text-align: left">　　腾出空地建运动场</p>
+<p style="text-align: left">　　从今年1月开始，本市在17个区县各选择1所高中，开展了以学生兴趣和技能水平为依据的体育专项化教学试点改革，覆盖了17所试点学校的190个行政班级、7507名学生。项目比较集中的专项依次为篮球、乒乓球、健美操、羽毛球、足球、排球、网球、武术，部分项目还实现了分层教学。&nbsp;</p>
+<p style="text-align: left">　　在这17所试点中学里，延安中学有点特别。由于该校的体育场馆正在重建，市教委原本并没有把它列入试点名单，但校长郭雄却在去年10月主动提出了申请。&ldquo;很多人都说，连基本体育课的场地都不够怎么开展专项化教学，都说我是在自找麻烦。&rdquo;郭校长坚持说，学生身体素质正在连年滑坡，专项化教学是一次提高学生兴趣、促进健康的好机会，&ldquo;我们学校有13位体育教师，这在全上海中小学生中也算多的，那么好的资源为何不利用？至于体育空间，想想办法总是会有的。&rdquo;&nbsp;</p>
+<p style="text-align: left">　　于是，郭校长一有空就在校园里转悠，寻找合适的场地。于是，锅炉房改造为健美操馆，教学楼一楼的空地甚至屋顶上都建起了乒乓球房。今年2月，该校的高一年级启动体育课改革，学生们可以根据各自兴趣，在篮球、排球、羽毛球、乒乓球和健美操等项目中五选一。&nbsp;</p>
+<p style="text-align: left">　　体育课又累又好玩</p>
+<p style="text-align: left">　　在试点学校里，大多都采用了&ldquo;80+40&rdquo;的形式为体育课重排课时。&ldquo;80&rdquo;就是将原先的两节体育课连上，老师教得系统，学生学得尽兴；&ldquo;40&rdquo;就是原本的普通体育课。</p>
+<p style="text-align: left">　　延安中学高二（11）班的吕懿惟是乒乓班的学生，今年1月份她开始接触乒乓球。她说，40分钟的传统体育课里，5分钟集合、10分钟热身，再加10分钟老师讲解和示范，供学生自由练习的时间很短。&ldquo;还没学会就下课了，等到下一堂课时，动作要领几乎全忘了，又得重头来过，久而久之就没了兴趣。但现在一堂乒乓课要上80分钟，虽然很累，但学得多，练习时间充分，反而越练越有兴趣了。&rdquo;吕懿惟说，学生间还形成了一个&ldquo;乒乓圈子&rdquo;，课余时间大家会结伴去乒乓房打球。</p>
+<p style="text-align: left">　　&ldquo;上海的体育课改革越来越与国际接轨了。&rdquo;这是记者在采访时听到的最多的一句话。在国外，学校体育课都是采取俱乐部形式，学生从小也有体育锻炼的习惯。现在，上海的改革其实已具备俱乐部的雏形。正如施娟老师所说，实施体育专项化教学，学生有了一技之长，就有了终身体育锻炼的项目，而不再像以前那样，高中结束后，学生到了大学就不会玩了。&nbsp;</p>
+<p style="text-align: left">　　本报记者 马丹　　</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3041&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3041"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

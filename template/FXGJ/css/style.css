@@ -1,0 +1,59 @@
+﻿body {
+	background: #186183 url(../images/bg.gif) left 0px repeat-x; 
+	margin: 0px;
+	padding: 0px;
+	font-family: "微软雅黑", "宋体";
+	font-size: 12px;
+}
+#menu2 {
+    width: 962px;height: 40px; 
+    margin:0px auto;
+}
+#menu2 ul {
+	padding: 0;
+	list-style: none;
+	font-size: 1.1em;
+	margin-right: 0;
+	margin-left: 0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#menu2 ul li {
+	margin: 0;
+	padding: 0;
+	float: left;
+	height: 40px;
+	width: 87px;
+	display: block;
+	text-align: center;
+	font-weight:bold;
+    position:relative;
+}
+#menu2 ul li a, #menu2 ul li span {
+	float: left;
+	text-decoration: none;
+	color: #fff;
+	clear: both;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+}
+#menu2 ul li a:hover{color:#fff !important;}
+#menu2 ul .menuznss{ width:82px;}
+#menu2 ul .menuznss a{float:left; width:82px; height:25px; margin-top:8px; text-align:center; background:url(../images/search.gif); line-height:25px;  color:#fff;}
+
+#menu2 ul li div{display:none; background:#274374; position:absolute; border-left:1px solid #142B5A;border-right:1px solid #142B5A;border-bottom:1px solid #142B5A; top:38px; left:5px;}
+#menu2 ul li div a{ line-height:32px; width:80px; float:none; display:inline-block; height:32px; font-size:12px;  overflow:hidden;}
+#menu2 ul li div a:hover{color:#fff !important; text-decoration:underline;}
+.more{text-align:right;}
+/*
+#menu2 ul li a{
+color: #000000;
+background: transparent url(../images/a_bg.gif) repeat-x left bottom;
+background-position: left bottom;
+}
+#menu2 ul li span {
+background: transparent url(../images/a_bg.gif) repeat-x left top;
+background-position: left top;
+}
+*/

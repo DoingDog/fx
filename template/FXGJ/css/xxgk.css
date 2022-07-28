@@ -1,0 +1,32 @@
+﻿body { text-align:center; background: #186183 url(../images/bg.gif) left 0px repeat-x; margin: 0px; font-size: 12px; color: #323433; }
+
+.clearfix:after{display:block; height:0px; visibility:hidden; clear:both; overflow:hidden; content:".";}
+
+.top { display:none; width: 962px; height: 31px; margin: 0px auto; }
+.logo { display:none; width: 962px; margin: 0px auto; height: 136px; background: url(../images/logo.jpg) no-repeat center center; }
+.navitem { width:1000px;overflow:hidden;margin: 0px auto;}
+#menu2{ height:40px; width:1000px; border:1px solid #1F4F7E; background:#406EAB;}
+.header{width: 1000px;margin: 0px auto;height:157px; background:url(../images/xxgk/index_01.png);}
+.listbg{width: 1000px;margin: 0px auto;text-align:left; background:#fff url(../images/xxgk/nav_bg_wmzx.gif) repeat-y;}
+.bodyer{width: 1000px; background:url(../images/xxgk/nav_top.jpg) no-repeat;}
+.bleft{float:left; width:300px; min-height:500px; background:url(../images/xxgk/nav_01.jpg) left 107px no-repeat;}
+.lmdhpos{ margin-left:15px;min-height:500px; width:245px; background:#fff;}
+.bright{float:left; width:700px;}
+
+.webpath{height:50px; line-height:50px; color:#183F6A; margin-left:40px;}
+.webpath a{ text-decoration:none; color:#183F6A;}
+.rcontent{ margin:0px 10px;}
+
+#mainbottom { width: 1000px; height: auto; margin: 0px auto; background: white; }
+.bottomcontent { width: 100%; height: 90px; color: #fff; border-top:2px solid #0A2B4E; text-align: center; padding-top: 12px; line-height: 30px; background: #27629D; }
+.bottomcontent a{color: #fff; text-decoration:none;}
+.bottomcontent a:hover{ text-decoration:underline;}
+
+.c_tit{ background: url(../images/s_tt_03_mid.gif) repeat-x; height: 38px; color: #396071; font-size: 14px; line-height: 38px; text-align: center; font-weight: 800;}
+.c_info{text-align: center; line-height: 20px; letter-spacing: 1px; font-family: Tahoma; font-size: 10pt; border-top-color: #829462; border-bottom-color: #829462; border-top-width: 1px; border-bottom-width: 1px; border-top-style: dashed; border-bottom-style: dashed;}
+.c_content{ margin-top:10px; line-height:25px;}
+.c_ps{ line-height:25px;}
+.c_ps a{ color:#085879; text-decoration:none;}
+.c_ps a:hover{color:#085879; text-decoration:underline;}
+
+.rsscss{width:34px; height:14px; margin-left:5px; margin-bottom:2px; display:inline-block; background:url(../images/rss.gif) no-repeat;}

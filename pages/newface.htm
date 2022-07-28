@@ -1,0 +1,271 @@
+<html><!-- #BeginTemplate "/Templates/main.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>::上海复兴高级中学网站::</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="main.css" type="text/css">
+<script language="JavaScript">
+var L_strMailboxPlease_Message = "请键入您的邮箱名称。";
+var L_strValidMailbox_Message = "邮箱名称包含无效字符。";
+var L_SessionTimedOut_Message = "您的会话已超时。如果要继续，您必须重新登录。";
+
+function sendForm(bAnon) {
+    if (!bAnon)
+    {
+    if (document.logonForm.mailbox.value=="") 
+    {
+        alert(L_strMailboxPlease_Message ) 
+    }
+    else if (((document.logonForm.mailbox.value.indexOf("\\") != -1) ||
+         (document.logonForm.mailbox.value.indexOf("/") != -1)) ||
+         (document.logonForm.mailbox.value.indexOf(";") != -1)) 
+    {
+        alert(L_strValidMailbox_Message)
+    }   
+    else
+    {
+        document.logonForm.submit();
+    }    
+    }
+    else
+    {
+    document.logonForm.mailbox.value="";
+    document.logonForm.submit();
+    }
+}
+</script>
+<script language="JavaScript"><!--
+	var text="请记住本站网址：https://www.fuxing.sh.cn"
+	var speed=60
+	var x=0
+	function bb()
+	{
+		var a=text.substring(0,x)
+		var b=text.substring(x,x+1).toUpperCase()
+		var c=text.substring(x+1,text.length)
+		window.status=a+b+c
+		if(x==text.length)
+		{
+			x=0
+
+		}
+		else
+		{
+			x++
+		}
+		setTimeout("bb()",speed)
+
+	}
+	bb();
+	//-->
+	</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="2" topmargin="2" marginwidth="0" marginheight="0">
+<table width="770" border="0" cellpadding="0" cellspacing="1" align="left">
+  <tr> 
+    <td width="120" bgcolor="#006699" height="91"> 
+      <table width="120" cellspacing="0" cellpadding="1" align="left" bordercolor="#006699" class="login" bgcolor="#FFFFFF" height="80">
+        <tr> 
+          <td bordercolor="#006699" height="20" bgcolor="#006699"> 
+            <div align="center"><font color="#ffffff">email登录</font></div>
+          </td>
+        </tr>
+        <tr> 
+          <form name=logonForm onSubmit=sendForm(false);return(false); 
+          action=https://mail1.fuxing.sh.cn/exchange/LogonFrm.asp method=get>
+            <td colspan=2 height=60 nowrap> 
+              <p align="center"><font color="#000000">账号:         
+                <input maxlength=15 size=10 name=mailbox class="form0">
+                <br>
+                <input type=hidden value=0 name=isnewwindow2>
+                <input type=image border=0 src="login.gif" alt="登录" width="42" height="30">        
+                </font></p>
+            </td>
+          </form>
+        </tr>
+      </table>
+      <br>
+    </td>
+    <td colspan="10" height="91" align="center" valign="middle"> 
+      <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="445" height="75">
+          <param name=movie value="/images/title.swf">
+          <param name=quality value=high>
+          <embed src="../images/title.swf" quality=high pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="445" height="75">
+          </embed> 
+        </object></div>
+    </td>
+  </tr>
+  <tr valign="middle"> 
+    <td bgcolor="#006699" height="18">
+<div id="Clock" align="center" style="font-size: 20; color:#000000"></div></td>
+    <td width="35" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div  align="center"> <a href="../index.htm" >主页</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="intro.htm">复兴概况</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="newface.htm">复兴新貌</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="../jiaoyutese/index.html">教育特色</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="life.htm">校园生活</a></div>
+    </td>
+    <td width="45" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="../alumni/index.htm" target="_blank">校友会</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="https://172.16.0.12">教育资源</a></div>
+    </td>
+    <td width="150" bgcolor="#000000" class="bar" height="18"> 
+      <div align="center"><font face="Arial">:::::::::::::::::::::::::::::::::::::::::::::::::</font></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      　
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      　
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#006699" bordercolor="#FFFFFF" width="120"> 
+      <table width="129" border="0.5" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" height="120">
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g200002/index.htm">科技与环保</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199810/index.htm">人类只有一个地球</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g200004/index.htm">科学在线</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g200006/index.htm">家园中华网</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199902/index.htm">求真基因网</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199803/index.htm">航天技术</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="16" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123"><font face="华文中宋" size="2">::<a href="../stuweb/g199904/index.htm">科技园地</a></font></td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199806/index.htm">二十一世纪畅想</a></font></td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><a href="../g1/index.htm"><font size="2">高一网页作品集</font></a></p>
+          </td>
+        </tr>
+      </table>
+      <p align="center">本站正在建设中……</p>
+    </td>
+    <td rowspan="4" colspan="10" valign="top" height="400" align="center" > 
+      <table width="650" border="0" cellspacing="1" cellpadding="0" height="400">
+        <tr> 
+          <td height="401" valign="top" class="left"><!-- #BeginEditable "content" -->
+            <table width="645" border="0" align="center" >
+              <tr> 
+                <td class="left" width="525" height="169"><br>
+                  　　上海复兴高级中学是一所全新的寄宿制高级中学，由原市属重点中学——复兴中学的高中部于1998年9月移址建成的。 
+                  <p>　　学校地处虹口区北端，占地80余亩。校园布局精巧雅致，教育设施完善，有设计和音响效果一流的复兴会堂，有复兴特色的学生自主实验室和植物组织培养室，还有天文台、天象馆、室内排球馆、室内温水游泳池、400米标准塑胶跑道、标准足球场和网球场……</p>
+                  <p>　　学校校训为“求真”。学校贯彻对“全体学生终身发展负责，培养学生的自我生存能力和自我发展能力，促进学生个性的全面和谐发展”的办学宗旨。设置全新的课程：类型多元化、要求多层次、结构多模块、组织多样化。 
+                  </p>
+                  <p>　　学校是“全国体育传统项目先进集体”，“全国体育后备人才试点学校”，“上海市德育先进集体”、“上海市中小学日常行为规范示范校”、“上海市科技教育特色学校”、“上海市文明单位”</p>
+                  <p>　　学校积极开展国际交流，先后与日本、韩国、德国等国的中学结成友好学校。 </p>
+                  <p></p>
+                </td>
+                <td class="left" height="169" width="180"><br>
+                  <img src="pic1.jpg" width="180" height="133"><br>
+                  <br>
+                  <img src="pic2.jpg" width="180" height="132"><br>
+                  <br>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2"> 
+                  <div align="center"><applet code=ptviewer.class width=670 height=200 archive="ptviewer.jar" name=ptviewer>
+          <param name="file" value="fuxing.jpa">
+          <param name="cache" value="true">
+          <param name="bar_x" value="185">
+          <param name="bar_y" value="160">
+          <param name="bar_width" value="300">
+          <param name="bar_height" value="10">
+          <param name="barcolor" value="3399FF">
+          <param name="bgcolor" value="FFFFFF">
+          <param name="wait" value="wait.jpg">
+          <param name="frame" value="bar.gif">
+          <param name="shotspot0" value=" x570 y180 a580 b200 u'ptviewer:startAutoPan(-0.5,0,1)'">
+          <param name="shotspot1" value=" x588 y176 a602 b186 u'ptviewer:startAutoPan(0,1,1)'">
+          <param name="shotspot2" value=" x588 y188 a602 b200 u'ptviewer:startAutoPan(0,-1,1)'">
+          <param name="shotspot3" value=" x610 y180 a620 b200 u'ptviewer:startAutoPan(0.5,0,1)'">
+          <param name="shotspot4" value=" x625 y180 a642 b200 u'ptviewer:startAutoPan(0,0,0.99)'">
+          <param name="shotspot5" value=" x648 y180 a665 b200 u'ptviewer:startAutoPan(0,0,1.01)'">
+          <param name="pan" value="160">
+          <param name="tilt" value="2">
+          <param name="fov" value="91">
+          <param name="fovmax" value="100">
+          <param name="fovmin" value="70">
+          <param name="auto" value="0.5">
+          <param name="psize" value="80000">
+          <param name="tiltmin" value="-90">
+          <param name="code" value="ptviewer.class">
+          <param name="width" value="670">
+          <param name="height" value="200">
+          <param name="archive" value="ptviewer.jar">
+        </applet></div>
+                               </td>
+              </tr>
+            </table>
+            <!-- #EndEditable --></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" width="120" height="15" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::<a href="../mailbox/Default.htm" target="_blank">校长信箱</a></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" width="120" height="15" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::留言簿</td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" width="120" height="15" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::<a href="mailto:webmaster@fuxing.sh.cn">联系我们</a></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000"  height="15" valign="middle" align="center"> 
+      <div align="center">
+        <script language="JavaScript">
+now = new Date()
+document.write(now.toLocaleString())//-->
+</script>
+      </div>
+    </td>
+    <td colspan="9" height="15"> 
+      <div align="right"><!-- #BeginEditable "comment" -->{comment}<!-- #EndEditable --></div>
+    </td>
+  </tr>
+  <tr bgcolor="#006699"> 
+    <td colspan="11" height="35" align="center" valign="middle">地址:中国上海市车站南路28号       
+      邮编:200434 电话:86-021-65606715</td>      
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>

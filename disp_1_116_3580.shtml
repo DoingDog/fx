@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/list_fxdy.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <div id="maintop">
+        <script type="text/javascript">            var f = new Flash("template/fxgj/images/list_fxdy/pgfx.swf", "flash", "962", "205", true);
+            f.add("maintop");
+</script>
+    </div>
+    <div id="pubmenu"><script src="/template/FXGJ/menu.js" type="text/javascript"></script></div>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2"></div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div711" class='listitem3'><a href='list_1_711.shtml'>德育概况</a></div></td></tr><tr><td><div id="div706" class='listitem3'><a href='list_1_706.shtml'>管理保障</a></div></td></tr><tr><td><div id="div707" class='listitem3'><a href='list_1_707.shtml'>品格养成</a></div></td></tr><tr><td><div id="div708" class='listitem3'><a href='list_1_708.shtml'>教师垂范</a></div></td></tr><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr><tr><td><div id="div709" class='listitem3'><a href='list_1_709.shtml'>德育科研</a></div></td></tr></table>
+            </div>
+            <div class="listbtm"></div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_116.shtml">学生天地</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>萌动六十分</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2014-9-19 11:42:21&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3580"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>萌动六十分</b></div>
+<div>《萌动<span>60分》是一档面向中学生的青春广播节目，由SMG旗下频率&ldquo;上海故事广播&rdquo;携手上海作家协会旗下《萌芽》杂志推出。每周六日晚八点在FM107.2播出，每期时长60分钟（周六为直播）。《萌动60分》是上海唯一一档为中学生打造的广播节目，是同学充分展示自我、彰显各校校园文化的舞台。在全国同类节目中，萌动六十分独树一帜，堪称翘楚。</span></div>
+<div>2009年开播至今，《萌动<span>60分》获得了全市近30所中学支持，成为后援团学校。仅2012年，就邀请了超过400位同学走进直播间。4年来，一批又一批充满青春活力、认真负责的同学担任了萌动六十分的召集人，负责节目在校园中的推广。而复兴也是早在萌动六十分开播第一年便成为其后援团学校，并且连续三年由我们学校的召集人出任电台的学生编辑。</span></div>
+<div>迄今为止，我们学校作为主力后援团高频率地参与着节目的录制和直播，仅上学年不到一年的时间就有超过二十位同学进入直播间。新学期刚开始的现在，我们学校更有超过五十位同学参与到节目组每年的新生大访问活动中。而在未来，我们将更加努力，为校争光。</div>
+<div>从新生大访问活动，到召集人、学生编辑、文艺新选组固定嘉宾的推送，再到邀请同学去到直播间向全市的中学生&ldquo;见面&rdquo;。和我们一起努力的，还有诸如复旦附中，交大附中等市重点学校。我们仍在努力，并且终将在这个平台上，创造出更为辉煌的成绩。</div>
+<div><b>&nbsp;</b></div>
+<div><b>&nbsp;</b></div>
+<div><b>&nbsp;</b></div>
+<div><b>&nbsp;</b></div>
+<div><b>我们的信息：</b></div>
+<div><b>节目现有板</b><b>块</b></div>
+<div><b>&ldquo;小点声&rdquo;</b><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>青春话题脱口秀，周六播出</b></div>
+<div>讲述自己和身边人的青春经历，亮出自己的观点。</div>
+<div><b>&ldquo;周末主题夜&rdquo;</b><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>综合性知识问答秀，周六播出</b></div>
+<div>让知识大爆炸的特别节目，要答要唱要抢，要机智，还要果断。以学校为单位组队<span>PK，欢迎不断刷新我们的积分榜。</span></div>
+<div><b>&ldquo;听见青春&rdquo;</b><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>青春文学作品播读，周日播出</b></div>
+<div>精选《萌芽》文学作品播读。多样的播读形式，让耳朵听到青春。</div>
+<div><b>&ldquo;<span>IN新闻&rdquo;</span></b><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>校园新闻联播，周六日播出</b></div>
+<div>关注高中校园热点，不一样的视角、最<span>IN的</span>语言诠释新闻。邀请新闻当事人走进直播间，分享新闻故事。除了各校召集人提供，与各校广电部、信息部、团学联宣传部等机构展开合作。</div>
+<div><b>&ldquo;文艺新选组&rdquo;</b><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>艺类话题脱口秀，周日播出</b></div>
+<div>与上海各校文学文艺类社团合作，分享文艺话题、信息，提供指南，树新时代文艺青年形象。</div>
+<div>&nbsp;</div>
+<div><b>收听方式</b></div>
+<div>1.每周六日晚八点，调整你的收音机、手机至调频（<span>FM）107.2频率</span></div>
+<div>2.上网，登陆radio.bbtv.cn，点击页面左侧频率列表，选择&ldquo;<span>107.2&rdquo;</span></div>
+<div>（除了实时收听，该平台<span>7天内提供节目在线重听！）</span></div>
+<div>3.上网，<span>www.fm1072.cn，提供在线收听</span></div>
+<div>4.打开电视（已完成高清或数字电视改造地区）可在数字收音机中选择&ldquo;开心调频&rdquo;收听</div>
+<div>5.智能手机可下载&ldquo;蜻蜓&rdquo;等<span>APP收听</span></div>
+<div>&nbsp;</div>
+<div><b>互动方式</b></div>
+<div>1、人人网公共主页：<b><span>page.renren.com/m60 </span></b>带&ldquo;直播&rdquo;符号的状态下评论</div>
+<div>2、新浪微博：<b><span>https://weibo.com/md60 </span></b>评论或@萌动六十分</div>
+<div>3、短信平台：发送&ldquo;<span>111+互动内容&rdquo;到&ldquo;10621062&rdquo;（播出期间有效）</span></div>
+<div>发布节目最新资讯和预告，欢迎关注、评论、转发和分享。凡评论凡吐槽凡表白，我们都会在节目中读出。</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3580&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3580"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <div style="height:10px; clear:both; overflow:hidden;"></div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

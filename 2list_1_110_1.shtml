@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>办学特色</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+<script src="js/XtScript.js" type="text/javascript"></script>
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+    <script src="Template/FXGJ/js/tabjs.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div109" class='listitem3'><a href='list_1_109.shtml'>校史沿革</a></div></td></tr><tr><td><div id="div110" class='listitem3'><a href='list_1_110.shtml'>办学特色</a></div></td></tr><tr><td><div id="div111" class='listitem3'><a href='list_1_111.shtml'>机构设置</a></div></td></tr><tr><td><div id="div112" class='listitem3'><a href='list_1_112.shtml'>学校领导</a></div></td></tr><tr><td><div id="div113" class='listitem3'><a href='list_1_113.shtml'>漫步校园</a></div></td></tr><tr><td><div id="div114" class='listitem3'><a href='list_1_114.shtml'>学校荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_110_953.shtml' title='标题:在促进学生自主发展中提升科技创新能力&#13;点击:2522次&#13;日期:2011-4-14 9:03:49'  Target='_blank'  ><span style='color:;'>在促进学生自主发展</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_110_953.shtml' title='标题:在促进学生自主发展中提升科技创新能力&#13;点击:2522次&#13;日期:2011-4-14 9:03:49'  Target='_blank'  ><span style='color:;'>在促进学生自主发展</span></a></div></td></tr></table>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt;  <a href="channel_1.shtml">复兴高级</a>>> <a href="list_1_102.shtml">复兴概况</a>>> <a href="list_1_110.shtml">办学特色</a> <a href="rss.aspx?classid=110" target="_blank" class="rsscss"></a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div style="width: 770px; margin: 0">
+                <table style="width:100%;margin:0 5px 0 5px;"></table> <iframe  allowTransparency="true"  name='main' id='main'  onload="iframeFitHeight(this)"  src="Listsub.aspx?ClassID=110&IsShow=1&WID=" style="width: 100%;" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

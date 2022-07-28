@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div107" class='listitem3'><a href='list_1_107.shtml'>对外交流</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_1896.shtml' title='标题:研究课堂教学，优化教学行为——复兴高级中学第一届青年教师教学比武活动结束&#13;点击:308次&#13;日期:2012-5-15 12:24:41'  ><span style='color:;'>研究课堂教学，优化教学行为</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1878.shtml' title='标题:我校三位名师展示名师基地、名师工作室&#13;点击:467次&#13;日期:2012-5-4 16:37:38'  ><span style='color:;'>我校三位名师展示名师基地、</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1872.shtml' title='标题:我校学生在美国比赛接受CCTV记者采访上电视啦&#13;点击:522次&#13;日期:2012-5-2 14:00:16'  ><span style='color:;'>我校学生在美国比赛接受</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1898.shtml' title='标题:小镜头，大视角——记虹口区学联微电影展示暨颁奖典礼&#13;点击:124次&#13;日期:2012-5-15 14:32:30'  ><span style='color:;'>小镜头，大视角——记虹口区</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1894.shtml' title='标题:共寻歌声的魅力——记青歌赛合唱比赛&#13;点击:174次&#13;日期:2012-5-15 8:00:26'  ><span style='color:;'>共寻歌声的魅力——记青歌赛</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1892.shtml' title='标题:高三家长志愿填报指导于5月9日开展&#13;点击:66次&#13;日期:2012-5-14 12:35:04'  ><span style='color:;'>高三家长志愿填报指导于5月9</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1888.shtml' title='标题:吾话吾师&#13;点击:186次&#13;日期:2012-5-9 12:44:10'  ><span style='color:;'>吾话吾师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1886.shtml' title='标题:中医药的魅力----记2014届创新班上海中医药博物馆之行&#13;点击:117次&#13;日期:2012-5-9 9:41:51'  ><span style='color:;'>中医药的魅力----记2014届创</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1884.shtml' title='标题:了解地震，从现在开始------记2014届创新班至佘山实践活动&#13;点击:68次&#13;日期:2012-5-9 9:39:34'  ><span style='color:;'>了解地震，从现在开始------</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1868.shtml' title='标题:虹口区学联社团联盟第一次社长峰会&#13;点击:129次&#13;日期:2012-4-27 9:07:35'  ><span style='color:;'>虹口区学联社团联盟第一次社</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_1795.shtml' title='我校24名学生被复旦大学预录取'  target='_blank'  >我校24名学生被复旦大学预录</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_1851.shtml' title='《解放日报》、东方网、新民网、上海教育官方微博等多家媒体报道我校：高中生自编“古汉语词典” '  target='_blank'  >《解放日报》、东方网、新民</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_1141.shtml' title='人生的“千分考”你能得几分？——复旦大学新闻办主任方明校友做客复兴论坛'  target='_blank'  >人生的“千分考”你能得几分</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_1818.shtml' title='记3.17复兴校园文化展示活动'  target='_blank'  >记3.17复兴校园文化展示活动</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_1872.shtml' title='我校学生在美国比赛接受cctv记者采访上电视啦'  target='_blank'  >我校学生在美国比赛接受cctv</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_1787.shtml' title='漫步文化街头 感受红色历史'  target='_blank'  >漫步文化街头&nbsp;感受红色历史</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_1878.shtml' title='我校三位名师展示名师基地、名师工作室'  target='_blank'  >我校三位名师展示名师基地、</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_1838.shtml' title='区委书记孙建平调研虹口教育'  target='_blank'  >区委书记孙建平调研虹口教育</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_1189.shtml' title='复兴的“达人秀”——校园吉尼斯'  target='_blank'  >复兴的“达人秀”——校园吉</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_1849.shtml' title='合作的真谛----记第三次团学联干事能力拓展课'  target='_blank'  >合作的真谛----记第三次团学</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>研究课堂教学，优化教学行为——复兴高级中学第一届青年教师教学比武活动结束</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:教导处&nbsp;&nbsp; 编辑日期:2012-5-15 12:24:41&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1896"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center">研究课堂教学，优化教学行为</div>
+<div align="right">&mdash;&mdash;复兴高级中学第一届青年教师教学比武活动结束</div>
+<div>2012年5月11日，复兴高级中学第一届青年教师教学技能比武大赛闭幕仪式在七楼会议室举行。全体青年教师参加了这次闭幕式。闭幕式上，不同科目的专家对比赛情况进行了点评和反馈，并表彰了在比赛中脱颖而出的优秀青年教师。会上，专家代表赵德明、叶声扬两位老师表达了他们参与此次评审工作的感想，陈奕望校长在发言中提出了对青年教师的殷切期望。</div>
+<div>这次教学比武参赛对象为40岁以下（含40岁）的青年教师，共有53位教师参加比赛，采用专家听课方式，以书面教案、板书（含PPT）、课堂实录（教学实践）和单元测验卷（含设计思想）等4个项目作为比赛内容。课堂教学评比设一二三等奖（共20人次获奖），其他三项根据评为意见设立一等奖（共16人次获奖）。</div>
+<div>课堂教学是学校教育最主要的手段。不仅知识的传授发生在课堂上，人格的锻炼、习惯的培养、行为的塑造、素养的熏陶、价值观的树立，育人所涉及的方方面面无一不需要在课堂中体现。课堂直接面对全体学生，占有学校教育时间和资源的绝大多数，其重要性不言而喻。可以说，没有高质量的课堂教学，就没有高质量的学校教育。</div>
+<div>青年教师教学比武大赛的比赛内容围绕着课堂教学开展，以提升青年教师课堂教学技能为目标，发掘了许多教学技能出众、深受专家好评的优秀青年教师，并总结了课堂教学行为的优点与不足。今后，这项赛事将成为复兴高级中学的常规活动，成为提升我校教学质量的长效助推器。</div>
+<div style="text-align: center">&nbsp;<img alt="" src="/userfiles/upload/image/2012/05/15/20120515123926746470370.jpg" /></div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1896&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1896"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

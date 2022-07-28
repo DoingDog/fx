@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div661" class='listitem3'><a href='list_1_661.shtml'>科研信息</a></div></td></tr><tr><td><div id="div662" class='listitem3'><a href='list_1_662.shtml'>科研计划</a></div></td></tr><tr><td><div id="div125" class='listitem3'><a href='list_1_125.shtml'>科研成果</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_661_3913.shtml' title='标题:区教育局、科研室对我校进行课题指导&#13;点击:353次&#13;日期:2015-12-3 10:22:10'  ><span style='color:;'>区教育局、科研室对我校进行</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_3423.shtml' title='标题:2013学年第二学期青年教师第一次会议召开&#13;点击:807次&#13;日期:2014-4-4 12:23:21'  ><span style='color:;'>2013学年第二学期青年教师第</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_3090.shtml' title='标题:2013年虹口区部分区校合作项目结题汇报会在我校顺利举行&#13;点击:665次&#13;日期:2014-1-14 10:47:08'  ><span style='color:;'>2013年虹口区部分区校合作项</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_3087.shtml' title='标题:虹口区2013年度教育科学研究项目评审我校立项课题&#13;点击:520次&#13;日期:2014-1-14 10:44:11'  ><span style='color:;'>虹口区2013年度教育科学研究</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_3086.shtml' title='标题:2014年上海市见习教师规范化培训中期检查顺利在我校举行&#13;点击:515次&#13;日期:2014-1-14 10:43:16'  ><span style='color:;'>2014年上海市见习教师规范化</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_3076.shtml' title='标题:2013学年第一学期青年教师第二次会议召开&#13;点击:162次&#13;日期:2014-1-13 16:27:40'  ><span style='color:;'>2013学年第一学期青年教师第</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_1169.shtml' title='标题:2011年区校合作立项项目&#13;点击:500次&#13;日期:2012-2-22 10:31:46'  ><span style='color:;'>2011年区校合作立项项目</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_1168.shtml' title='标题:2011年度区立项课题&#13;点击:355次&#13;日期:2012-2-22 10:27:43'  ><span style='color:;'>2011年度区立项课题</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_661_1167.shtml' title='标题:2010年区校合作立项项目&#13;点击:225次&#13;日期:2012-2-22 10:22:36'  ><span style='color:;'>2010年区校合作立项项目</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_105.shtml">科研动态</a> >> <a href="list_1_661.shtml">科研信息</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2013年虹口区部分区校合作项目结题汇报会在我校顺利举行</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2014-1-14 10:47:08&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3090"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>2013</b><b>年虹口区部分区校合作项目结题汇报会在我校顺利举行</b></div>
+<div>&nbsp;</div>
+<div>2014年1月3日虹口区部分区校合作项目结题汇报会在我校举行，复兴高中陈奕望校长、陆磐良书记就他们分别领衔的《复兴高中理科基础型课程学习训练系统的研究和开发（第二轮）》、《复兴高中综合文科复兴传统教育的设计与实施》、《内地西藏高中班初高中数学衔接教学学案设计与实践》向区项目组专家进行了汇报，获得专家的高度评价，并顺利通过验收。</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3090&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3090"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

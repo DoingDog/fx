@@ -1,0 +1,219 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>上海市复兴高级中学网站 Portal Website of Shanghai Fuxing Senior High School</title>
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<link href="../style/style.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../script/script.js"></script>
+</head>
+<body>
+<div id="center">
+<div id="header">
+  <ul>
+    <a href="index.jsp">首　页</a> | <a href="website_map.jsp">站点地图</a> | <a href="contact_us.jsp">联系我们</a> | <a href="english.jsp">English Version</a>
+  </ul>
+</div>
+<!-- end of #header -->
+<div id="logo">
+  <div id="logo_chn"> <img src="../resource/logo.jpg" /> </div>
+  <div id="logo_eng"> <img src="../resource/logo_english.jpg" /> </div>
+</div>
+<!-- end of #logo -->
+<div id="top_nav">
+  <div id="date_time">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../resource/swflash.cab#version=6,0,29,0" width="180" height="29">
+      <param name="movie" value="../resource/date.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../resource/date.swf" width="180" height="29" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </div>
+  <ul id="nav">
+    <li class="first"><a href="walking_up_to_fuxing.jsp">复兴概况</a>
+      <ul>
+        <li class="second"><a href="walking_up_to_fuxing.jsp">复兴概况</a></li>
+		<li class="second"><a href="fuxing-lishi.jsp">悠久历史</a></li>
+		<li class="second"><a href="fuxing_chengjiu.jsp">辉煌成就</a></li>
+		<li class="second"><a href="fuxing_song.jsp">复兴校歌</a></li>
+		<li class="second"><a href="fuxing-lrxz.jsp">历任校长</a></li>
+       <li class="second"><a href="headmaster_words.jsp">校长寄语</a></li>
+<li class="second"><a href="xinxiang.jsp">校长信箱</a></li>
+        <li class="second"><a href="fuxing_shebei.jsp">复兴设施</a></li>
+	
+       
+        <li class="second"><a href="panorama/index.htm" target="_blank">校园全景</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="education_features.jsp">教育特色</a>
+      <ul>
+        <li class="second"><a href="keji.jsp">科技特色</a></li>
+        <li class="second"><a href="yishutese.jsp">艺术特色</a></li> 
+		<li class="second"><a href="tiyutese.jsp">体育特色</a></li>   
+		<li class="second"><a href="xinli.jsp">心理健康</a></li>
+        <li class="second"><a href="xiaobenkecheng.jsp">校本课程</a></li>
+        <li class="second"><a href="shetuan.jsp">学生社团</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="campus_activities.jsp">校园生活</a>
+      <ul>
+	    <li class="second"><a href="http://www.fuxing.sh.cn/schinfo2009">互动数字校园</a></li>
+ <li class="second"><a href="tyjlb.jsp">体育俱乐部</a></li>
+        <li class="second"><a href="fxstudent.jsp">复兴学子</a></li>
+        <li class="second"><a href="shehuishijian.jsp">社会实践</a></li>
+        <li class="second"><a href="zhusushenghuo.jsp">住宿生活</a></li>
+        <li class="second"><a href="kejijie.jsp">科技节</a></li>
+        <li class="second"><a href="yishujie.jsp">艺术节</a></li>
+        <li class="second"><a href="xiaoyunhui.jsp">校运会</a></li>
+      </ul>
+    </li>
+<li class="first"><a href="http://www.fuxing.sh.cn/xxgk">信息公开</a>
+  
+    </li>    
+
+    <li class="first"><a href="retrospecting_fuxing.jsp">回眸复兴</a>
+      <ul>
+        <li class="second" ><a href="retrospecting_fuxing-1.jsp">校友风采</a></li>
+		<li class="second" ><a href="retrospecting_xiaoyoubao.jsp">校友通讯</a></li>
+		<li class="second" ><a href="retrospecting_fuxing-3.jsp">60校庆一瞥</a></li>
+		<li class="second" ><a href="liuyan_fuxing.jsp">校友留言</a></li>
+        <li class="second" ><a href="../alumni/index.jsp" target="_blank">在线校友会</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="#" target="_blank">复兴党建</a></li>
+      <li class="first"><a href="xiaoqing.jsp">校庆专栏</a>
+	  <ul>
+        <li class="second" ><a href="xiaoqing1.jsp">校庆64周年公告</a></li>
+<li class="second" ><a href="xiaoqing2.jsp">邀请函</a></li>
+		   <li class="second" ><a href="xiaoqing.jsp">校友论坛</a></li>
+		   <li class="second" ><a href="retrospecting_fuxing-3.jsp">60校庆一瞥</a></li>
+         <li class="second" ><a href="../alumni/index.jsp" target="_blank">在线校友会</a></li>
+      </ul>
+	  </li>
+      <li class="first"><a href="recruiting_students.jsp">招生考试</a>
+      <ul>
+      
+ 
+<li class="second"><a href="2010recruiting_students_2.jsp">提前录取</a></li>
+
+<li class="second"><a href="recruiting_students_2010ms.jsp">2010年"提前录取"面试通知</a>		</li>
+
+        <li class="second"><a href="2010recruiting_students_21.jsp">招生宣传咨询</a>		</li>
+        <li class="second"><a href="2010recruiting_students_4.jsp">艺术特长生招生</a></li>
+	</li>
+        
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- end of #top_nav -->
+
+  <div id="main">
+    
+
+
+
+
+
+
+<div id="main_left">
+  <div align="center">
+  	<!--a href="login.jsp">网站用户登录</a-->
+  	
+  </div>
+  <br />
+	<div id="saying">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../resource/swflash.cab#version=6,0,29,0" width="125" height="200">
+      <param name="movie" value="../resource/saying.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../resource/saying.swf" width="125" height="200" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </div>
+  <!-- end of #saying -->
+  <div id="counter">
+  	总访问人数：<span>1243501</span>
+  </div>
+  <!-- end of #counter -->
+  <div id="links">
+    <div>:: 友情链接 ::</div>
+    <ul>
+	  <li><a href="http://www.shmec.gov.cn" target="_blank">上海市教育委员会</a></li>
+	  <li><a href="http://www.hkedu.sh.cn" target="_blank">虹口区教育信息专网</a></li>
+      <li><a href="http://www.pku.edu.cn" target="_blank">北京大学</a>　<a href="http://www.tsinghua.edu.cn" target="_blank">清华大学</a></li>
+      <li><a href="http://www.fudan.edu.cn" target="_blank">复旦大学</a>　<a href="http://www.sjtu.edu.cn" target="_blank">上海交通大学</a></li>
+      <li><a href="http://www.software.fudan.edu.cn" target="_blank">复旦大学软件学院</a></li>
+      <li><a href="http://www.fdfz.cn" target="_blank">复旦附中</a>　<a href="http://www.jdfz.sh.cn" target="_blank">交大附中</a></li>
+      <li><a href="http://www.hsefz.com" target="_blank">华师大二附中</a>　<a href="http://www.shs.sh.cn" target="_blank">上海中学</a></li>
+<li><a href="../page/fxchzh/index.html" target="_blank">上海市复兴初级中学</a>　</li>
+    </ul>
+  </div>
+  <!-- end of #links -->
+  <div id="icons"> <img src="../resource/get_flash_player.gif">
+    <div>获取Flash7.0播放器<br/>
+	[<a href="../resource/Install Flash Player 7 AX.exe">IE浏览器</a>] [<a href="../resource/Install Flash Player 7.exe">其他浏览器</a>]
+</div>
+  </div>
+  <!-- end of #icons -->
+</div>
+<!-- end of #main_left -->
+
+    <div id="main_right">
+      <div id="main_right2">
+        <div id="content"> <img src="../resource/news_header.jpg" />
+          
+          <div id="news_content">
+            <div id="news_title">全员参与，群策群力，共谋发展</div>
+            <div id="news_info">发布日期：<span>2009-11-11</span>　　发布者：<span>张燕</span></div>
+            
+            <div id="news_image">
+              
+              <div><a href="../upload/image/20091111151213_2.jpg"><img src="../upload/image/20091111151213_2.jpg" border="0" onload ="DrawImage(this,500,400);" /></a></div>
+              
+              
+              
+            </div>
+            <div id="article_content"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp全员参与，群策群力，共谋发展<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp——上海市复兴中学党支部委员会学习实践科学发展观第二阶段转段会议<br/><br/>&nbsp&nbsp&nbsp&nbsp2009年11月4日，复兴中学全体党员在复兴初级中学召开了学习实践科学发展观第一阶段总结会和第二阶段转段会议。本次会议由复兴高级中学党总支副书记陆磐良主持。<br/><br/>&nbsp&nbsp&nbsp&nbsp复兴初级中学党支部进行了题为《寻规律·求实效·谋发展》的学校发展调研报告，调研是在10月9日---10月21日期间进行，主要以党外人士、民主党派教师为对象，基本涵盖了语文、数学、英语、政历地、理化生、音体美、科学、计算机等各个学科。在我校党组织的正确领导、积极贯彻下，以每一位党员为活动点，以各党小组为统筹单位，在全校上下展开了积极、深入、详细的调研工作。调研活动在学校中营造出了鼓励大家勇于思考、畅所欲言的良好氛围，集思广益、建言献策。从实际出发，为更好地学习、实践科学发展观，更好地实现学校教育教学工作的不断进步与持续发展提出了宝贵的意见和建议。<br/><br/>&nbsp&nbsp&nbsp&nbsp复兴高级中学党总支下设的三个支部，分别就“我为复兴献一计”活动发表了各支部的看法。体教总支部提出了明确工作职责，增强服务意识；增强沟通意识，协调各方工作；课前精心准备，课后积极反思；增加沟通渠道，广泛听取意见。文科支部从学校管理、德育、教导、科研、教研组、教师、工会、总务、校园文化建设的角度提出了宝贵的意见和建议。理科支部围绕教育教学、教学管理、学校管理三个方面，建言献策！<br/><br/>&nbsp&nbsp&nbsp&nbsp学习实践科学发展观转段会议的第三个议程，由复兴高级中学校长陈奕望谈谈第一阶段的学校层面的调研情况以及分析，他谈到第一个阶段所做的有关对学校内涵发展、有关对学校发展中存在问题、有关对创建创新型学校、有关对教学有效性问题四个方面的调研，并具体分析了相应的对策。<br/><br/>&nbsp&nbsp&nbsp&nbsp本次大会的最后一项议程由校党总支书记方培君进行了第二阶段的动员，她说在第一阶段各小组都很认真进行了学习、调研，并且进行了分析检查，在此认真、高质的调研报告的基础，在接下来的阶段更重要的是要分析原因明确方向。<br/><br/> </div>
+            <div id="news_info">发布日期：<span>2009-11-11</span>　　发布者：<span>张燕</span></div>
+          </div>
+          <!-- end of #news_content -->
+        </div>
+        <!-- end of #content -->
+        <div id="panorama"><img src="../resource/panorama.jpg" /></div>
+        <!-- end of #panorama -->
+      </div>
+      <!-- end of #main_right2 -->
+    </div>
+    <!-- end of #main_right -->
+  </div>
+  <!-- end of #main -->
+  
+
+<div id="bottom_nav">
+  <ul>
+    <a href="index.jsp">首　页</a> | <a href="walking_up_to_fuxing.jsp">走近复兴</a> | <a href="education_features.jsp">教育特色</a> | <a href="campus_activities.jsp">校园生活</a> | <a href="foreign_communication.jsp">对外交流</a> | <a href="retrospecting_fuxing.jsp">回眸复兴</a> | <a href="teaching_job_opportunities.jsp">招聘信息</a> | <a href="recruiting_students.jsp">招生信息</a> | <a href="website_map.jsp">站点地图</a> | <a href="contact_us.jsp">联系我们</a> | <a href="english.jsp">English Version</a>
+  </ul>
+</div>
+<!-- end of #bottom_nav -->
+<div id="bottom">
+  <div> 
+    <p>上海市复兴高级中学版权所有　(c)　1999-2005　联系<a href="mailto:fxhs@163.com">网站管理员</a>　设计开发：<a href="mailto:0261127@fudan.edu.cn">崔伟毅</a>（2002届校友）<br />
+    上海市复兴高级中学联系地址：中国上海市车站南路28号　邮编：200434　电话：+86-021-65606715 <br>
+    <span style="color: gold;">沪ICP备05021150号</span>    </p>
+  </div>
+</div>
+<!-- end of #bottom -->
+</div>
+<!-- end of #center -->
+</body>
+</html>

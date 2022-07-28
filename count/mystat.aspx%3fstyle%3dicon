@@ -1,0 +1,4 @@
+
+document.write("<script>var style='icon';var url='http://www.fuxing.sh.cn/count/';</script>")
+_dwrite("<script language=javascript src="+url+"stat.aspx?style="+style+"&referer="+escape(document.referrer)+"&screenwidth="+(screen.width)+"></script>");
+function _dwrite(string) {document.write(string);}

@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>上海市复兴高级中学网站 Portal Website of Shanghai Fuxing Senior High School</title>
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<link href="../style/style.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../script/script.js"></script>
+</head>
+<body>
+<div id="center">
+<div id="header">
+  <ul>
+    <a href="index.jsp">首　页</a> | <a href="website_map.jsp">站点地图</a> | <a href="contact_us.jsp">联系我们</a> | <a href="english.jsp">English Version</a>
+  </ul>
+</div>
+<!-- end of #header -->
+<div id="logo">
+  <div id="logo_chn"> <img src="../resource/logo.jpg" /> </div>
+  <div id="logo_eng"> <img src="../resource/logo_english.jpg" /> </div>
+</div>
+<!-- end of #logo -->
+<div id="top_nav">
+  <div id="date_time">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../resource/swflash.cab#version=6,0,29,0" width="180" height="29">
+      <param name="movie" value="../resource/date.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../resource/date.swf" width="180" height="29" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </div>
+  <ul id="nav">
+    <li class="first"><a href="walking_up_to_fuxing.jsp">走近复兴</a>
+      <ul>
+        <li class="second"><a href="walking_up_to_fuxing.jsp">复兴概况</a></li>
+		<li class="second"><a href="fuxing-lishi.jsp">悠久历史</a></li>
+		<li class="second"><a href="fuxing_chengjiu.jsp">辉煌成就</a></li>
+		<li class="second"><a href="fuxing_song.jsp">复兴校歌</a></li>
+		<li class="second"><a href="fuxing-lrxz.jsp">历任校长</a></li>
+       <li class="second"><a href="headmaster_words.jsp">校长寄语</a></li>
+        <li class="second"><a href="fuxing_shebei.jsp">复兴设施</a></li>
+	
+       
+        <li class="second"><a href="panorama/index.htm" target="_blank">校园全景</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="education_features.jsp">教育特色</a>
+      <ul>
+        <li class="second"><a href="keji.jsp">科技特色</a></li>
+        <li class="second"><a href="yishutese.jsp">艺术特色</a></li> 
+		<li class="second"><a href="tiyutese.jsp">体育特色</a></li>   
+		<li class="second"><a href="xinli.jsp">心理健康</a></li>
+        <li class="second"><a href="xiaobenkecheng.jsp">校本课程</a></li>
+        <li class="second"><a href="shetuan.jsp">学生社团</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="campus_activities.jsp">校园生活</a>
+      <ul>
+	    <li class="second"><a href="http://www.fuxing.sh.cn/schinfo">互动数字校园</a></li>
+        <li class="second"><a href="fxstudent.jsp">复兴学子</a></li>
+        <li class="second"><a href="shehuishijian.jsp">社会实践</a></li>
+        <li class="second"><a href="zhusushenghuo.jsp">住宿生活</a></li>
+        <li class="second"><a href="kejijie.jsp">科技节</a></li>
+        <li class="second"><a href="yishujie.jsp">艺术节</a></li>
+        <li class="second"><a href="xiaoyunhui.jsp">校运会</a></li>
+      </ul>
+    </li>
+<li class="first"><a href="open government.jsp">政务公开</a>
+  <ul>
+ <li class="second"><a href="xinxiang.jsp">校长信箱</a></li>
+ <li class="second"><a href="fuxing_shizhiduiwu.jsp">师资队伍</a></li>
+        <li class="second"><a href="fuxing_fazhan.jsp">发展规划</a></li> 
+</ul>
+    </li>    
+
+    <li class="first"><a href="retrospecting_fuxing.jsp">回眸复兴</a>
+      <ul>
+        <li class="second" ><a href="retrospecting_fuxing-1.jsp">校友风采</a></li>
+		
+		<li class="second" ><a href="retrospecting_fuxing-3.jsp">60校庆一瞥</a></li>
+		<li class="second" ><a href="liuyan_fuxing.jsp">校友留言</a></li>
+        <li class="second" ><a href="../alumni/index.jsp" target="_blank">在线校友会</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="xianjinxing/index.htm" target="_blank">先进性教育</a></li>
+      <li class="first"><a href="xiaoqing.jsp">校庆专栏</a>
+	  <ul>
+        <li class="second" ><a href="xiaoqing1.jsp">校庆公告</a></li>
+<li class="second" ><a href="xiaoqing2.jsp">邀请函</a></li>
+		   <li class="second" ><a href="xiaoqing.jsp">校友论坛</a></li>
+		   <li class="second" ><a href="retrospecting_fuxing-3.jsp">60校庆一瞥</a></li>
+         <li class="second" ><a href="../alumni/index.jsp" target="_blank">在线校友会</a></li>
+      </ul>
+	  </li>
+      <li class="first"><a href="recruiting_students.jsp">招生信息</a>
+      <ul>
+        <li class="second"><a href="recruiting_students_1.jsp">全国生招生</a></li>
+ <li class="second"><a href="recruiting_students_20.jsp">零志愿招生</a></li>        
+<li class="second"><a href="recruiting_students_21.jsp">推优生招生</a></li>
+        <li class="second"><a href="2007recruiting_students_21.jsp">自主招生</a>		</li>
+        <li class="second"><a href="recruiting_students_4.jsp">艺术特长生招生</a></li>
+	</li>
+        <li class="second"><a href="fxjx/index.html">进修学校招生</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- end of #top_nav -->
+
+  <div id="main">
+    
+
+
+
+
+
+
+<div id="main_left">
+  <div align="center">
+  	<!--a href="login.jsp">网站用户登录</a-->
+  	
+  </div>
+  <br />
+	<div id="saying">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../resource/swflash.cab#version=6,0,29,0" width="125" height="200">
+      <param name="movie" value="../resource/saying.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../resource/saying.swf" width="125" height="200" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </div>
+  <!-- end of #saying -->
+  <div id="counter">
+  	总访问人数：<span>508263</span>
+  </div>
+  <!-- end of #counter -->
+  <div id="links">
+    <div>:: 友情链接 ::</div>
+    <ul>
+	  <li><a href="http://www.shmec.gov.cn" target="_blank">上海市教育委员会</a></li>
+	  <li><a href="http://www.hkedu.sh.cn" target="_blank">虹口区教育信息专网</a></li>
+      <li><a href="http://www.pku.edu.cn" target="_blank">北京大学</a>　<a href="http://www.tsinghua.edu.cn" target="_blank">清华大学</a></li>
+      <li><a href="http://www.fudan.edu.cn" target="_blank">复旦大学</a>　<a href="http://www.sjtu.edu.cn" target="_blank">上海交通大学</a></li>
+      <li><a href="http://www.software.fudan.edu.cn" target="_blank">复旦大学软件学院</a></li>
+      <li><a href="http://www.fdfz.cn" target="_blank">复旦附中</a>　<a href="http://www.jdfz.sh.cn" target="_blank">交大附中</a></li>
+      <li><a href="http://www.hsefz.com" target="_blank">华师大二附中</a>　<a href="http://www.shs.sh.cn" target="_blank">上海中学</a></li>
+<li><a href="../page/fxchzh/index.html" target="_blank">上海市复兴初级中学</a>　</li>
+    </ul>
+  </div>
+  <!-- end of #links -->
+  <div id="icons"> <img src="../resource/get_flash_player.gif">
+    <div>获取Flash7.0播放器<br/>
+	[<a href="../resource/Install Flash Player 7 AX.exe">IE浏览器</a>] [<a href="../resource/Install Flash Player 7.exe">其他浏览器</a>]
+</div>
+  </div>
+  <!-- end of #icons -->
+</div>
+<!-- end of #main_left -->
+
+    <div id="main_right">
+      <div id="main_right2">
+        <div id="content"> <img src="../resource/news_header.jpg" />
+          
+          <div id="news_content">
+            <div id="news_title">日本市立扇町中校来我校参观访问小记</div>
+            <div id="news_info">发布日期：<span>2007-11-20</span>　　发布者：<span>校办</span></div>
+            
+            <div id="news_image">
+              
+              
+              
+            </div>
+            <div id="article_content"> 秋雨难掩参访热情，秋寒不减互动温情<br/><br/>——&nbsp11.16日本市立扇町中校来我校参观访问小记<br/><br/>秋雨秋风添寒意，真心热心暖客心<br/>&nbsp&nbsp&nbsp&nbsp11月16日的天气一改之前的暖阳融融，代之而来的秋风秋雨为秋日里的申城更添了阵阵寒意。但阴冷的天气，靡靡的细雨，并没有减低复兴师生迎接日本来访客人的热情。高一学生早早地就穿着统一的校服，在求真厅分列两队，等待日本客人的到来。站在求真厅门口，阵阵凉风让学生们感觉到了丝丝寒意，但所有的同学们并没有一丝焦躁，还是带着好奇与期待，热情愉快地等候着因雨天路滑而晚到的日本同学们。他们响亮真诚、久久不息的掌声与热情洋溢、明媚灿烂的笑容，让正因为申城萧瑟秋日而感不适的日本师生感受到了宾至如归的暖意。<br/><br/>&nbsp载歌载舞共献艺，欢声笑声响会堂<br/>&nbsp&nbsp&nbsp来歌堂的舞台上，中日学子齐献艺，载歌载舞的生动表演异常精彩，整个来歌堂都回荡着同学们的欢声与笑声。联欢会的前半段中，日本学生精心奉献了他们苦练月余的舞蹈与演唱，他们在舞台上的自信与自如、欢快与陶醉，让我校学生们在观赏的同时，也感悟到表演并不单纯是一种任务的完成，享受舞台、享受表演的过程本身也是一种个性的流露与自我的展现。其后，复兴的学子们也倾情奉献了一台出色而又专业的表演。不论是合唱团悠扬悦耳的合唱曲目，还是舞蹈队优美曼妙的民族舞蹈；不论是励志深情的小组唱，还是高雅怡情的钢琴小提琴合奏，都给日本师生留下了异常深刻的印象。更为令人感动的是西藏同学们淳朴但极其真诚的舞蹈，虽然他们的动作并不那么专业，虽然他们的脸上还挂着些许紧张的神情，但他们的专注与认真，仍然深深感动了在座的每一位学生与老师。舞蹈的尾声，两位西藏生代表向方校长和日本的田教导献上了洁白的哈达，也献上了他们对远方来客的欢迎，与对复兴师生关怀照顾的感谢。<br/>&nbsp<br/>中餐西餐巧搭配，细心贴心备餐点<br/>&nbsp&nbsp&nbsp&nbsp为了照顾日本师生的口味与饮食，我校食堂的老师与师傅们精心设计菜谱，用心准备了中餐西餐搭配的菜点、汤点与饮料，以自助餐的形式供日本师生选择。精巧的小西点、西式快餐，富有中国特色的菜肴与面点，符合日本饮食喜好的汤点，还有各式饮料，丰富的品种、可口的菜肴，赢得了日本师生的交口称赞。值得一提的是我校食堂老师与师傅们的细心与贴心，每张餐桌上都摆放了餐巾以供日本客人饭后使用，虽然只是很小的一个细节，但其中所折射出的细致与周道，还是十分令人感动。<br/><br/>英语手语齐上阵，真情友情满校园<br/>&nbsp&nbsp&nbsp&nbsp下午是中日学生直接沟通与交流的时间。午餐刚结束，复兴的学生们就拿着自制的写着日本同学名字的小纸牌，来到了餐厅门口迎接自己的“结对伙伴”，前往已经精心布置过的教室进一步活动与交流。每一个教室的课桌椅都排出了开展小游戏的空间，和面对面交流的角落；每一个教室的黑板上都写上了欢迎的标语、画上了卡通与花纹。中日学生们在其乐融融的氛围中，你一言我一语的对话起来。由于语言不通，双方的交流存在着不小的困难，但这丝毫没有降低同学们彼此熟悉与了解的热情。你一句英语，我一句日语，夹杂着夸张的肢体语言与手势，虽然有一点鸡同鸭讲的交流不通，但同学们还是乐此不疲地比划着，快乐地游戏着，认真地对话着。复兴的校园里到处流淌着真情与友情的暖流。<br/>&nbsp&nbsp&nbsp晚上，日本学生还跟随志愿者们回到家中共进晚餐，感受普通中国家庭的平凡生活。时间虽然很短暂，但是这样特别的体验，相信一定会成为每一位到访日本学子最难忘的回忆。<br/><br/>&nbsp&nbsp&nbsp秋天的夜来得很早，秋夜的风吹得很凉，但携着复兴学子的友谊与真情、携着复兴教工的关爱与照顾，日本师生们带着温暖离了复兴的校园，美好的回忆却拉得很长，很远……<br/><br/> </div>
+            <div id="news_info">发布日期：<span>2007-11-20</span>　　发布者：<span>校办</span></div>
+          </div>
+          <!-- end of #news_content -->
+        </div>
+        <!-- end of #content -->
+        <div id="panorama"><img src="../resource/panorama.jpg" /></div>
+        <!-- end of #panorama -->
+      </div>
+      <!-- end of #main_right2 -->
+    </div>
+    <!-- end of #main_right -->
+  </div>
+  <!-- end of #main -->
+  
+
+<div id="bottom_nav">
+  <ul>
+    <a href="index.jsp">首　页</a> | <a href="walking_up_to_fuxing.jsp">走近复兴</a> | <a href="education_features.jsp">教育特色</a> | <a href="campus_activities.jsp">校园生活</a> | <a href="foreign_communication.jsp">对外交流</a> | <a href="retrospecting_fuxing.jsp">回眸复兴</a> | <a href="teaching_job_opportunities.jsp">招聘信息</a> | <a href="recruiting_students.jsp">招生信息</a> | <a href="website_map.jsp">站点地图</a> | <a href="contact_us.jsp">联系我们</a> | <a href="english.jsp">English Version</a>
+  </ul>
+</div>
+<!-- end of #bottom_nav -->
+<div id="bottom">
+  <div> 
+    <p>上海市复兴高级中学版权所有　(c)　1999-2005　联系<a href="mailto:youdi_300@hotmail.com">网站管理员</a>　设计开发：<a href="mailto:0261127@fudan.edu.cn">崔伟毅</a>（2002届校友）<br />
+    上海市复兴高级中学联系地址：中国上海市车站南路28号　邮编：200434　电话：+86-021-65606715 <br>
+    <span style="color: gold;">沪ICP备05021150号</span>    </p>
+  </div>
+</div>
+<!-- end of #bottom -->
+</div>
+<!-- end of #center -->
+</body>
+</html>

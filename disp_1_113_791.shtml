@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div109" class='listitem3'><a href='list_1_109.shtml'>校史沿革</a></div></td></tr><tr><td><div id="div110" class='listitem3'><a href='list_1_110.shtml'>办学特色</a></div></td></tr><tr><td><div id="div111" class='listitem3'><a href='list_1_111.shtml'>机构设置</a></div></td></tr><tr><td><div id="div112" class='listitem3'><a href='list_1_112.shtml'>学校领导</a></div></td></tr><tr><td><div id="div113" class='listitem3'><a href='list_1_113.shtml'>漫步校园</a></div></td></tr><tr><td><div id="div114" class='listitem3'><a href='list_1_114.shtml'>学校荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_113_794.shtml' title='标题:复兴运动会&#13;点击:1564次&#13;日期:2010-6-9 13:18:03'  ><span style='color:;'>复兴运动会</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_793.shtml' title='标题:复兴艺术节&#13;点击:1096次&#13;日期:2010-5-19 13:15:18'  ><span style='color:;'>复兴艺术节</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_789.shtml' title='标题:上海虹口区复兴求真青少年体育俱乐部&#13;点击:656次&#13;日期:2008-9-19 13:07:07'  ><span style='color:;'>上海虹口区复兴求真青少年体</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_791.shtml' title='标题:学生住宿生活&#13;点击:2771次&#13;日期:2008-5-21 13:12:14'  ><span style='color:;'>学生住宿生活</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_790.shtml' title='标题:学生社会实践&#13;点击:587次&#13;日期:2008-5-20 13:10:44'  ><span style='color:;'>学生社会实践</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_786.shtml' title='标题:学校设施&#13;点击:1465次&#13;日期:2008-5-19 12:59:03'  ><span style='color:;'>学校设施</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_792.shtml' title='标题:复兴科技节&#13;点击:353次&#13;日期:2004-9-19 13:13:58'  ><span style='color:;'>复兴科技节</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_113_922.shtml' title='标题:全景复兴(3D版)&#13;点击:3750次&#13;日期:2011-5-25 13:42:16'  ><span style='color:;'>全景复兴(3D版)</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_113.shtml">漫步校园</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>学生住宿生活</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:学校管理员&nbsp;&nbsp; 编辑日期:2008-5-21 13:12:14&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=791"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>
+<table height="235" width="487" align="center" border="0">
+    <tbody>
+        <tr>
+            <td colspan="2">
+            <p>　　上海市车站南路 28 号是一个闹中取静之地，车水马龙的车站南路一侧，开合自动的铁栅栏门内，花草树木四季常青，这就是复兴高级中学。 <br />
+            　　 你想走进这栅栏门内的春天吗？有没有正当理由啊？噢，您的孩子就是这门内莘莘学子中的一员！那就请进吧；您想让孩子在这门内接受教育，那就请进吧。这门里 24 小时巡视的眼睛正是审视来者动机的：闲者莫入！坏人走开！校园智能卡是师生们进出校门的通行证。 24 小时门卫值岗制是我校日常生活中最基本的保安制度。 <br />
+            　　 一天紧张的生活从早晨六点开始，&ldquo;滴铃铃&rdquo;&mdash;&mdash;清亮亮的铃声催促宿舍里想赖床的学生&mdash;&mdash;赶快集合去！跟着体育老师晨练，一天的活力在运动中产生。 <br />
+            　　 &ldquo;啊 ---- &rdquo;打个哈欠，伸个懒腰&mdash;&mdash;紧张的七节课眨眼见就过去了，下午 3 ： 30 迎来了一天中又一个宝贵的休息时段。阅览室、图书馆，对爱动脑筋爱啃书的书虫们来说自然是他们的清静天地，在科学和思想的宝库里徜徉，自得其乐；生性爱动爱闹的孩子不愁有更多的好去处：绿荫场上试脚力，篮球架下显神威，紫藤华盖好清凉，通幽曲径赋诗意。 <br />
+            　　 泳池里追波逐浪，浴室里淋漓酣畅，啊 , 一身轻松好精神！ <br />
+            　　 晚上 10 ： 00 ，校园里一片宁静，学生安歇了。而高大威猛的安防犬一天的黄金时段才刚开始呢。你方唱罢我登场， 22 ： 00 &mdash; 5 ： 00 四只狼犬分头在校园内巡逻，担任起学校夜间的保卫工作。我校获得安保先进单位，安防犬功不可没。 <br />
+            　　 都说&ldquo;吃在复兴&rdquo;，可不？大米小米、拉面、馍，爆炒清蒸和红烧，你甜我咸他要辣，好象不比家里差。全国生来自五湖四海，饮食风格各不相同。得到孩子们的肯定了， 后勤的 老师们才敢把心放进肚子里。饭厅自然是窗明几净环境好，空调电视全配齐。 <br />
+            　　 这是我们的样板房，如何？净美如画吧！这是我们的文明寝室，如何？温馨如家吧！不事先告知，您敢猜这是您那个张口&ldquo;妈&rdquo;闭口&ldquo;妈&rdquo;的孩子收拾出的房间吗？衣食住行是大事，吃好住好才能学得好，住宿管理始终是学校工作的重头戏。每个宿舍配备空调电扇，每人一桌一椅一床一橱，各有一方小天地，堪称&ldquo;五 ? 一居士&rdquo;。自己的事情自己做，寝室成了住宿生展示自理能力的舞台。住宿生按照年级各自成立了卫生小组，在本年级一位老师与宿管科人员共同指导下进行生活环境的自我创建与自我管理。 <br />
+            　　 宿舍楼下 24 小时值班制构成住宿生的第二道安保线，日夜值勤。值班室兼负后勤服务工作，过道卫生有专人负责，饮用水专人配送。楼内配有洗衣机、淋浴间。学校有校医，宿舍楼另有专职医生以防住宿生突发疾病。学校配备有一套完整而畅通的消防系统， 随着全国生数量的增多，我校寝室文化开展得有声有色，形成了一定的规模。双休日不定期组织全国生观看体育比赛，做拉拉队队员，组织各类文娱活动，游玩人文景观，可谓丰富多彩。 2003 年的&ldquo;五 &middot; 一&rdquo;长假，我校团委举办的&ldquo;乐雅&rdquo;寝室文化活动陪伴着因非典不能回家的全体全国生度过了一个非同寻常的长假。 <br />
+            　　 保险是增强学生安全保障的社会化保障体系，我校学生全部参加了上海市中小学住院医疗互助基金，中国人寿住院医疗保险和平安人身保险等，有效解决了学生家长的后顾之忧。至今有多名学生获益。 <br />
+            　　 &ldquo;复兴中学帮困基金&rdquo;是由一年一度的校庆日全校师生校园义卖筹集的款项组建而成，它还谈不上从根本上给家境贫困的孩子以经济援助，但却给了他们无比温暖的关爱。它成了奖学金、助学金之外的第三条绿色通道。</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="244">
+            <div align="center"><img height="150" src="https://fx.xxoo.skin/web/resource/content/campus_activities/zhusushh.jpg" width="200" alt="" /></div>
+            </td>
+            <td width="233">
+            <div align="center"><img height="150" src="https://fx.xxoo.skin/web/resource/content/campus_activities/zhusushh1.jpg" width="200" alt="" /></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div align="center"><img height="150" src="https://fx.xxoo.skin/web/resource/content/campus_activities/zhusushh2.jpg" width="200" alt="" /></div>
+            </td>
+            <td>
+            <div align="center"><img height="150" src="https://fx.xxoo.skin/web/resource/content/campus_activities/zhusushh3.jpg" width="200" alt="" /></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=791&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=791"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

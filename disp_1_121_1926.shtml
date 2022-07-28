@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div120" class='listitem3'><a href='list_1_120.shtml'>课程设置</a></div></td></tr><tr><td><div id="div121" class='listitem3'><a href='list_1_121.shtml'>师资队伍</a></div></td></tr><tr><td><div id="div122" class='listitem3'><a href='list_1_122.shtml'>升学招生</a></div></td></tr><tr><td><div id="div660" class='listitem3'><a href='list_1_660.shtml'>创新实验</a></div></td></tr><tr><td><div id="div722" class='listitem3'><a href='list_1_722.shtml'>教研组室</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_121_3468.shtml' title='标题:不断前进　提升境界——上海市五一劳动奖章   复兴高级中学   乐燎原 &#13;点击:539次&#13;日期:2014-4-30 9:11:29'  ><span style='color:;'>不断前进　提升境界——上海</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1942.shtml' title='标题:区骨干教师----韩凌老师&#13;点击:2124次&#13;日期:2012-6-26 9:28:49'  ><span style='color:;'>区骨干教师----韩凌老师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1926.shtml' title='标题:复兴高级中学召开第二届初高中数学教育教学研讨会&#13;点击:1016次&#13;日期:2012-6-3 7:07:09'  ><span style='color:;'>复兴高级中学召开第二届初高</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1897.shtml' title='标题:研究课堂教学，优化教学行为——复兴高级中学第一届青年教师教学比武活动结束&#13;点击:1409次&#13;日期:2012-5-15 12:24:41'  ><span style='color:;'>研究课堂教学，优化教学行为</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1870.shtml' title='标题:区学科带头人----薛建国老师&#13;点击:2102次&#13;日期:2012-5-2 11:05:41'  ><span style='color:;'>区学科带头人----薛建国老师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1837.shtml' title='标题:区骨干教师----张俊老师&#13;点击:1918次&#13;日期:2012-3-31 8:21:58'  ><span style='color:;'>区骨干教师----张俊老师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1836.shtml' title='标题:区骨干教师----刘明海老师&#13;点击:1947次&#13;日期:2012-3-31 8:17:15'  ><span style='color:;'>区骨干教师----刘明海老师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1829.shtml' title='标题:区骨干教师----肖萍老师&#13;点击:1713次&#13;日期:2012-3-25 8:40:23'  ><span style='color:;'>区骨干教师----肖萍老师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1828.shtml' title='标题:区骨干教师----朱文波老师&#13;点击:1479次&#13;日期:2012-3-25 8:34:24'  ><span style='color:;'>区骨干教师----朱文波老师</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_121_1825.shtml' title='标题:化学特级教师----李可锋老师&#13;点击:2328次&#13;日期:2012-3-22 16:19:11'  ><span style='color:;'>化学特级教师----李可锋老师</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_121.shtml">师资队伍</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>复兴高级中学召开第二届初高中数学教育教学研讨会</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:校办&nbsp;&nbsp; 编辑日期:2012-6-3 7:07:09&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1926"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center">复兴高级中学召开第二届初高中数学教育教学研讨会</p>
+<p>5月30日，复兴高级中学召开以《精心铸教，潜心铸学》为主题的第二届初高中数学教育教学研讨会。复兴高级中学名誉校长姚晶，老校长马惠生，特级教师叶声扬等与全体数学教师出席此次研讨会。</p>
+<p>复兴数学教研组三代人济济一堂，重温复兴传统教学中的&ldquo;教法十条&rdquo;和&ldquo;学法十条&rdquo;，畅所欲言。教师们纷纷表示，继承复兴教育传统，重视教学常规，争取特色创新，推进教师专业发展非常必要。</p>
+<p>主题发言中，教师代表分别就《初中数学概念课堂教学的几点思考》、《锐角三角比的教学》、《通过直角三角形引入与辅助三角公式教学》、《单位圆引入与辅助三角函数教学》等作专题交流、汇报，引发在座教师的共鸣与思考。</p>
+<p>姚晶肯定了高中部三角教学取得的成绩，并提出部分补充意见。他认为，微积分教学是高中数学教学发展的趋势，要让微积分思想贯穿整个高中数学的始终。在目前的教育课程改革与招生形势下，有必要先跨出第一步，做好试点与教材编写工作，为学校与学生的发展做好准备。</p>
+<p>复兴高级中学书记陆磐良表示复兴数学教研组的历史本身是一部教学改革的历史，它代表着一种改革文化的传承。</p>
+<p>会后，参与研讨的教师们表示，数学教研组对教学改革的追求不会结束，复兴数学教研组一定会秉承传统，发挥团队的作用，为复兴中学的数学教学再创辉煌，在学校发展中发挥更大的作用。</p>
+<p style="text-align: center"><img src="/userfiles/upload/image/2012/06/03/20120603073507105882390.jpg" alt="" /></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1926&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1926"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

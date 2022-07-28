@@ -1,0 +1,710 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_Head1"><title>
+	信息公开
+</title>
+
+<script src="css/TableCss.js" type="text/javascript"></script>
+<script src="Inc/JS/Site_Char.JS" type="text/javascript"></script>
+
+
+    <style type="text/css">
+        .tb_foot
+        {
+            height: 65px;
+            width: 965px;
+        }
+  
+        .style1
+        {
+            width: 28px;
+        }
+    </style>
+    <link id="_ctl0_linkstylebody" rel="stylesheet" type="text/css" /><link id="_ctl0_linktable" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/DIV.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/BaseStyle.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/TableCss.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/Menu.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/StyleSchool.css" rel="stylesheet" type="text/css" />
+    <script src="../../Template/Blue_style/TableCss.js" type="text/javascript"></script>
+
+    <link href="Template/Blue_style/ListTableCss.css" rel="stylesheet" type="text/css" /></head>
+<body style="text-align: center;">
+    <div style="text-align: center; width: 1000px; min-height: 500px;">
+        <div id="dhead">
+            <div id="_ctl0_headContent"><img src='UploadFiles/2008/12/23/af2a3375-9a06-46df-832b-3c55c4223702.jpg' width='1000' height='185' /></div>
+            <div id="dmenu">
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <a href="http://www.fuxing.sh.cn" id="_ctl0_SchoolWeb" target="_blank">
+                                <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" /><span style="color: White;">学校主页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" />&nbsp;<a href='Channel.aspx?UserID=fxgj'><span
+                                style="color: White;">专栏首页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" /><a href='XTSite_InfoOpen.aspx?UserID=fxgj'><span
+                                style="color: White;">公开信息指南</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" />
+                            <a href='List.aspx?ClassID=607&UserID=fxgj'><span style="color: White;">公开信息目录</span></a>
+                            <img class="ImgMidAlign" src="Images/rss.gif" />
+                            <a href='Rss.aspx?UserID=fxgj' target="_blank"><span style="color: White;">
+                                rss 订阅</span></a>
+                        </td>
+                        <td>
+                            <form name="search" action="Search.Aspx?Action=Search" method="get">
+                            <table width="280" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="151" align="right">
+                                        <input name="keyword" id="Keyword" style="border: solid 1px;" type="text" value="请输入关键字"
+                                            size="15" onmouseover="this.value='';">
+                                        <input id="Action" type="hidden" value="Search" name="Action">
+                                        <input id="UserID" name="UserID" type="hidden" value="fxgj" />
+                                    </td>
+                                    <td width="39" align="center">
+                                        <input name="imageField" type="image" src="img_index/index_13_1.gif" alt="搜索" align="absmiddle"
+                                            border="0">
+                                    </td>
+                                    <td width="76" align="center">
+                                        <a href="search.aspx?UserID=fxgj" target="_blank">
+                                            <img src="img_index/index_13_2.gif" alt="高级查询" width="58" height="18" border="0"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            </form>
+                        </td>
+                        <td>
+                            <img class="ImgMidAlign" src="Images/manager.gif" />
+                            <a href='Schinfo/default.aspx' target="_blank"><span style="color: White;">管理入口</span></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+  
+        <div id="dbody">
+       
+                <div style="width: 24%; float: left">
+                    <div class="D_holder">
+                        <div class="D_bszn">
+                        </div>
+                        <div class="D_bgxz">
+                        </div>
+                        <div class="D_bmwd">
+                        </div>
+                        <div class="D_hdjl">
+                        </div>
+                        <div class="D_xyjx">
+                        </div>
+                        <div class="D_gksq">
+                        </div>
+                        <div class="D_wszx">
+                        </div>
+                        <div class="D_xzxx">
+                        </div>
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_34.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                        
+
+                                      </div>
+                            
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_52.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                      
+                    </div>
+              
+                 </div>
+              
+                <div style="width: 75%;float:right;">
+                    <div style="width: 100%;">
+                        <div style="width: 69%; float: left;">
+                            <div  class="tb_RDXX">
+                                <div class="d_rdxx_head">
+                                    <img alt="" src="Template/Blue_style/index_65.gif" /></div>
+                                <div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                                </div>
+                                <div class="d_rdxx_foot">
+                                </div>
+                            </div>
+                        </div>
+                        <div style="width: 30%; float: right">
+                            
+
+                        </div>
+                    </div>
+                    <div style="width: 100%;">
+                                    <div id="d_rdxx" class="tb_RDXX">
+                                        <div class="d_rdxx_head">
+                                            <img alt="" src="Template/Blue_style/index_66.gif" /></div>
+                                        <div>
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                            
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                          
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="d_rdxx_foot">
+                                        </div>
+                                    </div>
+                        
+                    </div>
+                    <div >
+                        <div style="width: 69%; float: left;">
+                       
+                                        <div  class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_67.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                        <div style="width: 30%; float: right;">
+                           
+                                        <div id="Div3" class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_68.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                    </div>
+                </div>
+              
+       
+      </div>
+        <div style="background-color: White;">
+            
+    <title id="_ctl0_cpheadcontent_d1_Title">复兴信息公开 →  信息公开  → 计划总结  → 年度计划  → 专项工作计划 ：2008学年第一学期团委工作计划</title>
+
+<link href="template/default/style.css" rel="stylesheet" type="text/css" />
+<Script Language="JavaScript" Src="Inc/JS/Disp.JS"></Script>
+
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#00E800">
+      <tr>
+        <td width="100%" valign="top" align="left"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+          <tr>
+            <td height="26" valign="middle" bgcolor="#ffffff">&nbsp;您现在的位置：
+            <span id="_ctl0_cpheadcontent_d1_PathLabel"><a href="/XXGK/"  ID="XTSite_Navigation">复兴信息公开</a> →  <a href=/XXGK/Channel.Aspx?ChannelID=1&UserID=fxgj ID="XTSite_Navigation">信息公开</a>  → <a href="/XXGK/List.Aspx?ClassID=609&UserID=fxgj" ID="XTSite_Navigation">计划总结</a>  → <a href="/XXGK/List.Aspx?ClassID=618&UserID=fxgj" ID="XTSite_Navigation">年度计划</a>  → <a href="/XXGK/List.Aspx?ClassID=639&UserID=fxgj" ID="XTSite_Navigation">专项工作计划</a> </span></td>
+          </tr>
+          <tr>
+            <td valign="top" height="402">
+              <table width="99%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+                <tr>
+                  <TD width="8" height="0"></TD>
+                  <TD width="375"></TD>
+                  <TD width="193"></TD>
+                  <TD width="2"></TD>
+                  <TD width="12"></TD>
+                </tr>
+                <tr align="center">
+                  <TD valign="middle" height="50" colspan="5">
+                    <span id="_ctl0_cpheadcontent_d1_TitleLabel" class="Title">2008学年第一学期团委工作计划</span></TD>
+                </tr>
+                <tr>
+                  <TD valign="middle" align="center" height="48"></TD>
+                  <TD colspan="2" align="center" valign="middle">
+                    <div align="right">索引号：
+                        <span id="_ctl0_cpheadcontent_d1_CatalogNum">101340202002-2008-007</span>          
+&nbsp;&nbsp;&nbsp; 发布时间：
+                        <span id="_ctl0_cpheadcontent_d1_DateAndTimeLabel">2008年12月25日</span>          
+&nbsp;&nbsp;&nbsp; 点击：
+              <span id="_ctl0_cpheadcontent_d1_HitsLabel">1250</span>
+              次&nbsp;&nbsp;&nbsp;责任编辑：
+              <span id="_ctl0_cpheadcontent_d1_AddUserLabel">fxgj</span>
+                    </div>
+                    <hr width="100%" size="1">
+                    <div align="right"></div></TD>
+                  <TD valign="middle" align="center" colspan="2">&nbsp;</TD>
+                </tr>
+                <tr>
+                  <TD height="0"></TD>
+                  <TD></TD>
+                  <TD></TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="73"></TD>
+                  <TD colspan="2" valign="top">
+                    <table width="700" border="0" align="center" cellpadding="0" cellspacing="0" style="TABLE-LAYOUT:fixed;WORD-BREAK:break-all">
+                      <tr>
+                        <td class="Content">
+                          <span id="_ctl0_cpheadcontent_d1_ContentLabel"><DIV align=center><B>2008</B><B>学年第一学期团委工作计划</B></DIV>
+<DIV align=center><B>（2008年9月—2009年1月）</B></DIV>
+<DIV align=center><B></B>&nbsp;</DIV>
+<DIV><B>一、指导思想</B></DIV>
+<DIV align=left>在团市委和团区委的工作意见的指导下，从我校实际出发，以素质教育为主线，以学校德育工作、教学工作为轴心，认真细致地开展团员工作。以增强共青团凝聚力为核心目标，结合我校学生的特点，开展适合他们的各种团的学习和活动。加强团的自身能力建设，深化团的常项品牌工作，努力提升工作品位，服务学生成长成才，团结带领全校团员青年树立优良学风、构建和谐校园、真诚奉献社会，为我校发展建设再立新功。</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV><B>二、宗旨</B></DIV>
+<DIV>本学期，我校团委工作将紧紧围绕学校中心工作，贯彻落实校党委和上级团委的任务要求，配合协同学校各部门，务实认真工作，不断提高学校团委工作的针对性、实效性、教育性、丰富性，提升教育品质，努力构建“团的建设规范化、团的活动特色化、团队一体化”工作模式，卓有成效地推进我校团委工作向前发展。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>三、工作内容</B></DIV>
+<DIV><B>(</B><B>一)组织部——夯实基层组织团建，以支部建设带动班级建设，完善班团共建模式。</B></DIV>
+<DIV>团学联组织部的工作主要分三大部分展开，分别是我校团员档案的整理、学生自管会和由年级团总支监管的日常团务工作。其中本学期最重要的工作是高一年级新生团档案的转入、高三团员档案整理和高一年级团总支的建立。</DIV>
+<DIV><B>1、 </B><B>团员档案整理工作</B></DIV>
+<DIV><B>高一团员档案转入</B></DIV>
+<DIV>高一新生进入高中，待分班情况相对稳定后，由团支书收齐团员档案统一交至组织部。由组织部干事配合各班团支书进行查缺补漏工作，并在指定时间内把缺漏资料填写完毕，收至组织部，由第一、第二责任人登记签名。团员档案由组织部保管。团员证在统一注册后下发。</DIV>
+<DIV><B>高三档案团员档案整理</B></DIV>
+<DIV>本学期高三团员档案的整理将围绕重新分班、档案补缺漏、校对和复核四个部分展开。</DIV>
+<DIV><B>2</B><B>、学生自管会</B></DIV>
+<DIV>这部分工作主要是协助德育处做好每周行为规范的评分。流程依次为：收取各项评分表、统计分数、交至团委书记处审核、经核实后上报德育处。</DIV>
+<DIV>学生自管会每周的统计工作照常，并在开学前和各个场馆负责老师联系好每周交表格的截止时间。</DIV>
+<DIV><B>3</B><B>、常务工作和高一年级总支</B></DIV>
+<DIV><B>常务工作</B></DIV>
+<DIV>这个学期的常务组的包括：定期收取团费、定期收取团员日记、适时择优发展新团员（暂定于12月初完成新团员发展工作）、助年级总支参与优秀团支部的评选活动。</DIV>
+<DIV><B>高一年级总支的建立</B></DIV>
+<DIV>高一年级团总支由4位总支委员组成。届时将由组织部干事、高一年级各班团支书自愿报名成为候选人，通过高一年级各班级代表（每班10人）进行无记名投票选举产生高一年级团总支委员。（选举暂定于10月下旬。）在选举产生4位总支委员后，通过一段时间的考察，由团委书记、团委副书记、组织部部长确定其相应职务。（分别为高一年级团总支书记、副书记、组织委员和宣传委员。）</DIV>
+<DIV>新产生的高一年级团总支将于11月开展各类团组织活动。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>&nbsp;(</B><B>二)宣传部——以升旗仪式为载体，以校园宣传为阵地，以“复兴人”教育为抓手，重视学生全面素质的培养。</B><B></B></DIV>
+<DIV>宣传部本学期工作主要包括升旗仪式、执勤工作、侏罗纪工作室以及学农、学军小报。<B></B></DIV>
+<DIV><B>1</B><B>、升旗仪式</B></DIV>
+<DIV>升旗仪式主要的工作分两块——国旗班和国旗下的讲话。</DIV>
+<DIV>新国旗班的于10月长假后正式交接。</DIV>
+<DIV><B>国旗下讲话主题：</B></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width=571 border=1>
+
+<TR>
+<TD vAlign=top width=94>
+<DIV>日期</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>演讲主题</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>演讲人（班级姓名）</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>主持人（班级姓名）</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-9-8</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>教师节</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（1）班 郝敏</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（7）班 傅佳颖</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-9-16</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>校园文化</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（10）班 周悦捷</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（6）班 郑聪</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-9-22</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>国庆节</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（2）班 李天迎</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（3）班 贾纯纯</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-10-6</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>重阳节</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（3）班 赵嘉雯</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（5）班 蒋立人</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-10-13</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>有关于创新</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（8）班 刘赟</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（10）班 叶佳雯</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-10-20</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>保护环境</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（5）班 李晨杰</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（8）班 朱颺箴</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-10-27</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（4）班 徐盈</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（10）班 屠圣婕</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-11-3</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（6）班 赵之齐</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（6）班 杨成嘉</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-11-10</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>入世+世界青年节</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（7）班 贾静茹</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（4）班 许逸雯</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-11-17</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（9）班 陈赟钦</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高二（5）班 陆逸云</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-11-24</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（10）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-12-1</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>世界艾滋病日</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（9）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-12-8</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>12.9运动</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（5）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-12-15</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（8）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-12-22</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（7）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2008-12-29</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（4）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>2009-1-5</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>未定</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>高一（6）班</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=94>
+<DIV>&nbsp;</DIV></TD>
+<TD vAlign=top width=141>
+<DIV>&nbsp;</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD>
+<TD vAlign=top width=168>
+<DIV>&nbsp;</DIV></TD></TR></TABLE>
+<DIV><B>2</B><B>、执勤工作</B></DIV>
+<DIV>执勤工作是宣传部较为常规的一个职能，负责校门站岗、两徽抽检、两操检查等几方面。本学期将明确检查力度，没有佩戴在胸前的一律视为没戴，扣分。本学期增设了执勤日记，要求每班在一周5天的执勤中讲体会新的纪录下来，用书面的形式（也可以在背面做一些美化）。同时，每周部长及老师执勤的工作也将明确，主要有门卫纪录到岗时间，部长、老师对当天的情况进行评价，一周后汇总到宣传部。对新高一的执勤要加强力度，正确引导。所有执勤纪录将作为优秀团支部评选的依据。</DIV>
+<DIV><B>3</B><B>、侏罗纪工作室</B></DIV>
+<DIV>侏罗纪工作室是宣传部最传统同时也是最具特色的工作部门之一。新学期中，宣传部将从高一选拔出具有绘画才能对色彩感觉敏锐的干事，争取在新的学年中创作出更为出色的作品。即将张贴的海报须由部长审批后方可上榜。平时推陈出新，依时令设计张贴“时鲜”海报（待议）。</DIV>
+<DIV><B>4</B><B>、学农学军小报</B></DIV>
+<DIV>每年高一的学军、高二的学农都是重头戏。宣传部的职能是在这些活动中督促各个班级上交每天的心得体会，以小报的形式编写出来分发给广大同学传阅。这其中牵涉到工作效率的问题，需要部门同学积极督促、部门内部抓紧时间编绘，主要肯吃苦。有了效率，有了信心，工作便会有成效。</DIV>
+<DIV><B>5</B><B>、通讯稿</B></DIV>
+<DIV>今年，这一项工作正式转手到了宣传部，宣传部负责按时将学校发生的大事写成通讯稿，通讯稿由宣传部干事或者是每班的通讯员完成，及时交稿。另外，区团委要求每月上交两篇通讯稿，配图。分派由宣传部干事负责人负责。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>（三）理论实践部——既往开来，开拓创新，打造有活力、有头脑的理论团队。</B></DIV>
+<DIV>09年对于我们理论部来说，是继往开来的一年：“继往”——继承理论部以往一贯的严谨作风，不管是理论学习小组、校刊、题库修编等常规性工作，还是知识竞赛、联谊活动等专题活动都用严谨扎实的态度来对待；“开来”——打开更名以来的新局面，不仅仅是做好现在手头的工作，还要在日常工作中开拓创新，打造一个有活力、有头脑的团队！</DIV>
+<DIV><B>1</B><B>、校刊的编撰</B></DIV>
+<DIV>在第一次部门全体例行会议后，在9月底，开始新一轮的校刊征稿工作。安排一个永久校刊小组，此小组不参与到部门工作模式的安排中，它的主要任务是完成校刊准备期的一些常务性工作如催稿、征稿、排版等。小组由一个由我校办刊经验的高二干事带两个高一新干事组成。我部前一份校刊存在着排版、征稿、板块设计等多方面的问题。现暂定将延续我部一年一刊的原则，并于10月中旬与公关部合作开展一次校园内校刊受欢迎程度的调研，更大限度地找出问题所在，严谨扎实地完成校刊的编辑工作，争取用一年的时间办出一份受欢迎、有质量的《晨曦》校刊。</DIV>
+<DIV><B>2、 </B><B>科技节知识竞赛</B></DIV>
+<DIV>一年一度的科技节知识竞赛是理论部的重头戏。主要任务是配合教导处举办只是竞赛活动。在尽早了解本届科技节主题的基础上，启用现有的题库资源，早做准备、早做沟通、早做协调。</DIV>
+<DIV><B>3</B><B>、题库的进一步修编</B></DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=1>
+
+<TR>
+<TD vAlign=top width=64 rowSpan=2>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>题库</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=center>时间</DIV></TD>
+<TD vAlign=top width=274>
+<DIV align=center>任务</DIV></TD>
+<TD vAlign=top width=95>
+<DIV align=center>注意事项</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=132>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>10月初-10月下旬</DIV></TD>
+<TD vAlign=top width=274>
+<DIV>1．&nbsp; 扩充题库，增加题目数量及题目类别</DIV>
+<DIV>2．&nbsp; 整理新题并归类保存</DIV>
+<DIV>3．&nbsp; 替换部分过时题目</DIV></TD>
+<TD vAlign=top width=95>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>无</DIV></TD></TR></TABLE>
+<DIV>扩充题库、整理题目。用新的有关科技发展的题目替换原来的、已经过时的题目。另外，本次的新题在保留原来类别的基础上，要增加在新兴科技、社会发展、世博会等方面的题目。整个任务历时20天到1个月。</DIV>
+<DIV><B>4</B><B>、复兴复旦联谊——加强校际联动，积极探索校际合作交流模式，在“走出去，请进来”的过程中收获经验，开拓创新。</B><B></B></DIV>
+<DIV>08年5月份由理论部主办的“让我试做一天大学生·让我再做一天中学生”与复旦大学历史系的联谊活动取得了不错的效果。在与复旦大学的联系交流中，学生们开阔了眼界，增长了见识，提前感受到了大学的学习与人文氛围。在此基础上，我们将借鉴前一次的经验，进一步拓展交流考察活动的深度与广度，在单纯观摩参观的基础上，探索学科文化上的综合共建，争取将这一活动办成一个品牌活动，并能够使更多的普通同学参与到这个活动中来。</DIV>
+<DIV><B>5</B><B>、理论学习小组</B></DIV>
+<DIV>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;理论部的常规性工作。继续配合德育处做好每次培训的通知、准备工作，以及新成员的选拔工作。在学期末，协助德育处做好考核工作。</DIV>
+<DIV><B>6</B><B>、科技环保活动</B></DIV>
+<DIV>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;配合我校环保DIY社拟将我校的科技环保活动活跃起来。由于从未接触过类似活动，缺乏经验，所以将借助各部门的力量，群策群力。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>（四）公关部——加强校际联动，积极探索校际合作交流模式，在“走出去，请进来”的过程中收获经验，开拓创新。</B></DIV>
+<DIV>在新的学年中，公关部将在原有的常规活动基础上，对部分活动进行改革，并配合学校大型节日及其它部门的工作推出全新的项目，使活动筹办过程更为成熟，活动目的更为明确，并且增进与外校的联系。</DIV>
+<DIV><B>1、&nbsp; </B><B>慈善爱心活动</B><B></B></DIV>
+<DIV><B>义卖和义拍：</B>12月下旬开展的特色慈善爱心活动。</DIV>
+<DIV><B>2</B><B>、Shining工作室——系统规范的问卷调查管理存档</B></DIV>
+<DIV>之前进行的问卷调查在一定程度上存在频率低、内容的涉及面小、对同学们的影响范围小、实际作用少等问题，本学期的问卷调查将针对上述问题开展更为全面、系统、规范的问卷调查，并做好整理存档工作。以Shining工作室作为团学联与广大同学间最亲密、最直接的纽带，也为学校行政各部门提供校园管理的参考与依据。</DIV>
+<DIV><B>3</B><B>、“绿光”志愿者行动</B></DIV>
+<DIV>在凉城四小开展的“绿光”志愿者行动在本学期将继续深入开展，通过此项活动，不仅促进学生为所教授的课程思考，锻炼了能力，丰富了经验，更为民工子弟教育献出绵薄之力。</DIV>
+<DIV>活动进程：开学第一周与凉城四小的老师进行联系，确定在第二周或第三周的周五“绿光”活动重新开始，由高二参加竞选的同学参加。同时在第二周之内张贴出活动海报，再次启动志愿者招募面试活动。因去年已有许多高二志愿者报名，我们将在已有的报名表中挑选课程适宜的进行定期的面试。面试包括课程展示及课程目的、问答等。每一组成员课程应控制在二至三课时。而高一同学，我们届时将会召开班长会议，介绍活动，分发报名表，请有意的高一同学报名，为第二学期做准备。</DIV>
+<DIV><B>4</B><B>、高三毕业生教辅书特卖会</B></DIV>
+<DIV>针对就读学生对于高中各辅导书和课堂笔记的需求，以及已毕业学生回校售书的随意性和不便管理性，拟办高三毕业生教辅书特卖会，并将之发展成为每年的特色活动，定期举办。让复兴学子买到物美价廉的辅导书和经典课堂笔记，也让更多资源得到充分利用。售书所得款项将部分投入学校爱心基金，也可作为学校图书馆的图书经费。</DIV>
+<DIV><B></B>&nbsp;</DIV>
+<DIV><B>（五）社团部——以社团学分制改革为契机，加强社团管理，提升社团质量，刷新社团成果。</B></DIV>
+<DIV><B>1</B><B>、日常工作</B></DIV>
+<DIV><B>社团情况总结：</B></DIV>
+<DIV>每个月由干事收齐各个社团的参加人数情况。检查内容有：社长出勤（评优标准）、指导老师出勤（发工资标准）、社员出席情况、大致活动内容、特殊情况。</DIV>
+<DIV>其中社长出勤和指导老师出勤将每月进行一次总统计。</DIV>
+<DIV><B>指导老师联系与指导老师工资发放</B>。<B></B></DIV>
+<DIV><B>2</B><B>、社团的培养与发展</B></DIV>
+<DIV>重点培养发展一批比较有潜力、有发展前景的社团。对于发展已较为成熟完善的社团，要做好其规章、建制的档案整理与保存工作，为日后社团的继续发展提供具体依据和参考。</DIV>
+<DIV><B>3</B><B>、社团活动记录卡</B></DIV>
+<DIV><B>&nbsp;&nbsp; </B>&nbsp;为了规范社团活动的正常开展，也便于检查与管理，制作使用全新的社团活动记录卡。</DIV>
+<DIV><B>4</B><B>、评优工作</B></DIV>
+<DIV><B>&nbsp;&nbsp; </B>2007学年评优工作将于10月完成。评选出优秀社团与社长，通过海报、颁奖的形式予以宣传和鼓励。5个优秀社团，每个社团得活动经费200元。预计十月底申请，奖金将交予现任社长作为该社团本学年的活动经费。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>（六）体育部——适时适量运动，缓解学习压力，增进师生互动，培养协作意识。</B></DIV>
+<DIV>新学期体育部工作主要以体育节为主，此外还有高二年级的足球比赛，以及对高一新生干事的培训等。</DIV>
+<DIV><B>1</B><B>、体育节</B></DIV>
+<DIV>体育节的时间定于11月第三周开展。体育节初步设想的活动内容有：</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp; </B><B>篮球嘉年华：</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 高一篮球比赛的排位赛（三分、技巧、投篮）</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 师生篮球对抗赛（高二）</DIV>
+<DIV><B>师生足球对抗赛</B>（高二、高三）</DIV>
+<DIV><B>趣味体育竞赛（</B>慢骑自行车）<B></B></DIV>
+<DIV><B>大嘴解说</B></DIV>
+<DIV><B>2、 </B><B>高二足球比赛</B></DIV>
+<DIV><B></B>&nbsp;</DIV>
+<DIV><B>（七）校务部——以小见大，紧扣校园生活，关注食堂寝室，零距离贴近学生。</B></DIV>
+<DIV><B>1</B><B>、日常工作</B></DIV>
+<DIV>校务部的日常工作包括财务报销、安排会议室、会议记录、维护电脑<B>、</B>团学联卫生、值日、校园温馨窗口（失物招领）等。</DIV>
+<DIV><B>2</B><B>、</B><B>红客精英组</B></DIV>
+<DIV>每周三社团课为红客精英组活动时间，精英组成员在信息中心老师的带领下对校园内网进行更新与维护。</DIV>
+<DIV><B>3</B><B>、食堂寝室</B></DIV>
+<DIV>新年之时进行迎新寝室评比。制作并进行食堂问卷调查。拟安排每周2名干事到食堂值班，寻找食堂有哪些缺点并及时向部长报告，部长再向相应老师提出意见，协助学校的食堂管理工作。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>（八）活动部——不断健全“和谐校园，你我同行”为特色的校园文化活动体系，做到校园文化活动有质量、有发展、有成效，致力于提升校园文化品味。</B></DIV>
+<DIV><B>1</B><B>、迎中秋赏月聚餐活动</B></DIV>
+<DIV>每逢佳节倍思亲，对于远离家人的西藏学生，举家团圆的中秋节更容易倍感思乡之情。因此，在今年的中秋节，由团学联干部策划和准备一次小型的赏月活动，采取最简单，也最能体会这一中国传统节日的方式，大家一起在学校草坪上赏月亮，吃月饼，品菜肴，聊天谈心，陪伴西藏同学共度中秋佳节。</DIV>
+<DIV><B>2</B><B>、高一辩论赛</B></DIV>
+<DIV>9月第三周开始在高一年级举办辩论赛。为高一新生搭建展现口才，锻炼自我的平台。也有助于班级同学的互相了解，增强班级凝聚力。也为校辩论队以及演讲与辩论社团选拔人才提供参考。</DIV>
+<DIV><B>3、 </B><B>学农活动开展</B></DIV>
+<DIV>在学农期间举办一系列切实可行的小型活动，帮助同学更好地融入学农活动，增进同学、师生间的友谊，为学农活动增色。包括学农文艺会演以及各类小型活动。环保T台秀活活动在之前的学农过程获得了师生的强烈反响，可拟继续举办。<B></B></DIV>
+<DIV><B>4、 </B><B>高二主持人大赛</B></DIV>
+<DIV>十二月第三周举行高二年级主持人大赛，让同学们展示真我风采，并为日后学校的各项活动物色和培养主持人。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>(</B><B>九)广电部——抓住广播电视宣传阵营，塑造有品位的复兴文化生活。</B></DIV>
+<DIV>学期伊始,广电部的工作重点在于干事招聘及其培训,落实每周2节课,共8课时有关编辑、拍摄、文稿、配音等方面的专业培训。</DIV>
+<DIV>除了广播台、电视台的常规节目制作外，在十二月配合活动部开展高二主持人大赛。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=right><B>上海市复兴高级中学团委</B></DIV>
+<DIV align=right><B>2008</B><B>年9月</B></DIV></span>        
+                </td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <span id="_ctl0_cpheadcontent_d1_PageList"></span>        
+                </td>
+                      </tr>
+                      <tr>
+                        <td height="25" align="right">
+                          <a id="_ctl0_cpheadcontent_d1_PreLink" href="/PreNext.Aspx?ID=11493&amp;CID=639&amp;Action=Previous"><font color="#FF0099">上一篇</font></a>
+                          <font color="#ff0099">/
+                          <a id="_ctl0_cpheadcontent_d1_NextLink" href="/PreNext.Aspx?ID=11493&amp;CID=639&amp;Action=Next"><font color="#FF0099">下一篇</font></a>
+                        </font></td>
+                      </tr>
+                  </table></TD>
+                  <TD><FONT face="宋体"></FONT></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="51"></TD>
+                  <TD colspan="2" valign="middle" class="Content"><b><font color="#ff6600">简介:</font></b>
+                      <blockquote>
+                        <span id="_ctl0_cpheadcontent_d1_AboutLabel"></span>          
+          </blockquote></TD>
+                  <TD><FONT face="宋体"></FONT></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="30"></TD>
+                  <TD valign="middle"> 出处/作者：
+                      <span id="_ctl0_cpheadcontent_d1_FromAuthorLabel" style="COLOR: #999999"> / </span>          
+&nbsp;&nbsp; 评价：<font color='#fd9720'>
+            <span id="_ctl0_cpheadcontent_d1_ScoreLabel">3</span>
+            </font>&nbsp;&nbsp; 大小：
+            <span id="_ctl0_cpheadcontent_d1_SizeLabel">12715 字节</span>
+                  </TD>
+                  <TD align="right" valign="middle">&nbsp;  </TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="30"></TD>
+                  <TD colspan="2" valign="middle" align="right"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td valign="bottom" colspan="3"><font color="#ff6600"><b><br>
+                      相关连接</b></font></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" colspan="3" align="left">
+                        <div id="_ctl0_cpheadcontent_d1_LikeNoData" style="TEXT-ALIGN:center">
+	没有相关连接
+</div>
+                        
+                      </td>
+                    </tr>
+                  </table>                    
+                    <div align="left"><br>
+                  </div></TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+
+          
+        </td>
+      </tr>
+</table>
+	<Script Language="JavaScript">
+document.onkeydown = NextPage;
+</Script>
+    <script type="text/javascript">
+        document.getElementById("dbody").style.display = "none";
+    </script>
+
+        </div>
+        <div class="D_foot" style="color:White;">
+            <div style="float: left; width: 59%; text-align: left;">
+                <div style="padding-top: 10px; padding-left: 50px;">
+                    <span id="_ctl0_txtfoot"><br/><br/>地址：中国上海市车站南路28号 邮编: 200434 电话: +86-021-65606715</span></div>
+            </div>
+            <div style="float: right; width: 40%;" >
+               <br />
+                上海心通信息技术有限公司协助制作</div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+        SetTableCssByClass();
+</script>
+
+</html>

@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_671_3505.shtml' title='标题:上海教育电视台头条报道我校：互动激发学生的思维潜能&#13;点击:486次&#13;日期:2014-5-30 9:00:38'  ><span style='color:;'>上海教育电视台头条报道</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3427.shtml' title='标题:虹口区复兴高级中学以提升课堂教学质量，破解发展“瓶颈”&#13;点击:379次&#13;日期:2014-4-9 16:19:35'  ><span style='color:;'>虹口区复兴高级中学以提升课</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_3041.shtml' title='标题:告别枯燥跑跳 自选体育课程  &#13;点击:344次&#13;日期:2013-12-19 14:51:23'  ><span style='color:;'>告别枯燥跑跳&nbsp;自选体育课程&nbsp;</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_2803.shtml' title='标题:数字影音实验室作品上电视啦！----复兴学子终结“电解水测水质”流言&#13;点击:396次&#13;日期:2013-3-16 20:33:42'  ><span style='color:;'>数字影音实验室作品上电</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_1871.shtml' title='标题:我校学生在美国比赛接受CCTV记者采访上电视啦&#13;点击:535次&#13;日期:2012-5-2 14:00:16'  ><span style='color:;'>我校学生在美国比赛接受</span></a><img src='images/Medio.gif' align='middle'   /></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_671_1864.shtml' title='标题:《解放日报》、东方网、新民网、上海教育官方微博等多家媒体报道我校：高中生自编“古汉语词典” &#13;点击:596次&#13;日期:2012-4-9 8:33:13'  ><span style='color:;'>《解放日报》、东方网、新民</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_671.shtml">媒体报道</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>虹口区复兴高级中学以提升课堂教学质量，破解发展“瓶颈”</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2014-4-9 16:19:35&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3427"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <div style="text-align: center" id="ivs_title">虹口区复兴高级中学以提升课堂教学质量，破解发展&ldquo;瓶颈&rdquo;</div>
+<p>&ldquo;whereareweheading?&rdquo;（我们去哪里？），这是虹口区复兴高级中学高三（五）班本学期正在上的一堂英语课。执教的戴华韵老师用&ldquo;HEAD&rdquo;：Haveadream(拥有并保持梦想)、Eagertolearn（始终保持学习热情，不论成功与失败）、Abletoadapt(能够不断调整自己学习习惯学习方法，适应更高更强更灵活的高考挑战)、Devilisinthedetails(细节决定成败)，来激励学生不断攀登学习的高峰，实现自己的梦想。课堂上，学生们个个被调动起了学习热情，连听课的老师也连称：这样的英语课有新意、有激情，能激发学生的学习热情。</p>
+<p>　　作为一所名校，复兴高级中学在区内外享有盛名。然随着教育的发展，生源质量的下降，近年来学校在发展中也遇到瓶颈。如何破解发展中遇到的瓶颈？&ldquo;复兴人&rdquo;在不断地进行探索。今年初，学校提出抓住机遇，锐意创新，以提升课堂教学质量，来推进学校特色发展。校长陈永平日前在接受记者采访时表示，要办好一所名校，离不开教学质量的提升，&ldquo;因为质量是教育永恒的主题，是学校的生命线，也是学校的立足之本&rdquo;。</p>
+<p>　　&ldquo;&lsquo;复兴&rsquo;要发展，必须要重实际，不能脱离现有的家底；要出实招，不能空想，不空喊口号；要求实效，实现高考上的&lsquo;瓶颈&rsquo;突破&rdquo;，陈永平说。要突破，就要正确处理好&ldquo;急诊&rdquo;（高三教学）与&ldquo;门诊&rdquo;（高一、高二教学）之间的关系。2013学年第二学期开学后，学校成立了高三教育教学工作小组，分别由学校党政两位主要负责人带队，深入课堂一线，通过听课调研发现课堂内存在的问题，及时与教师沟通。同时，通过与学生和家长座谈，了解并解决学生在学习上所存在的困境，有针对性的发现问题，督促改正，从而提高学生的学习成绩。</p>
+<p>　　本学期一开学，复兴高级中学的许多班级都开展了&ldquo;有梦有未来&rdquo;的主题班会，让每位同学畅谈&ldquo;我的中国梦&rdquo;是什么？并制定了个人阶段目标和实施计划，极大地提高了学生自主学习的热情。学校在高三的任课教师中开展学生定向&ldquo;导师制&rdquo;跟踪辅导，&ldquo;导师&rdquo;针对所教班级基础较薄弱的学生，通过课后答疑、作业面批、个别谈心等方式对其进行知识、习惯、能力及心理等方面辅导，使这些学生能较快地提高学习效率和成绩。</p>
+<p>　　陈永平介绍说，学校将抓住学习的四个环节，即&ldquo;课堂笔记&rdquo;：要求学生进行笔记结对校对，鼓励学生先复习再做作业；&ldquo;精练作业&rdquo;：作业有针对性，重点突出；做好&ldquo;错题集&rdquo;：要求学生把每天错题难点收集，分类整理归纳；&ldquo;解题技巧&rdquo;画出自己的知识结构图，总结解题技巧，从而提升学生学习和应对各种题型的能力。</p>
+<p><img src="/userfiles/upload/image/2014/04/09/20140409165321944819390.png" alt="" /><br />
+&nbsp;</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3427&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3427"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

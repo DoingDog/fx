@@ -1,0 +1,165 @@
+﻿body
+{
+	font-size:10pt;margin:0px;padding:0px;background-image:url(bg-0084.gif);
+}
+#dhead
+{
+	width:1000px;
+	height:183px;
+	background-image:url("index_01.jpg");
+	background-repeat: no-repeat;
+	text-align: left;
+}
+#dmenu
+{
+	text-align: center;
+	background-image:url(index_41.gif);
+}
+.headtitle
+{
+	height: 110px;
+	padding-left: 250px;
+	padding-top: 46px;
+	font-size:20pt;
+	font-family:华文楷体;
+	font-weight:bold;
+}
+#dbody
+{
+	min-height: 100px;
+	text-align:center;background-color:white;
+}
+
+#dfoot
+{
+	background-image: url(index_97.jpg);
+	background-repeat: repeat-x;
+	background-color: #A5CFDB;
+	height: 114px;
+	padding-top: 20px;
+}
+#dfoot div
+{
+	height: 114px;
+}
+.dfootRight
+{
+	background-image: url(index_100.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+}
+.Tab1
+{
+	background-image: url(../images/index/home_24.gif);
+	height: 84px;
+	background-repeat: repeat-x;
+	width: 30%;
+}
+.Tab3
+{
+	background-image: url(../images/index/home_26.gif);
+	height: 84px;
+	background-repeat: repeat-x;
+	width: 40%;
+}
+.Tab2
+{
+	background-image: url(../images/index/home_25.gif);
+	height: 84px;
+	background-repeat: repeat-x;
+	width: 44px;
+}
+.Tab4
+{
+	background-image: url(../images/index/home_28.gif);
+	height: 84px;
+	background-repeat: repeat-x;
+	width: 44px;
+}
+.classbody
+{
+	background-image: url(../images/index/bg.gif);
+}
+
+.titlecss
+{
+	font-size: 10.5pt;
+	font-weight: bold;
+}
+a:link
+{
+	color: black;
+	text-decoration: none;
+}
+a:active
+{
+	color: red;
+	text-decoration: none;
+}
+a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+a:hover
+{
+	color: red;
+	text-decoration: none;
+	position: relative;
+	left: 1px;
+	top: 1px;
+}
+.ItemCssStyle
+{
+	text-indent:20px;
+	background-image:url("../StyleDefault/hotspot.gif");
+	background-repeat:no-repeat;
+	border-bottom-width:1px;
+	border-bottom-color:Gray;
+	border-bottom-style:dashed;
+	line-height:25px;
+	background-position:left center;	
+}
+.linbg
+{
+	background:url(index_22_right.gif) repeat-y right;
+	width:2px;
+}
+.MorInfo
+{
+	float:right;
+  background-image:url(index_more.gif);
+  width:50px;
+  height:20px;
+  background-repeat:no-repeat;
+  cursor:hand;
+  background-position:left bottom;
+}
+.WZLJ
+{
+	float:left;
+	background-image:url(index_106.gif);
+	height:28px;
+	width:133px;	
+	background-repeat:no-repeat;
+}
+.GKXX
+{
+	float:left;
+	background:url(index_080.gif);
+	width:200px;
+	height:28px;
+}
+.ZXFW
+{
+	float:left;
+	background-image:url(index_109.gif);
+	height:28px;
+	width:133px;	
+	background-repeat:no-repeat;
+}
+.titlecontent
+{
+	min-height:100px;text-align:left;width:100%;	vertical-align:top;
+	height:300px;
+}

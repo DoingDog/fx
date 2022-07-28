@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>学生荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_116_1071.shtml' title='标题:动手动脑，打造不沉的“复兴方舟”&#13;点击:61次&#13;日期:2011-11-18 14:02:36'  ><span style='color:;'>动手动脑，打造不沉的“复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_1016.shtml' title='标题:运动点亮生活 ——记复兴趣味呼拉圈挑战赛 &#13;点击:149次&#13;日期:2011-10-9 10:22:25'  ><span style='color:;'>运动点亮生活&nbsp;——记复兴趣味</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_1003.shtml' title='标题:新生干部培训&#13;点击:299次&#13;日期:2011-8-31 8:10:28'  ><span style='color:;'>新生干部培训</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_923.shtml' title='标题:拒塑环保，从我做起&#13;点击:82次&#13;日期:2011-5-26 14:29:49'  ><span style='color:;'>拒塑环保，从我做起</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_887.shtml' title='标题:感受世博魅力，快乐阳光之家&#13;点击:51次&#13;日期:2011-5-23 13:10:24'  ><span style='color:;'>感受世博魅力，快乐阳光之家</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_886.shtml' title='标题:首届上海市未成年人思想道德建设工作创新案例申报表&#13;点击:42次&#13;日期:2011-5-23 13:09:11'  ><span style='color:;'>首届上海市未成年人思想道德</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_885.shtml' title='标题:复兴高级中学志愿者服务队章程&#13;点击:74次&#13;日期:2011-5-23 13:07:56'  ><span style='color:;'>复兴高级中学志愿者服务队章</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_884.shtml' title='标题:复兴“志愿者服务周”活动计划&#13;点击:67次&#13;日期:2011-5-23 13:04:56'  ><span style='color:;'>复兴“志愿者服务周”活动计</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_116.shtml">学生天地</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>首届上海市未成年人思想道德建设工作创新案例申报表</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:德育处&nbsp;&nbsp; 编辑日期:2011-5-23 13:09:11&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=886"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<p>
+<table class="TableCss" cellspacing="0" cellpadding="0" align="left" border="1">
+    <tbody>
+        <tr>
+            <td valign="top" width="85">
+            <div><span>案例名称</span></div>
+            </td>
+            <td valign="top" width="467" colspan="4">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="85">
+            <div><span>创意单位</span></div>
+            </td>
+            <td valign="top" width="180" colspan="2">
+            <div><span>复兴高级中学团委</span></div>
+            </td>
+            <td valign="top" width="96">
+            <div><span>活动范围</span></div>
+            </td>
+            <td valign="top" width="191">
+            <div><span>虹口区江湾街道 属居委会</span></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="85">
+            <div><span>联系人</span></div>
+            </td>
+            <td valign="top" width="180" colspan="2">
+            <div><span>张燕</span></div>
+            </td>
+            <td valign="top" width="96">
+            <div><span>联系电话</span></div>
+            </td>
+            <td valign="top" width="191">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="85">
+            <div><span>推荐单位</span></div>
+            </td>
+            <td valign="top" width="180" colspan="2">
+            <div><span>复兴高级中学</span></div>
+            </td>
+            <td valign="top" width="96">
+            <div>&nbsp;</div>
+            </td>
+            <td valign="top" width="191">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="552" colspan="5">
+            <div><span>{</span><span>案例简介及自我评价500字以内，另附详细材料2000字以内}</span></div>
+            <div><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></div>
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="157" colspan="2">
+            <div><span>区县文明办或上级</span></div>
+            <div><span>单位意见</span>{<span>盖章</span>}</div>
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
+            <div><b>&nbsp;</b></div>
+            </td>
+            <td valign="top" width="395" colspan="3">
+            <div><b>&nbsp;</b></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div><b><span>首届上海市未成年人思想道德建设工作创新案例申报表</span></b></div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=886&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=886"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

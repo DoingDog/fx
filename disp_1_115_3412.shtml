@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/list_fxdy.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <div id="maintop">
+        <script type="text/javascript">            var f = new Flash("template/fxgj/images/list_fxdy/pgfx.swf", "flash", "962", "205", true);
+            f.add("maintop");
+</script>
+    </div>
+    <div id="pubmenu"><script src="/template/FXGJ/menu.js" type="text/javascript"></script></div>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2"></div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div711" class='listitem3'><a href='list_1_711.shtml'>德育概况</a></div></td></tr><tr><td><div id="div706" class='listitem3'><a href='list_1_706.shtml'>管理保障</a></div></td></tr><tr><td><div id="div707" class='listitem3'><a href='list_1_707.shtml'>品格养成</a></div></td></tr><tr><td><div id="div708" class='listitem3'><a href='list_1_708.shtml'>教师垂范</a></div></td></tr><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr><tr><td><div id="div709" class='listitem3'><a href='list_1_709.shtml'>德育科研</a></div></td></tr></table>
+            </div>
+            <div class="listbtm"></div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_115.shtml">校园文化</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>乌云的金边</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:袁立薇&nbsp;&nbsp; 编辑日期:2014-3-31 12:36:06&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3412"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center">乌云的金边</div>
+<div align="right">&mdash;&mdash;杨绛《丙午丁未年纪事》推荐</div>
+<div>她是一位声名显赫的文人：杨荫杭之女，钱钟书之妻，我国著名的作家、戏剧家、翻译家。</div>
+<div>她也是一位命途多舛的女人：中年经历文革，晚年面对独生女儿和丈夫的相继离世。</div>
+<div>然而在艰难坎坷的劫难中，她依然笔耕不辍；在独孤的岁月之中，慢慢老去的同时，以96岁的高龄出版了回忆录。</div>
+<div>杨绛&mdash;&mdash;这位百岁老人，是值得我们铭记的。她的作品，是值得我们阅读的。</div>
+<div>在此向大家推荐杨绛的《丙午丁未年纪事》。</div>
+<div>经历过、听说过那场浩劫的人们，总是会被那些痛苦而惨烈的往事所震撼，总会想到毁灭与悲恸。</div>
+<div>然而杨绛在回忆、书写的时候，带给我们的却是不一样的情绪。</div>
+<div>她说：&ldquo;接西方成语：&lsquo;每一朵乌云都有一道银边&rsquo;。丙午丁未年同遭大劫的人，如果经过不同程度的摧残和折磨，彼此间加深了一点了解，孳生了一点同情和友情，就该算是那一片乌云的银边或竟是金边吧？&mdash;&mdash;因为乌云愈是厚密，银色会变为金色。常言&lsquo;彩云易散&rsquo;，乌云也何尝能永远占领天空。乌云蔽天的岁月是不堪回首的，可是停留在我记忆里不易磨灭的，倒是那一道含蕴着光和热的金边。&rdquo;</div>
+<div>再厚密的乌云也终究会有银边或金边出现，不会永远占领天空。个人的苦难，国家的艰难岁月，总会有乌云退散的时候。</div>
+<div>在恶的年代里，悲愤的死固然能呈现不屈的气节和刚正的操守，但是如何&ldquo;活&rdquo;却成为了一件更艰难而充满考验的事。善良的人们在恶的年代里相互取暖。幸而这样的温暖能够存在，民间的道德基石才不至于崩塌。除了隐忍之外，&ldquo;活&rdquo;还需要内心的坚守、乐观与信念，而这一切的来源，皆是人性中最本真的&ldquo;善良&rdquo;&mdash;&mdash;自身的，别人的，相互的。</div>
+<div>在阅读《丙午丁未年纪事》的时候，我们能感受到杨绛所写的正是&ldquo;活&rdquo;背后的那些因素。</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3412&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3412"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <div style="height:10px; clear:both; overflow:hidden;"></div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

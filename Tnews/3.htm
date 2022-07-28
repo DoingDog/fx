@@ -1,0 +1,96 @@
+<%@ Language=VBScript %>
+<html><head><meta http-equiv=Content-Type content='text/html; charset=gb2312'>
+<style type='text/css'>
+<!--
+.yxy1{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#000000;text-decoration:none}
+.yxy2{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#0000FF}a:hover{color:red;text-decoration:underline}a.yxy3{color:#000000;text-decoration:none}-->
+</style>
+<title>复兴新闻</title>
+</head>
+
+ 
+  <BODY bgcolor=#FFFFE1>
+<Center>
+  <br>
+  <table border=0 width=452 cellspacing=0 cellpadding=0>
+<tr><td width=273 height=11>
+<font color=#000000>
+<span style=font-family:宋体;font-size:9pt;color:rgb(0,0,0)>
+上海市复兴高级中学 &gt;&gt; 新闻中心 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+</span></font>       
+</td>       
+<td width=179 height=11>       
+        <p align="right"><font size="2" color="#990033">发布时间：2005-01-10</font> 
+      </td></tr>
+<tr><td width=273 height=8></td>
+<td width=179 height=8></td>
+</tr>
+<tr><td width=452 height=18 colspan=2><p align=right>&nbsp;</td></tr>
+</table>
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="1">
+<tr>
+      <td width=452 height=93 align=left> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1月8日，我校张皓天、朱亦舒两位同学在第六届“世纪杯”上海市重点中学演讲比赛中获得一等奖，为学校赢得了荣誉。<br>
+        &nbsp;&nbsp;&nbsp; “世纪杯”上海市重点中学演讲比赛已经举办了六届，本届比赛由复兴高级中学举办。学校为比赛付出了巨大的人力、物力和财力支持，先后举行了两次组委会和指导教师会议，市演讲与口才学会副会长沈宝良先生提出了许多指导性意见。我校在高二年级进行了选拔，张皓天、朱亦舒同学脱颖而处，代表学校参赛。12月18日，举行了初赛，在来自各重点中学的七十多位选手中，朱亦舒、张皓天同学分别以第二名和第五名的成绩闯入决赛。在1月8日的决赛中，他们被分在下午的第二组，拿到抽签题目后，经过半个小时的准备，张皓天、朱亦舒同学分别作了《真情让我们心连心》和《播洒真情，收获幸福》的即兴演讲，他们情真义切、有条不紊的演讲博得了在场听众的热烈掌声。最后，两位同学分别以第一名和第四名的成绩荣获一等奖。 
+        <p align="center"><img border="0" src="yanjiang.jpg" width="400" height="900"></p>
+        <p>　</p>
+</td></tr>
+
+
+  <%
+   adoRS.Close
+   SqlString="select * from news where id=" & Request.QueryString ("ID")+1
+   adoRS.Open SqlString ,adoConn 
+   if not adoRS.EOF then %>
+ 
+   <tr><td width=452 height="21"><hr size=1 color=#0000FF></td></tr>
+   <tr>
+      <td width=452 height="15"> <span class=yxy1> <font color=#408080>上一条:</font>    
+        </span><a href="2.htm"><font size="2">我校参加“读经活动”交流</font></a></td>                                                                                                                                                                                                                                                                                                                                  
+    </tr>      
+<%end if%>      
+      
+      
+      
+      
+<% adoRS.Close       
+   SqlString="select * from news where id=" & Request.QueryString ("ID")-1      
+   adoRS.Open SqlString ,adoConn       
+   if not adoRS.EOF then %>      
+   <tr>      
+      <td width=452 height="21">      
+        <hr size=1 color=#0000FF>      
+      </td>      
+    </tr>      
+   <tr>      
+      <td width=452 height="34"> <span class=yxy1> <font color=#408080>下一条:</font>        
+ </span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+        <a href="4.htm"><font size="2">复兴高级中学举办首届戏剧节</a></font>                                                                                                                                                                                                                                                                                       
+        <hr size=1 color=#0000FF>    
+      </td>    
+    </tr>    
+<%end if%>    
+<tr>    
+      <td width=452 height="21">&nbsp;</td>    
+    </tr>    
+    
+    
+    
+<%    
+   adoRS.Close     
+   UpdateStr="update news set Counter = Counter+1 where id=" & Request.QueryString ("ID")    
+   adoRS.Open UpdateStr,adoConn    
+   adoConn.Close %>    
+</table>    
+    
+  <p>　</p>
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="67">    
+<tr><td width=452 height="18"></td></tr><tr><td width=452 height=21>    
+</td></tr><tr><td width=452 height=14>    
+<p align=center><span style=font-family:宋体;font-size:9pt>    
+<font color=#FE0000>上海市复兴高级中学</font>*车站南路28号</span></td></tr>    
+<tr><td width=452 height=14><p align=center><span style=font-family:宋体;font-size:9pt>Email:<a href=mailto:webmaster@fuxing.sh.cn>webmaster@fuxing.sh.cn</a></span></td></tr>    
+</table>    
+</Center>    
+</BODY>    
+</HTML>    

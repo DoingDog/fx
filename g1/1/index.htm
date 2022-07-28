@@ -1,0 +1,236 @@
+<html><!-- #BeginTemplate "/Templates/main.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<HTML><HEAD><TITLE>上海复兴高级中学网站</TITLE><!-- #EndEditable -->
+<META content="text/html; charset=gb2312" http-equiv=Content-Type><LINK 
+href="index.files/main.css" rel=stylesheet type=text/css>
+<SCRIPT language=JavaScript>
+var L_strMailboxPlease_Message = "请键入您的邮箱名称。";
+var L_strValidMailbox_Message = "邮箱名称包含无效字符。";
+var L_SessionTimedOut_Message = "您的会话已超时。如果要继续，您必须重新登录。";
+
+function sendForm(bAnon) {
+    if (!bAnon)
+    {
+    if (document.logonForm.mailbox.value=="") 
+    {
+        alert(L_strMailboxPlease_Message ) 
+    }
+    else if (((document.logonForm.mailbox.value.indexOf("\\") != -1) ||
+         (document.logonForm.mailbox.value.indexOf("/") != -1)) ||
+         (document.logonForm.mailbox.value.indexOf(";") != -1)) 
+    {
+        alert(L_strValidMailbox_Message)
+    }   
+    else
+    {
+        document.logonForm.submit();
+    }    
+    }
+    else
+    {
+    document.logonForm.mailbox.value="";
+    document.logonForm.submit();
+    }
+}
+</SCRIPT>
+
+<SCRIPT language=JavaScript><!--
+	var text="请记住本站网址：https://www.fuxing.sh.cn"
+	var speed=60
+	var x=0
+	function bb()
+	{
+		var a=text.substring(0,x)
+		var b=text.substring(x,x+1).toUpperCase()
+		var c=text.substring(x+1,text.length)
+		window.status=a+b+c
+		if(x==text.length)
+		{
+			x=0
+
+		}
+		else
+		{
+			x++
+		}
+		setTimeout("bb()",speed)
+
+	}
+	bb();
+	//-->
+	</SCRIPT>
+
+<META content="Microsoft FrontPage 4.0" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=2 text=#000000 topMargin=2 marginheight="0" 
+marginwidth="0">
+<TABLE align=left border=0 cellPadding=0 cellSpacing=1 width=500>
+  <TBODY>
+  <TR>
+    <TD bgColor=#006699 height=91 width=120>
+      <TABLE align=left bgColor=#ffffff borderColor=#006699 cellPadding=1 
+      cellSpacing=0 class=login height=80 width=130>
+        <TBODY>
+        <TR>
+          <TD bgColor=#006699 borderColor=#006699 height=20 width=115>
+            <DIV align=center><FONT color=#ffffff>email登录</FONT></DIV></TD></TR>
+        <TR>
+          <FORM action=https://mail.fuxing.sh.cn/exchange/LogonFrm.asp method=get 
+          name=logonForm onsubmit=sendForm(false);return(false);>
+          <TD colSpan=2 height=60 noWrap width=124>
+            <P align=center><FONT color=#000000>账号: <INPUT class=form0    
+            maxLength=15 name=mailbox size=10> <BR><INPUT name=isnewwindow2 
+            type=hidden value=0> <INPUT alt=登录 border=0 height=30    
+            src="index.files/login.gif" type=image width=42> 
+          </FONT></P></TD></FORM></TR></TBODY></TABLE><BR></TD>
+    <TD align=middle colSpan=9 height=91 vAlign=center width=728>
+      <DIV align=center>
+      <OBJECT classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 
+      codeBase=https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0 
+      height=75 width=445><PARAM NAME="movie" VALUE="images/title.swf"><PARAM NAME="quality" VALUE="high">
+                                             <embed src="images/title.swf" 
+      quality=high 
+      pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" 
+      type="application/x-shockwave-flash" width="445" height="75">             
+      </embed>            </OBJECT></DIV></TD></TR>
+  <TR vAlign=center> 
+    <TD bgColor=#006699 height=18 width=120> 
+      <DIV align=center id=Clock  
+    style="COLOR: #000000; FONT-SIZE: 20px"></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=33> 
+      <DIV align=center><A  
+    href="https://fx.xxoo.skin/index.htm">主页</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=69> 
+      <DIV align=center><A  
+      href="https://fx.xxoo.skin/pages/intro.htm">复兴概况</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=64> 
+      <DIV align=center><A  
+      href="https://fx.xxoo.skin/pages/newface.htm">复兴新貌</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=64> 
+      <DIV align=center><A  
+      href="https://fx.xxoo.skin/pages/feature/index.htm">教育特色</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=64> 
+      <DIV align=center><A  
+      href="https://fx.xxoo.skin/pages/life.htm">校园生活</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=48> 
+      <DIV align=center><A href="https://fx.xxoo.skin/alumni/index.htm"  
+      target=_blank>校友会</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=64> 
+      <DIV align=center><A href="https://172.16.0.12/">教育资源</A></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 width=158> 
+      <DIV align=center><FONT  
+      face=Arial>:::::::::::::::::::::::::::::::::::::::::::::::::</FONT></DIV></TD> 
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'"  
+    onmouseover="bgColor='#006699'" width=63> 
+      <DIV align=center></DIV></TD></TR> 
+  <TR> 
+    <TD bgColor=#006699 borderColor=#ffffff vAlign=top width=120> 
+      <TABLE bgColor=#ffffff border=0 cellPadding=0 cellSpacing=1 width=129> 
+        <TBODY> 
+        <TR> 
+          <TD bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g200002">科技与环保</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g199810">人类只有一个地球</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g200004">科学在线</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g200006">家园中华网</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g199902">求真基因网</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g199803">航天技术</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g199904">科技园地</A></FONT></P></TD></TR> 
+        <TR> 
+          <TD align=middle bgColor=#a0cce3 class=left height=15  
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'"  
+width=123> 
+            <P align=center><FONT face=华文中宋 size=2>::<A  
+            href="https://fx.xxoo.skin/stuweb/g199806">二十一世纪畅想</A></FONT></P></TD></TR></TBODY></TABLE> 
+      <P align=center></P></TD> 
+    <TD align=middle colSpan=9 height=400 rowSpan=4 vAlign=top width=728> 
+      <TABLE border=0 cellPadding=0 cellSpacing=1 height=400 width=650> 
+        <TBODY> 
+        <TR> 
+          <TD class=left height=401 vAlign=top><!-- #BeginEditable "content" --> 
+            <TABLE border=0 cellPadding=0 cellSpacing=0 height=424 width=649> 
+              <TBODY> 
+              <TR> 
+                <TD height=202 width=649> 
+                  <table border="1" width="42%"> 
+                    <tr> 
+                      <td width="50%" align="center"><a href="陈家骅/index.htm"><font size="3">陈家骅</font></a></td> 
+                      <td width="50%" align="center"><a href="feifan/index.htm"><font size="3">费凡</font></a></td>
+                    </tr>
+                    <tr>
+                      <td width="50%" align="center"><a href="黄雪健/index.htm"><font size="3">黄雪健</font></a></td>
+                      <td width="50%" align="center"><a href="宋文婧/index.htm"><font size="3">宋文婧</font></a></td>
+                    </tr>
+                  </table>
+                  <DIV align=center>　</DIV>
+                  <DIV align=center>　</DIV>
+                  <DIV align=center>　</DIV>
+                  <DIV align=center><IMG alt=" 校园一景　崔伟毅／摄 " 
+                  src="pano1.jpg" width="645" height="200"></DIV></TD></TR></TBODY></TABLE><!-- #EndEditable --></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD align=left bgColor=#000000 class=bar height=15 
+    onmouseout="bgColor='#000000'" onmouseover="bgColor='#006699'" vAlign=center 
+    width=120>::<A href="https://fx.xxoo.skin/mailbox/Default.htm" 
+      target=_blank>校长信箱</A></TD></TR>
+  <TR>
+    <TD align=left bgColor=#000000 class=bar height=15 
+    onmouseout="bgColor='#000000'" onmouseover="bgColor='#006699'" vAlign=center 
+    width=120>::留言簿</TD></TR>
+  <TR>
+    <TD align=left bgColor=#000000 class=bar height=15 
+    onmouseout="bgColor='#000000'" onmouseover="bgColor='#006699'" vAlign=center 
+    width=120>::<A href="mailto:webmaster@fuxing.sh.cn">联系我们</A></TD></TR>
+  <TR>
+    <TD align=left bgColor=#000000 height=15 vAlign=center width=125>
+      <DIV align=left>
+      <SCRIPT language=JavaScript>   
+now = new Date()   
+document.write(now.toLocaleString())//-->   
+</SCRIPT>
+      </DIV></TD>
+    <TD colSpan=8 height=15 width=691>
+      <DIV align=right><!-- #BeginEditable "comment" --><FONT 
+      color=#666666>上图为校园一景　<FONT color=#999999>崔伟毅／摄</FONT></FONT><!-- #EndEditable --></DIV></TD></TR>
+  <TR bgColor=#006699>
+    <TD align=middle colSpan=10 height=35 vAlign=center 
+      width=852>地址:中国上海市车站南路28号 邮编:200434 电话:86-021-65606715</TD></TR></TBODY></TABLE><!-- #EndTemplate --></BODY></HTML>   

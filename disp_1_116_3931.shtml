@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/list_fxdy.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <div id="maintop">
+        <script type="text/javascript">            var f = new Flash("template/fxgj/images/list_fxdy/pgfx.swf", "flash", "962", "205", true);
+            f.add("maintop");
+</script>
+    </div>
+    <div id="pubmenu"><script src="/template/FXGJ/menu.js" type="text/javascript"></script></div>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2"></div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div711" class='listitem3'><a href='list_1_711.shtml'>德育概况</a></div></td></tr><tr><td><div id="div706" class='listitem3'><a href='list_1_706.shtml'>管理保障</a></div></td></tr><tr><td><div id="div707" class='listitem3'><a href='list_1_707.shtml'>品格养成</a></div></td></tr><tr><td><div id="div708" class='listitem3'><a href='list_1_708.shtml'>教师垂范</a></div></td></tr><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr><tr><td><div id="div709" class='listitem3'><a href='list_1_709.shtml'>德育科研</a></div></td></tr></table>
+            </div>
+            <div class="listbtm"></div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_116.shtml">学生天地</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>逐梦讲座</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:理论实践部 邓亦珣 &nbsp;&nbsp; 编辑日期:2015-12-16 8:48:13&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3931"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center"><img src="/userfiles/upload/image/2015/12/16/20151216081149533756180.JPG" alt="" /></p>
+<div>今天中午，复旦大学政治系的周思勰校友。用一篇精彩的论文与一口连珠的妙语，既为寒风中的我们理清了大国关系，又为本年度的逐梦讲座完美地收官。<br />
+本次讲座以中美关系为切入点，把炙手可热的新闻与古今事例相结合，清晰地传达给了我们。而周思勰校友诙谐的语言也让我们沉迷于政治世界之中。<br />
+在这之前也许我们并不觉得时政有趣，但周思勰校友用他的亲身体会大大激发了我们的兴趣，也教会了我们用理性的方式对待大国关系，以俯瞰的角度去读历史。<br />
+当今人们都很难用理性的态度去看问题，但通过周思勰校友深入浅出的讲解，让同学们对于世界格局，国际政治有了更深刻的理解与认识。<br />
+虽然只有短短的三刻钟，若有所思却又戛然而止，但在这短暂的讲座结束后，同学们都收益颇多。<br />
+既见君子，云胡不喜。周思勰校友的讲座中，处处体现着一名优秀复兴人认真治学的求真精神。在座的每一位同学也都从中受益匪浅。</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3931&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3931"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <div style="height:10px; clear:both; overflow:hidden;"></div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

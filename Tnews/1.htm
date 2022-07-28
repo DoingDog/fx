@@ -1,0 +1,121 @@
+<%@ Language=VBScript %>
+<html><head><meta http-equiv=Content-Type content='text/html; charset=gb2312'>
+<style type='text/css'>
+<!--
+.yxy1{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#000000;text-decoration:none}
+.yxy2{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#0000FF}a:hover{color:red;text-decoration:underline}a.yxy3{color:#000000;text-decoration:none}-->
+</style>
+<title>复兴新闻</title>
+</head>
+
+ 
+  <BODY bgcolor=#FFFFE1>
+<Center>
+  <br>
+  <table border=0 width=452 cellspacing=0 cellpadding=0>
+<tr><td width=273 height=11>
+<font color=#000000>
+<span style=font-family:宋体;font-size:9pt;color:rgb(0,0,0)>
+上海市复兴高级中学 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+新闻中心 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+</span></font>       
+</td>       
+<td width=179 height=11>       
+        <p align="right"><font size="2" color="#990033">发布时间：2004-11-30</font> 
+      </td></tr>
+<tr><td width=273 height=8></td>
+<td width=179 height=8></td>
+</tr>
+<tr><td width=452 height=18 colspan=2><p align=right>&nbsp;</td></tr>
+</table>
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="3">
+<tr>
+      <td width=452 height=93 align=left> 
+        <div class="p4">
+          <div class="p4">
+            <div class="p4">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span lang="EN-US" style="font-size:12.0pt;  
+mso-bidi-font-size:10.0pt">11</span><span style="font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:
+10.0pt">19</span><span style="font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;">日——</span><span lang="EN-US" style="font-size:12.0pt;
+mso-bidi-font-size:10.0pt">11</span><span style="font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:
+10.0pt">27</span><span style="font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
+&quot;Times New Roman&quot;">日，全体高二学生赴奉贤“五四农场”参加学农实践活动。</span><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
+&quot;Times New Roman&quot;;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA"><br>
+              </span><span style="font-size: 12.0pt; mso-bidi-font-size: 10.0pt" lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+              </span><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
+&quot;Times New Roman&quot;;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">8</span><span style="font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">天农场生活紧张而又充实，同学们亲身体验了种菜、施肥的艰辛与不易，亲眼目睹和领略了现代农业园区的高速发展，聆听了关于农场发展史的报告，也在参与农业知识竞赛的过程中学到了许多课堂以外的知识。学农培养了同学们吃苦耐劳、艰苦朴素的作风，增强了集体观念，学会了如何与人相处，彼此合作，这种生活态度将使他们受益一生。学农带给学生的不仅是美好的回忆，更是无限的收获。</span>  
+            </div>
+          </div>
+        </div>
+</td></tr>
+<tr><td width=406 height="1">
+        <p align=right>
+</td></tr>
+
+
+  <%
+   adoRS.Close
+   SqlString="select * from news where id=" & Request.QueryString ("ID")+1
+   adoRS.Open SqlString ,adoConn 
+   if not adoRS.EOF then %>
+ 
+   <tr><td width=452 height="21"><hr size=1 color=#0000FF></td></tr>
+<%end if%>      
+      
+      
+      
+      
+<% adoRS.Close       
+   SqlString="select * from news where id=" & Request.QueryString ("ID")-1      
+   adoRS.Open SqlString ,adoConn       
+   if not adoRS.EOF then %>      
+   <tr>      
+      <td width=452 height="23">      
+        <hr size=1 color=#0000FF>      
+      </td>      
+    </tr>      
+   <tr>      
+      <td width=452 height="34"> <span class=yxy1> <font color=#408080>下一条:</font>        
+ </span>                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+        <a href="2.htm"><font size="2">我校参加“读经活动”交流</font>                                                                                                                                                                                                                                                              
+        <hr size=1 color=#0000FF>    
+      </td>    
+    </tr>    
+<%end if%>    
+<tr>    
+      <td width=452 height="21">&nbsp;</td>    
+    </tr>    
+    
+    
+    
+<%    
+   adoRS.Close     
+   UpdateStr="update news set Counter = Counter+1 where id=" & Request.QueryString ("ID")    
+   adoRS.Open UpdateStr,adoConn    
+   adoConn.Close %>    
+</table>    
+    
+<p>    
+</p>    
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="67">    
+<tr><td width=452 height="18"></td></tr><tr><td width=452 height=21>    
+</td></tr><tr><td width=452 height=14>    
+<p align=center><span style=font-family:宋体;font-size:9pt>    
+<font color=#FE0000>上海市复兴高级中学</font>*车站南路28号</span></td></tr>    
+<tr><td width=452 height=14><p align=center><span style=font-family:宋体;font-size:9pt>Email:<a href=mailto:webmaster@fuxing.sh.cn>webmaster@fuxing.sh.cn</a></span></td></tr>    
+</table>    
+</Center>    
+</BODY>    
+</HTML>    

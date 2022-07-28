@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_3812.shtml' title='标题:我在复兴高级中学听了一堂“眼高手低“的课(转自《上海教育-第一教育》)&#13;点击:333次&#13;日期:2015-5-30 9:53:09'  ><span style='color:;'>我在复兴高级中学听了一堂“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3707.shtml' title='标题:【推介】上海市奉贤区副区长、特级教师倪闽景：学习的意义&#13;点击:1176次&#13;日期:2015-3-21 14:22:18'  ><span style='color:;'>【推介】上海市奉贤区副区长</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3813.shtml' title='标题:海峡两岸中国语文教学观摩研讨会顺利召开&#13;点击:116次&#13;日期:2015-6-4 16:51:42'  ><span style='color:;'>海峡两岸中国语文教学观摩研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3802.shtml' title='标题:继往开来，展翅飞翔&#13;点击:392次&#13;日期:2015-5-18 8:08:53'  ><span style='color:;'>继往开来，展翅飞翔</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3796.shtml' title='标题:复兴机器人社赴美参加2015年VEX机器人世界锦标赛获殊荣&#13;点击:384次&#13;日期:2015-5-8 10:36:32'  ><span style='color:;'>复兴机器人社赴美参加2015年</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3790.shtml' title='标题:复兴高级中学党员责任区结对仪式&#13;点击:220次&#13;日期:2015-5-5 16:14:10'  ><span style='color:;'>复兴高级中学党员责任区结对</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3714.shtml' title='标题:复兴学子 清明节烈士陵园祭扫&#13;点击:572次&#13;日期:2015-4-7 13:35:45'  ><span style='color:;'>复兴学子&nbsp;清明节烈士陵园祭扫</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3710.shtml' title='标题:南方科技大学陈十一校长莅临复兴高级中学讲座&#13;点击:521次&#13;日期:2015-4-1 19:48:07'  ><span style='color:;'>南方科技大学陈十一校长莅临</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3703.shtml' title='标题:2014-2015年高三西藏生寒假总结&#13;点击:289次&#13;日期:2015-3-20 12:43:37'  ><span style='color:;'>2014-2015年高三西藏生寒假总</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3699.shtml' title='标题:复兴高级中学——上海市体育运动学校联谊会召开&#13;点击:682次&#13;日期:2015-3-18 14:46:35'  ><span style='color:;'>复兴高级中学——上海市体育</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_3645.shtml' title='高考理科状元吴曜辰回母校看望老师'  target='_blank'  >高考理科状元吴曜辰回母校看</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_3707.shtml' title='【推介】上海市奉贤区副区长、特级教师倪闽景：学习的意义'  target='_blank'  >【推介】上海市奉贤区副区长</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_3651.shtml' title='【今日头条】青春的无限可能---- 我校吴子婧同学用影像重新演绎《长恨歌》'  target='_blank'  >【今日头条】青春的无限可能</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_3689.shtml' title='2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕'  target='_blank'  >2015年复兴集团初三学生“走</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_3699.shtml' title='复兴高级中学——上海市体育运动学校联谊会召开'  target='_blank'  >复兴高级中学——上海市体育</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_3714.shtml' title='复兴学子 清明节烈士陵园祭扫'  target='_blank'  >复兴学子&nbsp;清明节烈士陵园祭扫</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_3710.shtml' title='南方科技大学陈十一校长莅临复兴高级中学讲座'  target='_blank'  >南方科技大学陈十一校长莅临</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_3693.shtml' title='新学期 永平说'  target='_blank'  >新学期&nbsp;永平说</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_3679.shtml' title='袁振国教授做客复兴讲座'  target='_blank'  >袁振国教授做客复兴讲座</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_3665.shtml' title='复兴中学三老新春团拜会举行'  target='_blank'  >复兴中学三老新春团拜会举行</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2014-2015年高三西藏生寒假总结</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:孙欢欢&nbsp;&nbsp; 编辑日期:2015-3-20 12:43:37&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3703"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>2014-2015</b><b>年高三西藏生寒假总结</b></div>
+<div>&nbsp;</div>
+<div>2015年新年，高三西藏生照例在学校度过。整个寒假期间，学校从生活、学习、实践活动三方面安排了学生的寒假生活。</div>
+<div>保障高三西藏生寒假在学校的生活舒适、便捷是学校的责任。学校为此采取了一系列措施。首先，提高了食堂的伙食标准，保证寒假期间有美味可口的饭菜保质保量的供应。其次，在宿舍安装了自动贩售机，每位学生发放300元购物卡，使学生晚上足不出户就可以购买食品和必需品。再次，开放了宿舍六楼浴室，方便学生洗澡。第四，开放了宿舍自修室，保证学生享有足够的学习空间。第五，安装了有线电视网络，配备了八台电脑，丰富学生的休闲娱乐时间。第六，确保值班老师制度，每天有一位班主任24小时值班，关注学生的身心健康和生活学习情况。第七，加强宿舍监管，要求学生每天18:30返校、20:30返回宿舍，宿舍每天晚上点名，落实到每一位学生。</div>
+<div>高考迫在眉睫，高三寒假安排一直都是围绕补课进行。本次寒假又与往年略有变化。2015年农历年比较晚，这次寒假在过年前有两周，过年一周，年后半周。因此，补课都集中安排在过年之前的两周。补课科目有语、数、外三门，全部高三生按照散插和集中分为两个班级，轮流上课。其他时间自修。本届学生在补课考勤、课堂纪律和课堂效率三方面都有突出的表现，为时两周的补课十分顺利，尤其是集中班，没有一例无故旷课。</div>
+<div>高三的寒假固然是紧张的，但不应该是压抑的。在组织学生进行持续、高效学习的同时，学校并没有忽视学生的社会实践活动。适时适当的社会实践活动不仅能够成为高压学习过程中的调剂，更能够为学生的知识结构添加鲜活的素材和真实的生活体验，激发学生的学习兴趣和动力。在寒假阶段，每周三下午，高三西藏生前往曲阳电影院观影。寒假的第一个周六&mdash;&mdash;2月6日，全体高三西藏生在上戏剧院观看话剧《乌龙山伯爵》。2月12日，前往崇明生态园区参观。年后，举办了三场专业讲座，请来了大学不同专业的老师、博士，为学生详细介绍不同专业情况，为开学之后的高考报名做准备。</div>
+<div>2月18日是除夕，17点，高三西藏生在食堂三楼新年聚餐。2月19日是春节，17点，高三西藏生在食堂三楼共同庆祝藏历新年。对于现代教育体制下的每一位学生而言，高三都是是一个特殊的时间段，在这一年中浓缩了奋斗、欢笑、孤单、失落、期待、彷徨、焦虑、等待、感动&hellip;&hellip;，这一年之后进入大学，成为&ldquo;大人&rdquo;。这是孩子与成人的分水岭。在复兴的校园里，每年都有高三的西藏生留下守岁。他们不是汉族，却独自过着汉族的节日，在合家团聚的时候，远离父母家人。他们提前经历了成长。</div>
+<div>也许我们永远无法真正理解他们的感受，但是老师们希望能够陪伴他们度过这段成长的历程。希望这段有朋友、师长、自己陪伴的特殊经历，能够转化为成长的力量。</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3703&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3703"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

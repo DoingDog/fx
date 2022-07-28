@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_115_2281.shtml' title='标题:20120924复兴论坛预告(报告人：宋菲君）&#13;点击:42次&#13;日期:2012-9-21 10:16:08'  ><span style='color:;'>20120924复兴论坛预告(报告人</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_2277.shtml' title='标题:活力社团，精彩校园——记2012年复兴社团新生咨询会&#13;点击:93次&#13;日期:2012-9-19 15:25:29'  ><span style='color:;'>活力社团，精彩校园——记20</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_2275.shtml' title='标题:新热情——记2012团学联招新活动&#13;点击:82次&#13;日期:2012-9-19 15:21:06'  ><span style='color:;'>新热情——记2012团学联招新</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_2257.shtml' title='标题:2012年9月17日复兴论坛预告（报告人陈嘉倩）&#13;点击:144次&#13;日期:2012-9-13 10:03:02'  ><span style='color:;'>2012年9月17日复兴论坛预告（</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1930.shtml' title='标题:复兴，生日快乐——上海市复兴中学建校66周年庆典暨艺术节闭幕仪式&#13;点击:393次&#13;日期:2012-6-3 13:35:56'  ><span style='color:;'>复兴，生日快乐——上海市复</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1917.shtml' title='标题:校庆66周年暨2012年艺术节日程安排表&#13;点击:297次&#13;日期:2012-5-28 11:24:42'  ><span style='color:;'>校庆66周年暨2012年艺术节日</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1842.shtml' title='标题:做“勤学善学”的优秀复兴人----记复兴第七届读书节之学生学习成果展&#13;点击:395次&#13;日期:2012-4-1 9:23:33'  ><span style='color:;'>做“勤学善学”的优秀复兴人</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1791.shtml' title='标题:复兴高级中学第七届读书节&#13;点击:373次&#13;日期:2012-3-15 11:23:24'  ><span style='color:;'>复兴高级中学第七届读书节</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1132.shtml' title='标题:传递爱心，快乐共享——记2011复兴中学义卖义拍活动&#13;点击:245次&#13;日期:2011-12-28 11:05:54'  ><span style='color:;'>传递爱心，快乐共享——记20</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1115.shtml' title='标题:2011年学校科技节班级奖项评选汇总&#13;点击:308次&#13;日期:2011-12-22 9:42:42'  ><span style='color:;'>2011年学校科技节班级奖项评</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_115_1842.shtml' title='做“勤学善学”的优秀复兴人----记复兴第七届读书节之学生学习成果展'  target='_blank'  >做“勤学善学”的优秀复兴人</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_115_1930.shtml' title='复兴，生日快乐——上海市复兴中学建校66周年庆典暨艺术节闭幕仪式'  target='_blank'  >复兴，生日快乐——上海市复</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_115_1791.shtml' title='复兴高级中学第七届读书节'  target='_blank'  >复兴高级中学第七届读书节</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_115_1917.shtml' title='校庆66周年暨2012年艺术节日程安排表'  target='_blank'  >校庆66周年暨2012年艺术节日</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_115_2257.shtml' title='2012年9月17日复兴论坛预告（报告人陈嘉倩）'  target='_blank'  >2012年9月17日复兴论坛预告（</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_115_2277.shtml' title='活力社团，精彩校园——记2012年复兴社团新生咨询会'  target='_blank'  >活力社团，精彩校园——记</a><img src='images/atrri/new.gif' /></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_115_2275.shtml' title='新热情——记2012团学联招新活动'  target='_blank'  >新热情——记2012团学联招</a><img src='images/atrri/new.gif' /></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_115_2281.shtml' title='20120924复兴论坛预告(报告人：宋菲君）'  target='_blank'  >20120924复兴论坛预告(报告</a><img src='images/atrri/new.gif' /></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_115.shtml">校园文化</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>复兴高级中学第七届读书节</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:德育处&nbsp;&nbsp; 编辑日期:2012-3-15 11:23:24&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1791"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>复兴高级中学第七届读书节</b></div>
+<div><b>一、主题：阅读丰富生命</b></div>
+<div><b>二、主办：德育处<span>&nbsp;承办：语文组、英语组、团学联、工会、 </span></b></div>
+<div><b>高一高二高三年级组、图书馆、学习组</b></div>
+<div><b>三、主要内容：</b></div>
+<div><b>1</b><b>、论坛类：校友论坛、教师书场、学生论坛</b></div>
+<div><b>2</b><b>、活动类：高一年级英语课本剧、</b></div>
+<div><b>高二年级&ldquo;读书道&rdquo;演讲比赛、教师读书心得评比</b></div>
+<div><b>3</b><b>、展示类：班级读书节板报展示、班级读书节主题班会展示、学生学习成果展示</b></div>
+<div><b>四、</b><b><b>2012</b><b>年读书节日程安排表</b></b></div>
+<div>
+<div align="center"><b>&ldquo;</b><b>阅读丰富生命</b><b>&rdquo;</b></div>
+<div align="center"><b>（</b><b>主办</b><b>：德育处<span>&nbsp;</span></b><b>承办</b><b>：语文组、年级组、团学联、图书馆、工会、学习组）</b></div>
+<div align="center">
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="45">
+            <div align="center">日期</div>
+            </td>
+            <td width="109">
+            <div align="center">3/26</div>
+            </td>
+            <td width="84">
+            <div align="center">3/27</div>
+            </td>
+            <td width="96">
+            <div align="center">3/28</div>
+            </td>
+            <td width="48">
+            <div align="center">3/29</div>
+            </td>
+            <td width="120">
+            <div align="center">3/30</div>
+            </td>
+            <td width="72">
+            <div align="center">3/31</div>
+            </td>
+            <td width="73">
+            <div align="center">4/1</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="45">
+            <div align="center">星期</div>
+            </td>
+            <td width="109">
+            <div align="center">周一</div>
+            </td>
+            <td width="84">
+            <div align="center">周二</div>
+            </td>
+            <td width="96">
+            <div align="center">周三</div>
+            </td>
+            <td width="48">
+            <div align="center">周四</div>
+            </td>
+            <td width="120">
+            <div align="center">周五</div>
+            </td>
+            <td width="72">
+            <div align="center">周六</div>
+            </td>
+            <td width="73">
+            <div align="center">周日</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="45">
+            <div align="center">上午</div>
+            </td>
+            <td width="109">
+            <div align="center">9:15<span><span>升</span>旗仪式</span></div>
+            <div align="center">读书节开幕式</div>
+            </td>
+            <td width="84">
+            <div align="center">主题班会</div>
+            </td>
+            <td width="96">
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="48">
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="120">
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="72">
+            <div align="center">补上周一课</div>
+            </td>
+            <td width="73">
+            <div align="center">补上周二课</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="45">
+            <div align="center">中午</div>
+            </td>
+            <td width="602" colspan="7">
+            <div align="center"><span>1、&nbsp;</span>图书馆、阅览室开放。</div>
+            <div align="center"><span>2、&nbsp;</span>学生学习成果展（笔记、作业、试卷）</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="45">
+            <div align="center">下午</div>
+            </td>
+            <td width="109">
+            <div align="center">主题班会</div>
+            </td>
+            <td width="84">
+            <div align="center">15:10</div>
+            <div align="center">高二年级&ldquo;读书道&rdquo;演讲</div>
+            <div align="center">（大礼堂）</div>
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="96">
+            <div align="center">15:10</div>
+            <div align="center">高一年级英语课本剧</div>
+            <div align="center">（大礼堂）</div>
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="48">
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="120">
+            <div align="center">15:10</div>
+            <div align="center">校友论坛（<span>2207）</span></div>
+            <div align="center">学生论坛（<span>3103）</span></div>
+            <div align="center">教师论坛</div>
+            </td>
+            <td width="72">
+            <div align="center">&nbsp;</div>
+            </td>
+            <td width="73">
+            <div align="center">15：<span>15</span></div>
+            <div align="center">教工大会</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<p>&nbsp;</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1791&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1791"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

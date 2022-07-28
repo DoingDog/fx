@@ -1,0 +1,385 @@
+<html>
+<head>
+<title>高二2班求真基因网欢迎您！</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style type="text/css">
+<!--
+a:hover {  color: #FF3333;text-decoration: underline;}
+.link {  text-decoration: none; color: #FFFFFF}
+.link2 {  color: #000000; text-decoration: none; font-size: 10pt}
+.link3 {  font-size: 10pt; text-decoration: none; color: #FF3366}
+.eml {  color: #0000FF; text-decoration: none; font-family: "Arial", "Helvetica", "sans-serif"}
+.link4 {  color: #999999; text-decoration: none}
+.link5 {  font: 10pt "新宋体"; color: #FF0033; background: #FFFFFF; text-decoration: none}
+-->
+</style>
+<script language="JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+
+function MM_timelinePlay(tmLnName, myID) { //v1.2
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
+  if (myID == tmLn.ID) { //if Im newest
+    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
+    fNew = ++tmLn.curFrame;
+    for (i=0; i<tmLn.length; i++) {
+      sprite = tmLn[i];
+      if (sprite.charAt(0) == 's') {
+        if (sprite.obj) {
+          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
+          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
+            keyFrm=1;
+            for (j=0; j<sprite.values.length; j++) {
+              props = sprite.values[j]; 
+              if (numKeyFr != props.length) {
+                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
+                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
+              } else {
+                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
+                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
+                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
+                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
+        } } } } }
+      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
+  } }
+}
+
+function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (numGotos != null)
+    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
+    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
+  jmpFwd = (fNew > tmLn.curFrame);
+  for (i = 0; i < tmLn.length; i++) {
+    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
+    if (sprite.charAt(0) == "s") {
+      numKeyFr = sprite.keyFrames.length;
+      firstKeyFr = sprite.keyFrames[0];
+      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
+      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
+      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
+      for (j=0; j<sprite.values.length; j++) {
+        props = sprite.values[j];
+        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
+        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
+        if (sprite.obj != null) {
+          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
+          else        sprite.obj[props.prop2][props.prop] = props[propNum];
+      } }
+    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+  }
+  tmLn.curFrame = fNew;
+  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(1);
+    document.MM_Time[0] = new Array(1);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0][0] = new String("behavior");
+    document.MM_Time[0][0].frame = 371;
+    document.MM_Time[0][0].value = "MM_timelineGoto('Timeline1','1')";
+    document.MM_Time[0].lastFrame = 371;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" onLoad="MM_displayStatusMsg('欢迎来到求真基因网，你的支持是我们前进的动力！');MM_timelinePlay('Timeline1');MM_openBrWindow('todaystop.htm','','width=200,height=200');return document.MM_returnValue">
+<div align="center" class="link4"> 
+  <table width="727" border="0" cellspacing="0" cellpadding="0" align="center" bordercolor="#FFFFFF">
+    <tr> 
+      <td height="2" width="161"><img src="pics/menugeneral_r1_c1.gif" width="161" height="10"></td>
+      <td height="2" width="528"><span class="word1"><font face="楷体_GB2312"><font face="仿宋_GB2312" size="2"><font size="2" color="#9999FF"><a name="top"></a></font></font></font></span><img src="pics/menugeneral_r1_c3.gif" width="527" height="10"></td>
+      <td height="2" width="38"><img src="pics/menugeneral_r1_c4.gif" width="75" height="10"></td>
+    </tr>
+    <tr> 
+      <td height="98" colspan="2"><img src="pics/menuall.gif" width="688" height="94"> 
+      </td>
+      <td height="101" rowspan="2">
+        <table width="68" border="1" cellspacing="0" cellpadding="0" height="117" bordercolor="#7c9dcd">
+          <tr bgcolor="#7c9dcd"> 
+            <td height="3">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td> 
+              <div align="center"><img src="pics/gene.jpg" width="60" height="59" alt="人类基因组工程-为我们带来了什么？" border="1"></div>
+            </td>
+          </tr>
+          <tr bgcolor="#7c9dcd"> 
+            <td height="2">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr> 
+      <td rowspan="12" height="320" width="159" bgcolor="#7c9dcd"> 
+        <table width="160" border="1" cellspacing="0" cellpadding="0" height="520" bordercolor="#7c9dcd">
+          <tr> 
+            <td height="10" bgcolor="#7c9dcd" width="154"> 
+              <div align="right"><font face="新宋体" size="2" color="#FFFFFF"><img src="pics/arrow.gif" width="11" height="11"><a href="renshi/renshi.htm" target="_blank" class="link">认识基因</a></font></div>
+            </td>
+            <td width="1" bgcolor="#7c9dcd">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td height="47" colspan="2"> 
+              <div align="right"><font color="#000000"><span class="talb"><font size="2" face="新宋体">?基因概念的</font></span><font size="2" face="新宋体"><span class="talb">..</span><br>
+                ?基因的化学..<br>
+                ?基因的表达..<br>
+                ?基因的突变..</font></font></div>
+            </td>
+          </tr>
+          <tr> 
+            <td height="10" bgcolor="#7c9dcd" width="154"> 
+              <div align="right"><img src="pics/arrow.gif" width="11" height="11"><span class="word1"><font face="新宋体" size="2" color="#FFFFFF"><a href="tech/techall.htm" class="link" target="_blank">技术大观</a></font></span></div>
+            </td>
+            <td width="1" height="10" bgcolor="#7c9dcd">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td colspan="2" height="44"> 
+              <div align="right"><font face="新宋体" size="2">?克隆技术..<br>
+                ?PCR 技术..<br>
+                ?芯片技术..<br>
+                ?转基因技..</font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#7c9dcd"> 
+            <td height="10" bgcolor="#7c9dcd" width="154"> 
+              <div align="right"><img src="pics/arrow.gif" width="11" height="11"><span class="word1"><font face="新宋体" color="#FFFFFF" size="2"><a href="gongcheng/gongcheng.htm" target="_blank" class="link">基因工程</a></font></span></div>
+            </td>
+            <td width="1" height="10">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td colspan="2" height="55"> 
+              <div align="right"><font face="新宋体" size="2">?基因工程的..<br>
+                ?“剪刀”与..<br>
+                ?工程运载体..<br>
+                ?“工程原料..</font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#7c9dcd"> 
+            <td height="10" bgcolor="#7c9dcd" width="154"> 
+              <div align="right"><img src="pics/arrow.gif" width="11" height="11"><span class="word1"><font face="新宋体" color="#FFFFFF" size="2"><a href="life/life.htm" target="_blank" class="link">基因与生活</a></font></span></div>
+            </td>
+            <td width="1" height="10" bgcolor="#7c9dcd">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td colspan="2" height="48"> 
+              <div align="right"><font face="新宋体" size="2">?基因与血型..<br>
+                ?转基因食品..<br>
+                ?生物技术对..<br>
+                ?基因技术的..</font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#7c9dcd"> 
+            <td height="10" width="154"> 
+              <div align="right"><img src="pics/arrow.gif" width="11" height="11"><span class="word1"><font size="2" face="新宋体" color="#FFFFFF"><a href="renlei/renlei.htm" target="_blank" class="link">人类基因组</a></font></span></div>
+            </td>
+            <td width="1" height="10">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td colspan="2" height="56"> 
+              <div align="right"><font face="新宋体" size="2">?“跨世纪的..<br>
+                ?人体的第二..<br>
+                ?后基因组生..<br>
+                ?人类基因组..</font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#7c9dcd"> 
+            <td height="10" bgcolor="#7c9dcd" width="154"> 
+              <div align="right"><img src="pics/arrow.gif" width="11" height="11"><span class="word1"><font face="新宋体" color="#FFFFFF" size="2"><a href="lunli/lunli.htm" target="_blank" class="link">基因与伦理</a></font></span></div>
+            </td>
+            <td width="1" height="10">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#e7e3e7"> 
+            <td height="32" colspan="2"> 
+              <div align="right"><font face="新宋体" size="2">?生命科学将..<br>
+                ?伦理学与生..<br>
+                ?克隆技术与..<br>
+                ?克隆人的再..</font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#7c9dcd"> 
+            <td height="10" colspan="2">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+      <td width="528" height="18" bgcolor="#7c9dcd"> 
+        <p><marquee bgcolor="#FFFFFF"  border="0" align="middle" scrollamount="2"  scrolldelay="90" behavior="scroll"  width="528" height="10" style="color: #7c9dcd; font-size: 14"><font color="#7c9dcd">欢迎来到本站，建议使用</font><font color="#FF0000">IE5.0</font><font color="#7c9dcd">或以上版本的浏览器</font></marquee></p>
+      </td>
+    </tr>
+    <tr> 
+      <td width="528" height="36"> 
+        <table width="528" border="0" cellspacing="0" cellpadding="0" height="61" bordercolorlight="#FFFFFF" bordercolordark="#CCCCCC">
+          <tr> 
+            <td height="9" colspan="2"><img src="pics/point.gif" width="13" height="13"><span class="word1"><font face="楷体_GB2312"><font face="仿宋_GB2312" size="2">时下热点话题:<font color="#CC0033" face="新宋体">人类基因组研究，任重而道远</font></font></font></span></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="36" class="link5"> <font size="2" color="#9999FF"><a href="#top" class="link2" onClick="MM_openBrWindow('task.htm','','scrollbars=yes,resizable=yes,width=650,height=500')">今年6月26日，人类基因组草图完成了。这项由多国科学家参与的测定工作的完成，是人类生命科学研究的一个里程碑。 
+              然而，根据参与国际人类基因组计划的科学家们的说明，26日公布的人类基因组草图....</a></font><font size="2"><font color="#CC0000">&gt;&gt;</font></font></td>
+          </tr>
+        </table>
+      </td>
+      <td height="36" width="38">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td width="528" height="11"> 
+        <hr size="1" width="300" align="left">
+      </td>
+      <td width="38" height="11">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="528" height="51"> 
+        <table width="528" border="0" cellspacing="0" cellpadding="0" height="74">
+          <tr> 
+            <td height="10" colspan="3"><img src="pics/point.gif" width="13" height="13"><font face="楷体_GB2312" size="2">国内基因科技动向</font></td>
+          </tr>
+          <tr> 
+            <td width="260"><font size="2"><img src="pics/arrow.gif" width="11" height="11"><a name="as"></a><a href="#top" class="link2" onClick="MM_openBrWindow('newschina/fangkuan.htm','','scrollbars=yes,resizable=yes,width=500,height=400')">美放宽对中草药进口的限制</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" class="link2" onClick="MM_openBrWindow('newschina/yaogu.htm','','scrollbars=yes,resizable=yes,width=500,height=400')">湖北建“中国药谷”</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/grow.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">生物芯片：生物医药产业新的生长点</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/red.htm','','scrollbars=yes,resizable=yes,width=500,height=500')" class="link2">中医治疗红斑狼疮取得重要进展</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/babyblood.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">脐带血：婴儿带给人类的一份厚礼</a></font><br>
+            </td>
+            <td colspan="2"><font size="2"><font size="2"><font size="2"><img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/longduan.htm','','scrollbars=yes,width=400,height=400')" class="link2">人类基因组基本信息不能垄断</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/chinapeople.htm','','scrollbars=yes,width=400,height=400')" class="link2">中国基因：三个人物与一个事业</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" class="link2" onClick="MM_openBrWindow('newschina/discuss.htm','','scrollbars=yes,resizable=yes,width=500,height=400')">我科学家研讨结构基因组战略</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/maoyi.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">中国成为世界药用植物贸易第一大国</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#top" onClick="MM_openBrWindow('newschina/die.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">数据显示我国每年有19万人死于吃错药</a> 
+              </font></font></font></td>
+          </tr>
+        </table>
+      </td>
+      <td width="38" height="51">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td width="528"> 
+        <hr size="1" width="374" align="left">
+      </td>
+      <td width="38">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="528" height="6"> 
+        <table width="528" border="0" cellspacing="0" cellpadding="0" height="40">
+          <tr> 
+            <td height="10"><img src="pics/point.gif" width="13" height="13"><font size="2" face="楷体_GB2312">基因产业：</font><font size="2" color="#CC0033">国内各大基因技术公司简介</font></td>
+            <td width="100">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td width="560"><font size="2"><img src="pics/arrow.gif" width="11" height="11"><a href="industry/fengsao.htm" target="_blank" class="link2">生物科技球谁领风骚</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="industry/creation.htm" class="link2" target="_blank">依靠创新提高竞争力</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="industry/tenyears.htm" class="link2" target="_blank">未来10年的生物技术药物</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="industry/china.htm" target="_blank" class="link2">中国药物产业化发展历史、现状、存在问题、与国际的差距和发展战略</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="industry/japan.htm" target="_blank" class="link2">面向21世纪期待生物技术工业有个飞跃:几位生物技术知名人士的看法</a></font></td>
+            <td width="100"> <a href="#as" onClick="MM_openBrWindow('industry/jankuang.htm','','scrollbars=yes,resizable=yes,width=600,height=500')"><img src="pics/company.gif" width="111" height="65" alt="上海最大的生物高科技企业-道博公司" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+      <td width="38" height="6">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="528"> 
+        <hr size="1" width="430" align="left">
+      </td>
+      <td width="38">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td rowspan="3" height="122" width="528"> 
+        <table width="528" border="0" cellspacing="0" cellpadding="0" height="110">
+          <tr> 
+            <td height="14" width="256"><img src="pics/point.gif" width="13" height="13"><font size="2" face="楷体_GB2312">国际基因科技动态</font></td>
+            <td width="272" height="14"><img src="pics/point.gif" width="13" height="13"><font size="2" face="楷体_GB2312" color="#990033">热点聚焦</font></td>
+          </tr>
+          <tr> 
+            <td height="111" width="256" class="link2"><img src="pics/arrow.gif" width="11" height="11"><span class="link2"><a href="#bottom" class="link2" onClick="MM_openBrWindow('news/illcows.htm','','scrollbars=yes,resizable=yes,width=500,height=400')">疯牛症恐慌蔓延欧洲</a></span><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/wanzheng.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">科学家探明一植物完整基因</a><img src="pics/picture.gif" width="14" height="12" alt="附图"><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/france.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">法国首例基因筛选婴儿诞生</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/ppa.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">不必对感冒药谈虎色变</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/discovery.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">意外发现：不死的表皮细胞系</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/zuxian.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">基因研究揭示人类拥有共同祖先</a> 
+              <br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/livelong.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">有“长生不老”基因吗？</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/acholic.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">酒精中毒会改变脑部的遗传结构</a><br>
+              <img src="pics/arrow.gif" width="11" height="11"><a href="#bottom" onClick="MM_openBrWindow('news/DNAcomputer.htm','','scrollbars=yes,resizable=yes,width=500,height=400')" class="link2">世界上第一台DNA计算机问世</a><br>
+           </td>
+            <td height="111" width="272" class="link3"><img src="pics/dotnew.gif" width="9" height="11"><a href="hots/cDNA.htm" target="_blank" class="link3">人类基因组草图与联合基因的cDNA的研究</a><span class="link2"><font size="2" face="新宋体"><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font color="#CC66FF"><a href="hots/improvement.htm" target="_blank" class="link3">人类基因组计划进展和内容</a></font></font><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font size="2" face="新宋体" color="#CCCC00" class="link3"><a href="hots/zhuanli.htm" target="_blank" class="link3">基因专利</a></font><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font size="2" face="新宋体" color="#3333CC"><a href="hots/jihua.htm" target="_blank" class="link3">人类基因组计划</a></font><font size="2" face="新宋体"><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font color="#66CC00"><a href="hots/biohzard.htm" class="link3" target="_blank">毒理学支持了基因组的革命</a></font><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font color="#993399"><a href="hots/persons.htm" class="link3" target="_blank">克隆人类胚胎:让我欢喜让我忧</a></font><img src="pics/picture.gif" width="15" height="12" alt="附图"><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font color="#99CC33"><a href="hots/noya.htm" class="link3" target="_blank">克隆诺亚方舟</a><img src="pics/picture.gif" width="15" height="12" alt="附图"></font><br>
+              <img src="pics/dotnew.gif" width="9" height="11"><font color="#FFCCCC"><a href="hots/renleiranse.htm" class="link3" target="_blank">基因学和基因治疗：人造染色体的诞生</a><img src="pics/picture.gif" width="15" height="12" alt="附图"></font> 
+              </font></span></td>
+          </tr>
+        </table>
+        <font size="2"> </font></td>
+      <td width="38" height="64">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="38" height="12">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="38" height="33">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="528" height="9"> 
+        <hr size="1">
+        <font face="楷体_GB2312"></font></td>
+      <td width="38" height="9">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="528" height="48"> 
+        <table width="528" border="0" cellspacing="0" cellpadding="0" height="70">
+          <tr> 
+            <td height="10"><font face="楷体_GB2312"><i><img src="pics/point.gif" width="13" height="13"></i><font size="2">基因的历史</font></font></td>
+          </tr>
+          <tr> 
+            <td height="64"><span 
+            class=large><font face="新宋体" size="2" color="#9999FF"><a href="#history" onClick="MM_openBrWindow('history.htm','','scrollbars=yes,resizable=yes,width=600,height=500')" class="link2">仅仅一个世纪的发展，基因科学就已成为可动摇人类生存基础的一场革命，其巨大的创造力和破坏力使人们深切感受到其两面性。不论基因科学的研究将朝哪方向发展，人类历史都将因基因学而走向新的转折点，即出现一个重新认识自我的开端仅仅一个世纪的发展，基因科学就已成为可动摇人类生存基础的一场革命...</a><font color="#CC0033"><a name="bottom"></a>&gt;&gt;</font></font></span></td>
+          </tr>
+        </table>
+        <span 
+            class=large><font face="新宋体" size="2" color="#9999FF"></font></span></td>
+      <td width="38" height="48"><img src="pics/award_r4_c2_r08_c2.jpg" width="65" height="63" border="0" alt="关注遗传学百年的历史"> 
+      </td>
+    </tr>
+    <tr> 
+      <td height="17" width="159"><img src="pics/menubottom_r1_c1.gif" width="161" height="10"></td>
+      <td width="528" height="17"><img src="pics/menubottom_r1_c3.gif" width="527" height="10"></td>
+      <td width="38" height="17"><img src="pics/menubottom_r1_c4.gif" width="75" height="10"></td>
+    </tr>
+  </table>
+  <hr width="240" align="center" size="1">
+  <font size="2" face="新宋体" color="#999999"><a href="#bottom" class="link4" onClick="MM_openBrWindow('links.htm','','scrollbars=yes,width=500,height=500')">网站链接</a>|<a href="https://172.16.7.22" target="_blank" class="link4">关于我们</a>|<a href="#bottom" onClick="MM_openBrWindow('banquan.htm','','width=240,height=260')" class="link4">版权信息</a>|<a href="#bottom" onClick="MM_openBrWindow('todaystop.htm','','width=200,height=200')" class="link4">今日关注</a><br>
+  &copy; 本站有高二2班张以峰负责制作<br>
+  </font><font face="Arial, Helvetica, sans-serif" color="#FF3333" size="1">e-mail:<font face="新宋体"><a href="mailto:jackalnet@citiz.net" class="eml">jackalnet@citiz.net</a></font> 
+  or </font><font face="黑体" color="#FF3333" size="1"><a href="mailto:jackal@fuxing.sh.cn" class="eml"> 
+  jackal@fuxing.sh.cn</a> <br>
+  感谢您的大架光临</font></div>
+</body>
+</html>

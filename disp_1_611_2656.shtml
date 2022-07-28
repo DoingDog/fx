@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div610" class='listitem3'><a href='list_1_610.shtml'>招生信息</a></div></td></tr><tr><td><div id="div611" class='listitem3'><a href='list_1_611.shtml'>升学信息</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_611_2713.shtml' title='标题:上海大学2013年直推生名单公示&#13;点击:3029次&#13;日期:2013-1-6 11:46:02'  ><span style='color:;'>上海大学2013年直推生名单公</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2673.shtml' title='标题:华东理工大学2013年直推生名单&#13;点击:2775次&#13;日期:2012-12-21 9:36:03'  ><span style='color:;'>华东理工大学2013年直推生名</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2671.shtml' title='标题:上海市复兴高级中学“华东理工大学2013年优秀直推生”选拔推荐方案&#13;点击:1309次&#13;日期:2012-12-21 9:34:51'  ><span style='color:;'>上海市复兴高级中学“华东理</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2666.shtml' title='标题:上海交通大学2013年直推生名单&#13;点击:3154次&#13;日期:2012-12-17 14:58:05'  ><span style='color:;'>上海交通大学2013年直推生名</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2664.shtml' title='标题:上海市复兴高级中学“上海交通大学2013年优秀直推生”选拔推荐方案&#13;点击:1352次&#13;日期:2012-12-17 14:56:57'  ><span style='color:;'>上海市复兴高级中学“上海交</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2656.shtml' title='标题:复旦大学2013年直推生名单&#13;点击:3421次&#13;日期:2012-12-14 13:47:35'  ><span style='color:;'>复旦大学2013年直推生名单</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2654.shtml' title='标题:上海市复兴高级中学“复旦大学2013年直推生”推荐选拔方案&#13;点击:870次&#13;日期:2012-12-14 13:46:13'  ><span style='color:;'>上海市复兴高级中学“复旦大</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2652.shtml' title='标题:同济大学2013年校长直荐名单&#13;点击:1688次&#13;日期:2012-12-14 13:44:24'  ><span style='color:;'>同济大学2013年校长直荐名单</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_2650.shtml' title='标题:上海市复兴高级中学“同济大学2012年优秀高中毕业生校长直推“选拔方案&#13;点击:596次&#13;日期:2012-12-14 13:43:30'  ><span style='color:;'>上海市复兴高级中学“同济大</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_611_1893.shtml' title='标题:高三家长志愿填报指导于5月9日开展&#13;点击:668次&#13;日期:2012-5-14 12:35:04'  ><span style='color:;'>高三家长志愿填报指导于5月9</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_611_2713.shtml' title='上海大学2013年直推生名单公示'  target='_blank'  >上海大学2013年直推生名单公</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_122.shtml">升学招生</a> >> <a href="list_1_611.shtml">升学信息</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>复旦大学2013年直推生名单</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2012-12-14 13:47:35&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2656"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>复旦大学</b><b>2013</b><b>年直推生名单</b></div>
+<p>
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" rowspan="2" width="42">
+            <div align="center"><b>序号</b></div>
+            </td>
+            <td valign="top" rowspan="2" width="85">
+            <div align="center"><b>姓名</b></div>
+            </td>
+            <td valign="top" rowspan="2" width="48">
+            <div align="center"><b>性别</b></div>
+            </td>
+            <td valign="top" rowspan="2" width="120">
+            <div align="center"><b>文理科</b></div>
+            </td>
+            <td valign="top" width="264" colspan="2">
+            <div align="center"><b>年级排名</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="108">
+            <div align="center"><b>语数外排名</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>语数外加一排名</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>1</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>罗力诚</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>男</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>物</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>2</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>1</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>2</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>陈永晟</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>男</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>物</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>3</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>2</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>3</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>郑越</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>男</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>物</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>1</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>3</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>4</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>赵天栋</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>男</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>化</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>9</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>1</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>5</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>高泽擎</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>男</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>化</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>8</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>2</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>6</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>公惟韬</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>女</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>化</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>5</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>3</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>7</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>高晓丰</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>男</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>物</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>4</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>5</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>8</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>马欣纯</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>女</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>化（医学类）</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>19</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>16</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>9</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>范佳来</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>女</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>政</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>1</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>2</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>10</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>岳一洲</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>女</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>政</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>2</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>1</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="42">
+            <div align="center"><b>11</b></div>
+            </td>
+            <td valign="top" width="85">
+            <div align="center"><b>薛陆洋</b></div>
+            </td>
+            <td valign="top" width="48">
+            <div align="center"><b>女</b></div>
+            </td>
+            <td valign="top" width="120">
+            <div align="center"><b>史</b></div>
+            </td>
+            <td valign="top" width="108">
+            <div align="center"><b>3</b></div>
+            </td>
+            <td valign="top" width="156">
+            <div align="center"><b>1</b></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div align="center"><b>&nbsp;</b></div>
+<div align="center"><b>&nbsp;</b></div>
+<div><b>如有疑问，请拨打监督投诉电话：</b><b>65603014<span>&nbsp;&nbsp; </span></b><b>颜</b><b>老师</b></div>
+<div><b>&nbsp;</b></div>
+<div><b>&nbsp;</b></div>
+<div align="right"><b>上海市复兴高级中学</b><b>&nbsp;</b></div>
+<div><b>&nbsp;2012</b><b>年</b><b>12</b><b>月</b></div>
+<div align="center"><b>&nbsp;</b></div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2656&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2656"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

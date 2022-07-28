@@ -1,0 +1,532 @@
+<!--header start-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200,user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>上海市复兴高级中学</title>
+<link rel="shortcut icon" href="https://fx.xxoo.skin/SDFZB/fuxing.ico">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/normalize.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/selectordie.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/bingoui.min.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/htmleaf.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/jquery-accordion-menu.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/style2.css">
+<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXGW/css/viewer.css">
+<!--[if lt IE 9]>
+    <script src="https://fx.xxoo.skin/SDFZB/js/dist/lib/respond/respond.min.js"></script>
+    <script src="https://fx.xxoo.skin/SDFZB/js/dist/lib/html5/html5shiv.js"></script>
+    <![endif]-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3123741bf033dd59b436068417d7bd92";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    
+</head>
+<body class="">
+	<div class="whiteBack">
+
+	<div id="header">
+		<div class="contant1">
+		<div class="contant" style="">
+	    <div style="padding: 6px 15px;background: #ecf1f5;">
+	        <ol class="breadcrumb navOl" style="font-size: 14px;">
+	            <li>
+					<a href="https://oa.fuxing.sh.cn/oa/register.action" target="_Blank">招生系统</a>
+			    </li>
+			    <li>
+					<a href="https://fx.xxoo.skin/SDFZB/revivalChannel/findQuickEntries/1">在校学生</a>
+			    </li>
+			    <li>
+					<a href="https://fx.xxoo.skin/SDFZB/revivalChannel/findQuickEntries/2">在校员工</a>
+			    </li>
+			    <!-- <li>
+					<a href="https://fx.xxoo.skin/SDFZB/revivalChannel/findQuickEntries/3">校友开放</a>
+			    </li> -->
+	         </ol>
+	         <ol class="breadcrumb pull-right" id="topGatway" style="font-size: 14px">
+
+	         </ol>
+	    </div>
+	    </div>
+	    </div>
+	    <div class="contant2" >
+	    <div class="contant" style="width:1000px;margin:0 auto;height: 90px;background: #ecf1f5">
+	    <div id="logoDiv">
+	        <div id="blueDiv" style="position:relative">
+	            <a href="https://fx.xxoo.skin/SDFZB/revival"><img style="width:30%;margin-left:20px" src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/logo.png" class="img-responsive pull-left"></a>
+	            <img style="width: 550px;position: relative;left: 130px;height: 90px" src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/head4.png" class="img-responsive pull-left">
+	            <!-- <img style="width:90%" src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/head.png" class="img-responsive"> -->
+	            <!-- <span id="nav-toggle"></span>-->
+	            <div id="topMenue">
+
+	            <form class="form-horizontal" id="headSearchForm" action="https://fx.xxoo.skin/SDFZB/common/queryNewsListBy" method="POST">
+		                    <div class="form-group">
+		                        <span class="search search-sm mgr10">
+							          <input type="text" class="form-control" name="title" placeholder="搜索新闻" id="searchInput" style="height:30px;" value="">
+							    </span>
+		                    </div>
+		                    <input class="hide" name="pageNo" value=""/>
+							<input class="hide" name="clicks" value=""/>
+							<input class="hide" name="time" value=""/>
+		        </form>
+	            </div>
+
+	        </div>
+	    </div>
+	    </div>
+	    </div>
+	    <div class="contant3">
+	    	<div id="cssmenu">
+		        <ul class="nav nav-tabs contant" id="navBar" style="margin:0 auto;background:#ecf1f5">
+
+		        </ul>
+	        </div>
+	    </div>
+	</div>
+	<div class="clearfix"></div>
+	<!--header end-->
+
+
+	<!-- 工具导航栏 -->
+	<script type="text/template" id="topGatway_tpl">
+		<%var arr=[];%>
+        <%_.each(topGetWay,function(item,index){%>
+        		<%if(item.id==619){arr.push(item)}%>
+        <%})%>
+        <%_.each(arr,function(item,index){%>
+                <%var linkurl="###";
+				 if(_.isEmpty(item.linkurl)){
+					 if (item.pid==0) {
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.id;
+					 }else if(item.pid!=0){
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.pid+"-"+item.id;
+					 }else{
+						 linkurl= seajs.baseHTTP;
+					 }
+				 }
+				%>
+				<li>
+                <a data-value="<%=item.id%>" href="<%=linkurl%>"><%=item.name%></a>
+                </li>
+        <%})%>
+        <li>
+		<a target="_Blank" href="https://fx.xxoo.skin/SDFZB/login">登录</a>
+    	</li>
+	</script>
+	<!-- 导航栏 -->
+	<script type="text/template" id="nav_tpl">
+        <%_.each(indexChannel,function(item,index){%>
+                <%var linkurl="###";
+				 if(_.isEmpty(item.linkurl)){
+					 if (item.pid==0) {
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.id;
+					 }else if(item.pid!=0){
+						 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.pid+"-"+item.id;
+					 }else{
+						 linkurl= seajs.baseHTTP;
+					 }
+				 }
+				%>
+				<li style="width:90px;">
+                <a data-value="<%=item.id%>" href="<%=linkurl%>"><%=item.name%></a>
+                </li>
+        <%})%>
+
+	</script>
+	<!-- 友情链接 -->
+	<script type="text/template" id="friendLinkTpl">
+        <%_.each(friendshipLink,function(item,index){%>
+        <%if(item.cwc_linkurl){%>
+        		<p><a target="_Blank" href="<%=item.cwc_linkurl%>"><%=item.cwc_name%></a></p>
+        	<%}%>
+        <%})%>
+	</script>
+
+<style>
+    .panel-body{
+        padding:0 5px;padding-bottom: 15%;background:none;
+    }
+    .panel .panel-footer{
+        background:none;
+        border-top:0;
+    }
+    .panel{
+        background:none;
+    }
+    .panel-primary-outline .panel-heading {
+        border-top: 0;
+    }
+    .panel-heading{
+        font-size:20px;padding:5px 0;
+        background: -webkit-linear-gradient(#E3EEFC, #B0CDF8);
+        background: -o-linear-gradient(#E3EEFC, #B0CDF8); /* Opera 11.1 - 12.0 */
+        background: -moz-linear-gradient(#E3EEFC, #B0CDF8); /* Firefox 3.6 - 15 */
+        background: linear-gradient(#E3EEFC, #B0CDF8);
+        filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#E3EEFC, endColorstr=#B0CDF8);
+    }
+    .accordion-group {
+        margin: 8px;
+        border: 1px solid #b3b3b3;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        /*padding:10px 0;*/
+    }
+    .accordion-body{
+        border-top: 1px solid #d0d0d0;
+    }
+    .accordion-heading{
+        padding:10px 0;
+    }
+    .channelList a{
+        font-size:16px;color:#4c4c4c;
+    }
+    .articleTitle{
+        width: 90%;height: 20%;margin-left: 5%;margin-top:3%;
+    }
+	.articleContent{
+		padding: 20px 50px 20px;
+	}
+	.articleContent p{
+		text-indent: 2em;
+	}
+	.articleTitle div[class^=col-xs-]{
+    padding:0;
+    }
+    .accordion-inner{
+        padding-top:9px;height:40px;border-bottom: 1px solid #b3b3b3;
+    }
+    .accordion-inner:last-child{
+        border-bottom: 0;
+    }
+    .accordion-heading:hover{
+        border-top-left-radius:10px;border-top-right-radius:10px;
+        border-bottom-left-radius:10px;border-bottom-right-radius:10px;
+        background:#b3f0ff;
+    }
+    .accordion-inner:hover{
+        background:#b3f0ff;
+    }
+    .accordion-inner:last-child:hover{
+        background:#b3f0ff;
+        border-bottom-left-radius:10px;border-bottom-right-radius:10px;
+    }
+    .radiusClass:hover{
+        border-bottom-left-radius:0;border-bottom-right-radius:0;
+    }
+    .col-xs-3{
+        padding-left: 0;
+    }
+    .col-xs-9{
+        padding-right: 0;padding-left: 0;
+    }
+    .col-xs-12{
+        padding:0;
+    }
+</style>
+<div id="logoImg" class="carousel slide text-center contant" >
+     <img class="101" src="https://fx.xxoo.skin/SDFZB/upload/1/channel/1/20170418193731576.png" width="100%" onerror="this.src='https://fx.xxoo.skin/SDFZB/FXGW/css/img/p14.png'">
+</div>
+<div class="contant">
+<div id="location">您的位置 <span id="parentLocation"></span></div>
+<div id="middle" class="clearfix" >
+    <div class="col-xs-3" style="display:none">
+        <div class="panel panel-primary-outline" id="panelHeight4">
+            <div class="panel-heading text-center leftTitle"></div>
+            <div class="panel-body">
+                <div class="accordion channelList" id="listChannel">
+
+                </div>
+            </div>
+            <div class="panel-footer pad39">
+
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-9" style="display:none">
+        <div class="panel panel-primary-outline" id="panelHeight8" >
+              <div class="panel-heading text-left"><span class="articleTop" style="margin-left: 20px;"></span></div>
+              <div class="panel-body news-slider" id="article" style="padding:15px">
+
+                 <div class="title" id="titleRender">
+
+                 </div>
+                  <div class="content" id="content">
+                      <p id="baseContent">
+
+                      </p>
+                  </div>
+              </div>
+              <div class="panel-footer" id="footPage">
+
+              </div>
+        </div>
+    </div>
+</div>
+</div>
+<script>
+	var VIEW="new";
+	var base="https://fx.xxoo.skin/SDFZB";
+	var baseUpload="";
+	var VIEW_PARAM={"topGetWay":[],"location":[{"child":[{"child":[],"id":101,"node":"校情总览","order":1,"isleaf":1,"pid":0}],"id":7812,"node":" 领导关怀","order":5,"isleaf":1,"pid":101}],"channelId":7812,"next":{"cn_slite_img":null,"cn_clicks":1292,"newType":null,"cn_publishdate":"2017-09-04 08:55:35","type":null,"cn_channelid":7812,"creator":"900254","id":5009,"modifer":null,"author":1,"cn_newtype":",3,","cn_opentype":0,"modfied_time":null,"cn_key_word":"","cn_linkurl":"","cn_img":"/upload/1/news/601/20170904091253291.jpg","isdel":0,"cn_type":0,"cn_number":null,"content":"<p><span style='line-height: 1.8; font-size: 14px;'>      2017年9月1日，是我校改扩建完工后的车站南路校区举办新学期开学典礼的特别日子。一早，虹口区委常委、副区长高香一行前来关心新校区开学运行状况。陪同调研的领导有虹口区教育局局长常生龙、副局长余杰、副局长孙磊，教育局工会主席秦静以及江湾镇街道党工委书记耿彧、办事处主任叶忻等。</span><br></p><p><span style='line-height: 1.8; font-size: 14px;'><br></span></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/601/20170904085700931.jpeg' style='max-width:100%;'><span style='line-height: 1.8; font-size: 14px;'><br></span></p><p><br></p><p>      首先，领导们对我校新学期开学表示祝贺。随后，在陈永平校长、党总支书记丁伟强、校办主任徐凯里、总务处副主任张俊的陪同下，一行人特地前往学校绿化区域和食堂，参观了师生的生活区域，尤其对食堂的用餐环境、伙食质量、卫生情况以及西藏生学习生活情况进行了详尽的了解，并对学校绿化建设提出建议。</p><p><br></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/601/20170904085742377.jpeg' style='max-width:100%;'><br></p><p><br></p><p>      在考察过程中，陈校长饶有兴致地对教学楼公共区域的一处绿化设计进行介绍：砖红色的人行道铺面从正面看是一个大写的\u201CA\u201D字形设计，换个角度看则是字母\u201CV\u201D，象征着复兴作为沪上一流名校的斐然教绩，也表达了复兴人追求卓越、呼唤胜利的展望。</p><p><br></p><p style='text-align: center; '><img src='https://fx.xxoo.skin/SDFZB/upload/1/newsImg/601/20170904085820346.jpeg' style='max-width:100%;'><br></p><p><br></p><p>      在看到电子屏中展示的复旦、交大等国内一流大学给我校发来的高考喜报后，高区长充分赞赏了复兴在2017年高考录取中的出色表现和喜人成绩，对复兴领导班子在低谷时期接手工作的努力和佳绩表示肯定。实地考察结束后，高区长高度肯定了我校对\u201C求真\u201D校训的内涵解读和践行实绩，也对学校开学第一天的整体运行情况表示满意，同时表达了区委区政府对学校全面发展、再次腾飞的殷切希望。</p><p>      不可否认，复兴是虹口教育的一张名片，\u201C创建满足学生充分发展需求的教育\u201D是服刑人的坚定信念和执着追求。我校也将以本次调研为新的起点，带着领导的嘱托和对未来的憧憬，鼓足干劲、振奋精神、抓好落实、创新发展，为虹口教育再攀高峰贡献力量。</p><p><br></p>","cn_summary":"","cn_title":"虹口区委常委、副区长高香一行莅临我校视察开学工作","ispublish":1,"cn_order":null,"create_time":"2017-09-04","fontNo":683},"resource":null,"pid":101,"indexChannel":[{"islink":0,"id":101,"child":[{"islink":0,"id":7779,"child":[],"opentype":null,"name":"学校概况","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7782,"child":[],"opentype":null,"name":"校史沿革","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7780,"child":[],"opentype":null,"name":"党政领导","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7781,"child":[],"opentype":null,"name":"组室机构","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7812,"child":[],"opentype":null,"name":" 领导关怀","isleaf":null,"linkurl":"","pid":101,"pos":0},{"islink":0,"id":7811,"child":[],"opentype":null,"name":"学校荣誉","isleaf":null,"linkurl":"","pid":101,"pos":0}],"opentype":null,"name":"校情总览","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":103,"child":[{"islink":0,"id":115,"child":[],"opentype":null,"name":"主题活动","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":116,"child":[],"opentype":null,"name":"评选奖励","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":118,"child":[],"opentype":null,"name":"心理健康","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7785,"child":[],"opentype":null,"name":"社会实践","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7786,"child":[],"opentype":null,"name":"生涯规划","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7788,"child":[],"opentype":null,"name":"民族教育","isleaf":null,"linkurl":"","pid":103,"pos":0},{"islink":0,"id":7800,"child":[],"opentype":null,"name":"学生荣誉","isleaf":null,"linkurl":"","pid":103,"pos":0}],"opentype":null,"name":"德育工作","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":104,"child":[{"islink":0,"id":120,"child":[],"opentype":null,"name":"课程建设","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":121,"child":[],"opentype":null,"name":"科创教育","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":122,"child":[],"opentype":null,"name":"资优生培养","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":660,"child":[],"opentype":null,"name":"教学成果","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":722,"child":[],"opentype":null,"name":"合作办学","isleaf":null,"linkurl":"","pid":104,"pos":0},{"islink":0,"id":7818,"child":[],"opentype":null,"name":"语言文字","isleaf":null,"linkurl":"","pid":104,"pos":0}],"opentype":null,"name":"教育教学","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":105,"child":[{"islink":0,"id":7791,"child":[],"opentype":null,"name":"学术活动","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":662,"child":[],"opentype":null,"name":"人才梯队","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":7790,"child":[],"opentype":null,"name":"科研成果","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":7792,"child":[],"opentype":null,"name":"教师培训","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":661,"child":[],"opentype":null,"name":"教师荣誉","isleaf":null,"linkurl":"","pid":105,"pos":0},{"islink":0,"id":7820,"child":[],"opentype":null,"name":"教师招聘","isleaf":null,"linkurl":"","pid":105,"pos":0}],"opentype":null,"name":"教师风采","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":108,"child":[{"islink":0,"id":7795,"child":[],"opentype":null,"name":"党建动态","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7794,"child":[],"opentype":null,"name":"党务公开","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7796,"child":[],"opentype":null,"name":"学习交流","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7797,"child":[],"opentype":null,"name":"党员风采","isleaf":null,"linkurl":"","pid":108,"pos":0},{"islink":0,"id":7798,"child":[],"opentype":null,"name":"党群工作","isleaf":null,"linkurl":"","pid":108,"pos":0}],"opentype":null,"name":"党建工作","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":132,"child":[],"opentype":null,"name":"招生工作","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":106,"child":[{"islink":0,"id":129,"child":[],"opentype":null,"name":"校友风采","isleaf":null,"linkurl":"","pid":106,"pos":0},{"islink":0,"id":127,"child":[],"opentype":null,"name":"校友会信息","isleaf":null,"linkurl":"","pid":106,"pos":0},{"islink":0,"id":130,"child":[],"opentype":null,"name":"校友通讯","isleaf":null,"linkurl":"","pid":106,"pos":0}],"opentype":null,"name":"复兴校友","isleaf":null,"linkurl":"","pid":0,"pos":0},{"islink":0,"id":619,"child":[{"islink":0,"id":621,"child":[{"islink":0,"id":625,"child":[],"opentype":null,"name":"学校概况","isleaf":null,"linkurl":"","pid":621,"pos":0},{"islink":0,"id":626,"child":[],"opentype":null,"name":"学校领导","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_112.shtml","pid":621,"pos":0},{"islink":0,"id":627,"child":[],"opentype":null,"name":"机构设置","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_111.shtml","pid":621,"pos":0},{"islink":null,"id":628,"child":[],"opentype":null,"name":"制度规范","isleaf":null,"linkurl":null,"pid":621,"pos":0},{"islink":0,"id":629,"child":[],"opentype":null,"name":"规划计划","isleaf":null,"linkurl":"","pid":621,"pos":0},{"islink":null,"id":630,"child":[],"opentype":null,"name":"联系方式","isleaf":null,"linkurl":"https://fx.xxoo.skin/List.aspx?ClassID=108","pid":621,"pos":0}],"opentype":null,"name":"基本情况","isleaf":null,"linkurl":"","pid":619,"pos":0},{"islink":0,"id":622,"child":[{"islink":0,"id":631,"child":[],"opentype":null,"name":"学校新闻","isleaf":null,"linkurl":"https://fx.xxoo.skin/list.aspx?classid=101","pid":622,"pos":0},{"islink":0,"id":632,"child":[],"opentype":null,"name":"每周安排","isleaf":null,"linkurl":"","pid":622,"pos":0},{"islink":null,"id":633,"child":[],"opentype":null,"name":"教学工作","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_120.shtml","pid":622,"pos":0},{"islink":0,"id":634,"child":[],"opentype":null,"name":"学校收费","isleaf":null,"linkurl":"","pid":622,"pos":0},{"islink":null,"id":635,"child":[],"opentype":null,"name":"德育建设","isleaf":null,"linkurl":null,"pid":622,"pos":0},{"islink":null,"id":636,"child":[],"opentype":null,"name":"后勤服务","isleaf":null,"linkurl":null,"pid":622,"pos":0},{"islink":0,"id":637,"child":[],"opentype":null,"name":"应急预案","isleaf":null,"linkurl":"","pid":622,"pos":0},{"islink":0,"id":638,"child":[],"opentype":null,"name":"党建工作","isleaf":null,"linkurl":"https://fx.xxoo.skin/channel.aspx?channelid=2","pid":622,"pos":0},{"islink":0,"id":639,"child":[],"opentype":null,"name":"招生工作","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_122.shtml","pid":622,"pos":0},{"islink":null,"id":640,"child":[],"opentype":null,"name":"毕业生工作","isleaf":null,"linkurl":null,"pid":622,"pos":0}],"opentype":null,"name":"行政管理","isleaf":null,"linkurl":"","pid":619,"pos":0},{"islink":0,"id":623,"child":[{"islink":0,"id":641,"child":[],"opentype":null,"name":"队伍建设","isleaf":null,"linkurl":"https://fx.xxoo.skin/list_1_121.shtml","pid":623,"pos":0},{"islink":0,"id":642,"child":[],"opentype":null,"name":"教研科研","isleaf":null,"linkurl":"https://fx.xxoo.skin/List.aspx?ClassID=105","pid":623,"pos":0},{"islink":null,"id":643,"child":[],"opentype":null,"name":"教师招聘","isleaf":null,"linkurl":null,"pid":623,"pos":0}],"opentype":null,"name":"教师工作","isleaf":null,"linkurl":"","pid":619,"pos":0},{"islink":0,"id":624,"child":[{"islink":null,"id":644,"child":[],"opentype":null,"name":"学籍管理","isleaf":null,"linkurl":null,"pid":624,"pos":0},{"islink":null,"id":645,"child":[],"opentype":null,"name":"帮困助学","isleaf":null,"linkurl":null,"pid":624,"pos":0},{"islink":null,"id":646,"child":[],"opentype":null,"name":"评选奖励","isleaf":null,"linkurl":"/List.aspx?ClassID=119","pid":624,"pos":0},{"islink":0,"id":647,"child":[],"opentype":null,"name":"团队活动","isleaf":null,"linkurl":"","pid":624,"pos":0},{"islink":0,"id":648,"child":[],"opentype":null,"name":"课外活动","isleaf":null,"linkurl":"https://fx.xxoo.skin/List.aspx?ClassID=116","pid":624,"pos":0}],"opentype":null,"name":"学生工作","isleaf":null,"linkurl":"","pid":619,"pos":0}],"opentype":null,"name":"信息公开","isleaf":null,"linkurl":"","pid":0,"pos":0}],"pre":null,"current":{"cn_slite_img":"/upload/1/news/601/20170930102132702.JPG","cn_clicks":2137,"newType":null,"cn_publishdate":"2017-09-10 14:39:07","type":null,"cn_channelid":7812,"creator":"齐幼娣","id":5035,"modifer":"900254","author":"网站管理员","cn_newtype":",3,","cn_opentype":0,"modfied_time":"2018-02-23","cn_key_word":"","cn_linkurl":"","cn_img":"/upload/1/news/601/20170930102132701.jpeg","isdel":0,"cn_type":0,"cn_number":null,"content":"PHA+5pil6aOO5YyW6Zuo77yM5ram54mp5peg5aOw77yb5biI6ICF5Yyg5b+D77yM5p2P5Z2b55Sf6L6J44CC5Li65byY5oms5Lit5Y2O5rCR5peP5bCK5biI6YeN5pWZ5Lyg57uf576O5b6377yM5r+A5Yqx5YWo5Yy65pWZ6IKy5bel5L2c6ICF54ix5bKX5pWs5Lia44CB5LqJ5YWI5Yib5LyY77yMOeaciDfml6XkuIrljYjvvIzombnlj6PljLrluobnpZ3nrKwzM+WxiuaVmeW4iOiKguWkp+S8muWcqOaIkeagoeadpeatjOWggumahumHjeS4vuihjOOAguS4reWFseiZueWPo+WMuuWMuuWnlOS5puiusOWQtOS/oeWune+8jOWMuuWnlOWJr+S5puiusOOAgeWMuumVv+i1teawuOWzsO+8jOWMuuS6uuWkp+W4uOWnlOS8muS4u+S7u+WQtOW7tumjju+8jOWMuuaUv+WNj+S4u+W4reefs+WuneePje+8jOWMuuWnlOW4uOWnlOOAgeWJr+WMuumVv+mrmOmmme+8jOWMuuS6uuWkp+W4uOWnlOS8muWJr+S4u+S7u+Wys+W9qeaWsO+8jOWJr+WMuumVv+WwmuS4veW5s++8jOWMuuaUv+WNj+WJr+S4u+W4reW+kOeIseWoo+etieiOheS4tOWkp+S8mu+8jOS4juWFqOWMuuaVmeW4iOS7o+ihqOWFseW6puatpOasouW6huaXtuWIu+OAgjwvcD48c2VjdGlvbj48c2VjdGlvbiBzdHlsZT0ndGV4dC1hbGlnbjogY2VudGVyOyc+PGltZyBzcmM9J2h0dHA6Ly9mdXhpbmcuc2guY24vU0RGWkIvdXBsb2FkLzEvbmV3c0ltZy82MDEvMjAxNzA5MTgxNDQyMzU4MDQuanBlZycgc3R5bGU9J21heC13aWR0aDoxMDAlOyc+PGJyPjwvc2VjdGlvbj48L3NlY3Rpb24+PHA+PC9wPjxwPjwvcD48cD48L3A+PHNlY3Rpb24+PGJyPjwvc2VjdGlvbj48cD48L3A+PHA+5Zyo6YCa5Yqb5ZCI5L2c5Lit5a6e546w6Jm55Y+j5pWZ6IKy55qE5YeM56m66aOe6LeD77yM5Zyo5paw6ICB5pu06L+t5Lit5Lyg5om/5pWZ5Lmm6IKy5Lq655qE5Yyg5b+D57K+56We77yM6ZyA6KaB5oiR5Lus5q+P5LiA5L2N6Jm55pWZ5Lq655qE5YWx5ZCM5Yqq5Yqb44CC5aSn5Lya5Lul5aSN5YW06auY57qn5Lit5a2m5Zyo6IGM5Y+K6YCA5LyR5pWZ5biI55qE5aSn5ZCI5ZSx6KGo5ryU44CK6ICB5biI77yM5L2g5oiR5YWx5ZCM55qE5ZCN56ew44CL5ouJ5byA5bqP5bmV77yM6L+Z5Lmf5oGw5piv5LiA5Luj5Luj55qE6Jm55pWZ5Lq65Yeg5Y2B5bm05aaC5LiA5pel5omO5qC56K6y5Z2b44CB6ZWM5Yi76Z2S5pil55qE5pyA5aW95rOo6Kej44CC5aSn5Lya5LyK5aeL77yM5L2c5Li66Jm55Y+j5Yy65biI5b635bu66K6+55qE6YeN6KaB57uE5oiQ6YOo5YiG77yM5oiR5Yy65paw5YWl6IGM5pWZ5biI5Luj6KGo5Zyo6IOh6JW055Cq44CB6ZmI5a+F44CB546L54aZ54+N562J5LiJ5L2N5ZCN5biI55qE6aKG6KqT5LiL5YWJ6I2j5a6j6KqT77yM6YKj5a2X5a2X5o635Zyw5pyJ5aOw55qE6KqT6K+N77yM5piv5biI6ICF5Li656eR5pWZ5YW05Zu95LiK5LiL5rGC57Si77yM5Li65rCR5peP5aSN5YW05bm/6IKy6Iux5omN55qE6YOR6YeN5a6j6KiA77yM5oiR5Lus55qE5oGq5a6I6K6p5bmz5Yeh55qE5L+h5b+15YyW5L2c5pWZ6IKy55qE6K+X5ZKM6L+c5pa544CCPC9wPjxzZWN0aW9uPjxzZWN0aW9uPjxwIHN0eWxlPSd0ZXh0LWFsaWduOiBjZW50ZXI7ICc+PGltZyBzcmM9J2h0dHA6Ly9mdXhpbmcuc2guY24vU0RGWkIvdXBsb2FkLzEvbmV3c0ltZy82MDEvMjAxNzA5MTgxNDQyNTgwODEuanBlZycgc3R5bGU9J21heC13aWR0aDoxMDAlOyc+PGJyPjwvcD48L3NlY3Rpb24+PC9zZWN0aW9uPjxwPuS5neaciO+8jOmHkeahguWwmuacqumjmOmmme+8jOS9huehleaenOW3sua7oeaeneWktOOAguWbnummluS4iuS4gOWtpuW5tO+8jOiZueaVmeezu+e7n+a2jOeOsOS6huW+iOWkmuWFiOi/m+eahOaVmeW4iOS4quS6uu+8jOamnOagt+eahOWKm+mHj+a/gOWKseedgOaIkeS7rOWJjeihjOOAguWcqOmrmOmmmeWJr+WMuumVv+Wuo+ivu+aWsOWinueJuee6p+aVmeW4iOOAgeW4guWbreS4geWlluWPiuaVmeS5puiCsuS6uualt+aooeihqOW9sOWQjeWNleWQju+8jOWQtOS/oeWune+8jOi1teawuOWzsO+8jOWQtOW7tumjju+8jOefs+WuneePjeetiemihuWvvOebuOe7p+S4uuiOt+WlluaVmeW4iOmigeWPkeiNo+iqieivgeS5pu+8jOiht+W/g+eahOelnei0uuWSjOW0h+mrmOeahOaVrOaEj+WMluS9nOeDreeDiOeahOaOjOWjsOWcqOadpeatjOWgguS5heS5hemjmOiNoeOAgueJueWIq+WAvOW+l+S4gOaPkOeahOaYr++8jOaIkeagoeiWm+W7uuWbveiAgeW4iOS7peWFtuWvueiCsuS6uui6rOiAleS4jei+jeOAgeS4uueQhuaDs+S4jeiuoeW+l+WkseeahOeyvuelnuWSjOaIkOWwse+8jOiNo+iOtzIwMTflubTkuIrmtbfluILlm63kuIHlpZbvvIzorqnmiJHku6zlkJHolpvogIHluIjoh7Tku6XmlazmhI/lkoznpZ3otLrvvIE8L3A+PHNlY3Rpb24+PHNlY3Rpb24+PHAgc3R5bGU9J3RleHQtYWxpZ246IGNlbnRlcjsgJz48aW1nIHNyYz0naHR0cDovL2Z1eGluZy5zaC5jbi9TREZaQi91cGxvYWQvMS9uZXdzSW1nLzYwMS8yMDE3MDkxODE0NDMxOTc1OC5qcGVnJyBzdHlsZT0nbWF4LXdpZHRoOjEwMCU7Jz48YnI+PC9wPjwvc2VjdGlvbj48L3NlY3Rpb24+PHA+5LiJ5bC66K6y5Y+w5Zut5LiB5qKm77yM56uL5b635qCR5Lq65biI6ICF5b+D44CC5pys5bGK5biC5pWZ5Lmm6IKy5Lq65qW35qih44CB5Y2X5rmW6IGM5Lia5a2m5qCh6Iqm56eA5YWw5qCh6ZW/55qE5LuO5pWZ5b+D5b6X5YiG5Lqr77yM5b2w5pi+5LqG5rK75qCh5b6X5rOV44CB6IKy5Lq65pyJ5pa555qE5biI6ICF5Yyg5b+D77yb5Y2O5biI5aSn5LiA6ZmE5Lit5aec5oyv6aqF6ICB5biI55qE6auY5Lit6Iux6K+t5b6u6K++5bGV56S677yM5pi+546w5LqG6aWx5ruh55qE5pWZ5a2m54Ot5oOF5LiO57K+5rmb55qE5pWZ5a2m5oqA6IO977yb6Jm55Y+j5Yid57qn5Lit5a2m5ZC05L2p6Iq45qCh6ZW/55qE5qCh5Zut5bu66K6+57uP6aqM77yM5Yed6IGa5LqG4oCc5Z2H6KGh5Y+R5bGV44CB5Yqe5aW95a626Zeo5Y+j55qE5a2m5qCh4oCd55qE6Imv6Ium55So5b+D44CCPC9wPjxwPuaOpeedgO+8jOWQtOS/oeWuneS5puiusOS4uuWkp+S8muS9nOmHjeimgeiusuivneOAguS7luaMh+WHuu+8jOi/h+WOu+eahOS4gOW5tOS4re+8jOWcqOS4reWFseiZueWPo+WMuuWnlOOAgeWMuuaUv+W6nOmihuWvvOeahOeDreW/seWFs+W/g+S4i++8jOmAmui/h+WFqOWMuuW5v+Wkp+aVmeiCsuW3peS9nOiAheeahOWFseWQjOWKquWKm++8jOaIkeWMuuWQhOmhueaVmeiCsuS6i+S4muWPluW+l+mqhOS6uuaIkOe7qeOAguiZueWPo+WMuuWni+e7iOWwhuaVmeiCsuaUvuWcqOS8mOWFiOWPkeWxleWcsOS9je+8jOWkp+WKm+aJtuaMgeKAnOW9qeiZueiuoeWIkuKAne+8jOS4jeaWreWkr+WunuaIkeWMuuaVmeiCsuWfuuehgOOAguWQjOaXtu+8jOWQtOS5puiusOW4jOacm+KAlOKAlDwvcD48c2VjdGlvbj48c2VjdGlvbj48c2VjdGlvbiBzdHlsZT0ndGV4dC1hbGlnbjogY2VudGVyOyc+PGltZyBzcmM9J2h0dHA6Ly9mdXhpbmcuc2guY24vU0RGWkIvdXBsb2FkLzEvbmV3c0ltZy82MDEvMjAxNzA5MTgxNDQzNDIzMzUuanBlZycgc3R5bGU9J21heC13aWR0aDoxMDAlOyc+PGJyPjwvc2VjdGlvbj48L3NlY3Rpb24+PHNlY3Rpb24+PHNlY3Rpb24+PC9zZWN0aW9uPjxzZWN0aW9uPjxwPjxzdHJvbmc+5q+P5L2N6Jm55pWZ5Lq66YO96IO95LiN5b+Y5Yid5b+D77yM5b+g5LqO5YWa5ZKM5Lq65rCR55qE5pWZ6IKy5LqL5Lia77yb5YuH5LqO5Yib5paw77yM56ev5p6B5oqV6Lqr5pWZ6IKy5pS56Z2p5Yib5paw5a6e6Le177yb5Lul5b6356uL6Lqr77yM5byY5oms56S+5Lya5Li75LmJ5qC45b+D5Lu35YC86KeC77yb5Z2a5a6a5YmN6KGM77yM6K6p5bmz5Yeh55qE5bKX5L2N6Zeq6ICA5Ye65Zyj5rSB55qE6I2j5YWJ77yBPC9zdHJvbmc+PC9wPjwvc2VjdGlvbj48L3NlY3Rpb24+PHNlY3Rpb24+PC9zZWN0aW9uPjwvc2VjdGlvbj48cD48L3A+PHA+5pyA5ZCO77yM6Jm55Y+j5Yy65ZCE57qn5a2m5qCh5biI55Sf44CB5a626ZW/5Luj6KGo5Lul57K+5b2p55qE6IqC55uu6KGo5ryU77yM6YCB5LiK5LqG5pyA5Li655yf5oya55qE5pWZ5biI6IqC56Wd56aP77yM5Lmf6K6p5pys5qyh5aSn5Lya5ZyG5ruh6JC95bmV44CCPC9wPjxwPuW6huelneWkp+S8muWQju+8jOWcqOmZiOawuOW5s+agoemVv+eahOmZquWQjOS4i++8jOWMuuWnlOS5puiusOWQtOS/oeWuneetiemihuWvvOS4gOihjOWPguinguS6huS/ruiRuuS4gOaWsOeahOWkjeWFtOagoeWbreOAguS4gOihjOS6uui1sOi/m+S/oeaBr+WupO+8jOaEn+WPl+aZuuaFp+agoeWbreW7uuiuvuS4juWkp+aVsOaNrueuoeeQhueahOmrmOaViOWSjOS+v+aNt++8m+a8q+atpeS4reW6ree7v+WMluW5v+Wcuu+8jOiAg+Wvn+aUueaJqeW7uuaDheWGteS4juaVmeWupOWcuummhuWIhuW4g++8m+e9rui6q+aTjeWcuuS4gOmahe+8jOeOr+inhumjn+WgguOAgeWuv+iIjeOAgeS9k+iCsummhuOAgei9puW6k+etieW4iOeUn+eUn+a0u+WMuuWfn+KApuKApjwvcD48cD48L3A+PHNlY3Rpb24+PHNlY3Rpb24+PGJyPjwvc2VjdGlvbj48c2VjdGlvbj48c2VjdGlvbiBzdHlsZT0ndGV4dC1hbGlnbjogY2VudGVyOyc+PGltZyBzcmM9J2h0dHA6Ly9mdXhpbmcuc2guY24vU0RGWkIvdXBsb2FkLzEvbmV3c0ltZy82MDEvMjAxNzA5MTgxNDQ0MDQxNTcuanBlZycgc3R5bGU9J21heC13aWR0aDoxMDAlOyc+PGJyPjwvc2VjdGlvbj48L3NlY3Rpb24+PC9zZWN0aW9uPjxwPuWcqOWPguingui/h+eoi+S4re+8jOWMuuWnlOmihuWvvOS7rOWvuemZiOagoemVv+S7i+e7jeeahOaIkeagoeS4reW6ree7v+WMluiuvuiuoeihqOekuuWHuuaegeWkp+WcsOWFtOi2o++8muS4reW6remTtuadj+agkeS6reS6reWmgueblu+8jOWvk+aEj+aYr+WtlOWtkOW9k+W5tOaOiOW+kueahOWcsOaWueKAlOKAlOadj+Wdm++8m+mTtuadj+WkmuaenO+8jOixoeW+geedgOWkjeWFtOagoeWPi+a7oeWkqeS4i++8m+agkeadhuaMuuaLlO+8jOaBsOWmguWkjeWFtOWtpuWtkOaMgeWuiOato+ebtO+8m+aenOS7gemjn+eUqOiNr+eUqOeahuWPr++8jOihqOi+vuWvueWkjeWFtOWtpuWtkOWtpuaIkOWQjuiUmuS4uuWbveeUqOeahOW4jOWGgO+8m+mTtuadj+eUn+mVv+e8k+aFou+8jOi/meS5n+ato+S4juS4uuW4iOS5i+mBk+ebuOWlkeWQiO+8jOeZvuW5tOagkeS6uua8q+a8q+S/rui/nO+8jOS8oOmBk+WPl+S4muW+quW6j+a4kOi/m++8jOS4jeWPr+aPoOiLl+WKqemVv+OAgeaApeS6juaxguaIkOOAguS4reW6ree7v+WMlueahOagvOWxgOS5n+aYr+mih+acieiusueptu+8muS7juaAneaIkOalvOinkuW6puinguS5i+S4uuKAnFbigJ3lvaLvvIzku6PooajkuoblpI3lhbTku47kvJjnp4DotbDlkJHljZPotornmoTnsr7nm4rmsYLnsr7vvJvku47oh6rlvpfmpbznnIvov4fljrvmmK/kuKrigJxB4oCd77yM5b2w5pi+552A5a2m5qCh5pWZ5Lmm6IKy5Lq65oiQ57up55qE54us5Y2g6bOM5aS077yb5LuO5LmL5Y2H5qW855yL6L+H5Y675YiZ5piv5aSa6YeN5Lqk5Y+J77yM5L2T546w5LqG5a2m5qCh5Li65a2m55Sf55qE5aSa5YWD5oiQ5Yqf5p626LW356uL5Lqk5qGl55qE6IKy5Lq655CG5b+144CC6aKG5a+85Lus57q357q35a+55a2m5qCh5LiT5rOo57uG6IqC55qE5Yyg5b+D54us6L+Q44CB54SV54S25LiA5paw55qE5qCh5Zut5paw6IiN44CB546w5Luj5YyW55qE5pWZ6IKy6K6+5pa95Y+R5Ye65LqG55Sx6KG36LWe5Y+544CCPC9wPjxzZWN0aW9uPjxzZWN0aW9uPjxzZWN0aW9uPjxzZWN0aW9uIHN0eWxlPSd0ZXh0LWFsaWduOiBjZW50ZXI7Jz48aW1nIHNyYz0naHR0cDovL2Z1eGluZy5zaC5jbi9TREZaQi91cGxvYWQvMS9uZXdzSW1nLzYwMS8yMDE3MDkxODE0NDQzNjcwMy5qcGVnJyBzdHlsZT0nbWF4LXdpZHRoOjEwMCU7Jz48YnI+PC9zZWN0aW9uPjwvc2VjdGlvbj48c2VjdGlvbj48YnI+PC9zZWN0aW9uPjwvc2VjdGlvbj48L3NlY3Rpb24+PHA+5Zyo5rGC55yf5Y6F5ZCs5a6M5oiR5qChMjAxN+W5tOmrmOiAg+aIkOe7qeaxh+aKpeWQju+8jOWQtOS/oeWuneS5puiusOaMh+WHuu+8jOi/keW5tOadpeWkjeWFtOWQhOmhueW3peS9nOaNt+aKpemikeS8oOOAgeehleaenOe0r+e0r++8jOato+WkhOS6juWKoOW/q+WPkeWxleeahOacgOS9s+aXtuacn+OAguWQtOS5puiusOa/gOWKseaIkeagoei/m+S4gOatpeWujOWWhOmihuWvvOePreWtkOeuoeeQhu+8jOS8mOWMluW4iOi1hOmYn+S8jeW7uuiuvu+8jOWKquWKm+aPkOWNh+aVmeWtpui0qOmHj++8jOS7peWkjeWFtOiFvumjnueahOi6q+Wnv+S4uuiZueWPo+aVmeiCsuazqOWFpeaWsOeahOeUn+WRveWKm+OAgjwvcD48cD48YnI+PC9wPjxwPum7mOm7mOaXoOmXu+iCsuWHuuahg+adjua7oeWkqeS4i++8jOaLs+aLs+acieW/l+mAoOWwseagi+aigeWFtOS4reWNjuOAguS4gOaUr+eyieeslO+8jOS4ieWwuuiusuWPsO+8jOWHoOW6puaYpeeni++8jOeUqOe+juWMluiCsuW/g+eBte+8jOeUqOecn+WdmuWuiOaVmeWtpuOAgeeUqOW/g+WKqeWKm+aIkOmVv++8jOaVmeW4iOS5i+i3r++8jOS+v+aYr+i/meagt+eahOS/oeS7sOS5i+i3r+OAguiuqeaIkeS7rOiht+W/g+elneaEv+avj+S4gOS9jeiAgeW4iOiKguaXpeW/q+S5kOOAgeahg+adjuiKrOiKs++8jOiuqeaIkeS7rOWSjOiht+WFsea1juOAgeaQuuaJi+WQjOihjO+8jOS4uuiZueWPo+aVmeiCsuWLh+aUgOmrmOWzsOi0oeeMruWKm+mHj++8gTwvcD48cD48YnI+PC9wPg==","cn_summary":"","cn_title":"虹口区庆祝第三十三届教师节大会在我校召开","ispublish":1,"cn_order":null,"create_time":"2017-09-18","fontNo":1751},"userStatus":0,"friendshipLink":[{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":-1,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"上海教育","cwc_titlename":"","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7807,"modifer":"admin","cwc_order":1,"modfied_time":"2017-04-18 13:04:56","cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-04-17 09:35:51","cwc_opentype":0,"cwc_linkurl":"https://www.shmec.gov.cn/"},{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":-1,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"虹口教育","cwc_titlename":"","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7808,"modifer":"admin","cwc_order":2,"modfied_time":"2017-04-18 13:04:50","cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-04-17 10:24:52","cwc_opentype":0,"cwc_linkurl":"https://www.hkedu.sh.cn/hkpublicinfo"},{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":-1,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"虹口教育督导","cwc_titlename":"","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7809,"modifer":null,"cwc_order":3,"modfied_time":null,"cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-04-18 13:04:42","cwc_opentype":0,"cwc_linkurl":"https://jydd.hkedu.sh.cn/DuDaoPortalSite/"},{"cwc_pids":null,"cwc_channel_pos":2,"cwc_qid":0,"cwc_pid":7804,"cwc_website_id":1,"cwc_channeltype":0,"cwc_islink":1,"cwc_isleaf":1,"cwc_name":"学生生涯规划","cwc_titlename":"fq ","creator":"admin","cwc_isvisible":1,"cwc_img":null,"id":7821,"modifer":null,"cwc_order":4,"modfied_time":null,"cwc_introduce":"","cwc_have_power":0,"isdel":0,"create_time":"2017-10-27 09:23:59","cwc_opentype":0,"cwc_linkurl":"https://www.yf678.net"}],"channelImg":"/upload/1/channel/1/20170418193731576.png","newsDownLoad":[]}||{};
+	if(typeof VIEW_PARAM =='string'){VIEW_PARAM=eval("("+VIEW_PARAM+")");}
+</script>
+
+<!-- 閺備即妞堥崘鍛啇 -->
+<script type="text/template" id="listChannel_tpl">
+<%var n = $('.active').index()-1,data = obj.indexChannel[n];%>
+<%_.each(data.child,function(item,index){%>
+<div class="accordion-group">
+<div class="accordion-heading accordion-toggle">
+<b>
+<%if(_.isEmpty(item.linkurl)){
+	 if (item.pid==0) {
+	 	linkurl= seajs.baseHTTP+"/revivalChannel/"+item.id;
+	 }else if(item.pid!=0){
+		 linkurl= seajs.baseHTTP+"/revivalChannel/"+item.pid+"-"+item.id;
+	 }else{
+	 	linkurl= seajs.baseHTTP;
+ 	 }
+ }%>
+	<a href="<%=linkurl%>" data-value="<%=item.id%>" class="" >
+	<%=item.name%>
+	</a>
+</b>
+</div>
+<div data-value="<%=item.id%>" class="accordion-body collapse" style="height: 0px; ">
+
+</div>
+</div>
+<% }) %>
+</script>
+<script type="text/javascript">
+            var Base = new Base64();
+            function Base64() {
+
+
+             _keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+
+
+             this.encode = function (input) {
+              var output = "";
+              var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+              var i = 0;
+              input = _utf8_encode(input);
+              while (i < input.length) {
+               chr1 = input.charCodeAt(i++);
+               chr2 = input.charCodeAt(i++);
+               chr3 = input.charCodeAt(i++);
+               enc1 = chr1 >> 2;
+               enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+               enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+               enc4 = chr3 & 63;
+               if (isNaN(chr2)) {
+                enc3 = enc4 = 64;
+               } else if (isNaN(chr3)) {
+                enc4 = 64;
+               }
+               output = output +
+               _keyStr.charAt(enc1) + _keyStr.charAt(enc2) +
+               _keyStr.charAt(enc3) + _keyStr.charAt(enc4);
+              }
+              return output;
+             }
+
+
+             this.decode = function (input) {
+              var output = "";
+              var chr1, chr2, chr3;
+              var enc1, enc2, enc3, enc4;
+              var i = 0;
+              input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+              while (i < input.length) {
+               enc1 = _keyStr.indexOf(input.charAt(i++));
+               enc2 = _keyStr.indexOf(input.charAt(i++));
+               enc3 = _keyStr.indexOf(input.charAt(i++));
+               enc4 = _keyStr.indexOf(input.charAt(i++));
+               chr1 = (enc1 << 2) | (enc2 >> 4);
+               chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+               chr3 = ((enc3 & 3) << 6) | enc4;
+               output = output + String.fromCharCode(chr1);
+               if (enc3 != 64) {
+                output = output + String.fromCharCode(chr2);
+               }
+               if (enc4 != 64) {
+                output = output + String.fromCharCode(chr3);
+               }
+              }
+              output = _utf8_decode(output);
+              return output;
+             }
+
+             // private method for UTF-8 encoding
+             _utf8_encode = function (string) {
+              string = string.replace(/\r\n/g,"\n");
+              var utftext = "";
+              for (var n = 0; n < string.length; n++) {
+               var c = string.charCodeAt(n);
+               if (c < 128) {
+                utftext += String.fromCharCode(c);
+               } else if((c > 127) && (c < 2048)) {
+                utftext += String.fromCharCode((c >> 6) | 192);
+                utftext += String.fromCharCode((c & 63) | 128);
+               } else {
+                utftext += String.fromCharCode((c >> 12) | 224);
+                utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                utftext += String.fromCharCode((c & 63) | 128);
+               }
+
+              }
+              return utftext;
+             }
+
+             _utf8_decode = function (utftext) {
+              var string = "";
+              var i = 0;
+              var c = c1 = c2 = 0;
+              while ( i < utftext.length ) {
+               c = utftext.charCodeAt(i);
+               if (c < 128) {
+                string += String.fromCharCode(c);
+                i++;
+               } else if((c > 191) && (c < 224)) {
+                c2 = utftext.charCodeAt(i+1);
+                string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                i += 2;
+               } else {
+                c2 = utftext.charCodeAt(i+1);
+                c3 = utftext.charCodeAt(i+2);
+                string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                i += 3;
+               }
+              }
+              return string;
+             }
+            };
+        if(VIEW_PARAM.current=='-1'){
+          var inserText = "<div style='text-align:center;margin-top:200px'>暂无内容</div>";
+          document.getElementById( 'article').innerHTML=inserText;
+        }else{
+          var result = Base.decode(VIEW_PARAM.current.content);
+          document.getElementById("baseContent").insertAdjacentHTML("afterBegin",result);
+        }
+
+</script>
+
+<script type="text/template" id="titleTpl">
+
+                <h3 class="h3"><%=current.cn_title%></h3>
+                <p>
+                   作者：<%=current.author?current.author:'佚名'%>&nbsp;&nbsp;&nbsp;
+                   <span class="pubTime"><%=moment(current.cn_publishdate).format("YYYY-MM-DD")%></span>
+                </p>
+
+
+
+
+
+</script>
+
+<script type="text/template" id="footContentTpl">
+    <div class="content" id="page">
+        <%if(newsDownLoad.length !== 0){%>
+        <div>
+            <%_.each(newsDownLoad,function(i,k){%>
+              <span>附件<%=k+1%>：</span>
+              <span style="margin-right:10px"><a href="<%=seajs.baseHTTP+i.cnd_url%>"><%=i.cnd_name%></a></span>
+            <%})%>
+
+        </div>
+        <%}%>
+        <%if(obj.next|| obj.pre){%>
+        <div class="col-xs-6">
+                <%if(pre){%>
+                <span class="previous">上一篇：
+                  <a title="<%-pre.cn_title%>" style="display:inline" href="https://fx.xxoo.skin/SDFZB/revivalChannel/<%-pid%>-<%-obj.channelId%>-<%-pre.id%>"><%-pre.cn_title%></a>
+                </span>
+                <%}else{%>
+                    <span class="pre">
+                    </span>            <%}%>
+        </div>
+        <div class="col-xs-6 text-right">
+                <%if(next){%>
+                <span class="next">下一篇 :&nbsp;
+                  <a title="<%-next.cn_title%>" style="display:inline" href="https://fx.xxoo.skin/SDFZB/revivalChannel/<%-pid%>-<%-obj.channelId%>-<%-next.id%>"><%-next.cn_title%></a>
+                </span>
+                <%}else{%>
+                    <span class="next">
+                    </span>             <%}%>
+        </div>
+    </div>
+<%}%>
+<%if(!obj.next&& !obj.pre){%>
+    <div class="content" id="page">
+        <div class="col-xs-6">
+            <span class="previous">
+            </span>
+        </div>
+        <div class="col-xs-6 text-right">
+            <span class="next">
+            </span>
+        </div>
+    </div>
+<%}%>
+
+</script>
+<script src="https://fx.xxoo.skin/SDFZB/FXGW/js/sea.js"></script>
+<script>
+seajs.use("view_"+VIEW,function(m){
+	m.init();
+});
+</script>
+	<!-- footer> -->
+	<div class="clearfix"></div>
+
+	<div id="infoFoot" class="clearfix ydp-container" style="font-size:14px;">
+	   	<div class="contant">
+    	<div class="pull-left info" style="width:100px;padding: 0 10px;">
+    		 <p class="footTitle"><a href="https://bszs.conac.cn/sitename?method=show&id=2919B6564B217F55E053022819AC06C9" target="_blank"><img src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/blue.png"></a>
+    	</div>
+	    <div class="pull-left info" style="width:240px;padding: 0 10px;">
+	        <p class="footTitle" style="padding-bottom:15px">复兴教育集团</p>
+	        <p style="margin:0"><a target="_blank" href="https://fxcj.hkedu.sh.cn">民办新复兴初级中学</a></p>
+	        <p style="margin:0"><a target="_blank" href="https://fxsy.hkedu.sh.cn">复兴实验中学</a></p>
+	        <p style="margin:0">虹口区教育学院实验中学</p>
+	    </div>
+	    <div  id="friendLink" class="pull-left info" style="width:235px;padding: 0 10px;">
+	        <p class="footTitle" style="padding-bottom:15px">友情链接</p>
+
+	    </div>
+	    <div class="pull-left info"   style="width:250px;padding: 0 10px;">
+	        <p class="footTitle" style="padding-bottom:15px">联系我们</p>
+	        <p><span class="icon-envelope-alt" style="margin-right:0.1em"></span>邮箱：fxheadmaster@163.com</span></p>
+	        <p><span class="icon-phone"></span>电话：021-65606715</span></p>
+	        <p ><span class="icon-home" style="margin:0.1em;"></span>地址：虹口区车站南路28号&nbsp;&nbsp;</p>
+	        <p ><span class="icon-inbox"></span>邮编：200434</p>
+
+	    </div>
+	    <div class="pull-left" style="width:100px;padding: 0 10px;">
+	    		<img   src="https://fx.xxoo.skin/SDFZB/FXGW/css/img/twoMa.jpg" width="120">
+	    </div>
+	    </div>
+	</div>
+	<div id="foot" class="ydp-container">
+	        <div class="text-center" style="line-height: 35px;">
+	            Copyright©上海市复兴高级中学版权所有&nbsp;&nbsp;<a style="color:#fff" href="https://www.miitbeian.gov.cn" target="_blank">沪ICP备：11009688号-1</a></p>
+	         </div>
+	</div>
+
+</div>
+
+
+</body>
+</html>
+<!--nav end-->

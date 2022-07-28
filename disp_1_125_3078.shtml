@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div661" class='listitem3'><a href='list_1_661.shtml'>科研信息</a></div></td></tr><tr><td><div id="div662" class='listitem3'><a href='list_1_662.shtml'>科研计划</a></div></td></tr><tr><td><div id="div125" class='listitem3'><a href='list_1_125.shtml'>科研成果</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_125_3082.shtml' title='标题:2013年教研组发表论文和课题统计&#13;点击:500次&#13;日期:2014-1-13 16:33:37'  ><span style='color:;'>2013年教研组发表论文和课题</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_3080.shtml' title='标题:2013年虹口区第11届教育科研评比复兴高级中学获奖汇总&#13;点击:469次&#13;日期:2014-1-13 16:30:22'  ><span style='color:;'>2013年虹口区第11届教育科研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_3078.shtml' title='标题:2013年青年教师课题研究成果评比结果&#13;点击:394次&#13;日期:2014-1-13 16:28:50'  ><span style='color:;'>2013年青年教师课题研究成果</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_2752.shtml' title='标题:热烈祝贺以下教师发表的论文刊登在国家级、市级、区级刊物上&#13;点击:1653次&#13;日期:2013-1-18 11:01:35'  ><span style='color:;'>热烈祝贺以下教师发表的论文</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_2648.shtml' title='标题:我校参加市校本课程展览&#13;点击:482次&#13;日期:2012-12-14 8:05:22'  ><span style='color:;'>我校参加市校本课程展览</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_1173.shtml' title='标题:区科研室“三个课堂”征文我校参加情况汇总&#13;点击:565次&#13;日期:2012-2-22 11:17:20'  ><span style='color:;'>区科研室“三个课堂”征文我</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_1172.shtml' title='标题:上海市虹口区第十届教育科研成果奖我校获奖统计&#13;点击:851次&#13;日期:2012-2-22 10:43:07'  ><span style='color:;'>上海市虹口区第十届教育科研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_907.shtml' title='标题:彩虹视屏点亮现代校园 复兴获应用典范奖&#13;点击:406次&#13;日期:2011-4-6 14:15:51'  ><span style='color:;'>彩虹视屏点亮现代校园&nbsp;复兴获</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_105.shtml">科研动态</a> >> <a href="list_1_125.shtml">科研成果</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2013年青年教师课题研究成果评比结果</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2014-1-13 16:28:50&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3078"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>2013</b><b>年青年教师课题研究成果评比结果</b></div>
+<div><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><b>经专家评审，学校认定，共</b><b>25</b><b>篇课题成果获奖。其中龚嘉琦、陈盛老师的《</b><b>情景引入环节的设计</b><b>》获得一等奖；杨勇、顾叶青老师的《</b><b>分层教学的分析总结</b><b>》等</b><b>6</b><b>篇获得二等奖；仇凛老师的《</b><b>如何保持学生的注意力</b><b>》等</b><b>18</b><b>篇获得三等奖。</b></div>
+<div align="center"><b>一等奖</b></div>
+<div><b>情景引入环节的设计（龚嘉琦，陈盛）</b></div>
+<div align="center"><b>&nbsp;</b></div>
+<div align="center"><b>二等奖（排名不分先后，下同）</b></div>
+<div><b>分层教学的分析总结（杨勇，顾叶青）</b></div>
+<div><b>如何讲评试卷（陆佳一，徐宁）</b></div>
+<div><b>《工业合成氨》的教学设计（张栋）</b></div>
+<div><b>微聚焦：课堂练习和课后作业的有效性（王兢，曹蕾）</b></div>
+<div><b>活的课程、微瞬间与创造力（孔庆昊，段冬蓓）</b></div>
+<div><b>重视研究过程</b><b>开展有效讨论（赵莹婷，戴华韵）</b></div>
+<div align="center"><b>&nbsp;</b></div>
+<div align="center"><b>三等奖</b></div>
+<div><b>如何保持学生的注意力（仇凛<span>,赵培丽）</span></b></div>
+<div><b>如何与家长沟通（陈珠静，沈雨菲）</b></div>
+<div><b>课堂有效提问的策略</b><b>(</b><b>丁慧，袁丽华）</b></div>
+<div><b>如何根据学生学习水平选择和利用课堂教学资源（张尚达）</b></div>
+<div><b>&ldquo;四到四记&rdquo;，以听课笔记促专业化发展（楼蕾，张燕）</b></div>
+<div><b>如何进行有效教学反思（陈琼，陈康）</b></div>
+<div><b>如何与特殊学生沟通交流（陈叶，袁立薇）</b></div>
+<div><b>学生综合素质的培养系统（王瑛）</b></div>
+<div><b>以西藏学生提高汉语能力为例讨论如何辅导学困生的学习（孙欢欢，郝文）</b></div>
+<div><b>关于有效的课堂教学管理研究（徐佳卿，蔡谦）</b></div>
+<div><b>如何有效开展家校沟通？（蒋斯炜，顾泓川）</b></div>
+<div><b>关于高中生有效自主预习的思考（任晓米，邱小霞）</b></div>
+<div><b>作业的批改和评价（胡春瑞，沈小勇）</b></div>
+<div><b>如何提高作业订正的有效性（孙碧苗，袁翔）</b></div>
+<div><b>高中课堂纪律的反思与探讨（王瑾，周小彬）</b></div>
+<div><b>怎样在课堂中控制自己的情绪（俞嘉溦）</b></div>
+<div><b>如何在备课和教学中把握重难点（翁雪宁）</b></div>
+<div><b>如何撰写教案（朱文倩，郭逸璇）</b></div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3078&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3078"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

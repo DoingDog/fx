@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div107" class='listitem3'><a href='list_1_107.shtml'>对外交流</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_1124.shtml' title='标题:李国华副区长视察我校&#13;点击:289次&#13;日期:2011-12-27 13:28:52'  ><span style='color:;'>李国华副区长视察我校</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1133.shtml' title='标题:弘扬中华传统，建设文化强国——陈燮君研究员莅临复兴高级中学作辅导报告&#13;点击:136次&#13;日期:2011-12-28 11:19:15'  ><span style='color:;'>弘扬中华传统，建设文化强国</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1131.shtml' title='标题:传递爱心，快乐共享——记2011复兴中学义卖义拍活动&#13;点击:254次&#13;日期:2011-12-28 11:05:54'  ><span style='color:;'>传递爱心，快乐共享——记20</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1112.shtml' title='标题:新技术与学习的反思 ——复兴高中第24届科技节高一高二辩论赛&#13;点击:151次&#13;日期:2011-12-16 15:00:56'  ><span style='color:;'>新技术与学习的反思&nbsp;——复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1111.shtml' title='标题:科学研究是学生发展的催化剂 ——复兴高级中学2011年科技节之学生论坛&#13;点击:144次&#13;日期:2011-12-16 14:45:36'  ><span style='color:;'>科学研究是学生发展的催化剂</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1104.shtml' title='标题: 关注环保，关爱地球——复兴高级中学第24届科技节开幕&#13;点击:118次&#13;日期:2011-12-12 14:54:24'  ><span style='color:;'>&nbsp;关注环保，关爱地球——复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1091.shtml' title='标题:深秋中飘扬的紫色旗帜 ——记2011年高一学生东方绿舟国防教育&#13;点击:393次&#13;日期:2011-12-5 15:41:21'  ><span style='color:;'>深秋中飘扬的紫色旗帜&nbsp;——记</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1088.shtml' title='标题:喜讯----我校女排获2011年上海市学生阳光体育大联赛排球比赛冠军&#13;点击:166次&#13;日期:2011-12-5 8:57:11'  ><span style='color:;'>喜讯----我校女排获2011年上</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1075.shtml' title='标题:“我们的国家”中学生读书征文大奖赛我校获奖名单&#13;点击:138次&#13;日期:2011-11-21 11:59:03'  ><span style='color:;'>“我们的国家”中学生读书征</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_1070.shtml' title='标题:动手动脑，打造不沉的“复兴方舟”&#13;点击:315次&#13;日期:2011-11-18 14:02:36'  ><span style='color:;'>动手动脑，打造不沉的“复兴</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>弘扬中华传统，建设文化强国——陈燮君研究员莅临复兴高级中学作辅导报告</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:沈雨菲&nbsp;&nbsp; 编辑日期:2011-12-28 11:19:15&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1133"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>12月<span>23日</span>，上海市文物管委会副主任、市文广影视管理局党委书记、上海博物馆馆长陈燮君研究员莅临复兴高级中学，以&ldquo;弘扬中华传统，建设文化强国&rdquo;为主题，针对中华民族伟大复兴的文化准备，对今天城市的文化思考以及复兴人的思维训练，为全体复兴教职员工作了一场异常精彩的辅导报告。</p>
+<div>陈燮君研究员表示，在前不久刚结束的六中全会中，我党重点提出文化强国战略。面对当今文化日趋成为综合国力竞争重要因素的新形势，我们必须高度重视文化自觉和文化自信。文化是一种力量，它能在中国的进一步发展以及和平崛起中提供精神动力和智力支持。</div>
+<div>陈燮君研究员强调，对一座城市来说，&ldquo;文化准备&rdquo;非常重要。陈研究员向老师们详细介绍了上海的古代文明，&ldquo;<span>4+1+1<span><span>&rdquo;</span>的文明结构，包括了距今6000</span>年前的马家浜文化、距今5000年前的崧泽文化、距今4000年前的良渚文化、距今3700年前的马桥文化以及距今4000年前的广富林文化遗址和元代志丹苑水闸遗址。陈燮君表示：上海是一个文化的码头，了解上海的古代文明，对于推动上海的城市文化发展，对于揭示文化之谜具有重要的意义。</span></div>
+<div>近一个半小时的报告让复兴教师们受益匪浅，到结束时仍感觉意犹未尽，不少教师表示，如同陈研究员所说：&ldquo;比知识更重要的是方法，我们要用大文化的眼光来看世界。&rdquo;如今的学生对于科学精神的追求还远远不够，着重加强学生思维的训练，可以更好地实现创新人才的培育，这也是作为教师注重人才培养的关键所在。</div>
+<div>&nbsp;<img width="600" alt="" src="/userfiles/upload/image/2011/12/28/20111228125120831230960.JPG" /></div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1133&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1133"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

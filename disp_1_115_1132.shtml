@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>学生荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_115_1132.shtml' title='标题:传递爱心，快乐共享——记2011复兴中学义卖义拍活动&#13;点击:87次&#13;日期:2011-12-28 11:05:54'  ><span style='color:;'>传递爱心，快乐共享——记20</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1115.shtml' title='标题:2011年学校科技节班级奖项评选汇总&#13;点击:115次&#13;日期:2011-12-22 9:42:42'  ><span style='color:;'>2011年学校科技节班级奖项评</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1098.shtml' title='标题:2011年复兴高级中学科技节各项内容&#13;点击:150次&#13;日期:2011-12-8 11:27:26'  ><span style='color:;'>2011年复兴高级中学科技节各</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1097.shtml' title='标题:2011年复兴高级中学科技节安排&#13;点击:102次&#13;日期:2011-12-7 14:26:16'  ><span style='color:;'>2011年复兴高级中学科技节安</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1096.shtml' title='标题:2011年复兴高级中学科技节主题诠释&#13;点击:74次&#13;日期:2011-12-7 14:08:21'  ><span style='color:;'>2011年复兴高级中学科技节主</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1093.shtml' title='标题:深秋中飘扬的紫色旗帜 ——记2011年高一学生东方绿舟国防教育&#13;点击:106次&#13;日期:2011-12-5 15:41:21'  ><span style='color:;'>深秋中飘扬的紫色旗帜&nbsp;——记</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1059.shtml' title='标题:校园运动会时间安排、场地示意图&#13;点击:136次&#13;日期:2011-11-14 15:14:46'  ><span style='color:;'>校园运动会时间安排、场地示</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1048.shtml' title='标题:2011年体育节体育部安排表&#13;点击:162次&#13;日期:2011-11-10 16:22:38'  ><span style='color:;'>2011年体育节体育部安排表</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1041.shtml' title='标题:全员努力共同爱卫 认真做事必有成就&#13;点击:38次&#13;日期:2011-11-2 11:17:08'  ><span style='color:;'>全员努力共同爱卫&nbsp;认真做事必</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_115_1018.shtml' title='标题:沟通，让校园更美好——记复兴高级中学双代会提案交流会&#13;点击:76次&#13;日期:2011-10-14 11:13:41'  ><span style='color:;'>沟通，让校园更美好——记复</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_115.shtml">校园文化</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>传递爱心，快乐共享——记2011复兴中学义卖义拍活动</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:王子昀&nbsp;&nbsp; 编辑日期:2011-12-28 11:05:54&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1132"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <div>2011年12月21日的中午，天气冷飕飕的，可这抵挡不了爱心的力量。我校在求真厅前小草坪举办了义拍活动。</div>
+<div>同学和老师们早早的来到了小草坪前，有的拿好了号码牌，准备着一举拿下自己心爱的拍品，有的则是冲着来看看这次活动的目的而来的。大家都显得格外的兴奋，格外的期待活动的开展。12:20，活动准时开始了！主持人站在了桌子上，拿着一件件夺人眼球的拍品开始向同学们介绍，许多拍品最终都顺利地拍卖了出去。而最有看头的还是那件压轴拍品&mdash;&mdash;我校陈校长捐出的&ldquo;马踏飞燕&rdquo;，相信有很多同学都是冲它而来的。最终这件拍品也拍出了高价。</div>
+<div>爱心义拍顺利的落下帷幕，然而同学们的热情却还在期待着更大的爆发。于是，在12月23日中午12:20至13:15，我校的爱心义卖活动热烈开展了。义卖活动集结了全校高一高二所有同学的拍品，此次义卖还有团学联、图书馆老师、各类社团倾情提供的各种精美的特色物品，吸引了全校的师生。</div>
+<div>在义卖活动现场，可以看见同学们为了招揽人气而各出奇招的热闹场景，几乎每一个班级、社团展台前都挤满了来&ldquo;淘宝&rdquo;的人。有人看到心仪的物品而面露欣喜之色，有人得知自己捐出来的东西有了新的&ldquo;归宿&rdquo;而感到高兴或不舍。<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></div>
+<div>而有一些人还没来得及吃饭就早早就位，到最后也没能够去逛逛，他们表示没能够在义卖中买上一两件物品而感到有些遗憾。而正是他们的认真负责，才能够使活动有序、有效地进行。他们有些是团学联的干事，有些则是自愿帮忙的人。</div>
+<div>此次活动，使闲置的物品有了新的用处，使人们收获快乐的同时传递爱心，爱心义卖实收8825.6元，善款将全部捐入学校爱心基金会的独立帐户。相信本次活动的点点滴滴都将成为大家永远的记忆。</div>
+<div><img width="600" alt="" src="/userfiles/upload/image/2011/12/28/201112281133112307910.JPG" /></div>
+<p><img width="600" alt="" src="/userfiles/upload/image/2011/12/28/20111228113310761419330.JPG" /></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1132&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1132"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

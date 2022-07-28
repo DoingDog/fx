@@ -1,0 +1,426 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_Head1"><title>
+	信息公开
+</title>
+
+<script src="css/TableCss.js" type="text/javascript"></script>
+<script src="Inc/JS/Site_Char.JS" type="text/javascript"></script>
+
+
+    <style type="text/css">
+        .tb_foot
+        {
+            height: 65px;
+            width: 965px;
+        }
+  
+        .style1
+        {
+            width: 28px;
+        }
+    </style>
+    <link id="_ctl0_linkstylebody" rel="stylesheet" type="text/css" /><link id="_ctl0_linktable" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/DIV.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/BaseStyle.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/TableCss.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/Menu.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/StyleSchool.css" rel="stylesheet" type="text/css" />
+    <script src="../../Template/Blue_style/TableCss.js" type="text/javascript"></script>
+
+    <link href="Template/Blue_style/ListTableCss.css" rel="stylesheet" type="text/css" /></head>
+<body style="text-align: center;">
+    <div style="text-align: center; width: 1000px; min-height: 500px;">
+        <div id="dhead">
+            <div id="_ctl0_headContent"><img src='UploadFiles/2008/12/23/af2a3375-9a06-46df-832b-3c55c4223702.jpg' width='1000' height='185' /></div>
+            <div id="dmenu">
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <a href="http://www.fuxing.sh.cn" id="_ctl0_SchoolWeb" target="_blank">
+                                <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" /><span style="color: White;">学校主页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" />&nbsp;<a href='Channel.aspx?UserID=fxgj'><span
+                                style="color: White;">专栏首页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" /><a href='XTSite_InfoOpen.aspx?UserID=fxgj'><span
+                                style="color: White;">公开信息指南</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" />
+                            <a href='List.aspx?ClassID=607&UserID=fxgj'><span style="color: White;">公开信息目录</span></a>
+                            <img class="ImgMidAlign" src="Images/rss.gif" />
+                            <a href='Rss.aspx?UserID=fxgj' target="_blank"><span style="color: White;">
+                                rss 订阅</span></a>
+                        </td>
+                        <td>
+                            <form name="search" action="Search.Aspx?Action=Search" method="get">
+                            <table width="280" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="151" align="right">
+                                        <input name="keyword" id="Keyword" style="border: solid 1px;" type="text" value="请输入关键字"
+                                            size="15" onmouseover="this.value='';">
+                                        <input id="Action" type="hidden" value="Search" name="Action">
+                                        <input id="UserID" name="UserID" type="hidden" value="fxgj" />
+                                    </td>
+                                    <td width="39" align="center">
+                                        <input name="imageField" type="image" src="img_index/index_13_1.gif" alt="搜索" align="absmiddle"
+                                            border="0">
+                                    </td>
+                                    <td width="76" align="center">
+                                        <a href="search.aspx?UserID=fxgj" target="_blank">
+                                            <img src="img_index/index_13_2.gif" alt="高级查询" width="58" height="18" border="0"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            </form>
+                        </td>
+                        <td>
+                            <img class="ImgMidAlign" src="Images/manager.gif" />
+                            <a href='Schinfo/default.aspx' target="_blank"><span style="color: White;">管理入口</span></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+  
+        <div id="dbody">
+       
+                <div style="width: 24%; float: left">
+                    <div class="D_holder">
+                        <div class="D_bszn">
+                        </div>
+                        <div class="D_bgxz">
+                        </div>
+                        <div class="D_bmwd">
+                        </div>
+                        <div class="D_hdjl">
+                        </div>
+                        <div class="D_xyjx">
+                        </div>
+                        <div class="D_gksq">
+                        </div>
+                        <div class="D_wszx">
+                        </div>
+                        <div class="D_xzxx">
+                        </div>
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_34.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                        
+
+                                      </div>
+                            
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_52.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                      
+                    </div>
+              
+                 </div>
+              
+                <div style="width: 75%;float:right;">
+                    <div style="width: 100%;">
+                        <div style="width: 69%; float: left;">
+                            <div  class="tb_RDXX">
+                                <div class="d_rdxx_head">
+                                    <img alt="" src="Template/Blue_style/index_65.gif" /></div>
+                                <div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                                </div>
+                                <div class="d_rdxx_foot">
+                                </div>
+                            </div>
+                        </div>
+                        <div style="width: 30%; float: right">
+                            
+
+                        </div>
+                    </div>
+                    <div style="width: 100%;">
+                                    <div id="d_rdxx" class="tb_RDXX">
+                                        <div class="d_rdxx_head">
+                                            <img alt="" src="Template/Blue_style/index_66.gif" /></div>
+                                        <div>
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                            
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                          
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="d_rdxx_foot">
+                                        </div>
+                                    </div>
+                        
+                    </div>
+                    <div >
+                        <div style="width: 69%; float: left;">
+                       
+                                        <div  class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_67.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                        <div style="width: 30%; float: right;">
+                           
+                                        <div id="Div3" class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_68.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                    </div>
+                </div>
+              
+       
+      </div>
+        <div style="background-color: White;">
+            
+    <title id="_ctl0_cpheadcontent_d1_Title">复兴信息公开 →  信息公开  → 计划总结  → 年度总结  → 专项工作总结 ：教导处工作小结</title>
+
+<link href="template/default/style.css" rel="stylesheet" type="text/css" />
+<Script Language="JavaScript" Src="Inc/JS/Disp.JS"></Script>
+
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#00E800">
+      <tr>
+        <td width="100%" valign="top" align="left"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+          <tr>
+            <td height="26" valign="middle" bgcolor="#ffffff">&nbsp;您现在的位置：
+            <span id="_ctl0_cpheadcontent_d1_PathLabel"><a href="/XXGK/"  ID="XTSite_Navigation">复兴信息公开</a> →  <a href=/XXGK/Channel.Aspx?ChannelID=1&UserID=fxgj ID="XTSite_Navigation">信息公开</a>  → <a href="/XXGK/List.Aspx?ClassID=609&UserID=fxgj" ID="XTSite_Navigation">计划总结</a>  → <a href="/XXGK/List.Aspx?ClassID=619&UserID=fxgj" ID="XTSite_Navigation">年度总结</a>  → <a href="/XXGK/List.Aspx?ClassID=641&UserID=fxgj" ID="XTSite_Navigation">专项工作总结</a> </span></td>
+          </tr>
+          <tr>
+            <td valign="top" height="402">
+              <table width="99%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+                <tr>
+                  <TD width="8" height="0"></TD>
+                  <TD width="375"></TD>
+                  <TD width="193"></TD>
+                  <TD width="2"></TD>
+                  <TD width="12"></TD>
+                </tr>
+                <tr align="center">
+                  <TD valign="middle" height="50" colspan="5">
+                    <span id="_ctl0_cpheadcontent_d1_TitleLabel" class="Title">教导处工作小结</span></TD>
+                </tr>
+                <tr>
+                  <TD valign="middle" align="center" height="48"></TD>
+                  <TD colspan="2" align="center" valign="middle">
+                    <div align="right">索引号：
+                        <span id="_ctl0_cpheadcontent_d1_CatalogNum">101340202002-2008-009</span>          
+&nbsp;&nbsp;&nbsp; 发布时间：
+                        <span id="_ctl0_cpheadcontent_d1_DateAndTimeLabel">2008年12月25日</span>          
+&nbsp;&nbsp;&nbsp; 点击：
+              <span id="_ctl0_cpheadcontent_d1_HitsLabel">330</span>
+              次&nbsp;&nbsp;&nbsp;责任编辑：
+              <span id="_ctl0_cpheadcontent_d1_AddUserLabel">fxgj</span>
+                    </div>
+                    <hr width="100%" size="1">
+                    <div align="right"></div></TD>
+                  <TD valign="middle" align="center" colspan="2">&nbsp;</TD>
+                </tr>
+                <tr>
+                  <TD height="0"></TD>
+                  <TD></TD>
+                  <TD></TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="73"></TD>
+                  <TD colspan="2" valign="top">
+                    <table width="700" border="0" align="center" cellpadding="0" cellspacing="0" style="TABLE-LAYOUT:fixed;WORD-BREAK:break-all">
+                      <tr>
+                        <td class="Content">
+                          <span id="_ctl0_cpheadcontent_d1_ContentLabel"><DIV align=center>教导处工作小结</DIV>
+<DIV align=center>（2007学年第二学期）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>为遵循“创建满足学生充分发展需求”教育的宗旨，进一步开展课堂教学探究活动，深化学生自主发展的课程及教学活动体系，以科研促进教育、教学工作。本着总体负责、分块管理、条块结合、相互协作的管理模式，以及定期碰头，互通有无，重大活动，共同参与的管理特色，进一步整合教导处的管理机制，完善学籍管理工作，为创建“实验性示范性”高中起到承上启下的管理职能作用。</DIV>
+<DIV>2007学年第二学期教导处着重开展以下方面的工作：</DIV>
+<DIV>一、组织课堂教学探究</DIV>
+<DIV>1．参与课堂教学评比，推动教学质提高量</DIV>
+<DIV>&nbsp;&nbsp; &nbsp;2．结合课题结题研究，展示课程改革成果</DIV>
+<DIV>3．参加市级课题研究，促进学科教学深化</DIV>
+<DIV>5．提高学科竞赛指导，加强竞赛辅导管理</DIV>
+<DIV>二、加强教研组的建设</DIV>
+<DIV>坚持每月月初的教研组长的学习交流活动，加强教学、考试以及科技活动的探讨研究。</DIV>
+<DIV>重申教研组5个方面的自身建设：</DIV>
+<DIV>1、&nbsp; 教研组长加强听课和指导，抓好教学常规。</DIV>
+<DIV>2、&nbsp; 探讨教研组发展方向及特色定位，研究课堂教学规律。</DIV>
+<DIV>3、&nbsp; 加强备课组活动：教学常规的落实、集体备课质量、相互听课评课。</DIV>
+<DIV>4、&nbsp; 抓好学风与考风，提高命题质量和考试试卷分析。</DIV>
+<DIV>5、&nbsp; 备课组加强研究学生现状，引导学生“学会学习”，并重视针对不同层次学生，有效实施分类、分层教学，开发学生的潜能，促使学生的个性发展。</DIV>
+<DIV>三、提升高三年级管理</DIV>
+<DIV>本着“创建满足学生充分发展需求的教育”宗旨，认真总结了前两年高考取得优异成绩的经验，针对今年高三的中间大的特点，不断总结及时调整，并采取了一系列切实有效的措施。</DIV>
+<DIV>1．面向高三全体学生，坚持优化课程设置，提高课堂教学效率</DIV>
+<DIV>首先，在课程设置上，坚持让学生自己思考和想象的教育理念，不让学校的统一课程完全束缚学生的个人学习空间，使学生有更多的思考学习时间，进行自主的学习。同时，根据高三学习的特点，要求高三各备课组制定切实有效的学习复习计划，循序渐进，夯实基础，树立学生学习信心，统一备课，统一进度、统一测试，踏踏实实地完成教学目标和任务，提高课堂教学效率。并且在上学期期中考试之后，各备课组都安排了教师利用每天中午为学生进行答疑，取得了良好的效果。</DIV>
+<DIV>2．因材施教，分层教学，分类指导</DIV>
+<DIV>为进一步提高教学质量，提高重点率和升学率，在高三教学中坚持因材施教，对不同层次的学生提出不同要求，进行分类指导。</DIV>
+<DIV>对一批学习优秀的学生，在学习上尽可能提供更大的自由度，创造最有利的条件。例如，根据今年复旦、交大自主招生的不同情况，我们为报考复旦自主招生的学生分别开设了语文、数学、英语、物理、化学、政治、历史、生物、地理和计算机的讲座， </DIV>
+<DIV>对一批学习有困难的学生，为了加强与家长的联系，取得家长的配合与支持，在开学初即召开了家长会，同时学校为帮助这些学习基础较差，学习习惯也有待改进的学生缩短与他人的差距，利用每天下午放学后，开设了数学和英语补课班，由专门教师进行有针对性的无偿补课和管理，并将上课情况及时向家长反馈，加强督促和帮助。从反馈情况来看，这种补课形式行之有效，受到了学生和家长的欢迎。</DIV>
+<DIV>四、规范各类考试制度</DIV>
+<DIV>为规范各类考试，加强了有关学生考试纪律、教师监考纪律、教务试卷管理和考试试卷分析的工作。</DIV>
+<DIV>期中、期末考试通过国旗下的讲话形式，加强对学生进行考试纪律的教育；一发现学生违规行为及时处理。期中、期末，专门对监考教师重申监考纪律；有序地组织各学科的试卷批改和试卷分析工作。</DIV>
+<DIV>2008．6</DIV><br><div style="width:100%;text-align:right;"><a href="http://www.XTSite.net/" target="_blank" title="Powered by XTSite.Net Content Management System"><font style="font-Size:11px;text-decoration:none;color:#000000">XTSite.Net</a></div></span>        
+                </td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <span id="_ctl0_cpheadcontent_d1_PageList"></span>        
+                </td>
+                      </tr>
+                      <tr>
+                        <td height="25" align="right">
+                          <a id="_ctl0_cpheadcontent_d1_PreLink" href="/PreNext.Aspx?ID=11495&amp;CID=641&amp;Action=Previous"><font color="#FF0099">上一篇</font></a>
+                          <font color="#ff0099">/
+                          <a id="_ctl0_cpheadcontent_d1_NextLink" href="/PreNext.Aspx?ID=11495&amp;CID=641&amp;Action=Next"><font color="#FF0099">下一篇</font></a>
+                        </font></td>
+                      </tr>
+                  </table></TD>
+                  <TD><FONT face="宋体"></FONT></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="51"></TD>
+                  <TD colspan="2" valign="middle" class="Content"><b><font color="#ff6600">简介:</font></b>
+                      <blockquote>
+                        <span id="_ctl0_cpheadcontent_d1_AboutLabel"></span>          
+          </blockquote></TD>
+                  <TD><FONT face="宋体"></FONT></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="30"></TD>
+                  <TD valign="middle"> 出处/作者：
+                      <span id="_ctl0_cpheadcontent_d1_FromAuthorLabel" style="COLOR: #999999"> / </span>          
+&nbsp;&nbsp; 评价：<font color='#fd9720'>
+            <span id="_ctl0_cpheadcontent_d1_ScoreLabel">3</span>
+            </font>&nbsp;&nbsp; 大小：
+            <span id="_ctl0_cpheadcontent_d1_SizeLabel">2085 字节</span>
+                  </TD>
+                  <TD align="right" valign="middle">&nbsp;  </TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="30"></TD>
+                  <TD colspan="2" valign="middle" align="right"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td valign="bottom" colspan="3"><font color="#ff6600"><b><br>
+                      相关连接</b></font></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" colspan="3" align="left">
+                        <div id="_ctl0_cpheadcontent_d1_LikeNoData" style="TEXT-ALIGN:center">
+	没有相关连接
+</div>
+                        
+                      </td>
+                    </tr>
+                  </table>                    
+                    <div align="left"><br>
+                  </div></TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+
+          
+        </td>
+      </tr>
+</table>
+	<Script Language="JavaScript">
+document.onkeydown = NextPage;
+</Script>
+    <script type="text/javascript">
+        document.getElementById("dbody").style.display = "none";
+    </script>
+
+        </div>
+        <div class="D_foot" style="color:White;">
+            <div style="float: left; width: 59%; text-align: left;">
+                <div style="padding-top: 10px; padding-left: 50px;">
+                    <span id="_ctl0_txtfoot"><br/><br/>地址：中国上海市车站南路28号 邮编: 200434 电话: +86-021-65606715</span></div>
+            </div>
+            <div style="float: right; width: 40%;" >
+               <br />
+                上海心通信息技术有限公司协助制作</div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+        SetTableCssByClass();
+</script>
+
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_667_2938.shtml' title='标题:喜报&#13;点击:570次&#13;日期:2013-9-2 7:47:56'  ><span style='color:;'>喜报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_2239.shtml' title='标题:文汇报"楷模风采"介绍我校陈寅老师&#13;点击:342次&#13;日期:2012-9-6 15:16:58'  ><span style='color:;'>文汇报”楷模风采”介绍我校陈</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_2233.shtml' title='标题:热烈祝贺陈寅老师荣获2012年度“上海市教书育人楷模”&#13;点击:302次&#13;日期:2012-8-31 9:38:12'  ><span style='color:;'>热烈祝贺陈寅老师荣获2012年</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_1794.shtml' title='标题:简讯：我校化学、政治教研组被评为区优秀教研组&#13;点击:379次&#13;日期:2012-3-15 11:28:47'  ><span style='color:;'>简讯：我校化学、政治教研组</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_941.shtml' title='标题:喜报2011年1月&#13;点击:864次&#13;日期:2011-5-30 15:11:28'  ><span style='color:;'>喜报2011年1月</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_667_940.shtml' title='标题:喜报2010年9月&#13;点击:520次&#13;日期:2011-5-30 15:10:20'  ><span style='color:;'>喜报2010年9月</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_667.shtml">教师荣誉</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>文汇报"楷模风采"介绍我校陈寅老师</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:文汇报&nbsp;&nbsp; 编辑日期:2012-9-6 15:16:58&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2239"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>
+<table border="0" cellspacing="0" cellpadding="0" width="95%">
+    <tbody>
+        <tr>
+            <td align="center"><font size="3"><strong>教师，一生保持紧张的职业</strong><br />
+            日期：2012-09-05 作者：王柏玲 来源：文汇报</font>
+            <h1>&nbsp;</h1>
+            </td>
+        </tr>
+        <tr>
+            <td height="15"><img alt="" width="439" height="1" src="https://whb.news365.com.cn/images/tab_panel_bg_3.gif" /></td>
+        </tr>
+        <tr>
+            <td style="font-size: 12pt" align="left">
+            <p>教师，一生保持紧张的职业</p>
+            <p>　　陈寅，上海市复兴高级中学科研室主任，化学特级教师。他以&ldquo;有教无类，因材施教&rdquo;的态度赢得了学生的尊敬，以&ldquo;高调做事，低调为人&rdquo;的风格获得了同行的认可。从教16年，他获得各类荣誉20余项，曾获全国先进工作者、全国模范教师、全国五一劳动奖章、上海市新长征突击手标兵等荣誉。2007年，陈寅受党中央、国务院邀请到北戴河休假，同年还参加了全国优秀教师代表座谈会，受到胡锦涛总书记、温家宝总理等中央领导的接见。</p>
+            <p>　　</p>
+            <p>【定格&middot;难忘学生喝倒彩】</p>
+            <p>　　入职第二年，陈寅因为教学出色，学校领导打算让他执教高三。在中学，能执教毕业班的都是资深教师，通常被称为&ldquo;把关老师&rdquo;。受此重托，初出茅庐的陈寅丝毫不敢懈怠，每天都去师傅的课上取经。</p>
+            <p>　　一段时间后，师傅让他在自己执教的高三班上试教一课。陈寅不敢马虎，花了三天时间精心备课。课上得还算顺利，正当陈寅收拾讲义准备下课时，班上男生突然集体鼓起掌来。陈寅一愣，看着那一双双嘲弄的眼睛，他像被当头浇了一盆凉水。</p>
+            <p>　　被学生轰下讲台，陈寅一整天都很难受。他没有怨恨学生的无礼，而是一个劲反思当天教学中有哪些疏漏。课上，陈寅对师傅以前的一些不正确的说法悄悄地做了纠正，在上&ldquo;有机物&rdquo;一课时，师傅说含氯、含氟的物质都有毒，但陈寅告诉学生事实并非这么绝对，像氟里昂含氯、含氟，却没有毒，只是对臭氧层有破坏作用。很明显，学生对陈寅的讲课并不买账。从年龄上看，陈寅只比当时的学生大五六岁，而且刚刚工作一年，学生眼里充满了对这个新教师的不信任，他们就想用这种极端的方式把他轰下讲台。</p>
+            <p>　　学生的这次&ldquo;闹事&rdquo;，让陈寅清晰地感觉到，学生对老师是有要求的，他们才是课堂的主角。&ldquo;对老师来说，教学经验可以逐年积累，但对学生来说，高三只有一次，来不得半点冒险。站上讲台，我就必须是一名合格的老师。&rdquo;</p>
+            <p>　　</p>
+            <p>立足课堂，关注点转向学生</p>
+            <p>　　要立足课堂，在教学上非得有&ldquo;两把刷子&rdquo;。那段时间，陈寅只要听说区里有优秀教师上公开课，不论哪个学科，他都会去听。他还给自己下了&ldquo;死命令&rdquo;，每天晚上必须做上50道习题才能睡觉，一年下来他做了上万道题，对各种题型了然于胸。学生碰到难题来找他，他一看题目就能说出解法，成了学生眼中的&ldquo;问不倒&rdquo;。陈寅用特殊的&ldquo;题海战术&rdquo;收服了学生。</p>
+            <p>　　走进陈寅的课堂会感觉到一种气场，他讲得绘声绘色，学生听得津津有味。陈寅上课喜欢&ldquo;打比方&rdquo;，把溶液比作银行，把离子移动比作存款转账，用函数图形分析不同的化学反应，用谐音来帮助学生记忆化学公式。他讲课常常会跳出课本，讲讲化学公式、定律背后的故事和历史，让学生感知科学发展的曲折过程。说到精彩处，学生沉浸其中，不愿下课。</p>
+            <p>　　2010年，&ldquo;陈寅化学名师工作室&rdquo;正式成立。工作室成员在实际教学中发现，不少学生对高中化学有畏难情绪。经过调查分析，他们发现其中一个很重要的原因是高中化学教师缺乏对初中教学的认识，在高一起点教学时，没有注意到初高中知识的衔接问题。&ldquo;初中教授的知识不仅内容少，而且面比较窄，很多基础知识，高中教师想当然地以为初中都已经学过，讲课时就快速带过，或者干脆跳过，这让刚刚进入高中的学生感觉不适。&rdquo;陈寅认为，解决的办法就是高中老师要放下身段，主动去了解初中教学。他和工作室的伙伴花了半年时间编写出《初高中化学衔接教程》，六个专题仅需两周课时。这一教程于当年在全区推广，因省时高效而受到学生和老师的一致好评。</p>
+            <p>　　</p>
+            <p>谨言慎行，教学时刻不放松</p>
+            <p>　　在十几年的教学实践中，陈寅对育人的理解也在悄悄发生变化。&ldquo;高中时期，是学生塑造自己人生观与世界观最重要的时期。作为老师，我的任务不是把每个学生都培养成化学家，而是带领他们进入这个领域，哪怕将来从事和化学没有任何关系的工作，也能具备最基本的知识，过好他们完整的人生。&rdquo;陈寅说。对重大新闻事件，陈寅会在课堂上及时回应，从2005年的&ldquo;苏丹红&rdquo;事件到2011年日本的核辐射，陈寅都会和学生一起分析污染事件背后的原因，无形之中，学生们渐渐树立起应用化学知识保护环境的意识。</p>
+            <p>　　陈寅对&ldquo;90后&rdquo;学生的印象是&ldquo;一人一世界&rdquo;，学生身上鲜明的个性也给教育带来了巨大的挑战。在陈寅看来，教师&ldquo;我认为&rdquo;的时代已经过去，师生之间应该是一种平等、尊重的关系。他上课会习惯性地问问学生有什么想法，课后也会找学生聊一聊，听听他们对课堂的意见。</p>
+            <p>　　一次班级学生考试没考好，在分析试卷时，陈寅就批评了学生几句。没想到一个男生拍案而起，责问他：&ldquo;你凭什么批评我们，你有没有反思自己的课上得怎么样？&rdquo;学生如此&ldquo;冒犯&rdquo;，陈寅非但没有反感，反而向学生作了检讨。&ldquo;学生是一切教学活动的最终落脚点，他们不仅需要关爱，而且值得敬畏。&rdquo;陈寅说，&ldquo;每个老师接触同一批学生至多三年，老师的责任就是在这三年中谨言慎行，让没有进入社会的这个群体感受到什么是为人正直、什么是光明磊落。&rdquo;</p>
+            <p>　　有个学生写了篇文章发表在报上，提到陈寅上课时讲吸热反应用减号，放热反应用加号，简称就是&ldquo;吸减放加&rdquo;，学生用上海话就记成&ldquo;膝盖放假&rdquo;。陈寅看了拍案叫绝，同时也让他更强烈地意识到教师一言一行对学生的影响。&ldquo;老师随口说的一句话，转身就忘了，但学生可能会记得一辈子。因此，教师对教学时时刻刻都不能放松。&rdquo;</p>
+            <p>　　早已毕业的学生来看他，见面就说：&ldquo;陈老师，祝贺你又取得了新的成绩。&rdquo;陈寅很奇怪，问他怎么会知道。学生回答：&ldquo;我一直关心你的动态，经常会上网搜索。&rdquo;听这话时，陈寅感到从未有过的压力：&ldquo;做一个好老师果然是艰难的，教师是一生都必须保持紧张的职业，因为热爱你的学生哪怕时隔多年也不会忘记你。&rdquo; 本报记者 王柏玲</p>
+            <p>&nbsp;</p>
+            <p>
+            <table border="0" cellspacing="0" cellpadding="0" width="95%">
+                <tbody>
+                    <tr>
+                        <td align="center"><font size="3"><strong>问答陈寅</strong><br />
+                        日期：2012-09-05 作者： 来源：文汇报</font>
+                        <h1>&nbsp;</h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="15"><img alt="" width="439" height="1" src="https://whb.news365.com.cn/images/tab_panel_bg_3.gif" /></td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 12pt" align="left">
+                        <p>问答陈寅</p>
+                        <p>　　问：你的教学格言是什么？</p>
+                        <p>　　答：目中有人，手中有物，心中有纲，这样的教学才能入木三分。</p>
+                        <p>　　问：你认为，学校和老师应该给学生怎样的人生礼物？</p>
+                        <p>　　答：学会做人，学会求知，学会做事，学会共处。</p>
+                        <p>　　问：在教学生涯中，什么最能打动你的心？</p>
+                        <p>　　答：也许是学生成功时癫狂的神态，也许是学生流下的一行悔恨的泪水，也许是教师节学生送我的鲜花，也许&hellip;&hellip;</p>
+                        <p>　　问：在成绩为重的氛围里，教师如何育人？</p>
+                        <p>　　答：守护每个孩子心中的&ldquo;微光&rdquo;。</p>
+                        <p><br />
+                        &nbsp;</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table border="0" cellspacing="0" cellpadding="0" width="95%">
+                <tbody>
+                    <tr>
+                        <td height="35" valign="bottom"><img alt="" width="550" height="3" src="https://whb.news365.com.cn/images/tab_panel_bg_2.gif" /></td>
+                    </tr>
+                </tbody>
+            </table>
+            </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2239&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2239"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

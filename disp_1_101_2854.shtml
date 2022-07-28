@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div107" class='listitem3'><a href='list_1_107.shtml'>国际部</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_2837.shtml' title='标题:热烈祝贺我校陈永平副校长获2012年“虹口区领军人才”称号&#13;点击:1707次&#13;日期:2013-4-19 12:51:59'  ><span style='color:;'>热烈祝贺我校陈永平副校长获</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2900.shtml' title='标题:上海市复兴高级中学文明组室评选&#13;点击:219次&#13;日期:2013-6-30 15:41:54'  ><span style='color:;'>上海市复兴高级中学文明组室</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2898.shtml' title='标题:2013级预录取学生夏令营闭幕&#13;点击:613次&#13;日期:2013-6-24 9:13:02'  ><span style='color:;'>2013级预录取学生夏令营闭幕</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2895.shtml' title='标题:2013级预录取学生夏令营开幕&#13;点击:946次&#13;日期:2013-6-20 11:01:07'  ><span style='color:;'>2013级预录取学生夏令营开幕</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2894.shtml' title='标题:用好嗓音，畅谈教师嗓音科学训练与保健——上海师范大学音乐学院声乐系施国新副教授做客复兴&#13;点击:352次&#13;日期:2013-6-19 12:07:09'  ><span style='color:;'>用好嗓音，畅谈教师嗓音科学</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2891.shtml' title='标题:校舍改建协商会议举行&#13;点击:656次&#13;日期:2013-6-19 10:05:56'  ><span style='color:;'>校舍改建协商会议举行</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2888.shtml' title='标题:我校召开2012学年第二次家校活动暨家委会会议&#13;点击:249次&#13;日期:2013-6-18 8:02:08'  ><span style='color:;'>我校召开2012学年第二次家校</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2880.shtml' title='标题:第七届同济大学建造节，复兴再次荣获金奖&#13;点击:677次&#13;日期:2013-6-4 14:21:04'  ><span style='color:;'>第七届同济大学建造节，复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2874.shtml' title='标题:我们自己的“奥斯卡”——记2013年高一年级“演绎经典”英语剧比赛&#13;点击:643次&#13;日期:2013-5-31 12:26:18'  ><span style='color:;'>我们自己的“奥斯卡”——记</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2872.shtml' title='标题:VEX机器人上海赛战报&#13;点击:224次&#13;日期:2013-5-31 12:13:28'  ><span style='color:;'>VEX机器人上海赛战报</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_2837.shtml' title='热烈祝贺我校陈永平副校长获2012年“虹口区领军人才”称号'  target='_blank'  >热烈祝贺我校陈永平副校长获</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_2895.shtml' title='2013级预录取学生夏令营开幕'  target='_blank'  >2013级预录取学生夏令营开幕</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_2819.shtml' title='有一片诗心，品一叶诗情——记2013年高一年级“诗韵流芳”诗歌朗诵比赛'  target='_blank'  >有一片诗心，品一叶诗情——</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_2848.shtml' title='发掘“复兴好声音”——记青歌赛决赛'  target='_blank'  >发掘“复兴好声音”——记青</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_2701.shtml' title='复兴高级中学机器人社再创佳绩'  target='_blank'  >复兴高级中学机器人社再创佳</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_2777.shtml' title='2012学年开学第二学期开学典礼暨复兴论坛举行'  target='_blank'  >2012学年开学第二学期开学典</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_2880.shtml' title='第七届同济大学建造节，复兴再次荣获金奖'  target='_blank'  >第七届同济大学建造节，复兴</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_2891.shtml' title='校舍改建协商会议举行'  target='_blank'  >校舍改建协商会议举行</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_2821.shtml' title='高三班主任沙龙活动，陆书记亲临现场'  target='_blank'  >高三班主任沙龙活动，陆书记</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_2874.shtml' title='我们自己的“奥斯卡”——记2013年高一年级“演绎经典”英语剧比赛'  target='_blank'  >我们自己的“奥斯卡”——记</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>机器人社再获佳绩</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2013-5-14 9:27:31&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2854"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>机器人社再获佳绩</b></div>
+<div align="left">2013年4月18日至20日，我校机器人社的8名学生在老师带队下参加了在美国加利福尼亚州阿纳海姆举行的VEX世界机器人锦标赛。同学们在比赛中艰苦奋斗，积极交流与沟通。最终获得了VEX世界机器人锦标赛的两个分区亚军、以及程控比赛季军。</div>
+<div align="left">在比赛前，我校所有队员全都付出了辛勤的汗水、在课余时间不断地为机器人进行改进和创新，在虹口区活动中心饶老师和张老师的指导下进行完善和修改，最后研究出了性能出众的机器人。但是光靠优秀的性能并不足以让我们取得胜利，在比赛前，队员们每天坚持在课余时间进行艰苦的训练和调试。在美国的比赛中更少不了交流和配合，在比赛的几天里，队员们各自发挥自己的特长，分工明确、有条不紊，力争所有的都做到完美。在赛场上，每一个队员都很好的完成自己的工作，在紧张并且艰苦、劳累的比赛中发挥出最好的状态。我们的队员凭借熟练的技术、果断的判断、智慧、细心和沉着稳重，克服了各种困难。在队员们不断的努力和付出下，取得了优异的成绩。</div>
+<div align="left">沉甸甸的奖杯和崭新的奖牌为这次美国之行画上了较为圆满的句号，但是复兴机器人社的同学会为之后的比赛继续努力，继续为复兴赢得更多的荣誉。</div>
+<div align="left">&nbsp;</div>
+<div align="left">附复兴机器人社比赛队伍名单：</div>
+<div align="left">复兴高级中学A队：魏源、杨嶒尔、王诗慧</div>
+<div align="left">复兴高级中学B队：刘以弢、池梓源、徐思远</div>
+<div align="left">复兴高级中学C队：钱铮栋、黄思晋</div>
+<p><img src="/userfiles/upload/image/2013/05/14/20130514092528272229230.jpg" alt="" /><br />
+<img src="/userfiles/upload/image/2013/05/14/20130514094428132648230.jpg" alt="" /></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2854&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2854"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

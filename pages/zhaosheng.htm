@@ -1,0 +1,200 @@
+<html><!-- #BeginTemplate "/Templates/main.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>::上海复兴高级中学招生信息::</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="main.css" type="text/css">
+<script language="JavaScript">
+var L_strMailboxPlease_Message = "请键入您的邮箱名称。";
+var L_strValidMailbox_Message = "邮箱名称包含无效字符。";
+var L_SessionTimedOut_Message = "您的会话已超时。如果要继续，您必须重新登录。";
+
+function sendForm(bAnon) {
+    if (!bAnon)
+    {
+    if (document.logonForm.mailbox.value=="") 
+    {
+        alert(L_strMailboxPlease_Message ) 
+    }
+    else if (((document.logonForm.mailbox.value.indexOf("\\") != -1) ||
+         (document.logonForm.mailbox.value.indexOf("/") != -1)) ||
+         (document.logonForm.mailbox.value.indexOf(";") != -1)) 
+    {
+        alert(L_strValidMailbox_Message)
+    }   
+    else
+    {
+        document.logonForm.submit();
+    }    
+    }
+    else
+    {
+    document.logonForm.mailbox.value="";
+    document.logonForm.submit();
+    }
+}
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="2" topmargin="2" marginwidth="0" marginheight="0">
+<table width="780" border="0" cellpadding="0" cellspacing="1" align="left">
+  <tr> 
+    <td width="120" bgcolor="#006699" height="91"> 
+      <table width="120" cellspacing="0" cellpadding="1" align="left" bordercolor="#006699" class="login" bgcolor="#FFFFFF" height="80">
+        <tr> 
+          <td bordercolor="#006699" height="20" bgcolor="#006699"> 
+            <div align="center"><font color="#ffffff">email登录</font></div>
+          </td>
+        </tr>
+        <tr> 
+          <form name=logonForm onSubmit=sendForm(false);return(false); 
+          action=https://mail.fuxing.sh.cn/exchange/LogonFrm.asp method=get>
+            <td colspan=2 height=60 nowrap> 
+              <p align="center"><font color="#000000">账号:                      
+                <input maxlength=15 size=10 name=mailbox class="form0">
+                <br>
+                <input type=hidden value=0 name=isnewwindow2>
+                <input type=image border=0 src="../pages/pic/login.gif" alt="登录" width="42" height="30">                     
+                </font></p>
+            </td>
+          </form>
+        </tr>
+      </table>
+      <br>
+    </td>
+    <td colspan="10" height="91" align="center" valign="middle" width="650"> 
+      <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="445" height="75">
+          <param name=movie value="../images/title.swf">
+          <param name=quality value=high>
+          <embed src="../images/title.swf" quality="high" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="445" height="75"> 
+        </object></div>
+    </td>
+  </tr>
+    <TR vAlign=center>
+    <TD bgColor=#006699 height=18 width=120>
+      <DIV align=center id=Clock 
+    style="COLOR: #000000; FONT-SIZE: 20px">　</DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=79>
+      <DIV align=center><A href="../">主页</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=71>
+      <DIV align=center><A 
+      href="intro.htm">复兴概况</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=80>
+      <DIV align=center><A 
+      href="newface.htm">复兴新貌</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=78>
+      <DIV align=center><A 
+      href="feature.htm">教育特色</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=79>
+      <DIV align=center><A 
+    href="life.htm">校园生活</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=79>
+      <DIV align=center><A href="alumni.htm" 
+      >校友会</A></DIV></TD>
+    
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=81>
+      <DIV align=center><a href="zhaosheng.htm">全国招生信息</a></DIV></TD>
+</TR>
+
+  <TR>
+    <TD bgColor=#006699 borderColor=#ffffff vAlign=top width=120>
+      <TABLE bgColor=#ffffff border=0 cellPadding=0 cellSpacing=1 
+        width="100%"><TBODY>
+        <TR>
+          <TD bgColor=#a0cce3 class=left height=20 vAlign=center>
+            <DIV align=center>　</DIV></TD></TR>
+        <TR>
+          <TD bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center><font size="2" face="宋体" color="#006699"><font size="2" face="宋体" color="#006699">招生方案</font></font></P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center>　</P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center><font size="2" face="宋体" color="#006699"><a href="zhaosheng/apply04.zip"><font size="2" face="宋体" color="#006699">报名表格</font></a></font></P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center>　</P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center><font size="2" face="宋体" color="#006699"><a href="lq.htm"><font size="2" face="宋体" color="#006699">录取名录</font></a></font></P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center></P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center><font size="2" face="宋体" color="#006699"><font size="2" face="宋体" color="#006699">备选名录</font></font></P></TD></TR>
+        <TR>
+          <TD align=middle bgColor=#a0cce3 class=left height=15 
+          onmouseout="bgColor='#a0cce3'" onmouseover="bgColor='white'">
+            <P align=center></P></TD></TR></TBODY></TABLE>
+      <p align="center"></p>
+    </td>
+    <td rowspan="4" colspan="10" valign="top" height="400" align="center" width="650" > 
+      　 
+      <table width="650" border="0" cellspacing="1" cellpadding="0" height="400">
+        <tr> 
+          <td height="401" valign="top" class="left">
+            <p align="left" class="MsoNormal" style="line-height: 150%; text-indent: 21pt"><b><span style="color: red; font-size: 16pt; mso-bidi-font-size: 12.0pt"><br>
+            各位家长、同学：</span></b></p>
+            <p class="MsoNormal" style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">首先</span><span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">非常感谢你们对我校全国生招生工作的关心和支持。</span></p>
+            <p class="MsoNormal" style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">至今还未接到上海市教委有关2005年全国生招生的有关精神，因而无法详细传达今年的招生信息。望你们经常浏览此网页；我们力争在第一时间内传达本校招生的各种信息。</span></p>
+            <p class="MsoNormal" style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">谢谢！</span></p>
+            <p class="MsoNormal" style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            上海市复兴高级中学</span></p>
+            <p class="MsoNormal" style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            2005年3月</span></p>
+            <p class="MsoNormal" style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt">　</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <TR>
+    <TD align=left bgColor=#000000 class=bar height=15 
+    onmouseout="bgColor='#000000'" onmouseover="bgColor='#006699'" vAlign=center 
+    width=120></TD></TR>
+  <TR>
+    <TD align=left bgColor=#000000 class=bar height=15 
+    onmouseout="bgColor='#000000'" onmouseover="bgColor='#006699'" vAlign=center 
+    width=120>::<A href="https://172.16.0.127/school/mailbox/Default.htm" 
+      target=_blank>校长信箱</A></TD></TR>
+      
+  <TR>
+    <TD align=left bgColor=#000000 class=bar height=15 
+    onmouseout="bgColor='#000000'" onmouseover="bgColor='#006699'" vAlign=center 
+    width=120>::<A href="mailto:webmaster@fuxing.sh.cn">联系我们</A></TD></TR>
+  <tr> 
+    <td bgcolor="#000000"  height="15" valign="middle" align="left" width="120"> 
+      <div align="left">
+        <script language="JavaScript">
+now = new Date()
+document.write(now.toLocaleString())//-->
+</script>
+      </div>
+    </td>
+    <td colspan="9" height="15" width="650"> 
+      <div align="right"><!-- #BeginEditable "comment" -->{comment}<!-- #EndEditable --></div>
+    </td>
+  </tr>
+  <tr bgcolor="#006699"> 
+    <td colspan="11" height="35" align="center" valign="middle" width="774">地址:中国上海市车站南路28号      
+      邮编:200434 电话:86-021-65606715</td>     
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>

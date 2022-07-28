@@ -1,0 +1,325 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>风筝 beaidid于 2001</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<script LANGUAGE="JavaScript" FPTYPE="dynamicanimation">
+<!--
+  // If you want to change this script, you must also make the following
+  // changes so that FrontPage will not overwrite your new script.
+  // In the script tag, change type="dynamicanimation" to type="mydynamicanimation"
+  // In the first script statement, change "dynamicanimation" to "mydynamicanimation"
+  // Throughout the HTML content, change dynamicanimation= to mydynamicanimation=
+  // Change function dynAnimation to function mydynAnimation
+  // In the body tag, change onload="dynAnimation()" to onload="mydynAnimation()"
+  dynamicanimAttr = "dynamicanimation"
+  animateElements = new Array()
+  currentElement = 0
+  speed = 0
+  stepsZoom = 8
+  stepsWord = 8
+  stepsFly = 12
+  stepsSpiral = 16
+  steps = stepsZoom
+  step = 0
+  outString = ""
+  function dynAnimation()
+  {
+    var ms = navigator.appVersion.indexOf("MSIE")
+    ie4 = (ms>0) && (parseInt(navigator.appVersion.substring(ms+5, ms+6)) >= 4)
+    if(!ie4)
+    {
+      if((navigator.appName == "Netscape") &&
+         (parseInt(navigator.appVersion.substring(0, 1)) >= 4))
+      {
+        for (index=document.layers.length-1; index >= 0; index--)
+        {
+            layer=document.layers[index]
+            if (layer.left==10000)
+                layer.left=0
+        }
+      }
+      return
+    }
+    for (index=document.all.length-1; index >= document.body.sourceIndex; index--)
+    {
+      el = document.all[index]
+      animation = el.getAttribute(dynamicanimAttr, false)
+      if(null != animation)
+      {
+        if(animation == "dropWord" || animation == "flyTopRightWord" || animation == "flyBottomRightWord")
+        {
+          ih = el.innerHTML
+          outString = ""
+          i1 = 0
+          iend = ih.length
+          while(true)
+          {
+            i2 = startWord(ih, i1)
+            if(i2 == -1)
+              i2 = iend
+            outWord(ih, i1, i2, false, "")
+            if(i2 == iend)
+              break
+            i1 = i2
+            i2 = endWord(ih, i1)
+            if(i2 == -1)
+              i2 = iend
+            outWord(ih, i1, i2, true, animation)
+            if(i2 == iend)
+              break
+            i1 = i2
+          }
+          document.all[index].innerHTML = outString
+          document.all[index].style.posLeft = 0
+          document.all[index].setAttribute(dynamicanimAttr, null)
+        }
+        if(animation == "zoomIn" || animation == "zoomOut")
+        {
+          ih = el.innerHTML
+          outString = "<SPAN " + dynamicanimAttr + "=\"" + animation + "\" style=\"position: relative; left: 10000;\">"
+          outString += ih
+          outString += "</SPAN>"
+          document.all[index].innerHTML = outString
+          document.all[index].style.posLeft = 0
+          document.all[index].setAttribute(dynamicanimAttr, null)
+        }
+      }
+    }
+    i = 0
+    for (index=document.body.sourceIndex; index < document.all.length; index++)
+    {
+      el = document.all[index]
+      animation = el.getAttribute(dynamicanimAttr, false)
+      if (null != animation)
+      {
+        if(animation == "flyLeft")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = 0
+        }
+        else if(animation == "flyRight")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)+document.body.offsetWidth
+          el.style.posTop = 0
+        }
+        else if(animation == "flyTop" || animation == "dropWord")
+        {
+          el.style.posLeft = 0
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "flyBottom")
+        {
+          el.style.posLeft = 0
+          el.style.posTop = document.body.scrollTop-offsetTop(el)+document.body.offsetHeight
+        }
+        else if(animation == "flyTopLeft")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "flyTopRight" || animation == "flyTopRightWord")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)+document.body.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "flyBottomLeft")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)+document.body.offsetHeight
+        }
+        else if(animation == "flyBottomRight" || animation == "flyBottomRightWord")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)+document.body.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)+document.body.offsetHeight
+        }
+        else if(animation == "spiral")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "zoomIn")
+        {
+          el.style.posLeft = 10000
+          el.style.posTop = 0
+        }
+        else if(animation == "zoomOut")
+        {
+          el.style.posLeft = 10000
+          el.style.posTop = 0
+        }
+        else
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = 0
+        }
+        el.initLeft = el.style.posLeft
+        el.initTop = el.style.posTop
+        animateElements[i++] = el
+      }
+    }
+    window.setTimeout("animate();", speed)
+  }
+  function offsetLeft(el)
+  {
+    x = el.offsetLeft
+    for (e = el.offsetParent; e; e = e.offsetParent)
+      x += e.offsetLeft;
+    return x
+  } 
+  function offsetTop(el)
+  {
+    y = el.offsetTop
+    for (e = el.offsetParent; e; e = e.offsetParent)
+      y += e.offsetTop;
+    return y
+  } 
+  function startWord(ih, i)
+  {
+    for(tag = false; i < ih.length; i++)
+    {
+      c = ih.charAt(i)
+      if(c == '<')
+        tag = true
+      if(!tag)
+        return i
+      if(c == '>')
+        tag = false
+    }
+    return -1
+  }
+  function endWord(ih, i)
+  {
+    nonSpace = false
+    space = false
+    while(i < ih.length)
+    {
+      c = ih.charAt(i)
+      if(c != ' ')
+        nonSpace = true
+      if(nonSpace && c == ' ')
+        space = true
+      if(c == '<')
+        return i
+      if(space && c != ' ')
+        return i
+      i++
+    }
+    return -1
+  }
+  function outWord(ih, i1, i2, dyn, anim)
+  {
+    if(dyn)
+      outString += "<SPAN " + dynamicanimAttr + "=\"" + anim + "\" style=\"position: relative; left: 10000;\">"
+    outString += ih.substring(i1, i2)
+    if(dyn)
+      outString += "</SPAN>"
+  }
+  function animate()
+  {
+    el = animateElements[currentElement]
+    animation = el.getAttribute(dynamicanimAttr, false)
+    step++
+    if(animation == "spiral")
+    {
+      steps = stepsSpiral
+      v = step/steps
+      rf = 1.0 - v
+      t = v * 2.0*Math.PI
+      rx = Math.max(Math.abs(el.initLeft), 200)
+      ry = Math.max(Math.abs(el.initTop),  200)
+      el.style.posLeft = Math.ceil(-rf*Math.cos(t)*rx)
+      el.style.posTop  = Math.ceil(-rf*Math.sin(t)*ry)
+    }
+    else if(animation == "zoomIn")
+    {
+      steps = stepsZoom
+      el.style.fontSize = Math.ceil(50+50*step/steps) + "%"
+      el.style.posLeft = 0
+    }
+    else if(animation == "zoomOut")
+    {
+      steps = stepsZoom
+      el.style.fontSize = Math.ceil(100+200*(steps-step)/steps) + "%"
+      el.style.posLeft = 0
+    }
+    else
+    {
+      steps = stepsFly
+      if(animation == "dropWord" || animation == "flyTopRightWord" || animation == "flyBottomRightWord")
+        steps = stepsWord
+      dl = el.initLeft / steps
+      dt = el.initTop  / steps
+      el.style.posLeft = el.style.posLeft - dl
+      el.style.posTop = el.style.posTop - dt
+    }
+    if (step >= steps) 
+    {
+      el.style.posLeft = 0
+      el.style.posTop = 0
+      currentElement++
+      step = 0
+    }
+    if(currentElement < animateElements.length)
+      window.setTimeout("animate();", speed)
+  }
+//-->
+</script></head>
+
+<body bgcolor="#93ED50" onload="dynAnimation()">
+
+<table border="1" width="100%" cellpadding="3">
+  <tr>
+    <td width="17%"><a href="index.htm"><font face="黑体" color="#FF8000"><big><big>璟馨首页</big></big></font></a></td>
+    <td width="20%"><a href="1.htm"><font face="隶书" color="#FF80FF"><big>璟馨的学校</big></font></a></td>
+    <td width="19%"><a href="2.htm"><font face="隶书" color="#FF80FF"><big>个人资料</big></font></a></td>
+    <td width="21%"><a href="4.htm"><font face="隶书" color="#FF80FF"><big>动漫之家</big></font></a></td>
+    <td width="23%"><font face="隶书" color="#FF80FF"><big>佳作欣赏</big></font></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="5">　<p align="center"><img src="EVACUTE.jpg" width="566"
+    height="297" alt="EVACUTE.jpg (55729 字节)"></p>
+    <p align="center">　</p>
+    <p align="center"><font face="楷体_GB2312" color="#0080FF"><strong><u><big><big><big>风筝</big></big></big></u></strong></font></p>
+    <p><font face="仿宋_GB2312"><font color="#FF00FF"><marquee border="0">beaidid于 2001.12.29 18:05 发表在随笔小札 </marquee><br>
+    </font><font color="#800040"><br>
+    　　天上的风筝哪去了，一眨眼，不见了。谁把它的线剪断了，你知不知道。——题记 
+    <br>
+    <br>
+    　　谈起秋天，没有人不会想到“秋高气爽”这个词的。的确，秋风总是让人感到舒畅的。它不像春风那样喜欢捎上几丝细雨，也不似夏风般的蕴涵着无奈的闷热，更没有冬风那种凛冽严寒让人不堪忍受的感觉。 
+    <br>
+    　　刚过“秋月冷蝉佳人，撩乱青丝红尘。”的中秋，不觉间，又快到重阳佳节了。缕缕快活的风儿，轻轻的将风筝送上了碧空，让蓝天增添了迷人的色彩。 
+    <br>
+    　　课间，趴在窗户前，看着正在学校操场上奔跑的人们和白云中飘扬的风筝，我不禁想起了童年时和伙伴们一起放风筝的情景。那时的我们，是天真可爱的；那时的风筝，是自己做成的。我们把没用的扫把上的竹竿用刀劈开，再小心翼翼的削成一根根柔韧的细竹梗，拼起来糊上旧报纸做成的。样子当然不会很好看，远远比不上现在街边卖的。但是，每一只都在我们的心目中扮演着一个弥足轻重的地位。我们还一本正经的给它门取名字。放风筝时，我们根本不在乎什么诀窍。总之，就是牵着线通山跑，边跑边放线，随它连连打转也好，高高而起也行，我们一概不管。我们欢快的笑着，兴奋的奔着，激动的跳着。……无论如何，那就是埋藏在我们心底的最每好的回忆。 
+    <br>
+    　　然而，动人的时刻正出现在眼前。一对年轻的夫妇，领着他们二三岁的孩子，在草地上放风筝。父亲右手支着风筝，左手拉着线，几次小跑，几下放线，风筝会意的“呼呼”而起，直窜青天。母亲拖着儿子的小手，微微笑着。小家伙眼睁睁的望着跳动的风筝，咧开小嘴，微微欢呼着——画卷温馨，浪漫和甜蜜。 
+    <br>
+    　　接着，一阵充满了童真的声音，传入我的耳中。闻声一看，喔，是一位女幼师带着一群活泼的小精灵，在操场的另一边放风筝。年轻的老师留着清秀的短发，风拂起了她额前的秀发。只见她一声令下，小精灵们就纷纷放起了风筝，天上的风筝更多了，地上的气氛热闹了。女幼师昂着头，笑容挂在了嘴角，一颗充满了青春激情的心仿佛也飞得好高好高。 
+    <br>
+    　　人们都在兴致勃勃的享受着风筝带来的乐趣，但是，在人们放风筝的过程中，总会有喜有悲，喜的是风筝可以高高飞扬，悲的是在最高兴的时候线断了，甚至还有些风筝挂到了电线杆上或叉到高高的树枝上永永远远找不会了。不过，静下心来，仔细思考一想，这其实也不应该难过的，断了线的就让它自由畅快的走吧，让她到梦寐以求的天之国游玩；挂到电线杆或树上的，你也得替它着想呀，试问一天到晚，飞来飞去，你不累吗？让它好好休息一下，好吗？它好不容易找到一根电线杆，一个树叉，一个安乐窝，就让它安定下来好了，让它也有个家。 
+    <br>
+    　　风筝在飞，然而，往日的我们呢？稚气的脸上显露出几份成熟的笑容，每一天，我们都为了理想在努力，在拼搏。 
+    <br>
+    　　秋风在吹，“好风凭借力，送我上青天。”这份无拘无束的自由飞翔，不也是久居城市的人的一份渴望吗？ 
+    <br>
+    　　…… <br>
+    　　——天上的风筝哪去了，一眨眼，不见了。谁把它的线剪断了，你知不知道。 
+    <br>
+    　　——如果你想飞，我明了，你自由也好。 <br>
+    </font></font></p>
+    <p>　</p>
+    <p>　</td>
+  </tr>
+  <tr>
+    <td width="56%" colspan="3"><img src="a.jpg" width="357" height="189"
+    alt="a.jpg (16636 字节)"></td>
+    <td width="20%"><a href="index.htm"><img src="Bac8_anm1.gif" width="100" height="38"
+    alt="Bac8_anm[1].gif (15025 字节)"></a></td>
+    <td width="24%" dynamicanimation="flyRight"
+    style="position: relative !important; left: 10000 !important"><img src="b02.jpg"
+    width="150" height="150" alt="b02.jpg (18416 字节)"></td>
+  </tr>
+</table>
+</body>
+</html>

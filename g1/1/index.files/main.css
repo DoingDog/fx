@@ -1,0 +1,30 @@
+TD {
+	COLOR: #ffffff; FONT-SIZE: 9pt
+}
+A {
+	TEXT-DECORATION: none
+}
+.bar {
+	COLOR: #ffffff
+}
+.bar A {
+	COLOR: #ffffff
+}
+.left {
+	COLOR: #000000; FONT-FAMILY: "Arial"; FONT-SIZE: 9pt; TEXT-ALIGN: left
+}
+.login {
+	BORDER-BOTTOM: #006699 1px groove; BORDER-LEFT: #006699 1px groove; BORDER-RIGHT: #006699 1px groove; BORDER-TOP: #006699 1px groove
+}
+.form0 {
+	BORDER-BOTTOM: #006699 1px solid; BORDER-LEFT: #006699 1px solid; BORDER-RIGHT: #006699 1px solid; BORDER-TOP: #006699 1px solid
+}
+.form1 {
+	BACKGROUND-COLOR: #ffffff; BORDER-BOTTOM: #006699 1px solid; BORDER-LEFT: #006699 1px solid; BORDER-RIGHT: #006699 1px solid; BORDER-TOP: #006699 1px solid; COLOR: #000000; FONT-SIZE: 9pt
+}
+.scroll {
+	BORDER-BOTTOM-COLOR: #ffffff; BORDER-BOTTOM-STYLE: dotted; BORDER-LEFT: #006699 1px dotted; BORDER-RIGHT-COLOR: #ffffff; BORDER-RIGHT-STYLE: dotted; BORDER-TOP-COLOR: #ffffff; BORDER-TOP-STYLE: dotted
+}
+.left A {
+	COLOR: #000000; FONT-FAMILY: "Arial"
+}

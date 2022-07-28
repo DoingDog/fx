@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/list_fxdy.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <div id="maintop">
+        <script type="text/javascript">            var f = new Flash("template/fxgj/images/list_fxdy/pgfx.swf", "flash", "962", "205", true);
+            f.add("maintop");
+</script>
+    </div>
+    <div id="pubmenu"><script src="/template/FXGJ/menu.js" type="text/javascript"></script></div>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2"></div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div711" class='listitem3'><a href='list_1_711.shtml'>德育概况</a></div></td></tr><tr><td><div id="div706" class='listitem3'><a href='list_1_706.shtml'>管理保障</a></div></td></tr><tr><td><div id="div707" class='listitem3'><a href='list_1_707.shtml'>品格养成</a></div></td></tr><tr><td><div id="div708" class='listitem3'><a href='list_1_708.shtml'>教师垂范</a></div></td></tr><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr><tr><td><div id="div709" class='listitem3'><a href='list_1_709.shtml'>德育科研</a></div></td></tr></table>
+            </div>
+            <div class="listbtm"></div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_116.shtml">学生天地</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>华师大之旅</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:孙一麟&nbsp;&nbsp; 编辑日期:2016-2-4 21:24:59&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=4087"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div>俗话说的好：瑞雪兆丰年。一月三十一日的大雪仿佛也预示着我们第二天丰富的收获。我作为北斗杯参赛小组的组长，与两位组员接受了参加北斗杯的这个困难任务。</div>
+<div>两月一日的一清早，我们三人冒着寒冷赶到了比较偏僻的华东师范大学闵行校区，郊区大量的积雪使得人迹寥寥的校区更加安静。由于我们到的比较早，我们便先在校区里逛了一圈，领略一下大学校区里的学术氛围与美丽风景。很快，成片的积雪吸引住了我们，于是，2016年的第一场雪仗就此开打，在身体得到了充分的运动后，我们便进入了会场，准备锻炼一下自己的头脑。</div>
+<div>会场内坐满了学生与老师们，有初中生也有本科生。很显然，他们就是我们这次比赛的竞争对手。我们大胆地坐在了董大南教授的对面，好最近距离地听清他的话语，以便及时提出我们的疑问和观点。董大南教授和我们讲了他赴美求学的经历，那时的他，还是一个研究生，可以说是没有什么学术地位。但是，他敢于质疑权威，提出了一个足以推翻经典理论的学说，当时这个观点震惊了全美国，他却没有因为与经典对立而退缩，最终这个挑战的成功使他受到了世界研究组织的关注，并具备了进入钱学森空间实验室的资格，他也最终在那里展示了自己的才华，成为第二个能获得资格进入钱学森空间实验室的中国大陆人。这个故事教会了我们不管一个人的地位如何，都要有一颗勇于质疑和探索的心，即便我们只是一名高中生，我们也应该不懈的追求自己的目标，不拘泥于现在的理论从而追求真理。</div>
+<div>随后出场的是张雷老师，他以一个生动的故事引入，随后进入正题，给我们介绍北斗导航的原理，用途，以及要对其创新研究时需要主要的注意事项和它的功能。这无疑对我们后期的研究是非常有利的。随后，张老师为我们罗列了这次比赛的二十个参考题目，让我们选择一个作为比赛题目的参考。在老师对题目进行一定的分析之后，我们便开始各抒己见。无论是从选材，实行的可能性与难度上，还是课题研究与发明创造的时间上，我们都仔细思考。最后我们也很快达成共识，选定一个题目，在齐幼娣老师与张雷老师的帮助下，热烈地讨论起来。讲座也在热闹的讨论氛围下拉上大幕。</div>
+<div>接下来就要看我们的了，即使困难显而易见的摆在了我们眼前，我们也一定能坚持下去，就像马丁路德金说的：在绝望之岭劈出一块希望之石！</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4087&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4087"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <div style="height:10px; clear:both; overflow:hidden;"></div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

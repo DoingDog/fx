@@ -1,0 +1,95 @@
+<%@ Language=VBScript %>
+<html><head><meta http-equiv=Content-Type content='text/html; charset=gb2312'>
+<style type='text/css'>
+<!--
+.yxy1{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#000000;text-decoration:none}
+.yxy2{font-family:'宋体','Arial','Times New Roman';font-size:9pt;line-height:13pt;color:#0000FF}a:hover{color:red;text-decoration:underline}a.yxy3{color:#000000;text-decoration:none}-->
+</style>
+<title>复兴新闻</title>
+</head>
+
+ 
+  <BODY bgcolor=#FFFFE1>
+<Center>
+  <br>
+  <table border=0 width=452 cellspacing=0 cellpadding=0>
+<tr><td width=273 height=11>
+<font color=#000000>
+<span style=font-family:宋体;font-size:9pt;color:rgb(0,0,0)>
+上海市复兴高级中学 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+新闻中心 &gt;&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+</span></font>       
+</td>       
+      <td width=179 height=11>        
+        <p align="right"><font size="2" color="#990033">发布时间：2005-01-10</font>  
+      </td></tr> 
+<tr><td width=273 height=8></td> 
+<td width=179 height=8></td> 
+</tr> 
+<tr><td width=452 height=18 colspan=2><p align=right>&nbsp;</td></tr> 
+</table> 
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="1"> 
+<tr> 
+      <td width=452 height=1 align=left>  
+        <div class="p4" style="width: 435; height: 242">
+          &nbsp;&nbsp;&nbsp;&nbsp; 开学初，我校继2002年首套校本教材之后，又隆重推出了第二套校本教材。    
+          近几年来，学校努力推进以学校为本的课程管理，鼓励教师积极进行校本课程的开发。<br>
+          &nbsp;&nbsp;&nbsp;&nbsp; 继《机器人创新实验教程》等六本首批复兴高级中学校本教材于2002年出版后，2004年10月复兴高级中学第二套校本教材也已付梓，计有语文组刘明海老师的《中国的现代化进程》、语文组徐伟雄老师的《影视基础》、物理组周鸿烨老师的《计算机应用基础教程》。这些书籍都是教师开设多年、较为成熟的选修课程，经过执教老师的不断积累、修订，编撰而成，它们切合学生的学习需要，受到广泛的欢迎，已有许多选修这些课程的学生自愿购买。作用，制造宇航员呼吸所必需的氧气；另一方面，宇航员也可以在长时间的太空飞行期间通过种植作物，聊作休闲，缓解因长期在特殊环境下工作产生的巨大心理压力。 
+        </div>
+</td></tr>
+
+
+
+  <%
+   adoRS.Close
+   SqlString="select * from news where id=" & Request.QueryString ("ID")+1
+   adoRS.Open SqlString ,adoConn 
+   if not adoRS.EOF then %>
+ 
+   <tr><td width=452 height="22"><hr size=1 color=#0000FF></td></tr>
+   <tr>
+      <td width=452 height="15"> <span class=yxy1> <font color=#408080>上一条:</font>     
+        </span> <span class=yxy1>            
+ <a href="4.htm"> 复兴科技节圆满落幕 </a>                                             
+        </span> </td>           
+    </tr>       
+<%end if%>       
+       
+       
+       
+       
+<% adoRS.Close        
+   SqlString="select * from news where id=" & Request.QueryString ("ID")-1       
+   adoRS.Open SqlString ,adoConn        
+   if not adoRS.EOF then %>       
+   <tr><td width=452 height="23"><hr size=1 color=#0000FF></td></tr>       
+   <tr>       
+      <td width=452 height="15"> <span class=yxy1> <font color=#408080>下一条:</font> 
+        </span> <span class=yxy1>                         
+        <a href="7.htm">复兴师生为印度洋海啸灾民举行义卖</a>                                 
+        </span> </td>                                                                        
+    </tr>     
+<%end if%>     
+<tr><td width=452 height="21"><hr size=1 color=#0000FF></td></tr>     
+     
+     
+     
+<%     
+   adoRS.Close      
+   UpdateStr="update news set Counter = Counter+1 where id=" & Request.QueryString ("ID")     
+   adoRS.Open UpdateStr,adoConn     
+   adoConn.Close %>     
+</table>     
+     
+<p>     
+</p>     
+<table border=0 width=452 cellspacing=0 cellpadding=0 height="66">     
+<tr><td width=452 height="18"></td></tr><tr><td width=452 height=20>     
+</td></tr><tr><td width=452 height=14>     
+<p align=center><span style=font-family:宋体;font-size:9pt>     
+<font color=#FE0000>上海市复兴高级中学</font>*车站南路28号</span></td></tr>     
+<tr><td width=452 height=14><p align=center><span style=font-family:宋体;font-size:9pt>Email:<a href=mailto:webmaster@fuxing.sh.cn>webmaster@fuxing.sh.cn</a></span></td></tr>     
+</table>     
+</Center>     
+</BODY>     
+</HTML>     

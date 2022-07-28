@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta content="yes" name="apple-mobile-web-app-capable" />
+	<meta content="telephone=no" name="format-detection" />
+	<meta name="baidu-site-verification" content="sefV1MkGoW" />
+	<title>上海市复兴高级中学网站管理平台</title>
+	<link rel="stylesheet" type="text/css" href="admin/css/bootstrap.min.css">
+	<style>
+	body{
+	
+	 background:url('admin/css/img/bg.png')
+	
+	} 
+	.col-sm-12{
+	  padding:0;
+	}
+	.form-control,#loginBtn{
+	 line-height: 42px;
+     height: 42px;
+	}
+	
+	.form-row{
+	  margin:5px 0;
+	}
+	#loginBtn{
+     padding:0
+	}
+	.footer{
+	 position:absolute;
+	 bottom:0;
+	 left:0;
+	 width:100%;
+	}
+	</style>
+</head>
+<body>
+   <div class='container' >
+    <div class="login">
+		<form id='loginForm' >
+            <div class="text-center"><img src="https://fx.xxoo.skin/SDFZB/admin/css/img/logo.png" width="300"/></div>   
+			<div class='form-row'>
+			    <div class='col-sm-12'>
+					<input type="text" name="username" class='form-control validate[required,maxSize[50]]' placeholder="用户名" id='username'>
+				</div>
+			</div>
+			<div  class='form-row'>
+			   <div class='col-sm-12'>
+			   
+				  <input type="password"  class='form-control validate[required,maxSize[50]]' name="password" placeholder="密码" id='password'>
+			   </div>
+			</div>
+			<div  class='form-row'>
+			   <div class="col-sm-12">
+			     <select class="form-control validate[required,maxSize[20]]" id="webSiteName" name="webSiteId"> 
+			     <option value="1" data-name="复兴高级">复兴高级</option>
+			     <option value="2" data-name="党建网">党建网</option>
+			     <option value="4" data-name="班级网站">班级网站</option>
+			     <option value="6" data-name="和谐校园">和谐校园</option>
+			     </select>
+			   </div>
+			</div>
+		</form>
+		<div class="col-sm-12"><input type="button" value="登录" class="btn btn-primary btn-block" id="loginBtn"></div>
+	  </div>
+	  
+   </div>
+	<div class="footer text-center"><span  style="line-height: 40px; color: #f5f5f5;">版权所有 Copyright © 2017 仪电鑫森</span></div>
+</body>
+<script>
+	var base="https://fx.xxoo.skin/SDFZB";
+	var VIEW="login";
+	var pageId=null;
+	var param={};
+</script>
+<script src="https://fx.xxoo.skin/SDFZB/admin/js/sea.js" id="seajsnode"></script>
+<script>
+    if(seajs.production) {
+        seajs.use('ecloud',function(){
+            seajs.use('view_'+VIEW,callback);
+        });
+    }else{
+        seajs.use('view_'+VIEW,callback);
+    }
+    function callback(m) {
+        m.init();
+    }
+    var tokenparam="e00d02d93d6ee18467229e38c002f5ca";
+</script></html>

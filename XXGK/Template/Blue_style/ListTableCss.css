@@ -1,0 +1,120 @@
+﻿
+.ListT2TableCss00
+{
+	background-image: url(index/index_02_13.gif);
+	height:46px;
+	width:211px;
+}
+.ListT2TableCss10
+{
+	width:200px; border-width: 0px 1px 0px 1px;
+	border:solid #707070;
+}
+
+.ListT2TableCss30
+{
+	 border-width: 0px 1px 0px 1px;
+	border:solid #707070;
+}
+
+.ListT3TableCss00
+{
+	background-image: url(index/index_02_06.gif);
+	width:758px;
+	height:29px;
+}
+
+.ListT2TableCss20
+{
+	background-image: url(index/index_02_25.gif);
+	height:46px;
+	width:211px;
+}
+.ListT1TableCss11
+{
+	background-color:Orange;	
+	border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+.ListT3TableCss10
+{
+	background-image: url(index/index_02_08.gif);
+	height:115px;
+	width:758px;
+}
+
+.ListT4TableCss00
+{
+	background-image: url(index/index_02_17.gif);
+	height:22px;
+	background-repeat:repeat-x;
+	width:758px;
+	border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+
+.ListT4TableCss10
+{
+    width:758px;
+    border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+
+.ListT4TableCss20
+{
+	background-image: url(index/index_02_17.gif);
+	height:22px;
+	background-repeat:repeat-x;
+	width:758px;
+	border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+
+.ListT4TableCss30
+{
+    width:758px;
+    border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+
+.ListT4TableCss40
+{
+	background-image: url(index/index_02_17.gif);
+	height:22px;
+	background-repeat:repeat-x;
+	width:758px;
+	border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+
+.ListT4TableCss50
+{
+    width:758px;
+    border-left:solid 1px #707070;
+	border-right:solid 2px #707070;
+}
+
+.ListT4TableCss60
+{
+	background-image: url(index/index_02_32.gif);
+	background-repeat:no-repeat;
+	 width:758px;
+	 height:10px;
+}
+.ListT2TableCss40
+{
+	background-image: url(index/index_02_31.gif);
+	 height:9px;
+	 width:211px;	
+}
+.ListTitle{float: left; background-image: url('Index/index_02_01.gif'); width: 30px;
+                                    height: 20px}
+#listcontainer{	width:100%;	}
+#listleft{float: left; width: 212px;}
+#listright{float:right; width: 78%; min-height: 400px;}
+.ListT1
+{
+	background-image: url(index/index_02_03.gif);
+	height:103px;
+	width:211px;
+}

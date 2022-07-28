@@ -1,0 +1,271 @@
+<html><!-- #BeginTemplate "/Templates/main.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>::上海复兴高级中学网站::</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="main.css" type="text/css">
+<script language="JavaScript">
+var L_strMailboxPlease_Message = "请键入您的邮箱名称。";
+var L_strValidMailbox_Message = "邮箱名称包含无效字符。";
+var L_SessionTimedOut_Message = "您的会话已超时。如果要继续，您必须重新登录。";
+
+function sendForm(bAnon) {
+    if (!bAnon)
+    {
+    if (document.logonForm.mailbox.value=="") 
+    {
+        alert(L_strMailboxPlease_Message ) 
+    }
+    else if (((document.logonForm.mailbox.value.indexOf("\\") != -1) ||
+         (document.logonForm.mailbox.value.indexOf("/") != -1)) ||
+         (document.logonForm.mailbox.value.indexOf(";") != -1)) 
+    {
+        alert(L_strValidMailbox_Message)
+    }   
+    else
+    {
+        document.logonForm.submit();
+    }    
+    }
+    else
+    {
+    document.logonForm.mailbox.value="";
+    document.logonForm.submit();
+    }
+}
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="2" topmargin="2" marginwidth="0" marginheight="0">
+<table width="399" border="0" cellpadding="0" cellspacing="1" align="left" height="606">
+  <tr> 
+    <td width="120" bgcolor="#006699" height="89"> 
+      <table width="130" cellspacing="0" cellpadding="1" align="left" bordercolor="#006699" class="login" bgcolor="#FFFFFF" height="80">
+        <tr> 
+          <form name=logonForm onSubmit=sendForm(false);return(false); 
+          action=https://172.16.173.1 method=get>
+            <td height=60 nowrap width="124"> 
+              <p align="center"><font color="#000000">账号:                                                                                                                                                                                                                                                                                           
+                <input maxlength=15 size=10 name=mailbox class="form0">   
+                <br>   
+              &nbsp;                                                                                                                                                                                                                                                                        
+                <input type=image border=0 src="login.gif" alt="登录" width="42" height="30">                    
+                </font></p>   
+            </td>   
+          </form>   
+        </tr>   
+      </table>   
+      <br>   
+    </td>   
+    <td colspan="9" height="89" align="center" valign="middle" width="734">    
+      <div align="center"><a href="../images/title.swf"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="445" height="75">   
+          <param name=movie value="images/title.swf">   
+          <param name=quality value=high>   
+          <embed src="images/title.swf" quality=high pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="445" height="75">   
+          </embed>    
+        </object></a></div>   
+    </td>   
+  </tr>   
+  <TR vAlign=center>
+    <TD bgColor=#006699 height=18 width=120>
+      <DIV align=center id=Clock 
+    style="COLOR: #000000; FONT-SIZE: 20px">　</DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'"  width=71>
+      <DIV align=center><A href="index.htm">主页</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=62>
+      <DIV align=center><A 
+      href="pages/intro.htm">复兴概况</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=67>
+      <DIV align=center><A 
+      href="pages/newface.htm">复兴新貌</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=63>
+      <DIV align=center><a href="jiaoyutese/index.html">教育特色</a></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=64>
+      <DIV align=center><A 
+    href="pages/life.htm">校园生活</A></DIV></TD>
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=61>
+      <DIV align=center><A href="pages/alumni.htm" 
+      >校友会</A></DIV></TD>
+    
+    <TD bgColor=#000000 class=bar height=18 onmouseout="bgColor='#000000'" 
+    onmouseover="bgColor='#006699'" width=73>
+      <DIV align=center>
+        <p align="center"><a href="pages/zhaosheng.htm">全国招生信息</a></DIV></TD>
+</TR>
+  
+  <tr>   
+    <td valign="top" bgcolor="#006699" bordercolor="#FFFFFF" width="120" height="364">   
+      <table width="129" border="0.5" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">  
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/01.fuxing-pano/page/index.htm"><font size="2" face="宋体">校园全景</font>  
+            </a>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><font face="华文中宋" size="3" color="red">学生作品选登</font>  
+              
+          </td>  
+        </tr>
+         <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/lxy/index.htm"><font face="华文中宋" size="2">DNA</font>  
+            </a>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/04.zhanwang/index.htm"><font face="宋体" size="2">科技展望</font>  
+            </a>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g199902/index.htm"><font face="华文中宋" size="2">求真基因网</font>  
+            </a>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" width="123" align="center">  
+            <p align="center"><a href="stuweb/g200002/index.htm"><font face="华文中宋" size="2">科技与环保</font></a></p>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g199810/index.htm"><font face="华文中宋" size="2">人类只有一个地球</font></a></p>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g200004/index.htm"><font face="华文中宋" size="2">科学在线</font></a></p>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g200006/index.htm"><font face="华文中宋" size="2">家园中华网</font></a></p>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g199803/index.htm"><font face="华文中宋" size="2">航天技术</font></a></p>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g199904/index.htm"><font face="华文中宋" size="2">科技园地</font></a></p>  
+          </td>  
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">  
+            <p align="center"><a href="stuweb/g199806/index.htm"><font face="华文中宋" size="2">二十一世纪畅想</font>  
+            </a>  
+          </td>  
+        </tr>
+        
+      </table>  
+      <p align="center">　</p>  
+    </td>  
+    <td rowspan="4" colspan="9" valign="top" height="432" align="center" width="734" >   
+      <table width="623" border="0" cellspacing="1" cellpadding="0" height="400">  
+        <tr>   
+          <td height="401" valign="top" class="left" width="680"><!-- #BeginEditable "content" -->   
+            <table width="658" border="0" cellspacing="0" cellpadding="0" height="424">  
+              <tr>   
+                <td height="222" width="393">   
+                  <div id="Layer1" style="position:absolute; width:200px; height:250px; z-index:1; left: 150px; top: 137px">   
+                    <div align="center"><img src="words.gif" width="192" height="236"></div>  
+                  </div>  
+                  <div id="Layer2" style="position: absolute; width: 393; height: 250; z-index: 2; left: 373; top: 128">   
+                    <table width="385" border="0" cellspacing="0" cellpadding="4" align="center">  
+                      <tr>   
+                        <td bgcolor="#a0cce3" height="15" valign="middle">   
+                          <div align="center"><font color="#000000" size="1">::                                                                                                                                                                                                                                                                                                               
+                            新　闻 ::<font face="Arial">                                                                                                                                                                                                                                                                                                                                                       
+                            NEWS&lt;</font></font><font face="宋体" size="2" color="#FF6666">2005-01-26</font><font color="#000000" face="宋体" size="1">&gt;</font><font color="#000000" size="1">  
+                            :</font></div>                        
+                        </td>   
+                      </tr>   
+                      <tr>    
+                        <td height="130" valign="top" class="form1">
+                          <table border="1" width="100%" bordercolordark="#FFFFFF" bordercolorlight="#FFFFFF" bordercolor="#FFFFFF" height="110">
+                            <tr>
+                              <td width="100%" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" height="16"><font color="#666666"><a href="Tnews/1.htm">高二年级赴“五四农场”学农</a></font></td>                                                                                                                                                                  
+                            </tr>
+                            <td height="15"><font color="#666666"><a href=Tnews/2.htm>我校参加“读经活动”交流</a>                                                                                                                                                                                                                                                 
+                              </font>                                                                                                                                                                                                                                                 
+                            </td>                                                         
+                            <td height="15">　</td>
+                            <tr>
+                              <td height="16"><font color="#666666"><a href="Tnews/3.htm">我校参加“世纪杯”演讲比赛取得佳绩</a></font></td>                                                                                                                              
+                            </tr>
+                            <tr>
+                              <td height="17"><font color="#666666"><a href="Tnews/4.htm">复兴高级中学举办首届戏剧节</a></font></td>                                                                                                                                                     
+                            </tr>
+                            <tr>
+                              <td height="16"><font color="#666666"><a href="Tnews/5.htm">复兴科技节圆满落幕</a></font></td>                                                                                                                                                                           
+                            </tr>
+                          </table>
+                          <font size="1">&nbsp; </font> <a href="Tnews/6.htm">我校第二套校本教材隆重推出<br> 
+                          </a><span style="mso-bidi-font-size: 12.0pt"><font size="2"><span lang="EN-US" style="mso-bidi-font-size: 12.0pt"><b><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><font color="#666666"><a href="Tnews/7.htm">复兴师生为印度洋海啸灾民举行义卖</a></font></span></b></span>                  
+                         </font></span><span lang="EN-US" style="font-size:16.0pt;mso-bidi-font-size:12.0pt"><o:p> 
+                          </o:p>
+                          </span>                                                                                  
+ </td>    
+                      </tr>   
+                    </table>   
+                    <div align="right"></div>   
+                  </div>   
+                </td>   
+                <td height="222" width="261" valign="top">   
+ </td>   
+              </tr>   
+              <tr>    
+                <td height="202" width="656" colspan="2">    
+                  <div align="center"><img src="pano1.jpg" alt=" 校园一景　崔伟毅／摄 " width="645" height="200"></div>   
+                </td>   
+              </tr>   
+            </table>   
+            <!-- #EndEditable --></td>   
+        </tr>   
+      </table>   
+    </td>   
+  </tr>   
+  <tr>    
+    <td bgcolor="#000000" width="120" height="21" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::<a href="mailbox/Default.htm" target="_blank">校长信箱</a></td>   
+  </tr>   
+  <tr>    
+    <td bgcolor="#000000" width="120" height="21" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::留言簿</td>   
+  </tr>   
+  <tr>    
+    <td bgcolor="#000000" width="120" height="20" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::<a href="mailto:webmaster@fuxing.sh.cn">联系我们</a></td>   
+  </tr>   
+  <tr>    
+    <td bgcolor="#000000" height="21" valign="middle" align="left" width="125">    
+      <div align="left">   
+        <script language="JavaScript">   
+now = new Date()   
+document.write(now.toLocaleString())//-->   
+</script>   
+      </div>   
+    </td>   
+    <td colspan="8" height="21" width="628">    
+      <div align="right"><!-- #BeginEditable "comment" --><font color="#666666">上图为校园一景　<font color="#999999">崔伟毅／摄</font></font><!-- #EndEditable --></div>   
+    </td>   
+  </tr>   
+  <tr bgcolor="#006699">    
+    <td colspan="10" height="33" align="center" valign="middle" width="858">地址:中国上海市车站南路28号                                
+      邮编:200434 电话:86-021-65606715</td>                               
+  </tr>   
+</table>   
+</body>
+<!-- #EndTemplate --></html>

@@ -1,0 +1,369 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>寝室夜话</title>
+<script LANGUAGE="JavaScript" FPTYPE="dynamicanimation">
+<!--
+  // If you want to change this script, you must also make the following
+  // changes so that FrontPage will not overwrite your new script.
+  // In the script tag, change type="dynamicanimation" to type="mydynamicanimation"
+  // In the first script statement, change "dynamicanimation" to "mydynamicanimation"
+  // Throughout the HTML content, change dynamicanimation= to mydynamicanimation=
+  // Change function dynAnimation to function mydynAnimation
+  // In the body tag, change onload="dynAnimation()" to onload="mydynAnimation()"
+  dynamicanimAttr = "dynamicanimation"
+  animateElements = new Array()
+  currentElement = 0
+  speed = 0
+  stepsZoom = 8
+  stepsWord = 8
+  stepsFly = 12
+  stepsSpiral = 16
+  steps = stepsZoom
+  step = 0
+  outString = ""
+  function dynAnimation()
+  {
+    var ms = navigator.appVersion.indexOf("MSIE")
+    ie4 = (ms>0) && (parseInt(navigator.appVersion.substring(ms+5, ms+6)) >= 4)
+    if(!ie4)
+    {
+      if((navigator.appName == "Netscape") &&
+         (parseInt(navigator.appVersion.substring(0, 1)) >= 4))
+      {
+        for (index=document.layers.length-1; index >= 0; index--)
+        {
+            layer=document.layers[index]
+            if (layer.left==10000)
+                layer.left=0
+        }
+      }
+      return
+    }
+    for (index=document.all.length-1; index >= document.body.sourceIndex; index--)
+    {
+      el = document.all[index]
+      animation = el.getAttribute(dynamicanimAttr, false)
+      if(null != animation)
+      {
+        if(animation == "dropWord" || animation == "flyTopRightWord" || animation == "flyBottomRightWord")
+        {
+          ih = el.innerHTML
+          outString = ""
+          i1 = 0
+          iend = ih.length
+          while(true)
+          {
+            i2 = startWord(ih, i1)
+            if(i2 == -1)
+              i2 = iend
+            outWord(ih, i1, i2, false, "")
+            if(i2 == iend)
+              break
+            i1 = i2
+            i2 = endWord(ih, i1)
+            if(i2 == -1)
+              i2 = iend
+            outWord(ih, i1, i2, true, animation)
+            if(i2 == iend)
+              break
+            i1 = i2
+          }
+          document.all[index].innerHTML = outString
+          document.all[index].style.posLeft = 0
+          document.all[index].setAttribute(dynamicanimAttr, null)
+        }
+        if(animation == "zoomIn" || animation == "zoomOut")
+        {
+          ih = el.innerHTML
+          outString = "<SPAN " + dynamicanimAttr + "=\"" + animation + "\" style=\"position: relative; left: 10000;\">"
+          outString += ih
+          outString += "</SPAN>"
+          document.all[index].innerHTML = outString
+          document.all[index].style.posLeft = 0
+          document.all[index].setAttribute(dynamicanimAttr, null)
+        }
+      }
+    }
+    i = 0
+    for (index=document.body.sourceIndex; index < document.all.length; index++)
+    {
+      el = document.all[index]
+      animation = el.getAttribute(dynamicanimAttr, false)
+      if (null != animation)
+      {
+        if(animation == "flyLeft")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = 0
+        }
+        else if(animation == "flyRight")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)+document.body.offsetWidth
+          el.style.posTop = 0
+        }
+        else if(animation == "flyTop" || animation == "dropWord")
+        {
+          el.style.posLeft = 0
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "flyBottom")
+        {
+          el.style.posLeft = 0
+          el.style.posTop = document.body.scrollTop-offsetTop(el)+document.body.offsetHeight
+        }
+        else if(animation == "flyTopLeft")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "flyTopRight" || animation == "flyTopRightWord")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)+document.body.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "flyBottomLeft")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)+document.body.offsetHeight
+        }
+        else if(animation == "flyBottomRight" || animation == "flyBottomRightWord")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)+document.body.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)+document.body.offsetHeight
+        }
+        else if(animation == "spiral")
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = document.body.scrollTop-offsetTop(el)-el.offsetHeight
+        }
+        else if(animation == "zoomIn")
+        {
+          el.style.posLeft = 10000
+          el.style.posTop = 0
+        }
+        else if(animation == "zoomOut")
+        {
+          el.style.posLeft = 10000
+          el.style.posTop = 0
+        }
+        else
+        {
+          el.style.posLeft = 10000-offsetLeft(el)-el.offsetWidth
+          el.style.posTop = 0
+        }
+        el.initLeft = el.style.posLeft
+        el.initTop = el.style.posTop
+        animateElements[i++] = el
+      }
+    }
+    window.setTimeout("animate();", speed)
+  }
+  function offsetLeft(el)
+  {
+    x = el.offsetLeft
+    for (e = el.offsetParent; e; e = e.offsetParent)
+      x += e.offsetLeft;
+    return x
+  } 
+  function offsetTop(el)
+  {
+    y = el.offsetTop
+    for (e = el.offsetParent; e; e = e.offsetParent)
+      y += e.offsetTop;
+    return y
+  } 
+  function startWord(ih, i)
+  {
+    for(tag = false; i < ih.length; i++)
+    {
+      c = ih.charAt(i)
+      if(c == '<')
+        tag = true
+      if(!tag)
+        return i
+      if(c == '>')
+        tag = false
+    }
+    return -1
+  }
+  function endWord(ih, i)
+  {
+    nonSpace = false
+    space = false
+    while(i < ih.length)
+    {
+      c = ih.charAt(i)
+      if(c != ' ')
+        nonSpace = true
+      if(nonSpace && c == ' ')
+        space = true
+      if(c == '<')
+        return i
+      if(space && c != ' ')
+        return i
+      i++
+    }
+    return -1
+  }
+  function outWord(ih, i1, i2, dyn, anim)
+  {
+    if(dyn)
+      outString += "<SPAN " + dynamicanimAttr + "=\"" + anim + "\" style=\"position: relative; left: 10000;\">"
+    outString += ih.substring(i1, i2)
+    if(dyn)
+      outString += "</SPAN>"
+  }
+  function animate()
+  {
+    el = animateElements[currentElement]
+    animation = el.getAttribute(dynamicanimAttr, false)
+    step++
+    if(animation == "spiral")
+    {
+      steps = stepsSpiral
+      v = step/steps
+      rf = 1.0 - v
+      t = v * 2.0*Math.PI
+      rx = Math.max(Math.abs(el.initLeft), 200)
+      ry = Math.max(Math.abs(el.initTop),  200)
+      el.style.posLeft = Math.ceil(-rf*Math.cos(t)*rx)
+      el.style.posTop  = Math.ceil(-rf*Math.sin(t)*ry)
+    }
+    else if(animation == "zoomIn")
+    {
+      steps = stepsZoom
+      el.style.fontSize = Math.ceil(50+50*step/steps) + "%"
+      el.style.posLeft = 0
+    }
+    else if(animation == "zoomOut")
+    {
+      steps = stepsZoom
+      el.style.fontSize = Math.ceil(100+200*(steps-step)/steps) + "%"
+      el.style.posLeft = 0
+    }
+    else
+    {
+      steps = stepsFly
+      if(animation == "dropWord" || animation == "flyTopRightWord" || animation == "flyBottomRightWord")
+        steps = stepsWord
+      dl = el.initLeft / steps
+      dt = el.initTop  / steps
+      el.style.posLeft = el.style.posLeft - dl
+      el.style.posTop = el.style.posTop - dt
+    }
+    if (step >= steps) 
+    {
+      el.style.posLeft = 0
+      el.style.posTop = 0
+      currentElement++
+      step = 0
+    }
+    if(currentElement < animateElements.length)
+      window.setTimeout("animate();", speed)
+  }
+//-->
+</script></head>
+
+<body bgcolor="#B48CEA" background="lbg030v.jpg" onload="dynAnimation()">
+
+<p>　</p>
+
+<p>　</p>
+
+<hr>
+
+<table border="1" width="100%">
+  <tr>
+    <td width="25%"><p align="center"><a href="H2.htm"><font color="#0000FF">风云人物</font></a></td>
+    <td width="25%" align="center"><font color="#0000FF">寝室夜话</font></td>
+    <td width="25%" align="center"><a href="H4.htm"><font color="#0000FF">寝室外交</font></a></td>
+    <td width="25%"><p align="center"><a href="H5.htm"><font color="#0000FF">寝室与校园</font></a></td>
+  </tr>
+</table>
+
+<hr>
+
+<p align="center" dynamicanimation="flyTop"
+style="position: relative !important; left: 10000 !important"><font color="#000000"><u><em><strong><big><big><big><big>寝室夜话</big></big></big></big></strong></em></u></font></p>
+
+<p align="center">　</p>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="100%"><p align="center"><font color="#000000"><big><big><strong>男生宿舍之遭遇耗子</strong> 
+    </big></big><br>
+    <br>
+    <br>
+    　　昨天我晒了被子,我喜欢被子被晒的暖暖的 <br>
+    <br>
+    　　然后把它平铺在床上,等着它慢慢凉透,剩下可以做的就是等待天黑 
+    <br>
+    <br>
+    　　晚上我睡的很舒服 <br>
+    <br>
+    　　你会拒绝在一张舒适的床上多睡一会吗?显然不会 <br>
+    <br>
+    　　所以尽管日过三竿,我还是不想起来 <br>
+    <br>
+    　　喜欢侧着身子睡,这种姿势来源于小时侯对侠客的崇拜和模仿 <br>
+    <br>
+    　　侠客们为了不至于错过行侠丈义的机会和提防小人暗算总是将耳朵贴在地面,这样可以听见更多的东西(也不知道过了多少年才被欧洲一个叫赫兹的人验证声音是需要媒介才能传递) 
+    <br>
+    <br>
+    　　大侠们因为经常所以才习惯了,至于睡觉时也这样完全是惯性 <br>
+    <br>
+    　　舍友时常因为保持这种睡觉姿势的目的取笑我 <br>
+    <br>
+    　　小平同志说:二十一世纪是和平发展的世纪,因此让我没必要担心受人暗算,也不会有行侠丈义的机会 
+    <br>
+    <br>
+    　　自己恨恨的,一直想证明他们是多么的无知 <br>
+    <br>
+    　　今天我也终于也听见了些声音,好象是挠被子的声音 <br>
+    <br>
+    　　起先还以为自己弄的,为了证实自己的想法也在被褥上挠了两下,不太象:( 
+    <br>
+    <br>
+    　　难道是~~ <br>
+    <br>
+    　　刚才还是声音,现在是切身体会了,一只毛茸茸的东西拼命想从我的身体左侧钻到右侧 
+    <br>
+    <br>
+    　　是耗子~~崩溃,这种只有在闲聊时当作笑料的事情竟然会发生在我的身上!!! 
+    <br>
+    <br>
+    　　老天啊!我只不过想睡的舒服点,决不是贪图享受,你也用不着这样惩罚我吧~~~~ 
+    <br>
+    <br>
+    　　我没有揭开被子,因为自己还无法坦然接受和这家伙正面对话的事实,只是希望它赶快离开 
+    <br>
+    <br>
+    　　也许是它没有一百四十斤的概念又或是懂得愚公移山的精神,仍然以极大的热情在我身下钻着~~~~ 
+    <br>
+    <br>
+    　　疯了~~~为了帮它,也为了自己,我终于揭开了被子 <br>
+    <br>
+    　　我看见了它,它好象并不象我对它那样感兴趣,而且一点没有要走的意思,只是瞅了我一眼,就开始梳理它的胡子,是呀,天真的亮了,该起床了 
+    <br>
+    <br>
+    　　在没有想到很好的方法以前,我平生第一次学了猫叫~~效果很好 <br>
+    <br>
+    　　哎!自己人借猫威才吓跑了只老鼠 <br>
+    <br>
+    　　再也睡不着了,感觉以前温暖熟悉的每一个被褥的角落都蒙上了怪异的味道 
+    <br>
+    <br>
+    　　有一种想吐的感觉,来到厕所却毫无理由的笑了 <br>
+    <br>
+    　　还好!它没有早起入厕的习惯<br>
+    </font></td>
+  </tr>
+</table>
+
+<p><a href="index.htm"><img src="back.gif" width="47" height="47"
+alt="back.gif (1998 字节)"></a></p>
+</body>
+</html>

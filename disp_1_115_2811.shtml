@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/list_fxdy.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <div id="maintop">
+        <script type="text/javascript">            var f = new Flash("template/fxgj/images/list_fxdy/pgfx.swf", "flash", "962", "205", true);
+            f.add("maintop");
+</script>
+    </div>
+    <div id="pubmenu"><script src="/template/FXGJ/menu.js" type="text/javascript"></script></div>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2"></div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div711" class='listitem3'><a href='list_1_711.shtml'>德育概况</a></div></td></tr><tr><td><div id="div706" class='listitem3'><a href='list_1_706.shtml'>管理保障</a></div></td></tr><tr><td><div id="div707" class='listitem3'><a href='list_1_707.shtml'>品格养成</a></div></td></tr><tr><td><div id="div708" class='listitem3'><a href='list_1_708.shtml'>教师垂范</a></div></td></tr><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr><tr><td><div id="div709" class='listitem3'><a href='list_1_709.shtml'>德育科研</a></div></td></tr></table>
+            </div>
+            <div class="listbtm"></div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_115.shtml">校园文化</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2013年复兴读书节教工分享</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:仇凛&nbsp;&nbsp; 编辑日期:2013-3-26 14:33:36&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2811"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;&nbsp;&nbsp; 2013年复兴读书节于本周一正式拉开了帷幕。读书节作为学校的传统校园文化活动，教职工的参与也是必不可少的。今年读书节学校工会组织教职工们将自己的读书心得以文字的形式进行交流与分享。本次读书心得分享活动获得了全校教职员工的积极响应。一些教职工把自己的读书体会写成了读后感，一些则用简短的文字向大家推荐了自己喜爱的好书。现在我们将其中的一些作为附件与大家分享，希望大家能在阵阵书香的陪伴下&ldquo;阅&rdquo;动复兴园。</p>
+                            <div id="upfiles">
+                            <DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106140.doc");' href="javascript:void();">《大秦帝国》读后感（朱文波）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106140.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106141.doc");' href="javascript:void();">柴静《看见》读后感（朱良）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106141.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106142.doc");' href="javascript:void();">纯净心灵的牧歌（雷焱）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106142.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106143.doc");' href="javascript:void();">从《遇见未知的自己》开始的心灵成长（俞嘉溦）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106143.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106144.doc");' href="javascript:void();">读《爱的密码》有感（徐宁）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106144.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106145.doc");' href="javascript:void();">读《第56号教室的奇迹》有感（陈珅）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106145.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106146.doc");' href="javascript:void();">读《魔咒钢琴》有感（周敏）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106146.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106147.doc");' href="javascript:void();">好书推荐《史蒂夫乔布斯传》（卓国诚）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106147.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106148.doc");' href="javascript:void();">亮剑精神（陆磐良）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106148.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/201303261425354106149.doc");' href="javascript:void();">你若安好便是晴天（张敏）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/201303261425354106149.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/2013032614253541061410.doc");' href="javascript:void();">台湾名家巡礼（陈广）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/2013032614253541061410.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/2013032614253541061411.doc");' href="javascript:void();">星云法师给我的启迪（吴培超）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/2013032614253541061411.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/2013032614253541061412.doc");' href="javascript:void();">虚掩的门——小故事中的大智慧（颜清）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/2013032614253541061412.doc",this)'>删除</SPAN></DIV>
+<DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/03/26/2013032614253541061413.doc");' href="javascript:void();">有感于《此生 肉身觉醒》（韩凌）.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/03/26/2013032614253541061413.doc",this)'>删除</SPAN></DIV>
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2811&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2811"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <div style="height:10px; clear:both; overflow:hidden;"></div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

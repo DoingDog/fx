@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div610" class='listitem3'><a href='list_1_610.shtml'>招生信息</a></div></td></tr><tr><td><div id="div611" class='listitem3'><a href='list_1_611.shtml'>升学信息</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_610_3690.shtml' title='标题:2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕&#13;点击:3346次&#13;日期:2015-3-5 11:01:57'  ><span style='color:;'>2015年复兴集团初三学生“走</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3548.shtml' title='标题:关于新生分班情况查询的通知&#13;点击:3996次&#13;日期:2014-8-2 16:46:46'  ><span style='color:;'>关于新生分班情况查询的通知</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3544.shtml' title='标题:复兴高级中学2014级学生名单&#13;点击:4145次&#13;日期:2014-7-21 17:01:58'  ><span style='color:;'>复兴高级中学2014级学生名单</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3490.shtml' title='标题:致未收到复兴高中“提前招生录取”面试通知的家长、同学&#13;点击:3652次&#13;日期:2014-5-17 10:28:24'  ><span style='color:;'>致未收到复兴高中“提前招生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3464.shtml' title='标题:2014年 复兴高级中学文艺特长生招生办法&#13;点击:2581次&#13;日期:2014-4-28 16:14:44'  ><span style='color:;'>2014年&nbsp;复兴高级中学文艺特长</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3452.shtml' title='标题:2014年上海市复兴高级中学“提前招生录取”方案&#13;点击:11220次&#13;日期:2014-4-23 9:34:20'  ><span style='color:;'>2014年上海市复兴高级中学“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3432.shtml' title='标题:复兴中学喜欢什么样的学生&#13;点击:4170次&#13;日期:2014-4-12 19:09:17'  ><span style='color:;'>复兴中学喜欢什么样的学生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2910.shtml' title='标题:今年报考复兴高级中学的学生请注意&#13;点击:13606次&#13;日期:2013-7-15 10:06:36'  ><span style='color:;'>今年报考复兴高级中学的学生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2893.shtml' title='标题:2016届预录取学生夏令营安排表&#13;点击:3827次&#13;日期:2013-6-18 15:48:47'  ><span style='color:;'>2016届预录取学生夏令营安排</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2836.shtml' title='标题:2013年上海市复兴高级中学“提前招生录取”方案&#13;点击:16462次&#13;日期:2013-4-17 14:03:43'  ><span style='color:;'>2013年上海市复兴高级中学“</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_610_3690.shtml' title='2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕'  target='_blank'  >2015年复兴集团初三学生“走</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_122.shtml">升学招生</a> >> <a href="list_1_610.shtml">招生信息</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>复兴中学喜欢什么样的学生</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:陈永平&nbsp;&nbsp; 编辑日期:2014-4-12 19:09:17&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3432"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center"><img alt="" src="/userfiles/upload/image/2014/04/12/20140412195610558913770.JPG" /></p>
+<div align="left">　　复兴高级中学是沪上一所历史悠久的名校，也是首批上海市实验性示范性高中，这所学校希望塑造怎样的学生，请看主持学校工作的陈永平副校长的思考&mdash;&mdash;</div>
+<div align="left">　　位于上海市虹口区车站南路的复兴高级中学，其前身是建于<span>1886年的麦瑟尼克学校;1946年抗日战争胜利后，学校重建，定名为&ldquo;上海市复兴中学&rdquo;，取名&ldquo;复兴&rdquo;，含&ldquo;复兮旦兮，兴我中华&rdquo;之意。</span></div>
+<div align="left">　　复兴中学建校近<span>70年来，坚持以&ldquo;求真&rdquo;为校训，坚持&ldquo;服务社会与促进学生发展的高度统一、实现自我价值与服务祖国和人民的高度统一、发展个性特长与提高整体素质的高度统一&rdquo;的原则，形成了以&ldquo;报国成才，服务社会，兴我中华&rdquo;为核心的复兴精神。</span></div>
+<div align="left">　　在新的发展时期，复兴仍然秉承&ldquo;求真&rdquo;的办学传统，赋予&ldquo;求真&rdquo;以&ldquo;追求真理、探究真知、崇尚真情、完善真我&rdquo;新的时代内涵，尽可能地为每一位学生提供适合其潜能充分发挥、个性全面发展的教育条件和教育机会。具体来说，复兴高级中学重视的学生品质是：</div>
+<div align="left">　　<b>1.</b><b>&ldquo;求真&rdquo;的学习素养</b></div>
+<div align="left">　　求真的题中之意即为&ldquo;追求事物发展的真理所在和寻找事物发展的客观规律&rdquo;，所以我们希望报考复兴的学生要有&ldquo;求真&rdquo;的学习素养，具有这种素养的学生要努力成为一个&ldquo;知识渊博者、深度探究者、问题解决者、理性批判者&rdquo;。渊博的知识是求真的基础，在深度探究中解决问题是求真的能力，而具有健康的、理性的批判思维是求真的保障。</div>
+<div align="left">　　复兴的课程与教学非常关注学生的创造性学习和独立思考能力的养成，力求为学生的&ldquo;求真&rdquo;提供多样化的学习发展平台，一批市级名师、特级教师引领的教师团队激发学生求真的思维火花，物理、化学、生物自主探究实验室是学生求真的殿堂。</div>
+<div align="left">　　学校科技教育特色校本课程设计更是专注于培养学生的科学精神，提高学生的科学素养，促进学生的科技能力发展。中科院上海生命科学院生物化学与细胞生物学研究所和复兴高级中学结对，共同开展 &ldquo;明日科技之星&mdash;&mdash;科技拓展培育基地&rdquo;项目。学生近三年参加上海市科技创新大赛，有<span>7个项目获市一等奖、13个项目获市二等奖、有32个项目获市三等奖。</span></div>
+<div align="left">　　复兴中学非常重视学生创新思维品质的培养。在今年的自主招生过程中，若有学生在此方面表现优异，就一定会在面试中加分。</div>
+<div align="left"><b>　　<span>2.&ldquo;务实&rdquo;的求知精神</span></b></div>
+<div align="left">　　 &ldquo;精致、务实&rdquo;是上海这座都市外露的城市气质，也是这座都市内聚的城市灵魂。复兴是上海的复兴，是培养建设&ldquo;四个中心&rdquo;上海的未来上海人的复兴。所以，我们希望报考复兴的学生能够秉持&ldquo;上海人&rdquo;务实的求知精神，这样的学生应该是一个&ldquo;主动规划者、专注笃行者、敢于负责者、善于合作者&rdquo;。&ldquo;务实&rdquo;对个体自我来说，就是要能清晰规划自己的成长，然后专注地一步一个脚印地朝着目标努力前行<span>;&ldquo;务实&rdquo;对个体的&ldquo;社会性&rdquo;来说，就意味着要善于履责、敢于担责，同时在努力做好自己负责的那一部分工作的同时，能够与他人合作，共同发展。复兴把上述培养目标贯穿于学生培养的课程体系中，更落实在学生成长评价的导向指标中。</span></div>
+<div align="left">　　复兴高中即将与复旦大学、同济大学等沪上名校合作实施&ldquo;苗圃计划&rdquo;，直接与名校对接，共同制定人才培养方案。校长实名制推荐有近一个班额度的优秀复兴学子可直升上述名校，而校长推荐英才的重要标准就是对自我有清晰规划、能够踏实专注朝着目标努力、敢于担当、善于合作等的&ldquo;务实&rdquo;素养。</div>
+<div align="left">　　在今年的自主招生面试中，我们会在通过问题和情景的设计，让学生的团队合作精神、优良的思维品质和对话应变能力等充分展示出来。</div>
+<div align="left"><b>　　<span>3.&ldquo;至善&rdquo;的理想情怀</span></b></div>
+<div align="left">　　真、善、美是人类对美德的最高追求，复兴高中不仅希望学生能够以&ldquo;求真&rdquo;的态度追求学术真理，希望学生能够继承上海这座城市的&ldquo;务实&rdquo;的人文精神，更希望学生无论对自我、对社会都有&ldquo;至善&rdquo;的审美追求和理想情怀。我们希望报考复兴的学生应竭力成为&ldquo;协调发展者、自觉审美者、胸怀天下者、积极创造者&rdquo;。我们期望学生个体的素质尽可能全面协调发展，跛足式偏科应当努力避免和弥补，也期望学生有高雅的兴趣和艺术审美素养，更期望学生能够跳出&ldquo;小美&rdquo;的狭隘视野，在胸怀天下和为社会的积极服务和创造中实现&ldquo;美人之美，美美与共&rdquo;。</div>
+<div align="left">　　复兴高中在人才培养中，除了打造科技特色外，也注重人文、艺术学科的协调发展，为学生全面和谐成长提供丰富的多样化选择，并通过培养社会活动领袖人才为目的的校本课程，培养学生胸怀天下、服务社会的担当精神。</div>
+<p>　　总而言之，复兴高级中学着力培养的学生是追求&ldquo;真、善、美&rdquo;的具有丰富生命力的人：他们能自主发现和实现个人的潜能，成为最好的自己<span>;他们无论身在何处，都能追求真理，尊重自然，关爱他人，服务社会，造福世界，并且乐在其中。</span></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3432&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3432"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

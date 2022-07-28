@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>学生荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_116_1071.shtml' title='标题:动手动脑，打造不沉的“复兴方舟”&#13;点击:61次&#13;日期:2011-11-18 14:02:36'  ><span style='color:;'>动手动脑，打造不沉的“复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_1016.shtml' title='标题:运动点亮生活 ——记复兴趣味呼拉圈挑战赛 &#13;点击:149次&#13;日期:2011-10-9 10:22:25'  ><span style='color:;'>运动点亮生活&nbsp;——记复兴趣味</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_1003.shtml' title='标题:新生干部培训&#13;点击:299次&#13;日期:2011-8-31 8:10:28'  ><span style='color:;'>新生干部培训</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_923.shtml' title='标题:拒塑环保，从我做起&#13;点击:83次&#13;日期:2011-5-26 14:29:49'  ><span style='color:;'>拒塑环保，从我做起</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_887.shtml' title='标题:感受世博魅力，快乐阳光之家&#13;点击:51次&#13;日期:2011-5-23 13:10:24'  ><span style='color:;'>感受世博魅力，快乐阳光之家</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_886.shtml' title='标题:首届上海市未成年人思想道德建设工作创新案例申报表&#13;点击:42次&#13;日期:2011-5-23 13:09:11'  ><span style='color:;'>首届上海市未成年人思想道德</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_885.shtml' title='标题:复兴高级中学志愿者服务队章程&#13;点击:74次&#13;日期:2011-5-23 13:07:56'  ><span style='color:;'>复兴高级中学志愿者服务队章</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_884.shtml' title='标题:复兴“志愿者服务周”活动计划&#13;点击:67次&#13;日期:2011-5-23 13:04:56'  ><span style='color:;'>复兴“志愿者服务周”活动计</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_116.shtml">学生天地</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>新生干部培训</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:邓慧子 &nbsp;&nbsp; 编辑日期:2011-8-31 8:10:28&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1003"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 复兴高级中学为期两天的新生干部培训已经结束，在感叹时间过得如此之快的同时，也很欣喜我们又迎来了许多可爱的新生力量。 8月20和21日两天的干部培训，主要包括大致团学联介绍、校友论坛、班级展示等几部分内容。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第一天上午的讲座中，陆磐良书记的讲话可以说是激起了同学们对复兴的热爱与向往，同时也告诉了同学们该如何走自己的路，相信陆书记的话会被所有同学们一生铭记。 下午的团学联各部门介绍，在各部长或幽默，或细致，或可爱的介绍下，我想同学们应该对团学联充满了一种美好的向往，期待同学们的加入，为团学联增添新鲜血液。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 不得不提的是各个部长候选人精心准备的游戏，大家一起打节拍的快乐场面、众人围成一团抽椅子的紧张时刻、还有在烈日下同学们用报纸和胶带做道具来回奋力奔跑&hellip;游戏的目的不仅仅是放松，更是让各位同学融入这个新的集体，明白和同伴间的交流、沟通、合作。在日后的高中生活中，这些经历都将成为他们的美好回忆。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 校友论坛中，年轻的学长学姐们和大家分享了他们在复兴的经历，复兴的每一个瞬间都被刻在他们的脑海中，在复兴获得最大的收获，在复兴遇到过什么挫折&hellip;在回答同学们问题的时候，可爱的学姐也不忘小小为难一下同学，引得现场笑声连连。看着台上已经进入大学或社会学长学姐们，同学们或许都在心里订下了自己的小目标，希望有一天，我们中的谁也能坐在上面的那个位置。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 班级展示可谓是精彩连连，有搞笑，也不乏严肃，8班的同学很有创意以一个讲座论坛的形式把他们的看法与同学分享、交流、讨论。也有班级自己写歌词，自己排可爱的&ldquo;舞&rdquo;，仅仅一天半的时间能够准备得这么好，真的很棒，形式新颖，不仅仅局限与朗诵或唱歌等传统节目，让大家眼前一亮。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新生干部培训不是一件严肃的事，相反，我们通过另一种方式让新生同样获得收获。马上将迎来新生军训，希望同学们能够开心度过大家的第一次集体活动，也期待大家在新学期中的表现。</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1003&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1003"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

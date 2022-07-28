@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_666_3799.shtml' title='标题:喜报——我校学生在上海市第十二届中学生时政知识大赛中获奖&#13;点击:337次&#13;日期:2015-5-12 12:15:42'  ><span style='color:;'>喜报——我校学生在上海市第</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3795.shtml' title='标题:喜报——我校同学在2015年虹口区中小学“少年向上 真善美伴我行”主题教育活动中获得佳绩&#13;点击:271次&#13;日期:2015-5-6 16:33:55'  ><span style='color:;'>喜报——我校同学在2015年虹</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3784.shtml' title='标题:喜报——我校学生晋级上海市第十二届中学生时政知识大赛决赛&#13;点击:306次&#13;日期:2015-4-27 10:10:15'  ><span style='color:;'>喜报——我校学生晋级上海市</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3719.shtml' title='标题:喜报——我校同学在上海市中小学生健康教育知识竞赛中获奖&#13;点击:275次&#13;日期:2015-4-16 9:14:01'  ><span style='color:;'>喜报——我校同学在上海市中</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3715.shtml' title='标题:喜报——我校同学在上海市学生动漫画大赛中获奖&#13;点击:287次&#13;日期:2015-4-10 11:11:08'  ><span style='color:;'>喜报——我校同学在上海市学</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3702.shtml' title='标题:喜报——我校同学在第28届上海市中学生作文竞赛中获奖&#13;点击:648次&#13;日期:2015-3-19 9:26:42'  ><span style='color:;'>喜报——我校同学在第28届上</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3701.shtml' title='标题:喜报——我校学生获法国鲁昂高等工程师大学录取&#13;点击:667次&#13;日期:2015-3-19 9:19:59'  ><span style='color:;'>喜报——我校学生获法国鲁昂</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3700.shtml' title='标题:喜报——我校学生获早稻田大学录取&#13;点击:686次&#13;日期:2015-3-19 9:14:52'  ><span style='color:;'>喜报——我校学生获早稻田大</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3698.shtml' title='标题:喜报——我校师生在2014年上海市中小学生行为规范主题教育活动中获奖&#13;点击:345次&#13;日期:2015-3-16 17:02:20'  ><span style='color:;'>喜报——我校师生在2014年上</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_3676.shtml' title='标题:喜报——我校同学在第28届上海市中学生作文竞赛中获奖&#13;点击:760次&#13;日期:2015-1-30 8:51:21'  ><span style='color:;'>喜报——我校同学在第28届上</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_666_3676.shtml' title='喜报——我校同学在第28届上海市中学生作文竞赛中获奖'  target='_blank'  >喜报——我校同学在第28届上</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_666_3647.shtml' title='喜报——我校同学在上海市“华理——化工杯”化学竞赛中获奖'  target='_blank'  >喜报——我校同学在上海市“</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_666_3700.shtml' title='喜报——我校学生获早稻田大学录取'  target='_blank'  >喜报——我校学生获早稻田大</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_666_3658.shtml' title='喜报'  target='_blank'  >喜报</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_666_3701.shtml' title='喜报——我校学生获法国鲁昂高等工程师大学录取'  target='_blank'  >喜报——我校学生获法国鲁昂</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_666_3702.shtml' title='喜报——我校同学在第28届上海市中学生作文竞赛中获奖'  target='_blank'  >喜报——我校同学在第28届上</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_666_3657.shtml' title='喜报——我校同学在上海市第十二届中学生古诗文阅读大赛中获奖'  target='_blank'  >喜报——我校同学在上海市第</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_666_3656.shtml' title='喜  报'  target='_blank'  >喜&nbsp;&nbsp;报</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_666_3655.shtml' title='喜 报'  target='_blank'  >喜&nbsp;报</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_666_3698.shtml' title='喜报——我校师生在2014年上海市中小学生行为规范主题教育活动中获奖'  target='_blank'  >喜报——我校师生在2014年上</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_666.shtml">学生荣誉</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>喜报——我校师生在2014年上海市中小学生行为规范主题教育活动中获奖</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:教导处&nbsp;&nbsp; 编辑日期:2015-3-16 17:02:20&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3698"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center"><span style="font-size: 24pt"><span style="font-family: 隶书">喜 报 </span></span></p>
+<p style="text-align: center">&nbsp;</p>
+<p style="text-align: left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 16pt"><span style="font-family: 宋体"><strong>热烈祝贺我校师生在&ldquo;小眼睛看世界，好行为从我做起&rdquo;2014年上海市中小学生行为规范主题教育活动中获奖！ </strong></span></span></p>
+<p style="text-align: left">&nbsp;</p>
+<p style="text-align: left"><span style="font-size: 16pt">阅读征文（英文）特等奖&nbsp;&nbsp;&nbsp; 高一（8）班 邹幸玥</span></p>
+<p style="text-align: left"><span style="font-size: 16pt">优秀&ldquo;金点子&rdquo;小达人&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高一（6）班 董晴 赵翼航 陈柏诺 张耀艺 陈若云 </span></p>
+<p style="text-align: left"><span style="font-size: 16pt">优秀指导奖 王毅 查晨婷 </span></p>
+<p style="text-align: right">&nbsp;</p>
+<p style="text-align: right"><span style="font-size: 11pt">复兴高级中学&nbsp;&nbsp;</span><span style="font-size: 11pt">教导处</span></p>
+<p style="text-align: right"><span style="font-size: 11pt">2015年3月</span></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3698&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3698"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

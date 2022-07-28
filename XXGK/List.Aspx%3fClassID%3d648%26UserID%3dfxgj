@@ -1,0 +1,588 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_Head1"><title>
+	欢迎访问信息公开专栏
+</title>
+<script src="css/TableCss.js" type="text/javascript"></script>
+<script language="JavaScript" src="Inc/JS/Tree.JS"></script>
+
+    <style type="text/css">
+        .tb_foot
+        {
+            height: 65px;
+            width: 965px;
+        }
+  
+        .style1
+        {
+            width: 28px;
+        }
+    </style>
+    <link id="_ctl0_linkstylebody" rel="stylesheet" type="text/css" /><link id="_ctl0_linktable" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/DIV.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/BaseStyle.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/TableCss.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/Menu.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/StyleSchool.css" rel="stylesheet" type="text/css" />
+    <script src="../../Template/Blue_style/TableCss.js" type="text/javascript"></script>
+
+    <link href="Template/Blue_style/ListTableCss.css" rel="stylesheet" type="text/css" /></head>
+<body style="text-align: center;">
+    <div style="text-align: center; width: 1000px; min-height: 500px;">
+        <div id="dhead">
+            <div id="_ctl0_headContent"><img src='UploadFiles/2008/12/23/af2a3375-9a06-46df-832b-3c55c4223702.jpg' width='1000' height='185' /></div>
+            <div id="dmenu">
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <a href="http://www.fuxing.sh.cn" id="_ctl0_SchoolWeb" target="_blank">
+                                <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" /><span style="color: White;">学校主页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" />&nbsp;<a href='Channel.aspx?UserID=fxgj'><span
+                                style="color: White;">专栏首页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" /><a href='XTSite_InfoOpen.aspx?UserID=fxgj'><span
+                                style="color: White;">公开信息指南</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" />
+                            <a href='List.aspx?ClassID=607&UserID=fxgj'><span style="color: White;">公开信息目录</span></a>
+                            <img class="ImgMidAlign" src="Images/rss.gif" />
+                            <a href='Rss.aspx?UserID=fxgj' target="_blank"><span style="color: White;">
+                                rss 订阅</span></a>
+                        </td>
+                        <td>
+                            <form name="search" action="Search.Aspx?Action=Search" method="get">
+                            <table width="280" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="151" align="right">
+                                        <input name="keyword" id="Keyword" style="border: solid 1px;" type="text" value="请输入关键字"
+                                            size="15" onmouseover="this.value='';">
+                                        <input id="Action" type="hidden" value="Search" name="Action">
+                                        <input id="UserID" name="UserID" type="hidden" value="fxgj" />
+                                    </td>
+                                    <td width="39" align="center">
+                                        <input name="imageField" type="image" src="img_index/index_13_1.gif" alt="搜索" align="absmiddle"
+                                            border="0">
+                                    </td>
+                                    <td width="76" align="center">
+                                        <a href="search.aspx?UserID=fxgj" target="_blank">
+                                            <img src="img_index/index_13_2.gif" alt="高级查询" width="58" height="18" border="0"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            </form>
+                        </td>
+                        <td>
+                            <img class="ImgMidAlign" src="Images/manager.gif" />
+                            <a href='Schinfo/default.aspx' target="_blank"><span style="color: White;">管理入口</span></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+  
+        <div id="dbody">
+       
+                <div style="width: 24%; float: left">
+                    <div class="D_holder">
+                        <div class="D_bszn">
+                        </div>
+                        <div class="D_bgxz">
+                        </div>
+                        <div class="D_bmwd">
+                        </div>
+                        <div class="D_hdjl">
+                        </div>
+                        <div class="D_xyjx">
+                        </div>
+                        <div class="D_gksq">
+                        </div>
+                        <div class="D_wszx">
+                        </div>
+                        <div class="D_xzxx">
+                        </div>
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_34.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                        
+
+                                      </div>
+                            
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_52.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                      
+                    </div>
+              
+                 </div>
+              
+                <div style="width: 75%;float:right;">
+                    <div style="width: 100%;">
+                        <div style="width: 69%; float: left;">
+                            <div  class="tb_RDXX">
+                                <div class="d_rdxx_head">
+                                    <img alt="" src="Template/Blue_style/index_65.gif" /></div>
+                                <div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                                </div>
+                                <div class="d_rdxx_foot">
+                                </div>
+                            </div>
+                        </div>
+                        <div style="width: 30%; float: right">
+                            
+
+                        </div>
+                    </div>
+                    <div style="width: 100%;">
+                                    <div id="d_rdxx" class="tb_RDXX">
+                                        <div class="d_rdxx_head">
+                                            <img alt="" src="Template/Blue_style/index_66.gif" /></div>
+                                        <div>
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                            
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                          
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="d_rdxx_foot">
+                                        </div>
+                                    </div>
+                        
+                    </div>
+                    <div >
+                        <div style="width: 69%; float: left;">
+                       
+                                        <div  class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_67.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                        <div style="width: 30%; float: right;">
+                           
+                                        <div id="Div3" class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_68.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                    </div>
+                </div>
+              
+       
+      </div>
+        <div style="background-color: White;">
+            
+<title id="_ctl0_cpheadcontent_listext1_Title">复兴信息公开 →  信息公开  → 单位业务  → 教育收费  → 收费公示 </title>
+
+<div id="listcontainer">
+    <div id="listleft">
+      
+        <table class="tb_new">
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                功能树目录
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                <span id="_ctl0_cpheadcontent_listext1_TreeLabel"><Script Language="JavaScript">
+Tree = new dTree('Tree');
+Tree.add(0,-1,'信息公开','');
+Tree.add(607,0,'单位概览(7)','/XXGK/List.Aspx?ClassID=607&UserID=fxgj');
+Tree.add(609,0,'计划总结(18)','/XXGK/List.Aspx?ClassID=609&UserID=fxgj');
+Tree.add(610,0,'单位业务(18)','/XXGK/List.Aspx?ClassID=610&UserID=fxgj');
+Tree.add(611,0,'其他(0)','/XXGK/List.Aspx?ClassID=611&UserID=fxgj');
+Tree.add(612,607,'单位简介(1)','/XXGK/List.Aspx?ClassID=612&UserID=fxgj');
+Tree.add(613,607,'单位领导(3)','/XXGK/List.Aspx?ClassID=613&UserID=fxgj');
+Tree.add(614,607,'组织机构(1)','/XXGK/List.Aspx?ClassID=614&UserID=fxgj');
+Tree.add(615,607,'联系方式(1)','/XXGK/List.Aspx?ClassID=615&UserID=fxgj');
+Tree.add(616,607,'其他(0)','/XXGK/List.Aspx?ClassID=616&UserID=fxgj');
+Tree.add(617,609,'发展规划(5)','/XXGK/List.Aspx?ClassID=617&UserID=fxgj');
+Tree.add(618,609,'年度计划(9)','/XXGK/List.Aspx?ClassID=618&UserID=fxgj');
+Tree.add(619,609,'年度总结(4)','/XXGK/List.Aspx?ClassID=619&UserID=fxgj');
+Tree.add(620,609,'其他(0)','/XXGK/List.Aspx?ClassID=620&UserID=fxgj');
+Tree.add(621,610,'招生考试(1)','/XXGK/List.Aspx?ClassID=621&UserID=fxgj');
+Tree.add(623,610,'教育收费(2)','/XXGK/List.Aspx?ClassID=623&UserID=fxgj');
+Tree.add(624,610,'学生工作(3)','/XXGK/List.Aspx?ClassID=624&UserID=fxgj');
+Tree.add(625,610,'教学科研(3)','/XXGK/List.Aspx?ClassID=625&UserID=fxgj');
+Tree.add(626,610,'师资建设(4)','/XXGK/List.Aspx?ClassID=626&UserID=fxgj');
+Tree.add(628,610,'体卫艺科(4)','/XXGK/List.Aspx?ClassID=628&UserID=fxgj');
+Tree.add(629,610,'后勤安全(1)','/XXGK/List.Aspx?ClassID=629&UserID=fxgj');
+Tree.add(630,611,'统计数据(0)','/XXGK/List.Aspx?ClassID=630&UserID=fxgj');
+Tree.add(631,611,'专项工作(0)','/XXGK/List.Aspx?ClassID=631&UserID=fxgj');
+Tree.add(632,611,'会议活动(0)','/XXGK/List.Aspx?ClassID=632&UserID=fxgj');
+Tree.add(633,611,'其他(0)','/XXGK/List.Aspx?ClassID=633&UserID=fxgj');
+Tree.add(634,613,'现任领导(2)','/XXGK/List.Aspx?ClassID=634&UserID=fxgj');
+Tree.add(635,613,'历任领导(1)','/XXGK/List.Aspx?ClassID=635&UserID=fxgj');
+Tree.add(636,617,'总体发展规划(1)','/XXGK/List.Aspx?ClassID=636&UserID=fxgj');
+Tree.add(637,617,'专项发展规划(4)','/XXGK/List.Aspx?ClassID=637&UserID=fxgj');
+Tree.add(638,618,'学校工作计划(1)','/XXGK/List.Aspx?ClassID=638&UserID=fxgj');
+Tree.add(639,618,'专项工作计划(8)','/XXGK/List.Aspx?ClassID=639&UserID=fxgj');
+Tree.add(640,619,'学校工作总结(0)','/XXGK/List.Aspx?ClassID=640&UserID=fxgj');
+Tree.add(641,619,'专项工作总结(4)','/XXGK/List.Aspx?ClassID=641&UserID=fxgj');
+Tree.add(642,621,'办学情况公示(1)','/XXGK/List.Aspx?ClassID=642&UserID=fxgj');
+Tree.add(643,621,'招生方案(0)','/XXGK/List.Aspx?ClassID=643&UserID=fxgj');
+Tree.add(644,621,'招生录取(0)','/XXGK/List.Aspx?ClassID=644&UserID=fxgj');
+Tree.add(645,621,'考试安排(0)','/XXGK/List.Aspx?ClassID=645&UserID=fxgj');
+Tree.add(646,621,'其他(0)','/XXGK/List.Aspx?ClassID=646&UserID=fxgj');
+Tree.add(647,623,'规章制度(0)','/XXGK/List.Aspx?ClassID=647&UserID=fxgj');
+Tree.add(648,623,'收费公示(2)','/XXGK/List.Aspx?ClassID=648&UserID=fxgj');
+Tree.add(649,623,'其他(0)','/XXGK/List.Aspx?ClassID=649&UserID=fxgj');
+Tree.add(650,624,'规章制度(0)','/XXGK/List.Aspx?ClassID=650&UserID=fxgj');
+Tree.add(651,624,'学籍管理(1)','/XXGK/List.Aspx?ClassID=651&UserID=fxgj');
+Tree.add(652,624,'帮困助学(0)','/XXGK/List.Aspx?ClassID=652&UserID=fxgj');
+Tree.add(653,624,'评选奖励(1)','/XXGK/List.Aspx?ClassID=653&UserID=fxgj');
+Tree.add(654,624,'其他(0)','/XXGK/List.Aspx?ClassID=654&UserID=fxgj');
+Tree.add(655,625,'规章制度(0)','/XXGK/List.Aspx?ClassID=655&UserID=fxgj');
+Tree.add(656,625,'教学工作(2)','/XXGK/List.Aspx?ClassID=656&UserID=fxgj');
+Tree.add(657,625,'科研工作(0)','/XXGK/List.Aspx?ClassID=657&UserID=fxgj');
+Tree.add(658,625,'其他(0)','/XXGK/List.Aspx?ClassID=658&UserID=fxgj');
+Tree.add(659,626,'规章制度(2)','/XXGK/List.Aspx?ClassID=659&UserID=fxgj');
+Tree.add(660,626,'招聘与聘用(0)','/XXGK/List.Aspx?ClassID=660&UserID=fxgj');
+Tree.add(661,626,'教师队伍(2)','/XXGK/List.Aspx?ClassID=661&UserID=fxgj');
+Tree.add(662,626,'其他(0)','/XXGK/List.Aspx?ClassID=662&UserID=fxgj');
+Tree.add(663,628,'规章制度(0)','/XXGK/List.Aspx?ClassID=663&UserID=fxgj');
+Tree.add(664,628,'体育(2)','/XXGK/List.Aspx?ClassID=664&UserID=fxgj');
+Tree.add(665,628,'卫生(0)','/XXGK/List.Aspx?ClassID=665&UserID=fxgj');
+Tree.add(666,628,'艺术(0)','/XXGK/List.Aspx?ClassID=666&UserID=fxgj');
+Tree.add(667,628,'科普(1)','/XXGK/List.Aspx?ClassID=667&UserID=fxgj');
+Tree.add(668,628,'国防(0)','/XXGK/List.Aspx?ClassID=668&UserID=fxgj');
+Tree.add(669,628,'其他(0)','/XXGK/List.Aspx?ClassID=669&UserID=fxgj');
+Tree.add(670,629,'后勤管理(0)','/XXGK/List.Aspx?ClassID=670&UserID=fxgj');
+Tree.add(671,629,'安全管理(0)','/XXGK/List.Aspx?ClassID=671&UserID=fxgj');
+Tree.add(672,629,'其他(0)','/XXGK/List.Aspx?ClassID=672&UserID=fxgj');
+document.write(Tree);
+</Script></span>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                </td>
+                <td></td>
+            </tr>
+        </table>
+        <br />
+        <table class="tb_new">
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                最新信息
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                 <table id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList" cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr>
+		<td class="ItemCssStyle" width="50%">
+		<a id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList__ctl0_Top_Class"></a> <a id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList__ctl0_Top_Links" title="标题：学校收费项目和收费标准一览表
+点击：2500次
+作者：" href="/XXGK/Disp.Aspx?ID=11518&amp;ClassID=648&amp;UserID=fxgj">学校收费项目和收费标准</a> <span id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList__ctl0_Top_DateTime" style="color:gray;font-size:8pt"></span>
+	</td>
+	</tr><tr>
+		<td class="ItemCssStyle" width="50%">
+		<a id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList__ctl1_Top_Class"></a> <a id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList__ctl1_Top_Links" title="标题：教育收费公示
+点击：666次
+作者：" href="/XXGK/Disp.Aspx?ID=11477&amp;ClassID=648&amp;UserID=fxgj">教育收费公示</a> <span id="_ctl0_cpheadcontent_listext1_Top_HotList_TopList_DataList__ctl1_Top_DateTime" style="color:gray;font-size:8pt"></span>
+	</td>
+	</tr>
+</table>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                </td>
+                <td></td>
+            </tr>
+        </table>
+         <br />
+          <table class="tb_new">
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                最热信息
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                 <table id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList" cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr>
+		<td class="ItemCssStyle" width="50%">
+		<a id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList__ctl0_Top_Class"></a> <a id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList__ctl0_Top_Links" title="标题：学校收费项目和收费标准一览表
+点击：2500次
+作者：" href="/XXGK/Disp.Aspx?ID=11518&amp;ClassID=648&amp;UserID=fxgj">学校收费项目和收费标准</a> <span id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList__ctl0_Top_DateTime" style="color:gray;font-size:8pt"></span>
+	</td>
+	</tr><tr>
+		<td class="ItemCssStyle" width="50%">
+		<a id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList__ctl1_Top_Class"></a> <a id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList__ctl1_Top_Links" title="标题：教育收费公示
+点击：666次
+作者：" href="/XXGK/Disp.Aspx?ID=11477&amp;ClassID=648&amp;UserID=fxgj">教育收费公示</a> <span id="_ctl0_cpheadcontent_listext1_TopList1_TopList_DataList__ctl1_Top_DateTime" style="color:gray;font-size:8pt"></span>
+	</td>
+	</tr>
+</table>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                </td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <div id="listright">
+         <table class="tb_new">
+            <tr>
+                <td>
+                
+                </td>
+                <td align="left">
+                信息公开列表 
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                 
+                  <div id="_ctl0_cpheadcontent_listext1_ShowList">
+	
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="display:none;">
+                                        <tr align="left" bgcolor="#efefef" valign="middle">
+                                            <td colspan="2" height="26" valign="middle">
+                                                <b><font color="#000000">图文导读</font></b>
+                                            </td>
+                                        </tr>
+                                        <tr align="left" valign="middle">
+                                            <td height="1" width="577">
+                                            </td>
+                                            <td width="7">
+                                            </td>
+                                        </tr>
+                                        <tr align="left" bgcolor="#FCFCEF" valign="middle">
+                                            <td align="center" colspan="2" height="110" valign="middle">
+                                                
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td align="center" height="30">
+                                                <table border="0" cellpadding="2" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td background="Template/Default/Images/Gif/space2.gif" colspan="2" height="1" valign="top">
+                                                        </td>
+                                                    </tr>
+                                                    <tr bgcolor="#F7F7CC">
+                                                        <td align="center" height="30" width="4%">
+                                                            <img height="15" src="template/Default/Images/Gif/space4.gif" width="15"></img>
+                                                        </td>
+                                                        <td align="left" bgcolor="#F7F7CC" width="96%">
+                                                            <span id="_ctl0_cpheadcontent_listext1_PathLabel"><a href="/XXGK/"  ID="XTSite_Navigation">复兴信息公开</a> →  <a href=/XXGK/Channel.Aspx?ChannelID=1&UserID=fxgj ID="XTSite_Navigation">信息公开</a>  → <a href="/XXGK/List.Aspx?ClassID=610&UserID=fxgj" ID="XTSite_Navigation">单位业务</a>  → <a href="/XXGK/List.Aspx?ClassID=623&UserID=fxgj" ID="XTSite_Navigation">教育收费</a>  → <a href="/XXGK/List.Aspx?ClassID=648&UserID=fxgj" ID="XTSite_Navigation">收费公示</a> </span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td background="Template/Default/Images/Gif/space2.gif" colspan="2" height="1" valign="top">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">
+                                                            <table id="_ctl0_cpheadcontent_listext1_ListDataList_Text" cellspacing="0" border="0" width="100%">
+		<tr>
+			<td width="100%">
+                                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tr>
+                                                                            <td align="center" height="25" width="4%">
+                                                                                <img height="12" src="Template/Default/Images/Gif/space1.gif" width="11"></img>
+                                                                            </td>
+                                                                            <td height="20" align="left">
+                                                                                <a id="_ctl0_cpheadcontent_listext1_ListDataList_Text__ctl0_ClassName"></a>
+                                                                                <a id="_ctl0_cpheadcontent_listext1_ListDataList_Text__ctl0_ListLinks" title="标题：学校收费项目和收费标准一览表
+点击：2500次
+作者：
+时间：2009-2-6 11:27:55" href="/XXGK/Disp.Aspx?ID=11518&amp;ClassID=648&amp;UserID=fxgj">学校收费项目和收费标准一览表</a>
+                                                                                <span style="color: gray; font-size: 8pt">(2月6日)</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td background="Template/Default/Images/Gif/space2.gif" colspan="2" height="1">
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+		</tr><tr>
+			<td width="100%">
+                                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tr>
+                                                                            <td align="center" height="25" width="4%">
+                                                                                <img height="12" src="Template/Default/Images/Gif/space1.gif" width="11"></img>
+                                                                            </td>
+                                                                            <td height="20" align="left">
+                                                                                <a id="_ctl0_cpheadcontent_listext1_ListDataList_Text__ctl1_ClassName"></a>
+                                                                                <a id="_ctl0_cpheadcontent_listext1_ListDataList_Text__ctl1_ListLinks" title="标题：教育收费公示
+点击：666次
+作者：
+时间：2008-12-23 13:32:30" href="/XXGK/Disp.Aspx?ID=11477&amp;ClassID=648&amp;UserID=fxgj">教育收费公示</a>
+                                                                                <span style="color: gray; font-size: 8pt">(12月23日)</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td background="Template/Default/Images/Gif/space2.gif" colspan="2" height="1">
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+		</tr>
+	</table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <tr>
+                                                    <td height="30">
+                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="95%">
+                                                            <tr>
+                                                                <td>
+                                                                    <span id="_ctl0_cpheadcontent_listext1_PageListLabel">&nbsp; <font style="color:#999999;font-family:webdings" title="首页">9</font> <font style="color:#999999;font-family:webdings" title="上页">7</font> <font color=999999>1</font>   <font style="color:#999999;font-family:webdings" title=下页>8</font> <font style="color:#999999;font-family:webdings" title=尾页>:</font> &nbsp;第<b>1/1</b>页 共<b>2</b>条记录 每页<b>20</b>条</span>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                
+</div>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+                <td>
+                </td>
+                <td></td>
+            </tr>
+        </table>
+      
+    </div>
+</div>
+
+    <script type="text/javascript">
+        document.getElementById("dbody").style.display = "none";
+    </script>
+
+        </div>
+        <div class="D_foot" style="color:White;">
+            <div style="float: left; width: 59%; text-align: left;">
+                <div style="padding-top: 10px; padding-left: 50px;">
+                    <span id="_ctl0_txtfoot"><br/><br/>地址：中国上海市车站南路28号 邮编: 200434 电话: +86-021-65606715</span></div>
+            </div>
+            <div style="float: right; width: 40%;" >
+               <br />
+                上海心通信息技术有限公司协助制作</div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+        SetTableCssByClass();
+</script>
+
+</html>

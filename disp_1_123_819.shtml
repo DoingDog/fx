@@ -1,0 +1,312 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div660" class='listitem3'><a href='list_1_660.shtml'>创新互动</a></div></td></tr><tr><td><div id="div120" class='listitem3'><a href='list_1_120.shtml'>课程设置</a></div></td></tr><tr><td><div id="div121" class='listitem3'><a href='list_1_121.shtml'>师资队伍</a></div></td></tr><tr><td><div id="div122" class='listitem3'><a href='list_1_122.shtml'>升学招生</a></div></td></tr><tr><td><div id="div123" class='listitem3'><a href='list_1_123.shtml'>学科竞赛</a></div></td></tr><tr><td><div id="div124" class='listitem3'><a href='list_1_124.shtml'>教师荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_123_1055.shtml' title='标题:DV俱乐部学生获奖喜讯&#13;点击:41次&#13;日期:2011-11-14 8:11:06'  ><span style='color:;'>DV俱乐部学生获奖喜讯</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_1038.shtml' title='标题:喜报-复兴高级中学模拟联合国社团雅典杯满载而归&#13;点击:43次&#13;日期:2011-10-28 14:59:51'  ><span style='color:;'>喜报-复兴高级中学模拟联合国</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_819.shtml' title='标题:花博参观团日程&#13;点击:267次&#13;日期:2011-5-19 16:08:06'  ><span style='color:;'>花博参观团日程</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_818.shtml' title='标题:“2011年上海学生花博参观团活动”告家长书&#13;点击:296次&#13;日期:2011-5-19 15:17:32'  ><span style='color:;'>“2011年上海学生花博参观团</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_817.shtml' title='标题:2009年复兴高级中学学科竞赛获奖统计&#13;点击:440次&#13;日期:2011-5-19 15:10:38'  ><span style='color:;'>2009年复兴高级中学学科竞赛</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_816.shtml' title='标题:复兴高级中学学科竞赛获奖统计&#13;点击:702次&#13;日期:2011-5-19 15:08:50'  ><span style='color:;'>复兴高级中学学科竞赛获奖统</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_954.shtml' title='标题:在促进学生自主发展中提升科技创新能力&#13;点击:118次&#13;日期:2011-4-14 9:03:49'  ><span style='color:;'>在促进学生自主发展中提升科</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_123_816.shtml' title='复兴高级中学学科竞赛获奖统计'  target='_blank'  >复兴高级中学学科竞赛获奖统</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_123_817.shtml' title='2009年复兴高级中学学科竞赛获奖统计'  target='_blank'  >2009年复兴高级中学学科竞赛</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_123_818.shtml' title='“2011年上海学生花博参观团活动”告家长书'  target='_blank'  >“2011年上海学生花博参观团</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_123_819.shtml' title='花博参观团日程'  target='_blank'  >花博参观团日程</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_123_954.shtml' title='在促进学生自主发展中提升科技创新能力'  target='_blank'  >在促进学生自主发展中提升科</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_123_1038.shtml' title='喜报-复兴高级中学模拟联合国社团雅典杯满载而归'  target='_blank'  >喜报-复兴高级中学模拟联合国</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_123_1055.shtml' title='dv俱乐部学生获奖喜讯'  target='_blank'  >dv俱乐部学生获奖喜讯</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_123.shtml">学科竞赛</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>花博参观团日程</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:学校管理员&nbsp;&nbsp; 编辑日期:2011-5-19 16:08:06&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=819"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>
+<table class="TableCss" cellspacing="0" cellpadding="0" border="1">
+    <tbody>
+        <tr>
+            <td valign="top" width="67">
+            <div align="center"><b><span>&nbsp;</span></b></div>
+            </td>
+            <td valign="top" width="84">
+            <div align="center"><b><span>日期</span></b></div>
+            </td>
+            <td valign="top" width="275">
+            <div align="center"><b><span>行程</span></b></div>
+            </td>
+            <td valign="top" width="142">
+            <div align="center"><b><span>备注</span></b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第一天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/21</div>
+            </td>
+            <td valign="top" width="275">
+            <div><span>参访团联合工作小组抵台</span></div>
+            </td>
+            <td valign="top" width="142">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第二天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/22</div>
+            </td>
+            <td valign="top" width="275">
+            <div><span>联合工作小组与台北市教育局等活动组织方协商检查参访团活动组织工作</span></div>
+            </td>
+            <td valign="top" width="142">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第三天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/23</div>
+            </td>
+            <td valign="top" width="275">
+            <div><span>南模、市三、延安、实验（部分）、上戏等学校学生抵台</span></div>
+            </td>
+            <td valign="top" width="142">
+            <div><span>台湾对口学校接机</span></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第四天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/24</div>
+            </td>
+            <td valign="top" width="275">
+            <div><span>1、&nbsp;</span><span>进才、复兴、七宝、上中、实验（部分）、虹口、浦东等学校学生抵台</span></div>
+            <div><span>2、&nbsp;</span><span>前一天抵台的学生游览台北市容</span></div>
+            <div>&nbsp;</div>
+            <div><b><span>台湾叶氏企业招待晚宴</span></b><span>参访团工作组、进才中学师生及其他各校的领队</span></div>
+            </td>
+            <td valign="top" width="142">
+            <div><span>台湾对口学校接机、</span></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第五天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/25</div>
+            </td>
+            <td valign="top" width="275">
+            <div><span>参访团全体参观花博会</span></div>
+            <div>9<span>：</span>00<span>入园</span></div>
+            <div>9<span>：</span>15<span>欢迎仪式（郝市长可能出席）</span></div>
+            <div>9<span>：</span>00<span>在</span>400<span>名台湾学生的陪同下分散参观</span></div>
+            <div>15<span>：</span>00<span>参观结束回宾馆</span></div>
+            <div>22<span>：</span>00<span>前上传花博会摄影作品</span></div>
+            <div><b>&nbsp;</b></div>
+            <div><b><span>台北市教育局宴请全体教师</span></b></div>
+            </td>
+            <td valign="top" width="142">
+            <div><span>台北市教育局统一招待参访团学生午餐（著名的花博便当）</span></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第六天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/26</div>
+            </td>
+            <td valign="top" width="275">
+            <div>9<span>：</span>00<span>参访团全体学生抵达大安高工</span></div>
+            <div>9<span>：</span>00<span>&mdash;</span>11<span>：</span>00<span>联欢会节目彩排</span></div>
+            <div>9<span>：</span>00<span>&mdash;</span>11<span>：</span>00<span>无演出任务的学生分别至对口台方学校进行沪台校际交流活动</span></div>
+            <div>11<span>：</span>00<span>&mdash;</span>12<span>：</span>00<span>午餐</span></div>
+            <div>12:40-13:00<span>攝影展揭幕</span></div>
+            <div>&nbsp;</div>
+            <div><b>13:30-13:35</b><b><span>联欢会演出开幕</span></b></div>
+            <div><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span>郝龙斌市长致辞</span></b></div>
+            <div><b><span>13:35-13:40</span></b><b><span>开幕式</span></b></div>
+            <div><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span>上海市领导致辞</span></b></div>
+            <div><b>&nbsp;</b></div>
+            <div><b>14</b><b><span>：</span>00</b><span>&mdash;</span>17<span>：</span>00<span>文艺演出</span></div>
+            <div><b>&nbsp;</b></div>
+            <div><b><span>答谢晚宴</span></b></div>
+            </td>
+            <td valign="top" width="142">
+            <div><span>参加校际交流活动的学生由对口学校招待午餐</span></div>
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
+            <div><span>由台沪两地教育部门官员共同揭幕</span></div>
+            <div><b>&nbsp;</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第七天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/27</div>
+            </td>
+            <td valign="top" width="275">
+            <div>23<span>日抵台的学生返沪</span></div>
+            <div>24<span>日抵台的学生游览台北市容</span></div>
+            </td>
+            <td valign="top" width="142">
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="67">
+            <div><span>第八天</span></div>
+            </td>
+            <td valign="top" width="84">
+            <div>1/28</div>
+            </td>
+            <td valign="top" width="275">
+            <div><span>沪台教育部门官员会谈交流</span></div>
+            <div><span>参访团联合工作小组返沪</span></div>
+            </td>
+            <td valign="top" width="142">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=819&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=819"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

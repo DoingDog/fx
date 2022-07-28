@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div127" class='listitem3'><a href='list_1_127.shtml'>校友会信息</a></div></td></tr><tr><td><div id="div131" class='listitem3'><a href='list_1_131.shtml'>校友风采</a></div></td></tr><tr><td><div id="div129" class='listitem3'><a href='list_1_129.shtml'>校友通讯</a></div></td></tr><tr><td><div id="div130" class='listitem3'><a href='list_1_130.shtml'>校友留言</a></div></td></tr><tr><td><div id="div663" class='listitem3'><a href='list_1_663.shtml'>校友信箱</a></div></td></tr><tr><td><div id="div128" class='listitem3'><a href='list_1_128.shtml'>在线校友会</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_129_1138.shtml' title='标题:《校友通讯》第31期&#13;点击:161次&#13;日期:2012-1-10 13:48:07'  ><span style='color:;'>《校友通讯》第31期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_950.shtml' title='标题:校友通讯第30期&#13;点击:731次&#13;日期:2011-6-1 9:37:30'  ><span style='color:;'>校友通讯第30期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_949.shtml' title='标题:校友通讯第29期&#13;点击:118次&#13;日期:2011-6-1 9:30:03'  ><span style='color:;'>校友通讯第29期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_946.shtml' title='标题:校友通讯第28期&#13;点击:102次&#13;日期:2011-5-30 15:31:23'  ><span style='color:;'>校友通讯第28期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_945.shtml' title='标题:校友通讯第27期&#13;点击:50次&#13;日期:2011-5-30 15:30:38'  ><span style='color:;'>校友通讯第27期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_944.shtml' title='标题:校友通讯第26期&#13;点击:41次&#13;日期:2011-5-30 15:29:42'  ><span style='color:;'>校友通讯第26期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_943.shtml' title='标题:校友通讯第25期&#13;点击:61次&#13;日期:2011-5-30 15:29:01'  ><span style='color:;'>校友通讯第25期</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_129_942.shtml' title='标题:校友通讯第24期&#13;点击:99次&#13;日期:2011-5-30 15:27:41'  ><span style='color:;'>校友通讯第24期</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_129_1138.shtml' title='《校友通讯》第31期'  target='_blank'  >《校友通讯》第31期</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_106.shtml">复兴校友</a> >> <a href="list_1_129.shtml">校友通讯</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>《校友通讯》第31期</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:校友会&nbsp;&nbsp; 编辑日期:2012-1-10 13:48:07&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1138"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p><span><img alt="" width="700" src="/userfiles/upload/image/2012/01/10/20120110132550721472110.jpg" /><a href="/manage/download.aspx?File=/userfiles/upload/safe/2012/01/10/20120110132954349339280.jpg">第<br />
+<br />
+31期2-3.jpg</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span><a href="/manage/download.aspx?File=/userfiles/upload/safe/2012/01/10/20120110135453614418420.jpg">第31期4-1.jpg</a></span></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1138&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1138"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

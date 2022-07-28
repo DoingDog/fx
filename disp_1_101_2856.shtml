@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div107" class='listitem3'><a href='list_1_107.shtml'>国际部</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_2837.shtml' title='标题:热烈祝贺我校陈永平副校长获2012年“虹口区领军人才”称号&#13;点击:1707次&#13;日期:2013-4-19 12:51:59'  ><span style='color:;'>热烈祝贺我校陈永平副校长获</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2900.shtml' title='标题:上海市复兴高级中学文明组室评选&#13;点击:219次&#13;日期:2013-6-30 15:41:54'  ><span style='color:;'>上海市复兴高级中学文明组室</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2898.shtml' title='标题:2013级预录取学生夏令营闭幕&#13;点击:613次&#13;日期:2013-6-24 9:13:02'  ><span style='color:;'>2013级预录取学生夏令营闭幕</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2895.shtml' title='标题:2013级预录取学生夏令营开幕&#13;点击:946次&#13;日期:2013-6-20 11:01:07'  ><span style='color:;'>2013级预录取学生夏令营开幕</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2894.shtml' title='标题:用好嗓音，畅谈教师嗓音科学训练与保健——上海师范大学音乐学院声乐系施国新副教授做客复兴&#13;点击:352次&#13;日期:2013-6-19 12:07:09'  ><span style='color:;'>用好嗓音，畅谈教师嗓音科学</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2891.shtml' title='标题:校舍改建协商会议举行&#13;点击:656次&#13;日期:2013-6-19 10:05:56'  ><span style='color:;'>校舍改建协商会议举行</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2888.shtml' title='标题:我校召开2012学年第二次家校活动暨家委会会议&#13;点击:249次&#13;日期:2013-6-18 8:02:08'  ><span style='color:;'>我校召开2012学年第二次家校</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2880.shtml' title='标题:第七届同济大学建造节，复兴再次荣获金奖&#13;点击:677次&#13;日期:2013-6-4 14:21:04'  ><span style='color:;'>第七届同济大学建造节，复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2874.shtml' title='标题:我们自己的“奥斯卡”——记2013年高一年级“演绎经典”英语剧比赛&#13;点击:643次&#13;日期:2013-5-31 12:26:18'  ><span style='color:;'>我们自己的“奥斯卡”——记</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_2872.shtml' title='标题:VEX机器人上海赛战报&#13;点击:224次&#13;日期:2013-5-31 12:13:28'  ><span style='color:;'>VEX机器人上海赛战报</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_2837.shtml' title='热烈祝贺我校陈永平副校长获2012年“虹口区领军人才”称号'  target='_blank'  >热烈祝贺我校陈永平副校长获</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_2895.shtml' title='2013级预录取学生夏令营开幕'  target='_blank'  >2013级预录取学生夏令营开幕</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_2819.shtml' title='有一片诗心，品一叶诗情——记2013年高一年级“诗韵流芳”诗歌朗诵比赛'  target='_blank'  >有一片诗心，品一叶诗情——</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_2848.shtml' title='发掘“复兴好声音”——记青歌赛决赛'  target='_blank'  >发掘“复兴好声音”——记青</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_2701.shtml' title='复兴高级中学机器人社再创佳绩'  target='_blank'  >复兴高级中学机器人社再创佳</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_2777.shtml' title='2012学年开学第二学期开学典礼暨复兴论坛举行'  target='_blank'  >2012学年开学第二学期开学典</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_2880.shtml' title='第七届同济大学建造节，复兴再次荣获金奖'  target='_blank'  >第七届同济大学建造节，复兴</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_2891.shtml' title='校舍改建协商会议举行'  target='_blank'  >校舍改建协商会议举行</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_2821.shtml' title='高三班主任沙龙活动，陆书记亲临现场'  target='_blank'  >高三班主任沙龙活动，陆书记</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_2874.shtml' title='我们自己的“奥斯卡”——记2013年高一年级“演绎经典”英语剧比赛'  target='_blank'  >我们自己的“奥斯卡”——记</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>我们的青春梦想</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2013-5-15 12:21:25&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2856"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><embed height="384" menu="true" loop="true" play="true" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" src="/userfiles/upload/flash/2013/05/15/20130515122341441732590.swf" autostart="false" wmode="transparent" width="512"></embed><br />
+我们的青春梦想</div>
+<div>青春是人生中最美好的时光，梦想是生命中最耀眼的光芒。拥有青春的人才能拥有生命的支点，拥有梦想的人方能拥有幸福的资本。复兴高级中学的同学们正值青春、拥有梦想。让我们走进他们身边，侧耳聆听他们的青春梦想。</div>
+<div>倪颖同学，她的梦想是成为一名公安。平时雷厉风行的她想当一名兢兢业业、奉公职守的女公安。她说她希望能凭自己的微薄之力，打击犯法行为、打击贪污腐败，为国家的繁荣发展做出自己的贡献。</div>
+<div><span>&nbsp;&nbsp; </span>韩承尧同学的理想是做一名医生。身着白大褂，奔波于手术台之间即使很疲劳，却也乐此不疲，因为救死扶伤是医生的天职。用自己的力量救助更多的人是他引以为傲的工作。</div>
+<div><span>&nbsp;&nbsp; </span>李安煜同学想当一名军人。国旗下，屹然不动站立的军人无疑是非常荣耀的。阅兵仪式上军人们严肃、整齐的形象，是一个国家后备军事力量的象征。这些筑就了他的梦想。</div>
+<div><span>&nbsp;&nbsp; </span>在高一（3）班，还有来自青藏高原的藏族生。其中，索央和次旦央宗同学想成为一名藏语老师。中国文化海纳百川、源远流长，有多民族多种族，将不同民族的文化融合在一起，继而传承下去，是我少年的责任。</div>
+<div>&hellip;&hellip;</div>
+<div>拥有这样梦想的同学还有很多很多。有人想当老师，教书育人。有人想当工程师，在工地上指点江山。还有人想当建筑师，为自己的人生蓝图描摹状景。以及各种丰富多彩的梦想。</div>
+<div>或许，我们的梦想没有习近平总书记的&ldquo;中国梦&rdquo;那么伟大、光荣，却都能为自己的青春添上绚烂的一笔。梁启超先生说过，&ldquo;少年富则国富，少年强则国强。&rdquo;为了梦想而奋斗的青春是最美好的风景。正是那千万颗在青春中奋斗的心，以及那千万双在天空中高飞的振翅，装扮着最美好最美丽最珍贵的人生季节，能使&ldquo;少年中国与天不老，中国少年与国无疆。&rdquo;</div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2856&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2856"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div660" class='listitem3'><a href='list_1_660.shtml'>创新互动</a></div></td></tr><tr><td><div id="div120" class='listitem3'><a href='list_1_120.shtml'>课程设置</a></div></td></tr><tr><td><div id="div121" class='listitem3'><a href='list_1_121.shtml'>师资队伍</a></div></td></tr><tr><td><div id="div122" class='listitem3'><a href='list_1_122.shtml'>升学招生</a></div></td></tr><tr><td><div id="div123" class='listitem3'><a href='list_1_123.shtml'>学科竞赛</a></div></td></tr><tr><td><div id="div124" class='listitem3'><a href='list_1_124.shtml'>教师荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_123_1055.shtml' title='标题:DV俱乐部学生获奖喜讯&#13;点击:41次&#13;日期:2011-11-14 8:11:06'  ><span style='color:;'>DV俱乐部学生获奖喜讯</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_1038.shtml' title='标题:喜报-复兴高级中学模拟联合国社团雅典杯满载而归&#13;点击:43次&#13;日期:2011-10-28 14:59:51'  ><span style='color:;'>喜报-复兴高级中学模拟联合国</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_819.shtml' title='标题:花博参观团日程&#13;点击:267次&#13;日期:2011-5-19 16:08:06'  ><span style='color:;'>花博参观团日程</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_818.shtml' title='标题:“2011年上海学生花博参观团活动”告家长书&#13;点击:296次&#13;日期:2011-5-19 15:17:32'  ><span style='color:;'>“2011年上海学生花博参观团</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_817.shtml' title='标题:2009年复兴高级中学学科竞赛获奖统计&#13;点击:440次&#13;日期:2011-5-19 15:10:38'  ><span style='color:;'>2009年复兴高级中学学科竞赛</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_816.shtml' title='标题:复兴高级中学学科竞赛获奖统计&#13;点击:702次&#13;日期:2011-5-19 15:08:50'  ><span style='color:;'>复兴高级中学学科竞赛获奖统</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_123_954.shtml' title='标题:在促进学生自主发展中提升科技创新能力&#13;点击:118次&#13;日期:2011-4-14 9:03:49'  ><span style='color:;'>在促进学生自主发展中提升科</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_123_816.shtml' title='复兴高级中学学科竞赛获奖统计'  target='_blank'  >复兴高级中学学科竞赛获奖统</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_123_817.shtml' title='2009年复兴高级中学学科竞赛获奖统计'  target='_blank'  >2009年复兴高级中学学科竞赛</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_123_818.shtml' title='“2011年上海学生花博参观团活动”告家长书'  target='_blank'  >“2011年上海学生花博参观团</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_123_819.shtml' title='花博参观团日程'  target='_blank'  >花博参观团日程</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_123_954.shtml' title='在促进学生自主发展中提升科技创新能力'  target='_blank'  >在促进学生自主发展中提升科</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_123_1038.shtml' title='喜报-复兴高级中学模拟联合国社团雅典杯满载而归'  target='_blank'  >喜报-复兴高级中学模拟联合国</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_123_1055.shtml' title='dv俱乐部学生获奖喜讯'  target='_blank'  >dv俱乐部学生获奖喜讯</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_123.shtml">学科竞赛</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>“2011年上海学生花博参观团活动”告家长书</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:学校管理员&nbsp;&nbsp; 编辑日期:2011-5-19 15:17:32&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=818"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <div><span><br />
+尊敬的家长：<br />
+你好！<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 经学生本人申请，学校审批，您的孩子成为&ldquo;</span><span>2011</span><span>年上海学生花博参观团&rdquo;的一员，，为确保活动的顺利进行，保障在台期间师生的政治、人身、交通、食品、财产等安全，组委会特别制定了安全预案，同时对学生进行了安全教育，现把相关的安全事项告知，希望家长配合教育，保证活动顺利圆满地完成。</span></div>
+<div><span>2011</span><span>年上海学生赴台湾观花博会活动是由上海市组织的上海及台北两市之间一次大规模的交流互访活动，旨在增进双边青年学子的互动，希望上海学生能到台湾亲身了解，体验花博会</span><span>, </span><span>意义重大。</span></div>
+<div><span>安全注意事项：</span></div>
+<div><span>1</span><span>、所有学生必须服从学校领队的统一管理</span><span>,</span><span>随团活动</span><span>,</span><span>不得擅自脱团</span><span>,</span><span>不得滞留</span><span>&nbsp;&nbsp; </span><span>不归。分散活动时</span><span>, </span><span>原则上按小组活动，如有特殊情况，应向领队人员说明去向</span><span>,</span><span>并征得领队人员的同意。如果发生不服从管理情况，将按校规予以严肃处理。</span></div>
+<div><b><span>2.</span></b><span>吊牌是上海团师生身份的标志，有重要的安全作用，要按规定随身佩带。如有需要，可按照上面文字说明帮助解决相关问题。统一配置的旅游帽可作为上海团师生辨识的标志，同样有安全作用，要按规定予以佩戴。</span></div>
+<div><b><span>3. </span></b><span>每次团队分组游览前，要注意领队宣布的集合时间和地点，记住自己所乘坐旅游大巴车的车牌号、领队手机号，要严格遵守时间，避免个人迟到、掉队，影响到整团的正常行程。</span></div>
+<div><span>&nbsp;&nbsp; 4. </span><span>乘坐安排的车辆，按序号座次入座。开行时，不在车内站立，不把头、手或任何物品伸出车外。有安全带的座位要系好安全带，不在车内喧哗打闹。如遇紧急情况时，听从驾驶员、导游或老师的指挥，镇定、有序、快速撤离车厢。</span></div>
+<div><span>&nbsp;&nbsp; 5. </span><span>认真阅读入住饭店及房间的安全须知，了解并掌握逃生线路及方法。如遇火警，按照饭店标示的线路及应得方法有序、快速、安全撤离。认真阅读上海团所发的赴台指南中的&ldquo;防地震安全&rdquo;，如有需要时，采取正确的应对方法有序、快速撤离到安全地带。</span></div>
+<div align="center"><span>&nbsp;6. </span><span>随团在指定地点就餐。不暴饮暴食，吃冷饮要适量。不适合本人食用的食</span></div>
+<div><span>物要慎食或不食。不脱团自行在非正规摊点买食物吃。</span></div>
+<div><span>7. </span><span>所带现金够零用即可，不要多带。尽可能使用在台北可付款的金融卡，如银联卡等，密码要注意保密。可备一个安全小包，挎在身前或一侧，里面可放相机、手机、现金或金融卡等重要物品。每天定时或不定时自检所带安全小包。贵重物品不要交给不认识的人保管。贵重物品如有遗失，及时报告，尽可能减轻损失。</span></div>
+<div><span>&nbsp;8. </span><span>注意交通安全：台湾行人和车辆均为右侧行驶。过马路时一定要遵守交通规则，注意看信号灯，特别小心摩托车。交通法规请牢记在心。夜间过马路更需小心，夜间红绿灯仅为参考。</span></div>
+<div><span>9. </span><span>注意自身安全：出行在外请大家务必准备一些常用药物，有慢性病者请针对自身情况所需，带好备用药品。台湾的药品一般都比较贵，而且用量与大陆不同，故勿自行随便购买，务必有医生的指导。<br />
+</span></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><span>家长回执</span></b></div>
+<div><b><span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></b><b><span>我已认真</span></b><b><span>2011</span></b><b><span>年</span></b><b><span>阅读&ldquo;</span></b><b><span>上海学生花博参观团活动&rdquo;告家长书并会就相关的安全事项，对孩子进行教育。</span></b></div>
+<div><b>&nbsp;</b></div>
+<div><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>学生姓名</span></b><b><span>_________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span>家长签名</span></b><b><span>________________</span></b></div>
+<div><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span>日期：</span></b><b><span>__________________ </span></b></div>
+<div>&nbsp;</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=818&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=818"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

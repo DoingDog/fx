@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>上海市复兴高级中学网站 Portal Website of Shanghai Fuxing Senior High School</title>
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<link href="../style/style.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../script/script.js"></script>
+</head>
+<body>
+<div id="center">
+<div id="header">
+  <ul>
+    <a href="index.jsp">首　页</a> | <a href="website_map.jsp">站点地图</a> | <a href="contact_us.jsp">联系我们</a> | <a href="english.jsp">English Version</a>
+  </ul>
+</div>
+<!-- end of #header -->
+<div id="logo">
+  <div id="logo_chn"> <img src="../resource/logo.jpg" /> </div>
+  <div id="logo_eng"> <img src="../resource/logo_english.jpg" /> </div>
+</div>
+<!-- end of #logo -->
+<div id="top_nav">
+  <div id="date_time">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../resource/swflash.cab#version=6,0,29,0" width="180" height="29">
+      <param name="movie" value="../resource/date.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../resource/date.swf" width="180" height="29" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </div>
+  <ul id="nav">
+    <li class="first"><a href="walking_up_to_fuxing.jsp">走近复兴</a>
+      <ul>
+        <li class="second"><a href="walking_up_to_fuxing.jsp">复兴概况</a></li>
+		<li class="second"><a href="fuxing-lishi.jsp">悠久历史</a></li>
+		<li class="second"><a href="fuxing_chengjiu.jsp">辉煌成就</a></li>
+		<li class="second"><a href="fuxing_song.jsp">复兴校歌</a></li>
+		<li class="second"><a href="fuxing-lrxz.jsp">历任校长</a></li>
+       <li class="second"><a href="headmaster_words.jsp">校长寄语</a></li>
+        <li class="second"><a href="fuxing_shebei.jsp">复兴设施</a></li>
+	
+       
+        <li class="second"><a href="panorama/index.htm" target="_blank">校园全景</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="education_features.jsp">教育特色</a>
+      <ul>
+        <li class="second"><a href="keji.jsp">科技特色</a></li>
+        <li class="second"><a href="yishutese.jsp">艺术特色</a></li> 
+		<li class="second"><a href="tiyutese.jsp">体育特色</a></li>   
+		<li class="second"><a href="xinli.jsp">心理健康</a></li>
+        <li class="second"><a href="xiaobenkecheng.jsp">校本课程</a></li>
+        <li class="second"><a href="shetuan.jsp">学生社团</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="campus_activities.jsp">校园生活</a>
+      <ul>
+	    <li class="second"><a href="http://www.fuxing.sh.cn/schinfo">互动数字校园</a></li>
+        <li class="second"><a href="fxstudent.jsp">复兴学子</a></li>
+        <li class="second"><a href="shehuishijian.jsp">社会实践</a></li>
+        <li class="second"><a href="zhusushenghuo.jsp">住宿生活</a></li>
+        <li class="second"><a href="kejijie.jsp">科技节</a></li>
+        <li class="second"><a href="yishujie.jsp">艺术节</a></li>
+        <li class="second"><a href="xiaoyunhui.jsp">校运会</a></li>
+      </ul>
+    </li>
+<li class="first"><a href="open government.jsp">政务公开</a>
+  <ul>
+ <li class="second"><a href="xinxiang.jsp">校长信箱</a></li>
+ <li class="second"><a href="fuxing_shizhiduiwu.jsp">师资队伍</a></li>
+        <li class="second"><a href="fuxing_fazhan.jsp">发展规划</a></li> 
+</ul>
+    </li>    
+
+    <li class="first"><a href="retrospecting_fuxing.jsp">回眸复兴</a>
+      <ul>
+        <li class="second" ><a href="retrospecting_fuxing-1.jsp">校友风采</a></li>
+		
+		<li class="second" ><a href="retrospecting_fuxing-3.jsp">60校庆一瞥</a></li>
+		<li class="second" ><a href="liuyan_fuxing.jsp">校友留言</a></li>
+        <li class="second" ><a href="../alumni/index.jsp" target="_blank">在线校友会</a></li>
+      </ul>
+    </li>
+    <li class="first"><a href="xianjinxing/index.htm" target="_blank">先进性教育</a></li>
+      <li class="first"><a href="xiaoqing.jsp">校庆专栏</a>
+	  <ul>
+        <li class="second" ><a href="xiaoqing1.jsp">校庆公告</a></li>
+<li class="second" ><a href="xiaoqing2.jsp">邀请函</a></li>
+		   <li class="second" ><a href="xiaoqing.jsp">校友论坛</a></li>
+		   <li class="second" ><a href="retrospecting_fuxing-3.jsp">60校庆一瞥</a></li>
+         <li class="second" ><a href="../alumni/index.jsp" target="_blank">在线校友会</a></li>
+      </ul>
+	  </li>
+      <li class="first"><a href="recruiting_students.jsp">招生信息</a>
+      <ul>
+        <li class="second"><a href="recruiting_students_1.jsp">全国生招生</a></li>
+ <li class="second"><a href="recruiting_students_20.jsp">零志愿招生</a></li>        
+<li class="second"><a href="recruiting_students_21.jsp">推优生招生</a></li>
+        <li class="second"><a href="2007recruiting_students_21.jsp">自主招生</a>		</li>
+        <li class="second"><a href="recruiting_students_4.jsp">艺术特长生招生</a></li>
+	</li>
+        <li class="second"><a href="fxjx/index.html">进修学校招生</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- end of #top_nav -->
+
+  <div id="main">
+    
+
+
+
+
+
+
+<div id="main_left">
+  <div align="center">
+  	<!--a href="login.jsp">网站用户登录</a-->
+  	
+  </div>
+  <br />
+	<div id="saying">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../resource/swflash.cab#version=6,0,29,0" width="125" height="200">
+      <param name="movie" value="../resource/saying.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../resource/saying.swf" width="125" height="200" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+  </div>
+  <!-- end of #saying -->
+  <div id="counter">
+  	总访问人数：<span>449212</span>
+  </div>
+  <!-- end of #counter -->
+  <div id="links">
+    <div>:: 友情链接 ::</div>
+    <ul>
+	  <li><a href="http://www.shmec.gov.cn" target="_blank">上海市教育委员会</a></li>
+	  <li><a href="http://www.hkedu.sh.cn" target="_blank">虹口区教育信息专网</a></li>
+      <li><a href="http://www.pku.edu.cn" target="_blank">北京大学</a>　<a href="http://www.tsinghua.edu.cn" target="_blank">清华大学</a></li>
+      <li><a href="http://www.fudan.edu.cn" target="_blank">复旦大学</a>　<a href="http://www.sjtu.edu.cn" target="_blank">上海交通大学</a></li>
+      <li><a href="http://www.software.fudan.edu.cn" target="_blank">复旦大学软件学院</a></li>
+      <li><a href="http://www.fdfz.cn" target="_blank">复旦附中</a>　<a href="http://www.jdfz.sh.cn" target="_blank">交大附中</a></li>
+      <li><a href="http://www.hsefz.com" target="_blank">华师大二附中</a>　<a href="http://www.shs.sh.cn" target="_blank">上海中学</a></li>
+<li><a href="../page/fxchzh/index.html" target="_blank">上海市复兴初级中学</a>　</li>
+    </ul>
+  </div>
+  <!-- end of #links -->
+  <div id="icons"> <img src="../resource/get_flash_player.gif">
+    <div>获取Flash7.0播放器<br/>
+	[<a href="../resource/Install Flash Player 7 AX.exe">IE浏览器</a>] [<a href="../resource/Install Flash Player 7.exe">其他浏览器</a>]
+</div>
+  </div>
+  <!-- end of #icons -->
+</div>
+<!-- end of #main_left -->
+
+    <div id="main_right">
+      <div id="main_right2">
+        <div id="content"> <img src="../resource/news_header.jpg" />
+          
+          <div id="news_content">
+            <div id="news_title">我校国家重点课题“数字化校园系统和谐整合与应用”圆满结题</div>
+            <div id="news_info">发布日期：<span>2006-10-27</span>　　发布者：<span></span></div>
+            
+            <div id="news_image">
+              
+              <div><a href="../upload/image/20061027115123_2.JPG"><img src="../upload/image/20061027115123_2.JPG" border="0" onload ="DrawImage(this,500,400);" /></a></div>
+              
+              
+              <div><a href="../upload/image/20061027114745_2.JPG"><img src="../upload/image/20061027114745_2.JPG" border="0" onload ="DrawImage(this,500,400);" /></a></div>
+              
+              
+              <div><a href="../upload/image/20061027114753_2.JPG"><img src="../upload/image/20061027114753_2.JPG" border="0" onload ="DrawImage(this,500,400);" /></a></div>
+              
+            </div>
+            <div id="article_content"> &nbsp&nbsp&nbsp&nbsp2006年10月26日上午，全国教育科学“十五”规划重点课题《教育信息化理论与实践模式》子课题，上海市复兴高级中学研究课题《数字化校园系统和谐整合与应用》经过专家组评审，通过了验收并圆满结题。<br/>出席本次大会的专家和领导有：教育部教育信息化技术标准委员会主任、华东师大祝智庭教授，教育部基础教育远程教育资源建设专家组成员、上海师范大学黎加厚教授，上海市教委教研室副主任徐淀芳老师和虹口区教育局局长王立强先生，副局长倪闽景先生，虹口区信息委主任卞学敏先生等。还有来自全市兄弟学校的校长、信息中心主任等近百人参加了会议。<br/>大会由虹口区教师进修学院副院长仇勇平女士主持。会上陈奕望校长作了课题的结题报告，阐述了基础教育数字化校园的定位、和谐整合以及整合目标、整合原则等理论，展示了复兴数字化校园和谐整合所取得的实际成果，介绍了复兴建成的“增效减负”的应用支撑系统、安全防范策略和“以人为本”的管理模式。并重点介绍了复兴诸多实际应用方面的六个应用特色，即：学生信息采集——高效、学生自行选课——快捷、成长发展系统——多元、校园信息流动——畅通、校园文化传播——多样和教育资源管理——智能。报告还具体描述了复兴的研究成效：每位教师自主参与教育资源库建设、教师教学能力得到提升和更全面地关注学生、学生更加自主地发展。<br/>会上，祝智庭教授作了教育信息化的专题报告，阐述了许多先进的理念，同时也肯定了复兴在数字校园建设方面的经验。他说：校园网建设是一个不断升华的过程，网络至少可以分为三层：第一层是物理网，通过一些线路把它连接起来；第二层是信息网，通过INTERNET，万维网，BLOG，聊天室等进行信息沟通；第三层是文化网，通过各种各样的与我们工作、生活、学习相结合的应用来创建一种新颖的文化，创造一种新颖的生活。这种文化网应该说还没有真正的出现，因为现在的网络大多数还停留在信息活动这样一个层面。他预言，我们下一轮的发展应该是建设文化网，真正朝着文化网发展，把文化网做大。从复兴中学的工作来说，他觉得已经初步触及到了。他还说，结题报告向我们展示了，复兴学生从入学开始已经融入到数字化校园的文化氛围，从学习到生活都享受到了数字化文化带给我们的便利。<br/>祝智庭教授说，复兴中学案例看到的是技术的、信息的、应用的整合，整合的结果是创造了一种新的数字化校园文化。其意义在于：<br/>一是技术上讲，它探索了一个低成本的、高效、高回报的道路。也就是说把以前已有的技术适当地综合利用起来，通过整合把以前的资源进行善加利用，减少信息化可怕的浪费现象，促进教育信息化健康持续地发展。教育信息化探索这样的一条道路是很有价值的。<br/>二是应用方面，我们越来越多地强调各种各样的方法、思想、手段，总而言之是社会进入了多元化时代，今后必定要用生态观来指导教育信息化系统的建设。我们以前的系统喜欢一个模式，不喜欢与别人兼容，这个思想是非常错误的。我们允许并且鼓励多样化的存在，而且多种模式要协同的工作，衍化、进化、而且信息要不断地再生、自组织、优化，这样一些原理是未来信息化建设的原则。刚才结题报告提出的几条原则比较接近于这样一些原理，这确实是“实践出真知”。殊途同归，我们中国这么做，人家外国也这么说的。<br/>他还说，复兴的《电视窗》其实是想通过一定的信息去改变人的行为，从而真正创造一种文化的变革。这不是说窗口本身是文化，而文化最主要改变人的行为。复兴中学向我们展示了学生已经开始体验了一种数字化生活，学生在这个氛围当中，不知不觉地改变了他的行为，将会更好地适应现在的信息社会，更好地创造未来。<br/>祝教授最后说到，教育信息化工作还有许多问题值得我们去研讨，希望在座的各位都有志于教育信息化发展，大家的脑子要相互连接起来，结成一个人“网”，这样才能推进教育信息化和整个国家的教育。<br/>虹口区教育局局长王立强先生也作了热情洋溢的讲话，他说：复兴是虹口区最早实现数字化的学校，复兴代表着虹口当前最先进的校园数字化水平，希望复兴教育集团能够组团式发展，实现资源的共享；希望复兴在专家指导和引领下继续前进。<br/>会上，倪闽景副局长谈了信息化处于一个有趣的状态，出现三“多”三“少”：投入多，产出少；理念多，实践少；软件多，长命少。复兴高级中学在信息化建设上做了很多有益的探索，其中“和谐”“整合”是在数字化校园中很关键的两个关键字。虹口区信息办卞学敏主任说，信息化已经不是工具，是管理理念、教育理念的拓展，感到激动的是：复兴的校长和管理层在数字化校园建设上发挥了很大的作用，同时表示将继续为虹口教育和复兴做好服务工作。<br/>经过专家组的讨论和评审，一致认为&nbsp“复兴数字校园系统和谐整合与应用”课题做了深入的研究和扎实的实践，取得了丰硕的成果，同意通过结题验收。评审意见提出：本课题提出了“和谐整合”的先进理念，并从理论和实践两方面探索了基础教育数字化校园建设途径；本课题研究与应用实践密切结合，新研制的应用基础平台把校园内的各个应用系统和谐地整合在一起，使得数据方便地导入、导出、同步和查询，充分发挥了数据的价值，真正做到少成本、低负担、高效率，有利于促进学校信息化的可持续发展；《学生成长发展系统》设计了多种角色，汇总了“学生学习情况表”和“学生学籍卡”，提供了各种信息的查询功能和互动功能，多方面关注学生的成长和发展，具有一定的特色；《复兴电视窗》作为数字校园文化传播媒体，在设计上有所创新和突破，提供了一个数字化、智能化、个性化，分布、动态、泛在的学校数字文化环境。专家组还认为，本课题坚持以人为本思想，以应用为核心，在应用中形成行之有效的安全防范策略和便捷管理措施，提供了值得借鉴的数字校园建设经验。<br/>有的与会代表在会前还听了复兴在数学、物理、生物、艺术和信息等学科开设的数字化教学探索展示课，参观了复兴数字化校园八年来的实际应用成果展览会。<br/> </div>
+            <div id="news_info">发布日期：<span>2006-10-27</span>　　发布者：<span></span></div>
+          </div>
+          <!-- end of #news_content -->
+        </div>
+        <!-- end of #content -->
+        <div id="panorama"><img src="../resource/panorama.jpg" /></div>
+        <!-- end of #panorama -->
+      </div>
+      <!-- end of #main_right2 -->
+    </div>
+    <!-- end of #main_right -->
+  </div>
+  <!-- end of #main -->
+  
+
+<div id="bottom_nav">
+  <ul>
+    <a href="index.jsp">首　页</a> | <a href="walking_up_to_fuxing.jsp">走近复兴</a> | <a href="education_features.jsp">教育特色</a> | <a href="campus_activities.jsp">校园生活</a> | <a href="foreign_communication.jsp">对外交流</a> | <a href="retrospecting_fuxing.jsp">回眸复兴</a> | <a href="teaching_job_opportunities.jsp">招聘信息</a> | <a href="recruiting_students.jsp">招生信息</a> | <a href="website_map.jsp">站点地图</a> | <a href="contact_us.jsp">联系我们</a> | <a href="english.jsp">English Version</a>
+  </ul>
+</div>
+<!-- end of #bottom_nav -->
+<div id="bottom">
+  <div> 
+    <p>上海市复兴高级中学版权所有　(c)　1999-2005　联系<a href="mailto:youdi_300@hotmail.com">网站管理员</a>　设计开发：<a href="mailto:0261127@fudan.edu.cn">崔伟毅</a>（2002届校友）<br />
+    上海市复兴高级中学联系地址：中国上海市车站南路28号　邮编：200434　电话：+86-021-65606715 <br>
+    <span style="color: gold;">沪ICP备05021150号</span>    </p>
+  </div>
+</div>
+<!-- end of #bottom -->
+</div>
+<!-- end of #center -->
+</body>
+</html>

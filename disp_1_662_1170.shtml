@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div661" class='listitem3'><a href='list_1_661.shtml'>科研信息</a></div></td></tr><tr><td><div id="div662" class='listitem3'><a href='list_1_662.shtml'>科研计划</a></div></td></tr><tr><td><div id="div125" class='listitem3'><a href='list_1_125.shtml'>科研成果</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_662_1171.shtml' title='标题:2011学年第一学期科研计划&#13;点击:326次&#13;日期:2012-2-22 10:41:53'  ><span style='color:;'>2011学年第一学期科研计划</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_662_1170.shtml' title='标题:2010学年第二学期科研计划&#13;点击:181次&#13;日期:2012-2-22 10:40:26'  ><span style='color:;'>2010学年第二学期科研计划</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_105.shtml">科研动态</a> >> <a href="list_1_662.shtml">科研计划</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2010学年第二学期科研计划</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:科研室&nbsp;&nbsp; 编辑日期:2012-2-22 10:40:26&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1170"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>上海市复兴高级中学</b><b>2010</b><b>学年第二学期</b></div>
+<div align="center"><b>科研室工作计划</b></div>
+<div>&nbsp;</div>
+<div>指导思想：确立学校教育科研来源于教育教学实践，并为教育教学实践服务的思想。教育科研将围绕学校中心工作和素质教育，以提升教师的教育理论和教学业务水平为目标。贴近教育实际，促进教育、教学和管理工作。</div>
+<div>&nbsp;</div>
+<div>一、学校龙头课题《深化教育综合改革完善创新人才培养体系研究》的研究计划</div>
+<div>1、<span>以《深化教育综合改革完善创新人才培养体系研究》为学校办学的核心课题。将《创新培育的校本评价》、《创新培育的校本课程建设》等子课题作为核心课题的突破口，带动学校整体工作的变革，并力争取得在本市具有一定影响的研究成果。</span></div>
+<div>2、在专家的指导和引领下，本学期重点做好<span>&ldquo;创新培育的校本评价&rdquo;等立项和开题工作。</span></div>
+<div>3、做好3月份向区教育局领导汇报有关创新素养培育的工作。</div>
+<div>&nbsp;</div>
+<div>二、健全学校科研管理体系</div>
+<div>1、对核心课题和重点项目全面布局。基本形成以科研促进学校改革和发展的机制，使科研工作有序、持续地开展，成为学校推进改革和提高办学水平的有力保障。</div>
+<div>2、进一步完善规范的教育科研管理制度和激励导向机制。争取每年有一个课题立为市级项目，2～3个课题为区级项目，并形成一批校级课题。让每个教师都能参与课题研究，通过教育科研促进教师的专业发展，解决学校和教师在实际教育教学中存在的问题与不足，造就一批既精于教学又懂科研的学者型教师。</div>
+<div>3、支持和督促英语教研组楼蕾老师领衔的《基于语法教学三维目标的高中英语部分语法知识教学新策略<span>》区级课题的研究，使楼老师的课题能在一年的研究周期中顺利结题，并取得有一定价值的成果。</span></div>
+<div>3、完善&ldquo;请进来&rdquo;和&ldquo;走出去&rdquo;相结合的科研制度。<span>采取引进来的策略，邀请相关的专家参与学校的科研项目；另一方面要培养科研骨干教师，使一部分教师参与高校的相关科研工作，并结合学校的实际开展一些子课题的研究。</span></div>
+<div>4、加大科研经费的投入。激励教师从事科研活动，加大对教师参与科研的支持力度，鼓励教师和管理人员争取政府规划的科研课题和经费。鼓励、支持教师撰写科研论文、参与科研课题的研究，并执行相关的奖励措施。</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1170&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1170"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

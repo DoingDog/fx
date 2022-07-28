@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学-<span style='color:#000000'>感受世博魅力，快乐阳光之家</span></title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div class='listitem3'><a href='list_1_119.shtml'>学生荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_116_1016.shtml' title='标题:运动点亮生活 ——记复兴趣味呼拉圈挑战赛 &#13;点击:82次&#13;日期:2011-10-9 10:22:25'  ><span style='color:;'>运动点亮生活&nbsp;——记复兴趣味</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_1003.shtml' title='标题:新生干部培训&#13;点击:228次&#13;日期:2011-8-31 8:10:28'  ><span style='color:;'>新生干部培训</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_923.shtml' title='标题:拒塑环保，从我做起&#13;点击:62次&#13;日期:2011-5-26 14:29:49'  ><span style='color:;'>拒塑环保，从我做起</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_887.shtml' title='标题:感受世博魅力，快乐阳光之家&#13;点击:28次&#13;日期:2011-5-23 13:10:24'  ><span style='color:;'>感受世博魅力，快乐阳光之家</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_886.shtml' title='标题:首届上海市未成年人思想道德建设工作创新案例申报表&#13;点击:27次&#13;日期:2011-5-23 13:09:11'  ><span style='color:;'>首届上海市未成年人思想道德</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_885.shtml' title='标题:复兴高级中学志愿者服务队章程&#13;点击:52次&#13;日期:2011-5-23 13:07:56'  ><span style='color:;'>复兴高级中学志愿者服务队章</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_116_884.shtml' title='标题:复兴“志愿者服务周”活动计划&#13;点击:45次&#13;日期:2011-5-23 13:04:56'  ><span style='color:;'>复兴“志愿者服务周”活动计</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_116_1003.shtml' title='新生干部培训'  target='_blank'  >新生干部培训</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_116_1016.shtml' title='运动点亮生活 ——记复兴趣味呼拉圈挑战赛 '  target='_blank'  >运动点亮生活&nbsp;——记复兴趣味</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_116_923.shtml' title='拒塑环保，从我做起'  target='_blank'  >拒塑环保，从我做起</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_116_885.shtml' title='复兴高级中学志愿者服务队章程'  target='_blank'  >复兴高级中学志愿者服务队章</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_116_884.shtml' title='复兴“志愿者服务周”活动计划'  target='_blank'  >复兴“志愿者服务周”活动计</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_116_887.shtml' title='感受世博魅力，快乐阳光之家'  target='_blank'  >感受世博魅力，快乐阳光之家</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_116_886.shtml' title='首届上海市未成年人思想道德建设工作创新案例申报表'  target='_blank'  >首届上海市未成年人思想道德</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_116.shtml">学生天地</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>感受世博魅力，快乐阳光之家</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:德育处&nbsp;&nbsp; 编辑日期:2011-5-23 13:10:24&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=887"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b><span>感受世博魅力，快乐阳光之家</span></b></div>
+<div align="right"><b><span>&mdash;&mdash;记复兴高级中学志愿者服务队暑期活动</span></b></div>
+<div align="center">&nbsp;</div>
+<div align="left"><span>2009</span><span>年</span><span>7</span><span>月</span><span>23</span><span>日</span><span>，早晨九点半，在虹口区的阳光之家的教室里，学员们和我校志愿者服务队的&ldquo;老师们&rdquo;共同学习世博知识，做游戏，画海宝，度过了十分愉快又充实的两个小时。</span></div>
+<div align="left"><span>刚步入教室时，学员们的热情问候让我校志愿者们倍感温暖。他们有些微笑着，举起手跟我校志愿者们打招呼，有些激动地说着&ldquo;你们好！&rdquo;&ldquo;</span><span>Hello</span><span>！&rdquo;，我校的志愿者们也热情地问候，好似与学员们是相识的好友。这对我们的活动来说，无疑是的一个非常好的开端。</span></div>
+<div align="left"><span>活动刚开始，我校的两名志愿者&ldquo;老师&rdquo;向学员们介绍了世博会的定义，历届世博会吉祥物以及本次上海世博会的时间，地点，吉祥物海宝和世博会会徽的含义。在讲授的过程中不乏互动，问答等等。虽然有些题目学员们并不知道，但是他们还是勇于说出自己的答案，那份自信让我们感受到他们的勇敢与坚强。志愿者们也马上给答题的同学送上奖品以示鼓励。</span></div>
+<div align="left"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span><span>接下来，我校的志愿者们和学员们共同玩了&ldquo;萝卜蹲&rdquo;的小游戏，使教室里充满了欢乐的笑声与温馨的气氛。</span></div>
+<div align="left"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span><span>最精彩的活动部分是画海宝，我校的一名志愿者在黑板上贴上了准备好的海宝模板，同时在黑板上耐心地一笔一划地教学员们画海宝。学员们十分喜欢海宝这个可爱的形象，又特别向往世博会，所以一个个认真地描摹着海宝的轮廓，遇到不会画的地方就问我校的志愿者们，我校的志愿者们也耐心地讲解，大家一起努力着。这对他们来说似乎有些困难的任务在我们的志愿者们一对一的辅助下，最终取得了成功。学员们高兴地举起画出的海宝，有的瘦小，有的高大威猛，有的憨厚可爱。各式各样的海宝，各式各样的笑脸构成了一条亮丽的风景线。</span></div>
+<div align="left"><span>最后是表演时间，一名学员热情地站在讲台前歌唱《歌声与微笑》，大家都被她可爱充满自信的歌声吸引住了。而后，我们的志愿者们也毫不示弱，与另一名学员高唱《祈祷》，唱到高潮部分，所有的学员们、志愿者们和指导老师们情不自禁地一起拍手合唱。</span></div>
+<div align="left"><span>在活动结束之前，学员们表达了对世博会的真情祝福：&ldquo;希望世博会圆满成功！&rdquo;，相信上海世博会有了他们和所有国民的祝福一定会成功举办！最后，大家在阳光之家一起合影留念，留下了欢乐的一刻。</span></div>
+<div align="left"><span>活动虽然结束了，但在阳光之家的欢乐气氛仍在继续。我校的志愿者服务队队员们非常快乐，因为大家不仅在阳光之家传递爱，也在收获爱&hellip;&hellip;</span></div>
+<div align="right">&nbsp;</div>
+<div align="right">&nbsp;</div>
+<div align="right"><b><span>复兴高级中学志愿者服务队</span></b></div>
+<div><b><span>世博宣传小组、阳光之家小队</span></b></div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=887&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=887"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

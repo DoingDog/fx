@@ -1,0 +1,12 @@
+﻿body{ text-align:center; margin:0px;}
+.clearfix:after{display:block; height:0px; visibility:hidden; clear:both; overflow:hidden; content:".";}
+.body{width:1000px; height:605px; margin:0px auto;background:url(../images/nwyy_banner.gif) no-repeat;}
+.header{height:128px;}
+.logoa{float:left; width:480px; height:85px; margin-left:140px; margin-top:14px;}
+.con{float:right; position:relative; width:865px; height:550px; background:url(../images/nwyy_bg.gif);}
+.icon{ position:absolute; top:32px; left:50px; width:560px; background:url(../images/nwyy_icon.gif) no-repeat;}
+.icon .h1{height:164px;}
+.icon .h2{height:152px;}
+.icon .btn{float:left; color:#013564; overflow:hidden; line-height:230px; margin:3px 35px 0px 3px; width:100px; height:130px; vertical-align:bottom; font-size:14px; font-family:宋体; text-align:center; font-weight:bold; text-decoration:none;}
+.zyk{background:url("../images/zyk.png") no-repeat 0px 2px;}
+.xwbg{background:url("../images/xwbg.png") no-repeat 0px 2px;}

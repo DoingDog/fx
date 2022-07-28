@@ -1,0 +1,318 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_3885.shtml' title='标题:热烈祝贺我校领导班子荣获“2014学年虹教系统党政干部考核领导班子”集体记功&#13;点击:494次&#13;日期:2015-10-15 10:03:10'  ><span style='color:;'>热烈祝贺我校领导班子荣获“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3918.shtml' title='标题:喜报----热烈祝贺我校陈琼和张艳老师荣获“一师一优课”部级“优课”称号&#13;点击:21次&#13;日期:2015-12-4 10:04:09'  ><span style='color:;'>喜报----热烈祝贺我校陈琼和</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3914.shtml' title='标题:上海市复兴高级中学教师团在郑州二中交流活动圆满结束&#13;点击:49次&#13;日期:2015-12-3 10:26:38'  ><span style='color:;'>上海市复兴高级中学教师团在</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3912.shtml' title='标题:区教育局、科研室对我校进行课题指导&#13;点击:42次&#13;日期:2015-12-3 10:22:10'  ><span style='color:;'>区教育局、科研室对我校进行</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3906.shtml' title='标题:严守党纪，廉洁自律——复兴高级中学“纪检日”活动&#13;点击:119次&#13;日期:2015-11-19 15:58:25'  ><span style='color:;'>严守党纪，廉洁自律——复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3895.shtml' title='标题:走近数学建模---记“苏步青班”第一课&#13;点击:285次&#13;日期:2015-10-28 14:47:52'  ><span style='color:;'>走近数学建模---记“苏步青班</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3893.shtml' title='标题:乡国为重，爱在社会----上海市十佳金爱心学生获得者 旦增罗布&#13;点击:188次&#13;日期:2015-10-28 10:22:59'  ><span style='color:;'>乡国为重，爱在社会----上海</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3887.shtml' title='标题:复旦大学--复兴高级中学“苏步青班”开班&#13;点击:556次&#13;日期:2015-10-16 9:23:25'  ><span style='color:;'>复旦大学--复兴高级中学“苏</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3881.shtml' title='标题:复兴西藏生国庆三日社会考察活动&#13;点击:294次&#13;日期:2015-10-10 15:13:07'  ><span style='color:;'>复兴西藏生国庆三日社会考察</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_3879.shtml' title='标题:西藏班全体学生欢度中秋佳节&#13;点击:240次&#13;日期:2015-10-10 15:05:22'  ><span style='color:;'>西藏班全体学生欢度中秋佳节</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_3645.shtml' title='高考理科状元吴曜辰回母校看望老师'  target='_blank'  >高考理科状元吴曜辰回母校看</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_3707.shtml' title='【推介】上海市奉贤区副区长、特级教师倪闽景：学习的意义'  target='_blank'  >【推介】上海市奉贤区副区长</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_3651.shtml' title='【今日头条】青春的无限可能---- 我校吴子婧同学用影像重新演绎《长恨歌》'  target='_blank'  >【今日头条】青春的无限可能</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_3812.shtml' title='我在复兴高级中学听了一堂“眼高手低“的课(转自《上海教育-第一教育》)'  target='_blank'  >我在复兴高级中学听了一堂“</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_3689.shtml' title='2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕'  target='_blank'  >2015年复兴集团初三学生“走</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_3860.shtml' title='喜 报----继往开来，再创辉煌'  target='_blank'  >喜&nbsp;报----继往开来，再创辉煌</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_3859.shtml' title='复兴教育集团庆祝第三十一届教师节大会召开'  target='_blank'  >复兴教育集团庆祝第三十一届</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_3699.shtml' title='复兴高级中学——上海市体育运动学校联谊会召开'  target='_blank'  >复兴高级中学——上海市体育</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_3827.shtml' title='第二届青年教师教学比武总结会召开'  target='_blank'  >第二届青年教师教学比武总结</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_3845.shtml' title='复兴高级中学改扩建工程方案汇报会召开'  target='_blank'  >复兴高级中学改扩建工程方案</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>【今日头条】青春的无限可能---- 我校吴子婧同学用影像重新演绎《长恨歌》</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2015-1-10 19:18:53&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=3651"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>【今日头条】青春的无限可能</p>
+<div class="rich_media_meta_list"><em id="post-date" class="rich_media_meta rich_media_meta_text">2015-01-09</em><a id="post-user" class="rich_media_meta rich_media_meta_link rich_media_meta_nickname" href="javascript:void(0);">我爱诗词美</a></div>
+<div id="page-content">
+<div id="img-content">
+<div id="media" class="rich_media_thumb_wrp"><img id="js_cover" class="rich_media_thumb" alt="" width="600" src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmQn4tUymu5GlDiaWzjk81zuSc2BgaYSO4c9H5nLeM1jkQxtSiar3OA5FlQTU9TMqrw9RWYxSuDJ6FXg/0" /></div>
+<div id="js_content" class="rich_media_content">
+<p style="white-space: normal"><span style="color: rgb(0,0,0)">帝皇和美人那一曲凄婉的爱情悲歌在千年以后，由<strong>虹口区复兴高级中学高一年级的吴子婧</strong>同学用影像重新演绎。子婧同学自导自演，一人分饰多角，虽然比不上大导演们的鸿篇巨制，却也深得诗中韵味，悲惋动人。</span></p>
+<hr />
+<p style="white-space: normal"><span style="color: rgb(0,112,192)">【简评】</span></p>
+<p style="white-space: normal; text-align: center"><span style="color: rgb(0,112,192)"><span style="font-size: 18px; color: rgb(0,112,192)"><strong>青春的无限可能</strong></span><br />
+文/费里尼</span></p>
+<p style="white-space: normal"><br />
+<span style="color: rgb(0,112,192)">我一直有点小后悔，在我的青春年代，没有用无限可能的尝试，去做某些事情，虽然那个年代，受制于很多技术手段，某些&ldquo;可能&rdquo;仅止于臆想。<br />
+<br />
+</span></p>
+<p style="white-space: normal"><span style="color: rgb(0,112,192)">是复兴高级中学高一学生吴子婧的多角配音兼亲自出演的迷你《长恨歌》引发了我的感慨。这个作品或许从呈现效果稚嫩了些，但想法不错，一人包办所有角色配音的野心亦值得称许。或许，今日的稚子之作就是一次跌跌撞撞的起步，一直走下去，谁能想象会发生什么？很多伟大事业的起始，都来自当年勇敢的第一步。<br />
+<br />
+</span></p>
+<p style="white-space: normal"><span style="color: rgb(0,112,192)">青春拥有无限可能，尽管大胆假设好了，谨记小心求证。思维天马行空，科技日新月异。同学，你赶上了最好的时代，不要辜负它。</span><img style="height: auto !important; visibility: visible !important; width: auto !important" alt="" width="302" height="22" data-src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmTaXBamSiaVX0RcnLXzQO3qniaO4eQhVCqjJahXiapJ1Bt7Bos5fIgH6z3u6lQjy6BMtVjbJVaWnvuhg/0" data-w="" data-ratio="0.07312252964426877" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmTaXBamSiaVX0RcnLXzQO3qniaO4eQhVCqjJahXiapJ1Bt7Bos5fIgH6z3u6lQjy6BMtVjbJVaWnvuhg/0" /></p>
+<p style="white-space: normal; text-align: center"><span style="font-size: 18px">﻿<strong>长恨歌</strong></span><br />
+&nbsp;</p>
+<p style="white-space: normal; text-align: center">唐&middot;白居易</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal; text-align: center">汉皇重色思倾国，御宇多年求不得。</p>
+<p style="white-space: normal; text-align: center">杨家有女初长成，养在深闺人未识。</p>
+<p style="white-space: normal; text-align: center">天生丽质难自弃，一朝选在君王侧。</p>
+<p style="white-space: normal; text-align: center">回眸一笑百媚生，六宫粉黛无颜色。</p>
+<p style="white-space: normal; text-align: center">春寒赐浴华清池，温泉水滑洗凝脂。</p>
+<p style="white-space: normal; text-align: center">侍儿扶起娇无力，始是新承恩泽时。</p>
+<p style="white-space: normal; text-align: center">云鬓花颜金步摇，芙蓉帐暖度春宵。</p>
+<p style="white-space: normal; text-align: center">春宵苦短日高起，从此君王不早朝。</p>
+<p style="white-space: normal; text-align: center">承欢侍宴无闲暇，春从春游夜专夜。</p>
+<p style="white-space: normal; text-align: center">后宫佳丽三千人，三千宠爱在一身。</p>
+<p style="white-space: normal; text-align: center">金屋妆成娇侍夜，玉楼宴罢醉和春。</p>
+<p style="white-space: normal; text-align: center">姊妹弟兄皆列土，可怜光彩生门户。</p>
+<p style="white-space: normal; text-align: center">遂令天下父母心，不重生男重生女。</p>
+<p style="white-space: normal; text-align: center">骊宫高处入青云，仙乐风飘处处闻。</p>
+<p style="white-space: normal; text-align: center">缓歌慢舞凝丝竹，尽日君王看不足。</p>
+<p style="white-space: normal; text-align: center">渔阳鼙鼓动地来，惊破霓裳羽衣曲。</p>
+<p style="white-space: normal; text-align: center">九重城阙烟尘生，千乘万骑西南行。</p>
+<p style="white-space: normal; text-align: center">翠华摇摇行复止，西出都门百余里。</p>
+<p style="white-space: normal; text-align: center">六军不发无奈何，宛转蛾眉马前死。</p>
+<p style="white-space: normal; text-align: center">花钿委地无人收，翠翘金雀玉搔头。</p>
+<p style="white-space: normal; text-align: center">君王掩面救不得，回看血泪相和流。</p>
+<p style="white-space: normal; text-align: center">黄埃散漫风萧索，云栈萦纡登剑阁。</p>
+<p style="white-space: normal; text-align: center">峨嵋山下少人行，旌旗无光日色薄。</p>
+<p style="white-space: normal; text-align: center">蜀江水碧蜀山青，圣主朝朝暮暮情。</p>
+<p style="white-space: normal; text-align: center">行宫见月伤心色，夜雨闻铃肠断声。</p>
+<p style="white-space: normal; text-align: center">天旋地转回龙驭，到此踌躇不能去。</p>
+<p style="white-space: normal; text-align: center">马嵬坡下泥土中，不见玉颜空死处。</p>
+<p style="white-space: normal; text-align: center">君臣相顾尽沾衣，东望都门信马归。</p>
+<p style="white-space: normal; text-align: center">归来池苑皆依旧，太液芙蓉未央柳。</p>
+<p style="white-space: normal; text-align: center">芙蓉如面柳如眉，对此如何不泪垂。</p>
+<p style="white-space: normal; text-align: center">春风桃李花开日，秋雨梧桐叶落时。</p>
+<p style="white-space: normal; text-align: center">西宫南内多秋草，落叶满阶红不扫。</p>
+<p style="white-space: normal; text-align: center">梨园弟子白发新，椒房阿监青娥老。</p>
+<p style="white-space: normal; text-align: center">夕殿萤飞思悄然，孤灯挑尽未成眠。</p>
+<p style="white-space: normal; text-align: center">迟迟钟鼓初长夜，耿耿星河欲曙天。</p>
+<p style="white-space: normal; text-align: center">鸳鸯瓦冷霜华重，翡翠衾寒谁与共。</p>
+<p style="white-space: normal; text-align: center">悠悠生死别经年，魂魄不曾来入梦。</p>
+<p style="white-space: normal; text-align: center">临邛道士鸿都客，能以精诚致魂魄。</p>
+<p style="white-space: normal; text-align: center">为感君王辗转思，遂教方士殷勤觅。</p>
+<p style="white-space: normal; text-align: center">排空驭气奔如电，升天入地求之遍。</p>
+<p style="white-space: normal; text-align: center">上穷碧落下黄泉，两处茫茫皆不见。</p>
+<p style="white-space: normal; text-align: center">忽闻海上有仙山，山在虚无缥渺间。</p>
+<p style="white-space: normal; text-align: center">楼阁玲珑五云起，其中绰约多仙子。</p>
+<p style="white-space: normal; text-align: center">中有一人字太真，雪肤花貌参差是。</p>
+<p style="white-space: normal; text-align: center">金阙西厢叩玉扃，转教小玉报双成。</p>
+<p style="white-space: normal; text-align: center">闻道汉家天子使，九华帐里梦魂惊。</p>
+<p style="white-space: normal; text-align: center">揽衣推枕起徘徊，珠箔银屏迤逦开。</p>
+<p style="white-space: normal; text-align: center">云鬓半偏新睡觉，花冠不整下堂来。</p>
+<p style="white-space: normal; text-align: center">风吹仙袂飘飘举，犹似霓裳羽衣舞。</p>
+<p style="white-space: normal; text-align: center">玉容寂寞泪阑干，梨花一枝春带雨。</p>
+<p style="white-space: normal; text-align: center">含情凝睇谢君王，一别音容两渺茫。</p>
+<p style="white-space: normal; text-align: center">昭阳殿里恩爱绝，蓬莱宫中日月长。</p>
+<p style="white-space: normal; text-align: center">回头下望人寰处，不见长安见尘雾。</p>
+<p style="white-space: normal; text-align: center">惟将旧物表深情，钿合金钗寄将去。</p>
+<p style="white-space: normal; text-align: center">钗留一股合一扇，钗擘黄金合分钿。</p>
+<p style="white-space: normal; text-align: center">但教心似金钿坚，天上人间会相见。</p>
+<p style="white-space: normal; text-align: center">临别殷勤重寄词，词中有誓两心知。</p>
+<p style="white-space: normal; text-align: center">七月七日长生殿，夜半无人私语时。</p>
+<p style="white-space: normal; text-align: center">在天愿作比翼鸟，在地愿为连理枝。</p>
+<p style="white-space: normal; text-align: center">天长地久有时尽，此恨绵绵无绝期。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal"><strong>文案</strong></p>
+<p style="white-space: normal">一支金钗钿合，一阕霓裳羽衣，一位半世明君，一位羞花美人，一场动荡劫难。再多华美的篇章都言不尽这段凄美的爱情，三分钟视频里能表现出的更不及这段历史万分之一的风云突变。作为一千多年以后的一名普普通通的学生，我也只能尽我一份绵薄之力，去还原这首声声泣血的《长恨歌》。天长地久有时尽，此恨绵绵无绝期。</p>
+<p style="white-space: normal"><br />
+<iframe class="video_iframe" style="overflow: hidden; height: 523px !important; z-index: 1; width: 698px !important" height="523" src="https://v.qq.com/iframe/player.html?vid=z0143kpy2s7&amp;width=698&amp;height=523.5&amp;auto=0&amp;encryptVer=6.0&amp;platform=61001&amp;cKey=kTUSZ5I8rLPahPOSuCQDamUBNtS0vzHZsbYgt9Cxo5ihn1R24DmMscB7b0fp57xm" frameborder="0" width="698" scrolling="no" data-src="https://v.qq.com/iframe/player.html?vid=z0143kpy2s7&amp;width=500&amp;height=375&amp;auto=0" allowfullscreen=""></iframe><br />
+&nbsp;</p>
+<p style="white-space: normal"><br />
+<strong>《长恨》情缘：</strong></p>
+<p style="white-space: normal">初读《长恨歌》，是在初中时学校下发的《诗词200首》上。在200多篇唐诗宋词元曲中，最偏爱的不过《长恨歌》与《将进酒》。彼时还只是略略读个大概，只觉着画面感极强，轻浅吟来，分外欢喜。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">&nbsp;</p>
+<p style="white-space: normal">在整个大唐盛世当中，写玄宗玉环的最多。于是去翻史书，正史野史都看，三番五次下来，再读《长恨歌》就带了怜悯的哀怆。又听李玉刚的《新贵妃醉酒》与《梦回大唐》，并不太喜欢他的扮相，却由衷的喜欢歌词。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">再后来进了高中，历史老师是位才华横溢的先生。他某次这么对我们说：&ldquo;历史上其实从来就没有什么红颜祸水。任何一个王朝的分崩离析都是由于政治体系的紊乱与社会内部的腐败，而不是因为什么倾国美人。就比如说，都称杨氏一族是安史之乱的潜在诱因，实则不尽然。&rdquo;当时听的极是心动，又忆起《长恨歌》，心中便逐渐萌生了要诠释这段故事的想法。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal"><strong>《长恨》求真：</strong><br />
+&nbsp;</p>
+<p style="white-space: normal">我的语文老师曾经说过这样一句话，至今记忆犹新：&ldquo;对人对事都应有自己的态度。每个人都是一个独立的个体，都应有独立的思考。&rdquo;为了去公正地评判史实，首先就应去还原一个客观的历史环境。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">说起《长恨歌》，除了其本身的旖旎悲情与在金戈铁马的连年战乱下的惨痛历史教训外，更多人还是将李隆基与杨玉环当成了不可接近的皇与妃来看。谈及他们，也总是联想到羞花美人及半世明君之类的辞藻。他们在说起这个王朝的由盛转衰时总是悲痛而沉重的，仿佛没有杨玉环，大唐就能永久兴盛不败。但是，很少有人会记得，在贤明仁德的李世民与前期励精图治的李隆基之间，还有平庸无能碌碌无为的中宗与徽宗，还有只手遮天的千古女帝武则天，还有野心勃勃的韦氏与太平公主。更少有人记起，在成为皇与妃之前，李隆基与杨玉环首先是人，有爱有恨有血有肉的普通人。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">换个角度去思考：也许我们不应指责玄宗后期的沉溺声色，也不应指责杨贵妃祸国殃民，而是去探求，是否正是因为政局的动荡才导致这段千古爱情敲响了最后的丧钟？是否是权力阶级的腐朽才致使这个盛世的没落陨灭？可，如若皇不是皇，妃不是妃，俱不用背负国家社稷的重任，这段故事，又是否会显得平淡无味的多呢？</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">配音表：【人物简介★按出场顺序排列】</p>
+<p style="white-space: normal"><img style="height: auto !important; visibility: visible !important; width: auto !important" alt="" data-src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmRibs4ibsXQhMLd2HNZPhCnyN30g2smjDBAgAHvEoTicia8sn99FTWcV74AySNGy7J49JsuLUQ3qWdEVA/0" data-w="320" data-ratio="1.028125" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmRibs4ibsXQhMLd2HNZPhCnyN30g2smjDBAgAHvEoTicia8sn99FTWcV74AySNGy7J49JsuLUQ3qWdEVA/0" /></p>
+<p style="white-space: normal"><br />
+杨玉环：<br />
+有人说她是羞花美人，有人说她红颜祸水；<br />
+有人说她舞技超凡，有人说她狐惑惑主。<br />
+她是传奇女子：曾经的寿王妃，后来的杨贵妃。<br />
+她是悲情贵妃：马嵬坡下泥土中，不见玉颜空死处。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal"><img style="height: auto !important; visibility: visible !important; width: auto !important" alt="" data-src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmRibs4ibsXQhMLd2HNZPhCnyNBWNxMxmvmaZFrrPKljDlKH86wm8wOsIQj7iaUP7JbdZakUIcqdSt9GA/0" data-w="" data-ratio="1.1719367588932805" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz/y4Jy5C34ZmRibs4ibsXQhMLd2HNZPhCnyNBWNxMxmvmaZFrrPKljDlKH86wm8wOsIQj7iaUP7JbdZakUIcqdSt9GA/0" /></p>
+<p style="white-space: normal"><br />
+李隆基：<br />
+有人说他是半世明君，有人说他重色轻国；<br />
+有人说他知人善任，有人说他怠慢朝政。<br />
+他是传奇男子：曾经的临淄王，后来的唐玄宗。<br />
+他是悲情帝王：夕殿萤飞思悄然，孤灯挑尽未成眠。</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">太监1，2：过场人物</p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal">陈玄礼：</p>
+<p style="white-space: normal">禁军龙武大将军，早年除韦氏与太平公主有功。后期为&ldquo;马嵬之变&rdquo;主帅，请诛杨贵妃，又免青释甲，顿首谢罪，随玄宗入蜀以表忠心。</p>
+<p style="white-space: normal"><br style="font-size: 14px; font-family: punctuation, 微软雅黑, Tohoma; line-height: 22px; background-color: rgb(255,255,255)" />
+<span style="color: rgb(227,108,9)"><strong>【后记】</strong></span></p>
+<p style="white-space: normal"><span style="color: rgb(227,108,9)"><strong>视频中所有人声均为我一人饰演录制</strong>，听来兴许也不甚清晰逼真；视频中也多有粗陋之处，望大家多多包涵。</span></p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal"><span style="color: rgb(227,108,9)">也借着后记的机会，请允许我再次向两位同学表示感激，感谢你们的不惜辛劳，感谢你们提出的每一个意见。<br />
+<br />
+注：1.视频中所有音乐均来自影视作品<br />
+2.视频中少量图片（金钗，铁骑）来源于影视作品，文案中插图来自网络。</span></p>
+<p style="white-space: normal"><br />
+&nbsp;</p>
+<p style="white-space: normal"><span style="color: rgb(227,108,9)">再流芳百世的故事都有结束的时候，关于《长恨歌》在此也不多赘述了。<br />
+<br />
+</span></p>
+<p style="white-space: normal"><span style="color: rgb(227,108,9)">最后，感谢大家能看完这样冗长的文字。</span></p>
+</div>
+</div>
+</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3651&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=3651"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

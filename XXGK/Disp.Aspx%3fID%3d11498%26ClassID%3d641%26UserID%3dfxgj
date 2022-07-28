@@ -1,0 +1,417 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_Head1"><title>
+	信息公开
+</title>
+
+<script src="css/TableCss.js" type="text/javascript"></script>
+<script src="Inc/JS/Site_Char.JS" type="text/javascript"></script>
+
+
+    <style type="text/css">
+        .tb_foot
+        {
+            height: 65px;
+            width: 965px;
+        }
+  
+        .style1
+        {
+            width: 28px;
+        }
+    </style>
+    <link id="_ctl0_linkstylebody" rel="stylesheet" type="text/css" /><link id="_ctl0_linktable" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/DIV.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/BaseStyle.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/TableCss.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/Menu.css" rel="stylesheet" type="text/css" /><link href="Template/Blue_style/StyleSchool.css" rel="stylesheet" type="text/css" />
+    <script src="../../Template/Blue_style/TableCss.js" type="text/javascript"></script>
+
+    <link href="Template/Blue_style/ListTableCss.css" rel="stylesheet" type="text/css" /></head>
+<body style="text-align: center;">
+    <div style="text-align: center; width: 1000px; min-height: 500px;">
+        <div id="dhead">
+            <div id="_ctl0_headContent"><img src='UploadFiles/2008/12/23/af2a3375-9a06-46df-832b-3c55c4223702.jpg' width='1000' height='185' /></div>
+            <div id="dmenu">
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <a href="http://www.fuxing.sh.cn" id="_ctl0_SchoolWeb" target="_blank">
+                                <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" /><span style="color: White;">学校主页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_home.gif" />&nbsp;<a href='Channel.aspx?UserID=fxgj'><span
+                                style="color: White;">专栏首页</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" /><a href='XTSite_InfoOpen.aspx?UserID=fxgj'><span
+                                style="color: White;">公开信息指南</span></a>
+                            <img class="ImgMidAlign" src="Template/StyleDefault/index_mulu.gif" />
+                            <a href='List.aspx?ClassID=607&UserID=fxgj'><span style="color: White;">公开信息目录</span></a>
+                            <img class="ImgMidAlign" src="Images/rss.gif" />
+                            <a href='Rss.aspx?UserID=fxgj' target="_blank"><span style="color: White;">
+                                rss 订阅</span></a>
+                        </td>
+                        <td>
+                            <form name="search" action="Search.Aspx?Action=Search" method="get">
+                            <table width="280" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="151" align="right">
+                                        <input name="keyword" id="Keyword" style="border: solid 1px;" type="text" value="请输入关键字"
+                                            size="15" onmouseover="this.value='';">
+                                        <input id="Action" type="hidden" value="Search" name="Action">
+                                        <input id="UserID" name="UserID" type="hidden" value="fxgj" />
+                                    </td>
+                                    <td width="39" align="center">
+                                        <input name="imageField" type="image" src="img_index/index_13_1.gif" alt="搜索" align="absmiddle"
+                                            border="0">
+                                    </td>
+                                    <td width="76" align="center">
+                                        <a href="search.aspx?UserID=fxgj" target="_blank">
+                                            <img src="img_index/index_13_2.gif" alt="高级查询" width="58" height="18" border="0"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            </form>
+                        </td>
+                        <td>
+                            <img class="ImgMidAlign" src="Images/manager.gif" />
+                            <a href='Schinfo/default.aspx' target="_blank"><span style="color: White;">管理入口</span></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+  
+        <div id="dbody">
+       
+                <div style="width: 24%; float: left">
+                    <div class="D_holder">
+                        <div class="D_bszn">
+                        </div>
+                        <div class="D_bgxz">
+                        </div>
+                        <div class="D_bmwd">
+                        </div>
+                        <div class="D_hdjl">
+                        </div>
+                        <div class="D_xyjx">
+                        </div>
+                        <div class="D_gksq">
+                        </div>
+                        <div class="D_wszx">
+                        </div>
+                        <div class="D_xzxx">
+                        </div>
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_34.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                        
+
+                                      </div>
+                            
+                    </div>
+                    <div class="tb_RDXX">
+                        
+                                    <div>
+                                        <img alt="" src="Template/Blue_style/index_52.gif" />
+                                    </div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                      
+                    </div>
+              
+                 </div>
+              
+                <div style="width: 75%;float:right;">
+                    <div style="width: 100%;">
+                        <div style="width: 69%; float: left;">
+                            <div  class="tb_RDXX">
+                                <div class="d_rdxx_head">
+                                    <img alt="" src="Template/Blue_style/index_65.gif" /></div>
+                                <div>
+                                    <div class="titlecontent">
+                                        
+
+                                    </div>
+                                </div>
+                                <div class="d_rdxx_foot">
+                                </div>
+                            </div>
+                        </div>
+                        <div style="width: 30%; float: right">
+                            
+
+                        </div>
+                    </div>
+                    <div style="width: 100%;">
+                                    <div id="d_rdxx" class="tb_RDXX">
+                                        <div class="d_rdxx_head">
+                                            <img alt="" src="Template/Blue_style/index_66.gif" /></div>
+                                        <div>
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                            
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                             
+                                                        
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <div class="d_zjx">
+                                                          
+                                                                        <div class="d_zsks">
+                                                                        </div>
+                                                                        <div class="titlecontent">
+                                                                            
+
+                                                                        </div>
+                                                          
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="d_rdxx_foot">
+                                        </div>
+                                    </div>
+                        
+                    </div>
+                    <div >
+                        <div style="width: 69%; float: left;">
+                       
+                                        <div  class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_67.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                        <div style="width: 30%; float: right;">
+                           
+                                        <div id="Div3" class="tb_RDXX">
+                                            <div class="d_rdxx_head">
+                                                <img alt="" src="Template/Blue_style/index_68.gif" /></div>
+                                            <div>
+                                                <div class="titlecontent">
+                                                    
+
+                                                </div>
+                                            </div>
+                                            <div class="d_rdxx_foot">
+                                            </div>
+                                        </div>
+                         
+                        </div>
+                    </div>
+                </div>
+              
+       
+      </div>
+        <div style="background-color: White;">
+            
+    <title id="_ctl0_cpheadcontent_d1_Title">复兴信息公开 →  信息公开  → 计划总结  → 年度总结  → 专项工作总结 ：2007学年第二学期现代教育技术中心工作小结</title>
+
+<link href="template/default/style.css" rel="stylesheet" type="text/css" />
+<Script Language="JavaScript" Src="Inc/JS/Disp.JS"></Script>
+
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#00E800">
+      <tr>
+        <td width="100%" valign="top" align="left"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+          <tr>
+            <td height="26" valign="middle" bgcolor="#ffffff">&nbsp;您现在的位置：
+            <span id="_ctl0_cpheadcontent_d1_PathLabel"><a href="/XXGK/"  ID="XTSite_Navigation">复兴信息公开</a> →  <a href=/XXGK/Channel.Aspx?ChannelID=1&UserID=fxgj ID="XTSite_Navigation">信息公开</a>  → <a href="/XXGK/List.Aspx?ClassID=609&UserID=fxgj" ID="XTSite_Navigation">计划总结</a>  → <a href="/XXGK/List.Aspx?ClassID=619&UserID=fxgj" ID="XTSite_Navigation">年度总结</a>  → <a href="/XXGK/List.Aspx?ClassID=641&UserID=fxgj" ID="XTSite_Navigation">专项工作总结</a> </span></td>
+          </tr>
+          <tr>
+            <td valign="top" height="402">
+              <table width="99%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+                <tr>
+                  <TD width="8" height="0"></TD>
+                  <TD width="375"></TD>
+                  <TD width="193"></TD>
+                  <TD width="2"></TD>
+                  <TD width="12"></TD>
+                </tr>
+                <tr align="center">
+                  <TD valign="middle" height="50" colspan="5">
+                    <span id="_ctl0_cpheadcontent_d1_TitleLabel" class="Title">2007学年第二学期现代教育技术中心工作小结</span></TD>
+                </tr>
+                <tr>
+                  <TD valign="middle" align="center" height="48"></TD>
+                  <TD colspan="2" align="center" valign="middle">
+                    <div align="right">索引号：
+                        <span id="_ctl0_cpheadcontent_d1_CatalogNum">101340202002-2008-012</span>          
+&nbsp;&nbsp;&nbsp; 发布时间：
+                        <span id="_ctl0_cpheadcontent_d1_DateAndTimeLabel">2008年12月25日</span>          
+&nbsp;&nbsp;&nbsp; 点击：
+              <span id="_ctl0_cpheadcontent_d1_HitsLabel">227</span>
+              次&nbsp;&nbsp;&nbsp;责任编辑：
+              <span id="_ctl0_cpheadcontent_d1_AddUserLabel">fxgj</span>
+                    </div>
+                    <hr width="100%" size="1">
+                    <div align="right"></div></TD>
+                  <TD valign="middle" align="center" colspan="2">&nbsp;</TD>
+                </tr>
+                <tr>
+                  <TD height="0"></TD>
+                  <TD></TD>
+                  <TD></TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="73"></TD>
+                  <TD colspan="2" valign="top">
+                    <table width="700" border="0" align="center" cellpadding="0" cellspacing="0" style="TABLE-LAYOUT:fixed;WORD-BREAK:break-all">
+                      <tr>
+                        <td class="Content">
+                          <span id="_ctl0_cpheadcontent_d1_ContentLabel"><DIV>&nbsp;</DIV>
+<DIV align=center><B>2007</B><B>学年第二学期现代教育技术中心工作小结</B><B></B></DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>2007学年第二学期现代教育技术中心在我校推进数字化校园中取得了一些成绩：在学校发展的需要和各级领导的高度重视下，教育信息化工作在学校工作中得到平稳开展。学校信息化工作在学校管理、教育教学、后勤服务等方面在原有的基础上扎扎实实地得到深入，现作以下总结。</DIV>
+<DIV>一、电子白板的应用推进。交互电子白板在课堂教学中的有效应用，使得现代教学与传统教学完美结合，真正将信息化带进日常教学活动当中，具有技术集成高、资源整合强、交互功能好等优势，同时易于实现传统与创新的结合，能够提高教学成效。我校在上学期试点的基础，本学期在各学科进行全面推广。我校已申报的《交互电子白板在课堂教学中的应用研究》课题立项为中央电教馆“十一五”全国教育技术研究专项课题。上学期在本部门的组织下，电子白板的推进工作取得了较好的成绩。学校首先对中层干部在本学期进行了电子白板在教育教学中应用的培训，随后对部分教学骨干进行培训，聘请上海市教学研究所专家来校对骨干教师进行指导。使教师在新的教育思想指导下能比较合理并熟练的使用现代教学工具。在学校开展的各级各类公开课中，多媒体辅助教学已经成为师生教学的有力助手，教师使用多媒体进行辅助教学得到长足进步。在各级各类开展的教学评选活动等教学活动中，教师充分运用多媒体教学，现代信息技术在教学中的作用得到充分展现。</DIV>
+<DIV align=left>取得的成绩：有三人次获全国一等奖。三人获全国二等奖。</DIV>
+<DIV>二、学校网络工作。我校的硬件投入一直遵循着"适度超前、量力而行"的原则，每年都要规划投入，逐步添加和更新教育教学设备，力争营造先进的现代化教学环境。从上学年开始，在校领导的支持下，将我校Internet出口从1M升到了4M。大大改善了师生上网的条件。为了更好地利用有效的资源，本学期通过技术上研究，实现师生上网分别走二个出口。全体教职工走4M电信光纤上Internet,全体学生走“校校通”的10M光纤上Internet。用两条光纤分担数据流量。</DIV>
+<DIV>随着我校计算机数量越来越多，对网络线路的压力越来越大，原先的设计不能满足现在的要求，是造成我校性能下降的重要原因。本学期在出口扩容的基础上又进行了校园网络结构的规划。它们是，学生和教师划分几个虚网。将办公用机、电子阅览室、计算机教室、教室电脑、韩国生宿舍电脑分成若干个网段，实现广播数据的隔离。把办公楼2、4、5的交换机用光纤直接接入主干。保障网络稳定、安全地运行。另外也为全校计算机提供了安全保障。从病毒预防，到打Windows补丁基本上做到由系统自动完成。在对教师进行培训的基础上，真正做到对每台计算机的贴切的服务，让全校师生能安全地、放心地使用计算机。</DIV>
+<DIV>三、完成了一卡通项目的改造。以前使用了两种一卡通，即广大教师、学生身上有两张一卡通，这两种卡各自单独充值，互不通用，互成体系。这样的一卡通并没有给广大教师、学生带来十分便利的用卡环境，通过改造真正实现 “一卡在手，走遍校园”，“一卡通用，一卡多用”的目标。在功能上做到一张卡可用于图书馆和专用教室的门禁、出入校门、升旗仪式和教工大会的考勤、学生在电子阅览室上机、图书馆借书、教工自助电脑打印、淋浴房洗澡、游泳馆、复印和咖吧消费，师生食堂消费，学校宿舍开门等使用。</DIV>
+<DIV>四、完善工作文档的在网上的流转。通过学校网络环境，全校教工由于可以在网上调阅、起草、讨论、修改各教研组工作计划和小结，交流各教研组的工作情况，自动形成了更为丰富、深刻、直观的信息传达到校内各部门，使各教研组的工作呈现开放的状态，促进经验交汇，同时也是促进思想扁平化。也为实现政务公开创造了的条件，使学校政务工作进行常态化管理。</DIV>
+<DIV>五、完成了自主性很强的拓展课程、研究型课程的选课过程。多年来学校共积累了80多门课程，分为长课时与短课时两类，供学生选择。学校教师将自己开设的课程介绍放入学校的课程资源库，信息中心编辑制作后在每学期开始的前两周进入校园电视窗滚动播放，供学生了解。学生在规定时间在网上选课，教导处根据学生选中的课程及每门课程的人数统一安排教室后通知任课教师上课。</DIV>
+<DIV>六、完善了学生成长发展系统。 根据上海市教委对学生全面发展的系统思考，我校建设了学生成长发展系统。该系统为学生提供了一个属于自己的虚拟的学习、生活空间。在此学生可以记录自己的成长脚印，记载自己的荣誉等。我部门在一学期中进行了广泛的调研，组织了教务处和德育处及相关人员进行专题讨论，会同专业开发公司，对学生成长发展系统进行规划和提出新的应用方案，通过改进，现在的系统学生可以与班主任、任课教师、家长留言交流；可以看到自己每学期的各个学科的学习成绩；可以作学科分析，系统能自动帮学生按学科成绩列表画点，显示每门学科的学习成绩在年级中相对位置。可以很直观地告知学生的学习情况和发展趋势，学生就能客观地了解自己每门课的学习情况。在每个学期末，系统将为每位学生打印一份《学习情况表》，情况表中汇总了学生的学习、德育等多方面重要数据。学生毕业时，系统会为毕业学生提供一份自己在校学习、生活信息的完整的电子档案——《学籍卡》。上学期是我校第一次完成全过程的运作，普遍反映良好。</DIV>
+<DIV>七、彩虹电视窗工作。积极配合学校文化校园建设，学校德育处与学生会积极参与到 “彩虹电视窗”活动，&nbsp; 学校利用学校公共空间的一些位置，建设了学校公共文化传播电视窗，通过文字、图片和动画、视频等媒体的快速及时地传播，促进了健康主流文化在校园空间的积极弥散。</DIV>
+<DIV>电视窗的节目来源于广大师生，各个班级、各个年级组、各个教研室等等群体组成了一连串微型的信息搜集和节目上传群体。在信息传播系统中，为学生、教师或者学校管理部门都配置了相应栏目，并给予节目的设计和播放权。通过电视窗，学校管理部门可以快速播发通告，精彩的照片或录像片段等，让大家共享；学生可将自己的班级新闻、创新作品、重大活动片段等上传和播放。电视窗可以在校内快速地传播最新教育教学信息，既活泼了教学氛围，又加强了师生间的交流和学习，形成了一个具有现代气息的和谐的信息互动交流环境，同时也对学生起着潜移默化的教育作用。本学期共制作和播出了各种节目共计126个次。</DIV>
+<DIV align=left>八、深化信息科技学科的课程教材改革实验。我校高度重视信息科技学科的教学，除了开设高一年级信息信息技术课之外，还开设了二个选修课和课外活动班，制定中午下午电子阅览室开放制度，确保每一位学生非常方便使用电脑。教学中教师在传授基本技能和基础知识的基础上积极引导学生动手动脑，发挥学生学习的主观能动性，形成了动中学，学中动的主动探知、主动习得的良好的学习方式。学生在区信息科技竞赛活动中，多人次获奖。</DIV>
+<DIV>　　</DIV>
+<DIV>我们虽然取得上述工作成果，但由于信息技术教育正处于发展阶段，同时也存在一些问题，如：信息技术与学科教学的整合还远远不够。一是能够做到整合的教师数量还比较少，二是还没有做到经常化。信息技术设备维护和应用还存在死角。这些问题都需要我们在今后工作中加以克服和完善。</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现代教育技术中心</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2008年9月</DIV></span>        
+                </td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <span id="_ctl0_cpheadcontent_d1_PageList"></span>        
+                </td>
+                      </tr>
+                      <tr>
+                        <td height="25" align="right">
+                          <a id="_ctl0_cpheadcontent_d1_PreLink" href="/PreNext.Aspx?ID=11498&amp;CID=641&amp;Action=Previous"><font color="#FF0099">上一篇</font></a>
+                          <font color="#ff0099">/
+                          <a id="_ctl0_cpheadcontent_d1_NextLink" href="/PreNext.Aspx?ID=11498&amp;CID=641&amp;Action=Next"><font color="#FF0099">下一篇</font></a>
+                        </font></td>
+                      </tr>
+                  </table></TD>
+                  <TD><FONT face="宋体"></FONT></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="51"></TD>
+                  <TD colspan="2" valign="middle" class="Content"><b><font color="#ff6600">简介:</font></b>
+                      <blockquote>
+                        <span id="_ctl0_cpheadcontent_d1_AboutLabel"></span>          
+          </blockquote></TD>
+                  <TD><FONT face="宋体"></FONT></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="30"></TD>
+                  <TD valign="middle"> 出处/作者：
+                      <span id="_ctl0_cpheadcontent_d1_FromAuthorLabel" style="COLOR: #999999"> / </span>          
+&nbsp;&nbsp; 评价：<font color='#fd9720'>
+            <span id="_ctl0_cpheadcontent_d1_ScoreLabel">3</span>
+            </font>&nbsp;&nbsp; 大小：
+            <span id="_ctl0_cpheadcontent_d1_SizeLabel">3816 字节</span>
+                  </TD>
+                  <TD align="right" valign="middle">&nbsp;  </TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+                <tr>
+                  <TD height="30"></TD>
+                  <TD colspan="2" valign="middle" align="right"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td valign="bottom" colspan="3"><font color="#ff6600"><b><br>
+                      相关连接</b></font></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" colspan="3" align="left">
+                        <div id="_ctl0_cpheadcontent_d1_LikeNoData" style="TEXT-ALIGN:center">
+	没有相关连接
+</div>
+                        
+                      </td>
+                    </tr>
+                  </table>                    
+                    <div align="left"><br>
+                  </div></TD>
+                  <TD></TD>
+                  <TD></TD>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+
+          
+        </td>
+      </tr>
+</table>
+	<Script Language="JavaScript">
+document.onkeydown = NextPage;
+</Script>
+    <script type="text/javascript">
+        document.getElementById("dbody").style.display = "none";
+    </script>
+
+        </div>
+        <div class="D_foot" style="color:White;">
+            <div style="float: left; width: 59%; text-align: left;">
+                <div style="padding-top: 10px; padding-left: 50px;">
+                    <span id="_ctl0_txtfoot"><br/><br/>地址：中国上海市车站南路28号 邮编: 200434 电话: +86-021-65606715</span></div>
+            </div>
+            <div style="float: right; width: 40%;" >
+               <br />
+                上海心通信息技术有限公司协助制作</div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+        SetTableCssByClass();
+</script>
+
+</html>

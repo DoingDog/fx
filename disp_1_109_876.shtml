@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div109" class='listitem3'><a href='list_1_109.shtml'>校史沿革</a></div></td></tr><tr><td><div id="div110" class='listitem3'><a href='list_1_110.shtml'>办学特色</a></div></td></tr><tr><td><div id="div111" class='listitem3'><a href='list_1_111.shtml'>机构设置</a></div></td></tr><tr><td><div id="div112" class='listitem3'><a href='list_1_112.shtml'>学校领导</a></div></td></tr><tr><td><div id="div113" class='listitem3'><a href='list_1_113.shtml'>漫步校园</a></div></td></tr><tr><td><div id="div114" class='listitem3'><a href='list_1_114.shtml'>学校荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_109_878.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0058_Pre&#13;点击:2231次&#13;日期:2011-5-23 12:37:48'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_877.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0057_Pre&#13;点击:665次&#13;日期:2011-5-23 12:37:19'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_876.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0056_Pre&#13;点击:357次&#13;日期:2011-5-23 12:36:42'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_875.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0055_Pre&#13;点击:290次&#13;日期:2011-5-23 12:36:12'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_874.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0054_Pre&#13;点击:303次&#13;日期:2011-5-23 12:35:25'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_873.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0053_Pre&#13;点击:307次&#13;日期:2011-5-23 12:35:01'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_872.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0052_Pre&#13;点击:215次&#13;日期:2011-5-23 12:34:29'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_871.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0051_Pre&#13;点击:189次&#13;日期:2011-5-23 12:33:44'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_870.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0050_Pre&#13;点击:175次&#13;日期:2011-5-23 12:33:19'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_109_869.shtml' title='标题:《复兴人》电子版_第五部分_ps_p0049_Pre&#13;点击:219次&#13;日期:2011-5-23 12:32:54'  ><span style='color:;'>《复兴人》电子版_第五部分_</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_109.shtml">校史沿革</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>《复兴人》电子版_第五部分_ps_p0056_Pre</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:学校管理员&nbsp;&nbsp; 编辑日期:2011-5-23 12:36:42&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=876"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p><img src="/userfiles/upload/image/2011/05/23/20110523125236601192970.jpg" alt="" /></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=876&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=876"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

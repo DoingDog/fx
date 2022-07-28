@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div132" class='listitem3'><a href='list_1_132.shtml'>公告栏</a></div></td></tr><tr><td><div id="div101" class='listitem3'><a href='list_1_101.shtml'>复兴动态</a></div></td></tr><tr><td><div id="div102" class='listitem3'><a href='list_1_102.shtml'>复兴概况</a></div></td></tr><tr><td><div id="div103" class='listitem3'><a href='list_1_103.shtml'>复兴德育</a></div></td></tr><tr><td><div id="div104" class='listitem3'><a href='list_1_104.shtml'>复兴教学</a></div></td></tr><tr><td><div id="div105" class='listitem3'><a href='list_1_105.shtml'>科研动态</a></div></td></tr><tr><td><div id="div106" class='listitem3'><a href='list_1_106.shtml'>复兴校友</a></div></td></tr><tr><td><div id="div619" class='listitem3'><a href='list_1_619.shtml'>信息公开</a></div></td></tr><tr><td><div id="div108" class='listitem3'><a href='list_1_108.shtml'>联系我们</a></div></td></tr><tr><td><div id="div617" class='listitem3'><a href='list_1_617.shtml'>校内应用</a></div></td></tr><tr><td><div id="div620" class='listitem3'><a href='list_1_620.shtml'>便民服务</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_101_4092.shtml' title='标题:教育因你而温暖----2015上海教育年度新闻人物揭晓&#13;点击:1256次&#13;日期:2016-2-16 13:01:41'  ><span style='color:;'>教育因你而温暖----2015上海</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4298.shtml' title='标题:树先进，促发展——复兴中学召开建党九十五周年庆祝大会暨党员表彰大会&#13;点击:68次&#13;日期:2016-6-23 8:15:52'  ><span style='color:;'>树先进，促发展——复兴中学</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4290.shtml' title='标题:喜  报&#13;点击:199次&#13;日期:2016-6-12 10:47:05'  ><span style='color:;'>喜&nbsp;&nbsp;报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4289.shtml' title='标题:2015学年见习教师规范化培训结业仪式&#13;点击:126次&#13;日期:2016-6-12 10:37:50'  ><span style='color:;'>2015学年见习教师规范化培训</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4278.shtml' title='标题:热烈祝贺我校2017届学生在地理等级考中取得佳绩&#13;点击:234次&#13;日期:2016-6-2 20:53:56'  ><span style='color:;'>热烈祝贺我校2017届学生在地</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4277.shtml' title='标题:同心同力，共谋发展——复兴中学校友理事会暨70周年校庆校友座谈会&#13;点击:179次&#13;日期:2016-6-2 20:31:51'  ><span style='color:;'>同心同力，共谋发展——复兴</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4276.shtml' title='标题:遇见复兴，遇见你——校友同贺复兴中学70周年校庆&#13;点击:156次&#13;日期:2016-6-2 20:23:14'  ><span style='color:;'>遇见复兴，遇见你——校友同</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4275.shtml' title='标题:复兴的排球，我们的骄傲！——复兴排球队70周年校庆活动报道&#13;点击:183次&#13;日期:2016-6-2 20:04:53'  ><span style='color:;'>复兴的排球，我们的骄傲！—</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4274.shtml' title='标题:复兴中学70周年校庆暨复兴教育集团2016年联欢会&#13;点击:217次&#13;日期:2016-6-1 10:39:11'  ><span style='color:;'>复兴中学70周年校庆暨复兴教</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_101_4211.shtml' title='标题:复兴情深——记复兴中学退休教工欢庆七十周年校庆活动&#13;点击:261次&#13;日期:2016-5-27 10:18:56'  ><span style='color:;'>复兴情深——记复兴中学退休</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_101_4092.shtml' title='教育因你而温暖----2015上海教育年度新闻人物揭晓'  target='_blank'  >教育因你而温暖----2015上海</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_101_3968.shtml' title='陈永平校长携高三教师赴七宝中学学习交流'  target='_blank'  >陈永平校长携高三教师赴七宝</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_101_4090.shtml' title='《中国教育报》报道：涵养现代学校发展“蓄水池”'  target='_blank'  >《中国教育报》报道：涵养现</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_101_4130.shtml' title='复兴-复旦“苏步青班”创新人才培养计划签约仪式'  target='_blank'  >复兴-复旦“苏步青班”创新人</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_101_3967.shtml' title='微情书大赛：属于我们的表白方式'  target='_blank'  >微情书大赛：属于我们的表白</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_101_4123.shtml' title='复旦·复兴“苏步青班”微积分主题课程开讲'  target='_blank'  >复旦·复兴“苏步青班”微积</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_101_4136.shtml' title='青春飞扬，活力无限----青年教师沙龙第一次活动'  target='_blank'  >青春飞扬，活力无限----青年</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_101_3960.shtml' title='2015学年第一学期青年教师学习交流会召开'  target='_blank'  >2015学年第一学期青年教师学</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_101_4105.shtml' title='复兴高级中学2015学年第二学期开学典礼暨复兴论坛'  target='_blank'  >复兴高级中学2015学年第二学</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_101_4138.shtml' title='且行且吟，且吟且歌——记2016年高一年级“诗韵流芳”诗歌朗诵比赛'  target='_blank'  >且行且吟，且吟且歌——记20</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_101.shtml">复兴动态</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>奔向复兴-2016年复兴教育集团高中教学体验活动顺利闭幕</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:童莹顺&nbsp;&nbsp; 编辑日期:2016-3-4 10:23:03&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=4109"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p style="text-align: center"><span id="1457058285254S" style="display: none">&nbsp;</span></p>
+<p><img alt="" src="/userfiles/upload/image/2016/03/04/20160304100024590696690.JPG" />&nbsp;</p>
+<p><img alt="" src="/userfiles/upload/image/2016/03/04/2016030410362375475700.jpg" /></p>
+<div style="text-align: center">奔向复兴-2016年复兴教育集团高中教学体验活动顺利闭幕</div>
+<div>2016年1月21日上午8点，复兴高级中学场中路校区202教室座无虚席。来自复兴初级、复兴实验、新华初、新北郊、迅行等优秀初三学生汇聚一堂，拉开了本次高中教学体验活动的帷幕。</div>
+<div>21日上午，颜清校长首先通过宣传片回顾了一下去年我校招生情况，并展现我校创建满足学生充分发展教育的优秀成果。22日上午，符杰普校长示范、引导学生用物理知识探讨自然，跨越学科领域的界限。两位校长各自从化学、物理学科角度出发，旁征博引，给学生带来知识领域的饕餮盛宴。其他各位教师也从本学科角度出发，告诉初三学生们如何深入高中学习生涯。曾属于我校团学联的优秀毕业生们通过清晰生动的事实综述了复兴高中三年的学习和校园生活，同时介绍了我校学科优势、优秀教师和团学联丰富多彩的活动和经历。</div>
+<div>本次活动包括三个板块，分别是师生论坛、课程体验以及创新实践。体验活动旨在面向关心并向往高级中学、综合能力强的优秀初三学生，加深这些学生对复兴高中生活的了解和认同，期望给他们的学海生涯中带来帮助。</div>
+<div>在课堂上，初三同学们与复兴教师们、学长学姐们相互沟通、交流体验、积极互动，形成了一道亮丽的风景线。本次高中教学体验活动不仅是我校展示课堂教学、课堂艺术的舞台，展示&ldquo;复兴人&rdquo;远大志向和开阔视野的平台，更是加强我校与各初中学校深厚友谊的渠道。希望复兴的&ldquo;明日之星&rdquo;能从这里冉冉升起！</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4109&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4109"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

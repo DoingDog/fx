@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div671" class='listitem3'><a href='list_1_671.shtml'>媒体报道</a></div></td></tr><tr><td><div id="div666" class='listitem3'><a href='list_1_666.shtml'>学生荣誉</a></div></td></tr><tr><td><div id="div667" class='listitem3'><a href='list_1_667.shtml'>教师荣誉</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_666_4337.shtml' title='标题:热烈祝贺我校学生在第七届全国机器人大赛中获得佳绩&#13;点击:123次&#13;日期:2016-9-6 15:10:12'  ><span style='color:;'>热烈祝贺我校学生在第七届全</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4330.shtml' title='标题:喜报&#13;点击:118次&#13;日期:2016-9-1 10:08:49'  ><span style='color:;'>喜报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4327.shtml' title='标题:我校学生荣获上海市中学生物理学术竞赛一等奖&#13;点击:122次&#13;日期:2016-9-1 9:59:05'  ><span style='color:;'>我校学生荣获上海市中学生物</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4325.shtml' title='标题:喜报——我校学生在第八届全国中学生数理化学科能力竞赛中获奖&#13;点击:100次&#13;日期:2016-8-31 13:45:26'  ><span style='color:;'>喜报——我校学生在第八届全</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4324.shtml' title='标题:喜报——我校师生在上海市第二届中学生物理学术竞赛中荣获一等奖&#13;点击:84次&#13;日期:2016-8-31 13:34:00'  ><span style='color:;'>喜报——我校师生在上海市第</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4323.shtml' title='标题:喜报——我校辩论社在第二届中国学术辩论协会全国总决赛中获奖&#13;点击:73次&#13;日期:2016-8-31 13:27:26'  ><span style='color:;'>喜报——我校辩论社在第二届</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4338.shtml' title='标题:热烈祝贺我校学生在劳技学科竞赛中获奖&#13;点击:206次&#13;日期:2016-7-1 15:15:21'  ><span style='color:;'>热烈祝贺我校学生在劳技学科</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4304.shtml' title='标题:喜报——我校同学在2016年虹口区学生书画比赛中获奖&#13;点击:237次&#13;日期:2016-6-24 11:03:33'  ><span style='color:;'>喜报——我校同学在2016年虹</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4303.shtml' title='标题:喜报——我校同学在虹口区第八届学生规范汉字书写大赛中获奖&#13;点击:169次&#13;日期:2016-6-24 10:54:27'  ><span style='color:;'>喜报——我校同学在虹口区第</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_666_4302.shtml' title='标题:喜报——我校同学在2016年上海市学生绘画书法展中获奖&#13;点击:148次&#13;日期:2016-6-24 10:30:39'  ><span style='color:;'>喜报——我校同学在2016年上</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_666_3961.shtml' title='喜报——我校学生在上海市第十四届中学生古诗文阅读大赛中获奖'  target='_blank'  >喜报——我校学生在上海市第</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_666_4119.shtml' title='喜报——我校同学在第29届上海市中学生作文竞赛中获奖'  target='_blank'  >喜报——我校同学在第29届上</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_666_4132.shtml' title='喜报——我校同学在虹口区第二十七届学生欢乐艺术节中获奖'  target='_blank'  >喜报——我校同学在虹口区第</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_666_4192.shtml' title='喜报——我校同学上海市第十三届中学生时政知识大赛中获奖'  target='_blank'  >喜报——我校同学上海市第十</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_666_4188.shtml' title='喜报——我校学生在第八届全国中学生数理化学科综合能力竞赛（上海赛区）中获奖'  target='_blank'  >喜报——我校学生在第八届全</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_666_4151.shtml' title='喜报——我校学生在虹口区第八届青少年经典诗文诵读比赛中获奖'  target='_blank'  >喜报——我校学生在虹口区第</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_666_4297.shtml' title='喜报'  target='_blank'  >喜报</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_666_4294.shtml' title='喜报——我校同学获全国数学邀请赛铜奖'  target='_blank'  >喜报——我校同学获全国数学</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_666_4304.shtml' title='喜报——我校同学在2016年虹口区学生书画比赛中获奖'  target='_blank'  >喜报——我校同学在2016年虹</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_666_4338.shtml' title='热烈祝贺我校学生在劳技学科竞赛中获奖'  target='_blank'  >热烈祝贺我校学生在劳技学科</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_102.shtml">复兴概况</a> >> <a href="list_1_114.shtml">学校荣誉</a> >> <a href="list_1_666.shtml">学生荣誉</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>我校学生荣获上海市中学生物理学术竞赛一等奖</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:物理组&nbsp;&nbsp; 编辑日期:2016-9-1 9:59:05&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=4327"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt; line-height: 150%" align="center"><span style="font-size: 15pt; font-family: 宋体; color: #333333; line-height: 150%; mso-bidi-font-family: Arial">我校学生荣获上海市中学生物理学术竞赛一等奖</span></p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt; line-height: 150%" align="center"><span style="font-size: 15pt; font-family: 宋体; color: #333333; line-height: 150%; mso-bidi-font-family: Arial"><span lang="EN-US"><o:p><img src="/userfiles/upload/image/2016/09/01/20160901101600462253530.jpg" alt="" /></o:p></span></span></p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt; line-height: 150%" align="center"><span style="font-size: 15pt; font-family: 宋体; color: #333333; line-height: 150%; mso-bidi-font-family: Arial"><span lang="EN-US"><img src="/userfiles/upload/image/2016/09/01/20160901102802696342110.jpg" alt="" /></span></span></p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt; line-height: 150%" align="center">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">7</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">月</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">10</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">日，由上海市物理学会主办、同济大学承办的第二届上海市中学生物理学术竞赛落下了帷幕。来自上海各区县的</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">21</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">支队伍参与了比赛，其中包括上海中学、复旦附中、交大附中等名校。我校四名学生和华师大一附中的一名学生组成的&ldquo;测不准&rdquo;虹口联队在比赛中荣获了上海市一等奖的佳绩。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">上海市中学生物理学术竞赛（</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">Shanghai Middle school student Physics Tournament</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">，简称</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">SMPT</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">）是一项以团队合作的形式研究实际物理问题，以辩论形式竞赛的新型赛事。，它借鉴了国际青年物理学家锦标赛（</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">IYPT</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">）以及全国大学生物理学术竞赛（</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">CUPT</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">）的模式，按照论文答辩的形式，赛队将扮演三种不同的角色：正方、反方、评论方，就各自的研究成果彼此交流切磋。旨在锻炼学生解决复杂科学问题的能力，能够针对这些问题给出令人信服的解决方案，提升综合科学素养。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">五月初，高一的夏境远、王佳琪、李嘉豪和高二的翁倩茹同学，经过了区初赛的选拔后与华师大一附中的余世豪同学组成虹口区联队，取名&ldquo;测不准&rdquo;，在我校丁慧老师的指导和带队下，参加了</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">2016</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">年上海市中学生物理学术竞赛。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">在比赛前的两个月里，我校四位同学在繁忙的学业中抽出时间，完成了复杂的理论分析与实验探究。为了克服了临时校区的实验条件限制，专门前往同济大学为我校提供的探究实验室进行实验研究。参赛队伍和指导老师在六月底、七月初全力投入，连续集训两周。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">最终的竞赛于</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">7</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">月</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">9</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">、</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">10</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">日在同济大学举办，在持续两天的比赛过程中，所有队员都全力以赴，最终高质量地完成了</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><font face="Calibri">9</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">场比赛。联队最终获得一等奖，同学们在赛场上的表现和风姿优异，真正赛出了水平，赛出了风格。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">这次取得的成绩要感谢本校和同济大学老师在比赛期间给予的帮助，同时为上海市复兴高级中学发展物理学术竞赛积累了宝贵的经验，也为将来取得更好的成绩奠定良好的基础。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">正如队名&ldquo;测不准&rdquo;所取得海森堡测不准原理之意，通过本次竞赛，我校参赛学生成长颇多，同时也清楚地意识到自身与物理世界大门的距离，始终保持着对物理真理的敬畏与好奇。相信在未来的路上，同学们会在此次竞赛的基础上，继续用辩论、探索等方法竭尽所能探究物理现象，不断探究、成长，向心中的学术和真理前行。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%"><o:p></o:p></span></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4327&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=4327"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

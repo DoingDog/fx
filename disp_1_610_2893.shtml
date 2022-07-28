@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div610" class='listitem3'><a href='list_1_610.shtml'>招生信息</a></div></td></tr><tr><td><div id="div611" class='listitem3'><a href='list_1_611.shtml'>升学信息</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_610_3690.shtml' title='标题:2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕&#13;点击:3350次&#13;日期:2015-3-5 11:01:57'  ><span style='color:;'>2015年复兴集团初三学生“走</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3548.shtml' title='标题:关于新生分班情况查询的通知&#13;点击:3996次&#13;日期:2014-8-2 16:46:46'  ><span style='color:;'>关于新生分班情况查询的通知</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3544.shtml' title='标题:复兴高级中学2014级学生名单&#13;点击:4146次&#13;日期:2014-7-21 17:01:58'  ><span style='color:;'>复兴高级中学2014级学生名单</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3490.shtml' title='标题:致未收到复兴高中“提前招生录取”面试通知的家长、同学&#13;点击:3653次&#13;日期:2014-5-17 10:28:24'  ><span style='color:;'>致未收到复兴高中“提前招生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3464.shtml' title='标题:2014年 复兴高级中学文艺特长生招生办法&#13;点击:2581次&#13;日期:2014-4-28 16:14:44'  ><span style='color:;'>2014年&nbsp;复兴高级中学文艺特长</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3452.shtml' title='标题:2014年上海市复兴高级中学“提前招生录取”方案&#13;点击:11220次&#13;日期:2014-4-23 9:34:20'  ><span style='color:;'>2014年上海市复兴高级中学“</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_3432.shtml' title='标题:复兴中学喜欢什么样的学生&#13;点击:4172次&#13;日期:2014-4-12 19:09:17'  ><span style='color:;'>复兴中学喜欢什么样的学生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2910.shtml' title='标题:今年报考复兴高级中学的学生请注意&#13;点击:13608次&#13;日期:2013-7-15 10:06:36'  ><span style='color:;'>今年报考复兴高级中学的学生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2893.shtml' title='标题:2016届预录取学生夏令营安排表&#13;点击:3828次&#13;日期:2013-6-18 15:48:47'  ><span style='color:;'>2016届预录取学生夏令营安排</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2836.shtml' title='标题:2013年上海市复兴高级中学“提前招生录取”方案&#13;点击:16462次&#13;日期:2013-4-17 14:03:43'  ><span style='color:;'>2013年上海市复兴高级中学“</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_610_3690.shtml' title='2015年复兴集团初三学生“走近复兴高中”活动顺利闭幕'  target='_blank'  >2015年复兴集团初三学生“走</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_122.shtml">升学招生</a> >> <a href="list_1_610.shtml">招生信息</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>2016届预录取学生夏令营安排表</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:教导处&nbsp;&nbsp; 编辑日期:2013-6-18 15:48:47&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2893"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p><span><img alt="" src="/userfiles/upload/image/2013/06/19/20130619111425453796500.jpg" /></span></p>
+<p><span>&nbsp; 建议：讲座内容围绕初高中衔接以及如何尽快融入高中生活或高中学科怎样学为主题。</span><br />
+<span>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 联系人：年级组长张燕老师</span></p>
+                            <div id="upfiles">
+                            <DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2013/06/18/20130618154748752767630.rtf");' href="javascript:void();">2016届预录取学生夏令营安排表.rtf</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2013/06/18/20130618154748752767630.rtf",this)'>删除</SPAN></DIV>
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2893&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2893"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,424 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div661" class='listitem3'><a href='list_1_661.shtml'>科研信息</a></div></td></tr><tr><td><div id="div662" class='listitem3'><a href='list_1_662.shtml'>科研计划</a></div></td></tr><tr><td><div id="div125" class='listitem3'><a href='list_1_125.shtml'>科研成果</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_125_3082.shtml' title='标题:2013年教研组发表论文和课题统计&#13;点击:500次&#13;日期:2014-1-13 16:33:37'  ><span style='color:;'>2013年教研组发表论文和课题</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_3080.shtml' title='标题:2013年虹口区第11届教育科研评比复兴高级中学获奖汇总&#13;点击:469次&#13;日期:2014-1-13 16:30:22'  ><span style='color:;'>2013年虹口区第11届教育科研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_3078.shtml' title='标题:2013年青年教师课题研究成果评比结果&#13;点击:394次&#13;日期:2014-1-13 16:28:50'  ><span style='color:;'>2013年青年教师课题研究成果</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_2752.shtml' title='标题:热烈祝贺以下教师发表的论文刊登在国家级、市级、区级刊物上&#13;点击:1653次&#13;日期:2013-1-18 11:01:35'  ><span style='color:;'>热烈祝贺以下教师发表的论文</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_2648.shtml' title='标题:我校参加市校本课程展览&#13;点击:482次&#13;日期:2012-12-14 8:05:22'  ><span style='color:;'>我校参加市校本课程展览</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_1173.shtml' title='标题:区科研室“三个课堂”征文我校参加情况汇总&#13;点击:565次&#13;日期:2012-2-22 11:17:20'  ><span style='color:;'>区科研室“三个课堂”征文我</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_1172.shtml' title='标题:上海市虹口区第十届教育科研成果奖我校获奖统计&#13;点击:851次&#13;日期:2012-2-22 10:43:07'  ><span style='color:;'>上海市虹口区第十届教育科研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_907.shtml' title='标题:彩虹视屏点亮现代校园 复兴获应用典范奖&#13;点击:406次&#13;日期:2011-4-6 14:15:51'  ><span style='color:;'>彩虹视屏点亮现代校园&nbsp;复兴获</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_105.shtml">科研动态</a> >> <a href="list_1_125.shtml">科研成果</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>区科研室“三个课堂”征文我校参加情况汇总</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:科研室&nbsp;&nbsp; 编辑日期:2012-2-22 11:17:20&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1173"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;</p>
+<div align="center"><b>区科研室&ldquo;三个课堂&rdquo;征文我校参加情况汇总</b></div>
+<div><b>&nbsp;</b></div>
+<div><b>一</b><b><span>&nbsp;&nbsp; </span></b><b>&ldquo;我的教学一得&rdquo;</b></div>
+<p>
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="45">
+            序号
+            </td>
+            <td valign="top" width="420">
+            <div>题目</div>
+            </td>
+            <td valign="top" width="105">
+            <div>作者</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>1</div>
+            </td>
+            <td valign="top" width="420">
+            <div>&ldquo;亚历山大大帝VS秦始皇&rdquo;教学设计与实施</div>
+            </td>
+            <td valign="top" width="105">
+            <div>倪华</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>2</div>
+            </td>
+            <td valign="top" width="420">
+            <div>创新班英语课程作业设计</div>
+            </td>
+            <td valign="top" width="105">
+            <div>楼蕾</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>3</div>
+            </td>
+            <td valign="top" width="420">
+            <div>课外活动如何推动有效课堂教学深化</div>
+            </td>
+            <td valign="top" width="105">
+            <div>戴华韵</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>4</div>
+            </td>
+            <td valign="top" width="420">
+            <div>立足基础教学设计综合的艺术实践</div>
+            </td>
+            <td valign="top" width="105">
+            <div>韩凌</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>5</div>
+            </td>
+            <td valign="top" width="420">
+            <div>培养学生质疑精神与能力的实践</div>
+            </td>
+            <td valign="top" width="105">
+            <div>翁雪宁</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>6</div>
+            </td>
+            <td valign="top" width="420">
+            <div>巧用&ldquo;迁移&rdquo;规律，提高体操教学的实效性</div>
+            </td>
+            <td valign="top" width="105">
+            <div>施娟</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>7</div>
+            </td>
+            <td valign="top" width="420">
+            <div>巧用&ldquo;温馨因子&rdquo;促进高中数学温馨课堂的教学实践</div>
+            </td>
+            <td valign="top" width="105">
+            <div>顾叶青</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>8</div>
+            </td>
+            <td valign="top" width="420">
+            <div>学生课后有效自主学习能力培养的实践</div>
+            </td>
+            <td valign="top" width="105">
+            <div>薛建国</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>9</div>
+            </td>
+            <td valign="top" width="420">
+            <div>在作业中，培养探究、反思、合作的能力</div>
+            </td>
+            <td valign="top" width="105">
+            <div>李可锋</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div><b>&nbsp;</b></div>
+<div><b>二</b><b> &nbsp;&nbsp;</b><b>&ldquo;我对教学规律的探索&rdquo;</b></div>
+<p>
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="43">
+            <div>序号</div>
+            </td>
+            <td valign="top" width="420">
+            <div>题目</div>
+            </td>
+            <td valign="top" width="105">
+            <div>作者</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>1</div>
+            </td>
+            <td valign="top" width="420">
+            <div>对于建设温馨、情趣、有效之物理课堂的思考</div>
+            </td>
+            <td valign="top" width="105">
+            <div>刘继范</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>2</div>
+            </td>
+            <td valign="top" width="420">
+            <div>高中物理创新型作业的设计</div>
+            </td>
+            <td valign="top" width="105">
+            <div>张广元</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>3</div>
+            </td>
+            <td valign="top" width="420">
+            <div>关于课堂教学中开发学生智力的薄议</div>
+            </td>
+            <td valign="top" width="105">
+            <div>李可锋</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>4</div>
+            </td>
+            <td valign="top" width="420">
+            <div>基于建构主义教学理论下的英语作业设计</div>
+            </td>
+            <td valign="top" width="105">
+            <div>孔庆昊</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>5</div>
+            </td>
+            <td valign="top" width="420">
+            <div>开展长课教学研究，培养学生创新素养</div>
+            </td>
+            <td valign="top" width="105">
+            <div>赵莹婷</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>6</div>
+            </td>
+            <td valign="top" width="420">
+            <div>论思想政治课基于目标的教学评价</div>
+            </td>
+            <td valign="top" width="105">
+            <div>张尚达</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>7</div>
+            </td>
+            <td valign="top" width="420">
+            <div>如何提高英语阅读教学的有效性</div>
+            </td>
+            <td valign="top" width="105">
+            <div>楼蕾</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>8</div>
+            </td>
+            <td valign="top" width="420">
+            <div>试论&ldquo;问题&rdquo;教学法在高中历史教学中的价值与开发</div>
+            </td>
+            <td valign="top" width="105">
+            <div>胡平</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>9</div>
+            </td>
+            <td valign="top" width="420">
+            <div>新课程改革下的三角教学实践</div>
+            </td>
+            <td valign="top" width="105">
+            <div>薛建国</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div><b>&nbsp;</b></div>
+<div><b>三</b><b> &nbsp;&nbsp;</b><b>&ldquo;我心目中的好课&rdquo;</b></div>
+<p>
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="43">
+            <div>序号</div>
+            </td>
+            <td valign="top" width="420">
+            <div>题目</div>
+            </td>
+            <td valign="top" width="105">
+            <div>作者</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>1</div>
+            </td>
+            <td valign="top" width="420">
+            <div>&ldquo;勃兰特之跪&rdquo;带来的感动和震撼</div>
+            </td>
+            <td valign="top" width="105">
+            <div>朱文波</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>2</div>
+            </td>
+            <td valign="top" width="420">
+            <div>对高中物理&ldquo;共点力平衡条件的应用&rdquo;一课的教学思考</div>
+            </td>
+            <td valign="top" width="105">
+            <div>张广元</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>3</div>
+            </td>
+            <td valign="top" width="420">
+            <div>数学项目活动课三角函数的点滴思考</div>
+            </td>
+            <td valign="top" width="105">
+            <div>赵莹婷</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+            <div>4</div>
+            </td>
+            <td valign="top" width="420">
+            <div>英语创新教学反思</div>
+            </td>
+            <td valign="top" width="105">
+            <div>楼蕾</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div>&nbsp;</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1173&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1173"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,758 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div661" class='listitem3'><a href='list_1_661.shtml'>科研信息</a></div></td></tr><tr><td><div id="div662" class='listitem3'><a href='list_1_662.shtml'>科研计划</a></div></td></tr><tr><td><div id="div125" class='listitem3'><a href='list_1_125.shtml'>科研成果</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_125_3082.shtml' title='标题:2013年教研组发表论文和课题统计&#13;点击:500次&#13;日期:2014-1-13 16:33:37'  ><span style='color:;'>2013年教研组发表论文和课题</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_3080.shtml' title='标题:2013年虹口区第11届教育科研评比复兴高级中学获奖汇总&#13;点击:469次&#13;日期:2014-1-13 16:30:22'  ><span style='color:;'>2013年虹口区第11届教育科研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_3078.shtml' title='标题:2013年青年教师课题研究成果评比结果&#13;点击:394次&#13;日期:2014-1-13 16:28:50'  ><span style='color:;'>2013年青年教师课题研究成果</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_2752.shtml' title='标题:热烈祝贺以下教师发表的论文刊登在国家级、市级、区级刊物上&#13;点击:1653次&#13;日期:2013-1-18 11:01:35'  ><span style='color:;'>热烈祝贺以下教师发表的论文</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_2648.shtml' title='标题:我校参加市校本课程展览&#13;点击:482次&#13;日期:2012-12-14 8:05:22'  ><span style='color:;'>我校参加市校本课程展览</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_1173.shtml' title='标题:区科研室“三个课堂”征文我校参加情况汇总&#13;点击:565次&#13;日期:2012-2-22 11:17:20'  ><span style='color:;'>区科研室“三个课堂”征文我</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_1172.shtml' title='标题:上海市虹口区第十届教育科研成果奖我校获奖统计&#13;点击:851次&#13;日期:2012-2-22 10:43:07'  ><span style='color:;'>上海市虹口区第十届教育科研</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_125_907.shtml' title='标题:彩虹视屏点亮现代校园 复兴获应用典范奖&#13;点击:406次&#13;日期:2011-4-6 14:15:51'  ><span style='color:;'>彩虹视屏点亮现代校园&nbsp;复兴获</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      </table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_105.shtml">科研动态</a> >> <a href="list_1_125.shtml">科研成果</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>热烈祝贺以下教师发表的论文刊登在国家级、市级、区级刊物上</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:&nbsp;&nbsp; 编辑日期:2013-1-18 11:01:35&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2752"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;<b style="text-align: center; font-size: 12pt"><span style="font-size: 14pt" lang="EN-US">2012</span></b><b style="text-align: center; font-size: 12pt"><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年复兴高中教师发表论文和参与课题统计</span></b></p>
+<p class="MsoNormal"><b><span style="font-family: 宋体; color: red; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">热烈祝贺以下教师发表的论文刊登在国家级、市级、区级刊物上。</span></b><b><span style="color: red; font-size: 14pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p class="MsoNormal"><b><span style="font-size: 14pt" lang="EN-US">2012</span></b><b><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'">年乐燎原老师发表在《当代学生》</span></b><b><span style="font-size: 14pt" lang="EN-US">&ldquo;</span></b><b><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'">赏诗品词</span></b><b><span style="font-size: 14pt" lang="EN-US">&rdquo;</span></b><b><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'">专栏的文章</span></b><b><span style="font-size: 14pt" lang="EN-US"><o:p></o:p></span></b></p>
+<div><b>一、论文发表</b></div>
+<div align="center">（国家级）</div>
+<p class="MsoNormal">
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="67">
+            <div align="center">时间</div>
+            </td>
+            <td width="72">
+            <div align="center">姓名</div>
+            </td>
+            <td width="300">
+            <div align="center">论文名称</div>
+            </td>
+            <td width="120">
+            <div align="center">刊物名</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年2月</div>
+            </td>
+            <td width="72">
+            <div align="center">付文治</div>
+            </td>
+            <td width="300">
+            <div align="center">自然无痕地落实三维目标</div>
+            </td>
+            <td width="120">
+            <div align="center">《历史教学问题》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年5月</div>
+            </td>
+            <td width="72">
+            <div align="center">张燕</div>
+            </td>
+            <td width="300">
+            <div align="center">浅谈思想政治学科教师的专业化发展</div>
+            </td>
+            <td width="120">
+            <div align="center">《思想政治课研究》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年9月&nbsp;</div>
+            </td>
+            <td width="72">
+            <div align="center">陈盛</div>
+            </td>
+            <td width="300">
+            <div align="center">高中女生物理教法初探</div>
+            </td>
+            <td width="120">
+            <div align="center">《中学物理教学参考》</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div>&nbsp;</div>
+<div align="center">（市级）</div>
+<p class="MsoNormal">
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="67">
+            <div align="center">时间</div>
+            </td>
+            <td width="72">
+            <div align="center">姓名</div>
+            </td>
+            <td width="300">
+            <div align="center">论文名称</div>
+            </td>
+            <td width="120">
+            <div align="center">刊物名</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年5月</div>
+            </td>
+            <td width="72">
+            <div align="center">赵莹婷</div>
+            </td>
+            <td width="300">
+            <div align="center">TI图形计算器教学应用研究&mdash;问题解决</div>
+            </td>
+            <td width="120">
+            <div align="center">上海市论文评选二等奖</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年6月</div>
+            </td>
+            <td width="72">
+            <div align="center">陆磐良</div>
+            </td>
+            <td width="300">
+            <div align="center">教师心理健康与调适的研究与实践（获上海市中小学德育协会、中小学幼儿教师奖励基金会第五届&ldquo;健生杯&rdquo;德育研究二等奖，上海教育出版社出版）</div>
+            </td>
+            <td width="120">
+            <div align="center">让德育插上翅膀&mdash;&mdash;第五届&ldquo;健生杯&rdquo;德育研究论文集</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年</div>
+            </td>
+            <td width="72">
+            <div align="center">薛建国</div>
+            </td>
+            <td width="300">
+            <div align="center">数学思维与训练方式的优化策略</div>
+            </td>
+            <td width="120">
+            <div align="center">《新民晚报教育周刊》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年</div>
+            </td>
+            <td width="72">
+            <div align="center">楼蕾</div>
+            </td>
+            <td width="300">
+            <div align="center">卡西欧电子辞典在英语泛读教学中的运用</div>
+            </td>
+            <td width="120">
+            <div align="center">《上海英语教研》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年1月</div>
+            </td>
+            <td width="72">
+            <div align="center">刘继范</div>
+            </td>
+            <td width="300">
+            <div align="center">从高考物理失分谈物理寒假复习策略（上、下）</div>
+            </td>
+            <td width="120">
+            <div align="center">《新民晚报》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年2月</div>
+            </td>
+            <td width="72">
+            <div align="center">刘继范</div>
+            </td>
+            <td width="300">
+            <div align="center">自由落体运动的课前构思</div>
+            </td>
+            <td width="120">
+            <div align="center">《新课程》</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<div>&nbsp;</div>
+<div align="center">（区级）</div>
+<p class="MsoNormal">
+<table class="TableCss" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="67">
+            <div align="center">时间</div>
+            </td>
+            <td width="72">
+            <div align="center">姓名</div>
+            </td>
+            <td width="300">
+            <div align="center">论文名称</div>
+            </td>
+            <td width="120">
+            <div align="center">刊物名</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年</div>
+            </td>
+            <td width="72">
+            <div align="center">薛建国</div>
+            </td>
+            <td width="300">
+            <div align="center">努力做一个智慧型教师</div>
+            </td>
+            <td width="120">
+            <div align="center">《虹口教育》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年</div>
+            </td>
+            <td width="72">
+            <div align="center">陈琼</div>
+            </td>
+            <td width="300">
+            <div align="center">英语情境语法教学的反思和启示</div>
+            </td>
+            <td width="120">
+            <div align="center">《虹口教育》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年</div>
+            </td>
+            <td width="72">
+            <div align="center">赵培丽</div>
+            </td>
+            <td width="300">
+            <div align="center">努力实现以学生为主的英语课堂教学</div>
+            </td>
+            <td width="120">
+            <div align="center">《虹口教育》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年</div>
+            </td>
+            <td width="72">
+            <div align="center">张先才</div>
+            </td>
+            <td width="300">
+            <div align="center">从山东2012年体育考试看体育高考模式的完善</div>
+            </td>
+            <td width="120">
+            <div align="center">《虹口教育》</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="67">
+            <div align="center">2012年&nbsp;</div>
+            </td>
+            <td width="72">
+            <div align="center">陈盛</div>
+            </td>
+            <td width="300">
+            <div align="center">关于水银自动溢出条件的讨论</div>
+            </td>
+            <td width="120">
+            <div align="center">《虹口教育》</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">1</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、动静相衬</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">意趣横生（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">4</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">2</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、虚实相生</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">含蓄蕴藉（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">5</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">3</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、情景交融</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">境界高远（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">6</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">4</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、以侧写正</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">睹影知竿（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、</span><span lang="EN-US">8</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">5</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、含蓄婉转</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">余韵如缕（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">9</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">6</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、或显或隐</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">各具情味（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">10</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、创造想象</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">独具神韵（原载《当代学生》杂志</span><span lang="EN-US">2010</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">11</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、</span><span lang="EN-US">12</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">8</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、意必求深</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">高屋建瓴（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">1</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">9</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、阳刚阴柔</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">各呈情采（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">2</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">10</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、寓理于景</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">韵致深厚（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">3</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">11</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、情景反差</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">韵味倍浓（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">4</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">12</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、繁简适宜</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">各尽其妙（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">5</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">13</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、运用对比</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">情味深长（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">6</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">14</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、反常合道</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">婉曲深致（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、</span><span lang="EN-US">8</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">15</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、双面设譬</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">妙喻生辉（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">9</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">16</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、意象叠加</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">辞约义丰（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">10</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">17</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、运用反衬</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">兴味尤饶（原载《当代学生》杂志</span><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">11</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、</span><span lang="EN-US">12</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">18</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、托物言志</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">含蕴有味（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">1</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">19</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、对面着笔</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">别有韵致（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">2</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">20</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、巧用抑扬</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">跌宕生姿（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">3</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">21</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、借梦寄意</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">深情绵邈（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">4</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">22</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、白描勾勒</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">语淡味浓（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">5</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">23</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、夸而有节</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">饰而不诬（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">6</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">24</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、一语双关</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">言近意远（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、</span><span lang="EN-US">8</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">25</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、细节刻画</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">韵味悠远（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">9</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">26</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、以物拟人</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">别具情味（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">10</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">27</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、正反互写</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">韵致高远（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">11</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">28</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">、一字立骨</span><span lang="EN-US">&nbsp; </span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">意旨显豁（原载《当代学生》杂志</span><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年第</span><span lang="EN-US">12</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">期）</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+<p><span style="font-family: &quot;Times New Roman&quot;; font-size: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA" lang="EN-US"><br style="page-break-before: always" clear="all" />
+</span></p>
+<p style="text-align: center" class="MsoNormal" align="center"><b><span style="font-family: 宋体; color: red; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">热烈祝贺以下教师申报的研究项目被列入市级、区级课题。</span></b></p>
+<p class="MsoNormal"><b><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">二、申报课题</span></b><b><span style="font-size: 14pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（市级）</span><span style="font-size: 12pt" lang="EN-US"><o:p></o:p></span></p>
+<table style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">时间</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">姓名</span></p>
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">(</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">支持人或参与者</span><span lang="EN-US">)</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">课题名称</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">批准单位</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">&nbsp;</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">陆磐良</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">内高班西藏生心理健康与调适的研究与实践（王瑾、俞嘉溦、孙欢欢、许波）</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">上海市教委基教处</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 12pt" lang="EN-US">&nbsp;</span></p>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（区级）</span><span style="font-size: 12pt" lang="EN-US"><o:p></o:p></span></p>
+<table style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">时间</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">姓名</span></p>
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">(</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">支持人或参与者</span><span lang="EN-US">)</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">课题名称</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">批准单位</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">1</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">陈奕望</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">复兴高中理科基础型课程学习训练系统的研究和开发</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">虹口区教育局</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">1</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">刘继范</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">复兴高中&ldquo;物理实验走廊&rdquo;的建设</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">虹口区教育局</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">1</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">张先才</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">复兴高中体育艺术特色课程建设的实践研究</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">虹口区教育局</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">刘明海</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">初高中语文衔接教材</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">区教育学院</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年</span><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">月</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">陈盛</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 216pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="288">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">项目引领下的青年教师发展性培养&mdash;&mdash;高中女生物理教法研究</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">虹口区教育局</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class="MsoNormal"><b><span style="color: red; font-size: 14pt" lang="EN-US">&nbsp;</span></b></p>
+<p><b><span style="font-family: &quot;Times New Roman&quot;; color: red; font-size: 14pt; mso-fareast-font-family: 宋体; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA" lang="EN-US"><br style="page-break-before: always" clear="all" />
+</span></b></p>
+<p class="MsoNormal"><b><span style="font-family: 宋体; color: red; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">热烈祝贺以下教师的研究成果在国家级、市级和区级课题评奖中获得殊荣。</span></b></p>
+<p class="MsoNormal"><b><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">三、课题结题</span></b><b><span style="font-size: 14pt" lang="EN-US"><o:p></o:p></span></b></p>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; font-size: 14pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（国家级）</span><span style="font-size: 14pt" lang="EN-US"><o:p></o:p></span></p>
+<table style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">时间</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">姓名</span></p>
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">(</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">支持人或参与者</span><span lang="EN-US">)</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">课题名称</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">批准单位</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">陈奕望、卓国诚</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-bidi-font-weight: bold">基础教育数字校园建设路线的实践研究</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">中央电教馆</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2011</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">10</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">蔡德广</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体">多用射弹演示仪的设计与使用（</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">通过中期评审二等奖</span><span style="font-family: 宋体">）</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">教育部</span></p>
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">中国科协</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 12pt" lang="EN-US">&nbsp;</span></p>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（市级）</span><span style="font-size: 12pt" lang="EN-US"><o:p></o:p></span></p>
+<table style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">时间</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">姓名</span></p>
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">(</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">支持人或参与者</span><span lang="EN-US">)</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">课题名称</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">批准单位</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体">年</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">赵莹婷</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">电子书包条件下的高中数学个性化教学模式变革研究获</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">年上海市青年教师教育教学研究课题成果三等奖</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体">年</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">陈华</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体">基于数码显微生物学实验室的实验教学研究</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体">年</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">上海市普教系统&ldquo;名校长后备人选培养工程&rdquo;专项课题</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体">年</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">陈寅</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体">在小班额条件下开展高中化学个性化教学设计的研究<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体">年</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">上海市普教系统&ldquo;名校长后备人选培养工程&rdquo;专项课题</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体">年</span><span lang="EN-US">3</span><span style="font-family: 宋体">月</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体">施娟</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体">中学体操教学的本质、特点及教材的分析研究（</span><span lang="EN-US">2010</span><span style="font-family: 宋体">年度体育科研课题）</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体">上海市教育委员会</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">6</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">陆磐良、王瑾、俞嘉溦</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">教师心理健康与调试的研究与实践</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">市中小学德育研究协会</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">11</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">俞嘉溦</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">让梦想照进现实&mdash;&mdash;生涯辅导课程设计</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">市普教所（代章）</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">年</span><span lang="EN-US">11</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">月</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">俞嘉溦</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">不同性别高中学生学习能力提升的心理健康教育策略研究</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">市（一等奖）</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 12pt" lang="EN-US">&nbsp;</span></p>
+<p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; font-size: 12pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（区级）</span><span style="font-size: 12pt" lang="EN-US"><o:p></o:p></span></p>
+<table style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">时间</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">姓名</span></p>
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">(</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">支持人或参与者</span><span lang="EN-US">)</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">课题名称</span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">批准单位</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 50.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="67">
+            <p style="text-align: center" class="MsoNormal" align="center"><span lang="EN-US">2012</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">年</span><span lang="EN-US">7</span><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">月</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 63pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="84">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">赵莹婷</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 225pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="300">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">项目引领下的青年教师发展性培养&mdash;&mdash;优秀班集体品牌创建</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 81pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="108">
+            <p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-bidi-font-size: 10.5pt">虹口区教育局</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: right" class="MsoNormal" align="right"><span lang="EN-US">&nbsp;</span></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><b><span style="font-size: 14pt" lang="EN-US">&nbsp;</span></b></p>
+<p style="line-height: 18pt; margin-right: 22.1pt; mso-pagination: widow-orphan" class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2752&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2752"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,131 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=5.0,minimum-scale=1.0, user-scalable=yes"/>
+	<title>文明校园在线创建</title>
+	<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXDJ/css/reset.css">
+	<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXDJ/css/normalize.css">
+	<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXDJ/css/bootstrap.min.css" type="text/css">
+	<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXDJ/css/style.css">
+	<link rel="stylesheet" href="https://fx.xxoo.skin/SDFZB/FXDJ/css/quake.slider.css">
+	<link rel="shortcut icon" href="https://fx.xxoo.skin/SDFZB/fuxing.ico">
+	<!--[if lt IE 9]>
+		<script src="https://fx.xxoo.skin/SDFZB/FXDJ/js/dist/lib/html5/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div class="" id="wrap">
+
+		<div id="header">
+			<img src="https://fx.xxoo.skin/SDFZB/FXDJ/css/img/party.jpg" alt="">
+			<a id="login" href="https://fx.xxoo.skin/SDFZB/login" target="_blank"><img src="https://fx.xxoo.skin/SDFZB/FXDJ/css/img/login.png" alt=""></a>
+		</div>
+
+
+	<!-- 一级主体 -->
+		<div id="main" class="main clearfix">
+			<div class="lside">
+				<div class="quake-slider">
+		            <div class="quake-slider-images">
+		                <a  href="">
+		                    <img style="display:none" src="./FXDJ/css/img/images/1.jpg"  />
+		                </a>
+		            </div>
+ 
+	            </div>
+			</div>
+			<div class="rside clearfix">
+				 
+			</div>
+		</div>
+	<!-- 二级主体 -->
+		<div id="submain" class="clearfix">
+ 
+		</div>
+	</div>
+
+
+
+<!-- 轮播图 -->
+<script type="text/template" id="Powerpoint">
+	<div class="quake-slider">
+        <div class="quake-slider-images">
+        <%_.each(partyLanternSlide,function(item){%>
+            <a  href="<%="https://fx.xxoo.skin/SDFZB/queryChannel/"+item.channelid+(item.id?"-"+item.id:"")%>" target="_blank"><img src="https://fx.xxoo.skin/SDFZB<%=item.src%>" /></a>
+        <%})%>
+		</div>
+        <div class="quake-slider-captions">
+        <%_.each(partyLanternSlide,function(item){%>
+            <div class="quake-slider-caption"><%=item.title%></div>
+    	<%})%>
+    	</div>
+    </div>
+</script>
+
+<!-- 新闻简介 -->
+<script type="text/template" id="newsInfo">
+	<h1>创建动态</h1>
+	<div class="news">
+	<%_.each(partyLanternSlide,function(item){
+		var href=item.linkUrl ?item.linkUrl :"https://fx.xxoo.skin/SDFZB/queryChannel/"+item.channelid+(item.id?"-"+item.id:"")        
+        %>
+		<div class="artical artical1">
+			<div class="title"><a href="<%=href%>" target="_blank"><h2><%=item.title%></h2></a></div>
+			<div class="content"><%=item.summary%></div>
+		</div>
+	<%})%>
+	</div>
+	<div class="more"><a href="https://fx.xxoo.skin/SDFZB/queryChannel/<%=partyHarmoniousSchool[0].channelid%>">更多>></a></div>
+</script>
+
+ 
+
+<script type="text/template" id="subChannel">
+	
+	<%_.each(indexChannel,function(item,index){ 
+	  var href=item.linkUrl ?item.linkUrl :"https://fx.xxoo.skin/SDFZB/queryChannel/"+item.id;        
+    %>
+		<div class="channel">
+		<h2><a href="<%=href%>"><%=item.name%></a></h2>
+		<div class="content">
+			<ul>
+			<%_.each(item.child,function(item){
+               var href=item.linkUrl ?item.linkUrl :"https://fx.xxoo.skin/SDFZB/queryChannel/"+item.id; 
+            %>
+				<li><a href="<%=href%>" target="_blank"><%=item.name%></a></li>
+			<%})%>
+			</ul>
+        </div>
+         </div>
+    <%});%>
+	
+</script>
+
+
+<script>
+	var VIEW="index";
+	var base="https://fx.xxoo.skin/SDFZB";
+	var baseUpload="";
+	var VIEW_PARAM={"partyLanternSlide":[{"id":7933,"summary":"        12月18日上午10点，庆祝改革开放40周年大会在人民大会堂举行。我校组织全体教师集中观看大会直播，学生利用午休时间在教室观看录播，共同见证国家的伟大变革，感受热烈的庆祝氛围。","author":1,"title":"复兴高级中学师生观看\u201C庆祝改革开放40周年大会\u201D","linkurl":null,"pid":733,"src":"/upload/6/news/606/20181220105258088.png","publishdate":"2018-12-18 16:57:57","img_SlideUrl":"","channelid":734},{"id":7877,"summary":"2018年11月16日，在我校党总支开展的党员教师与西藏生结对仪式上，陈永平校长和丁伟强书记携同60余位党员教师与128名西藏生牵手结对。","author":1,"title":"发挥先锋模范作用，深化民族团结进步\u2014\u2014记复兴高级中学党员教师与西藏生结对仪式","linkurl":null,"pid":733,"src":"/upload/6/news/606/20181204081637622.jpg","publishdate":"2018-11-19 16:09:49","img_SlideUrl":"","channelid":742},{"id":7869,"summary":" 2018年11月12日，我校党总支按照教育局党工委要求，在前期通知党员自行观看《榜样3》专题节目的基础上，又组织全体党员集中观看节目视频。","author":1,"title":"我校全体党员集中观看《榜样3》专题节目","linkurl":null,"pid":733,"src":"/upload/6/news/606/20181204081922303.png","publishdate":"2018-11-16 12:56:55","img_SlideUrl":"","channelid":740}],"userStatus":0,"indexChannel":[{"islink":0,"id":733,"child":[{"islink":0,"id":727,"child":[{"islink":0,"id":734,"child":[],"opentype":null,"order":1,"name":"政治学习","isleaf":null,"img":null,"linkurl":"","pid":727},{"islink":0,"id":735,"child":[],"opentype":null,"order":2,"name":"师德建设","isleaf":null,"img":null,"linkurl":"","pid":727},{"islink":0,"id":7822,"child":[],"opentype":null,"order":3,"name":"文明修身","isleaf":null,"img":null,"linkurl":"","pid":727},{"islink":0,"id":736,"child":[],"opentype":null,"order":4,"name":"学生德育","isleaf":null,"img":null,"linkurl":"","pid":727}],"opentype":null,"order":1,"name":"思想教育深入，师生素质提升","isleaf":null,"img":"/upload/6/channel/1/20161118135942099.png","linkurl":"","pid":733},{"islink":0,"id":728,"child":[{"islink":0,"id":737,"child":[],"opentype":null,"order":5,"name":"文化活动","isleaf":null,"img":null,"linkurl":"","pid":728},{"islink":0,"id":738,"child":[],"opentype":null,"order":6,"name":"文化阵地","isleaf":null,"img":null,"linkurl":"","pid":728}],"opentype":null,"order":2,"name":"学校精神引领，文化生活丰富","isleaf":null,"img":null,"linkurl":"","pid":733},{"islink":0,"id":729,"child":[{"islink":0,"id":739,"child":[],"opentype":null,"order":7,"name":"班子建设","isleaf":null,"img":null,"linkurl":"","pid":729},{"islink":0,"id":740,"child":[],"opentype":null,"order":8,"name":"组织建设","isleaf":null,"img":null,"linkurl":"","pid":729},{"islink":0,"id":741,"child":[],"opentype":null,"order":9,"name":"党风廉洁","isleaf":null,"img":null,"linkurl":"","pid":729},{"islink":0,"id":742,"child":[],"opentype":null,"order":10,"name":"党群工作","isleaf":null,"img":null,"linkurl":"","pid":729}],"opentype":null,"order":3,"name":"党的建设加强，主体责任落实","isleaf":null,"img":null,"linkurl":"","pid":733},{"islink":0,"id":730,"child":[{"islink":0,"id":743,"child":[],"opentype":null,"order":11,"name":"发展规划","isleaf":null,"img":null,"linkurl":"","pid":730},{"islink":0,"id":745,"child":[],"opentype":null,"order":12,"name":"教学科研","isleaf":null,"img":null,"linkurl":"","pid":730},{"islink":0,"id":744,"child":[],"opentype":null,"order":13,"name":"师资建设","isleaf":null,"img":null,"linkurl":"","pid":730},{"islink":0,"id":746,"child":[],"opentype":null,"order":14,"name":"学校治理","isleaf":null,"img":null,"linkurl":"","pid":730}],"opentype":null,"order":4,"name":"教育改革深化，办学质量提高","isleaf":null,"img":null,"linkurl":"","pid":733},{"islink":0,"id":731,"child":[{"islink":0,"id":747,"child":[],"opentype":null,"order":15,"name":"平安校园","isleaf":null,"img":null,"linkurl":"","pid":731},{"islink":0,"id":748,"child":[],"opentype":null,"order":16,"name":"健康校园","isleaf":null,"img":null,"linkurl":"","pid":731},{"islink":0,"id":749,"child":[],"opentype":null,"order":17,"name":"服务保障","isleaf":null,"img":null,"linkurl":"","pid":731}],"opentype":null,"order":5,"name":"平安健康达标，校园环境优化","isleaf":null,"img":null,"linkurl":"","pid":733},{"islink":0,"id":732,"child":[{"islink":0,"id":750,"child":[],"opentype":null,"order":18,"name":"志愿服务","isleaf":null,"img":null,"linkurl":"","pid":732},{"islink":0,"id":751,"child":[],"opentype":null,"order":19,"name":"共建共享","isleaf":null,"img":null,"linkurl":"","pid":732}],"opentype":null,"order":6,"name":"社会责任担当，学校形象良好","isleaf":null,"img":null,"linkurl":"","pid":733}],"opentype":null,"order":1,"name":"基本指标","isleaf":null,"img":"/upload/6/channel/1/20161122161330642.jpg","linkurl":"","pid":0},{"islink":0,"id":765,"child":[{"islink":0,"id":756,"child":[],"opentype":null,"order":1,"name":"区级以上活动、市级以上荣誉","isleaf":null,"img":null,"linkurl":"","pid":765},{"islink":0,"id":754,"child":[],"opentype":null,"order":2,"name":"市级以上媒体报道","isleaf":null,"img":null,"linkurl":"","pid":765},{"islink":0,"id":755,"child":[],"opentype":null,"order":3,"name":"集团化办学、托管学校任务","isleaf":null,"img":null,"linkurl":"","pid":765},{"islink":0,"id":757,"child":[],"opentype":null,"order":4,"name":"年度社会责任报告","isleaf":null,"img":null,"linkurl":"","pid":765},{"islink":0,"id":758,"child":[],"opentype":null,"order":5,"name":"文明创建特色项目","isleaf":null,"img":null,"linkurl":"","pid":765}],"opentype":null,"order":2,"name":"特色指标","isleaf":null,"img":"/upload/6/channel/1/20161122161357424.jpg","linkurl":"","pid":0},{"islink":0,"id":7833,"child":[{"islink":0,"id":7835,"child":[],"opentype":null,"order":1,"name":"统计信息表","isleaf":null,"img":null,"linkurl":"","pid":7833},{"islink":0,"id":7836,"child":[],"opentype":null,"order":2,"name":"学校自评表","isleaf":null,"img":null,"linkurl":"","pid":7833}],"opentype":null,"order":3,"name":"中期评估","isleaf":null,"img":"/upload/6/channel/1/20180413090236183.jpg","linkurl":"","pid":0},{"islink":0,"id":7834,"child":[{"islink":0,"id":7837,"child":[],"opentype":null,"order":1,"name":"2017年复兴高级中学社会责任报告","isleaf":null,"img":null,"linkurl":"","pid":7834}],"opentype":null,"order":4,"name":"责任报告","isleaf":null,"img":"/upload/6/channel/1/20180413090513387.jpg","linkurl":"","pid":0}],"partyHarmoniousSchool":[{"id":4691,"summary":"","author":1,"title":"热烈祝贺陈华、齐幼娣老师在上海市中小学创新实验室建设论文评选中获奖","linkurl":null,"pid":765,"src":"","publishdate":"2017-05-19 12:37:03","img_SlideUrl":"","channelid":756},{"id":4425,"summary":"西藏生景德镇瓷文化之旅","author":1,"title":"西藏生：景德镇瓷文化之旅","linkurl":null,"pid":-1,"src":"","publishdate":"2016-10-11 00:00:00","img_SlideUrl":null,"channelid":-1},{"id":4423,"summary":"我校参展第二届中国教育创新公益博览会","author":1,"title":"我校参展第二届中国教育创新公益博览会","linkurl":null,"pid":765,"src":"","publishdate":"2016-09-29 00:00:00","img_SlideUrl":null,"channelid":754}]}||{};
+	if(typeof VIEW_PARAM =='string'){VIEW_PARAM=eval("("+VIEW_PARAM+")");}
+</script>
+<script src="https://fx.xxoo.skin/SDFZB/FXDJ/js/sea.js"></script>
+<script>
+seajs.use("view_"+VIEW,function(m){
+	m.init();
+});
+
+</script>
+	<!-- footer -->
+	<div id="footer">
+		<div class="foot">
+			<p><i class="icon-user"></i>上海市复兴高级中学<i class="glyphicon glyphicon-home"></i> 地址：上海市车站南路28号<i class="icon-envelope-alt"></i>邮编：200434</p>
+			<p><i class="icon-phone"></i>电话：+86-021-65606715<i class="icon-envelope"></i>邮箱：fxheadmaster@163.com</p>
+		</div>
+	</div>
+
+
+</body>
+</html>

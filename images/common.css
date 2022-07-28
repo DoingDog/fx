@@ -1,0 +1,32 @@
+﻿*,body ,div,span,b,input,dl,p,h1,h2,img,table { margin:0px; padding:0px; }
+body { font-family:"Microsoft Yahei", "微软雅黑", Arial, "宋体";}
+
+a { text-decoration:none; color:black;}
+    a:hover { color:red;}
+
+img { border-collapse:collapse; border:0px;}
+
+.f12 { font-size:12px;}
+.f13 { font-size:13px;}
+.f14 { font-size:14px;}
+.f15 { font-size:15px;}
+.f16 { font-size:16px;}
+.f18 { font-size:18px;}
+.f20 { font-size:20px;}
+.f24 { font-size:24px;}
+.fw_b { font-weight:bold;}
+
+.fl { float:left;}
+.fr { float:right;}
+.clear { clear:both;}
+.ps_a { position:absolute;}
+.ps_r { position:relative;}
+
+.W100 { width:100%;}
+.w1000 { width:1000px;}
+
+
+.margin_center { margin:0 auto;}
+
+.dis_none { display:none;}
+.dis_block { display:block;}

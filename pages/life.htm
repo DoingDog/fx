@@ -1,0 +1,272 @@
+<html><!-- #BeginTemplate "/Templates/main.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>::上海复兴高级中学网站::</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="main.css" type="text/css">
+<script language="JavaScript">
+var L_strMailboxPlease_Message = "请键入您的邮箱名称。";
+var L_strValidMailbox_Message = "邮箱名称包含无效字符。";
+var L_SessionTimedOut_Message = "您的会话已超时。如果要继续，您必须重新登录。";
+
+function sendForm(bAnon) {
+    if (!bAnon)
+    {
+    if (document.logonForm.mailbox.value=="") 
+    {
+        alert(L_strMailboxPlease_Message ) 
+    }
+    else if (((document.logonForm.mailbox.value.indexOf("\\") != -1) ||
+         (document.logonForm.mailbox.value.indexOf("/") != -1)) ||
+         (document.logonForm.mailbox.value.indexOf(";") != -1)) 
+    {
+        alert(L_strValidMailbox_Message)
+    }   
+    else
+    {
+        document.logonForm.submit();
+    }    
+    }
+    else
+    {
+    document.logonForm.mailbox.value="";
+    document.logonForm.submit();
+    }
+}
+</script>
+<script language="JavaScript"><!--
+	var text="请记住本站网址：https://www.fuxing.sh.cn"
+	var speed=60
+	var x=0
+	function bb()
+	{
+		var a=text.substring(0,x)
+		var b=text.substring(x,x+1).toUpperCase()
+		var c=text.substring(x+1,text.length)
+		window.status=a+b+c
+		if(x==text.length)
+		{
+			x=0
+
+		}
+		else
+		{
+			x++
+		}
+		setTimeout("bb()",speed)
+
+	}
+	bb();
+	//-->
+	</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="2" topmargin="2" marginwidth="0" marginheight="0">
+<table width="770" border="0" cellpadding="0" cellspacing="1" align="left">
+  <tr> 
+    <td width="120" bgcolor="#006699" height="91"> 
+      <table width="120" cellspacing="0" cellpadding="1" align="left" bordercolor="#006699" class="login" bgcolor="#FFFFFF" height="80">
+        <tr> 
+          <td bordercolor="#006699" height="20" bgcolor="#006699"> 
+            <div align="center"><font color="#ffffff">email登录</font></div>
+          </td>
+        </tr>
+        <tr> 
+          <form name=logonForm onSubmit=sendForm(false);return(false); 
+          action=https://mail.fuxing.sh.cn/exchange/LogonFrm.asp method=get>
+            <td colspan=2 height=60 nowrap> 
+              <p align="center"><font color="#000000">账号:        
+                <input maxlength=15 size=10 name=mailbox class="form0">
+                <br>
+                <input type=hidden value=0 name=isnewwindow2>
+                <input type=image border=0 src="login.gif" alt="登录" width="42" height="30">       
+                </font></p>
+            </td>
+          </form>
+        </tr>
+      </table>
+      <br>
+    </td>
+    <td colspan="10" height="91" align="center" valign="middle"> 
+      <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="445" height="75">
+          <param name=movie value="../images/title.swf">
+          <param name=quality value=high>
+          <embed src="../images/title.swf" quality=high pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="445" height="75">
+          </embed> 
+        </object></div>
+    </td>
+  </tr>
+  <tr valign="middle"> 
+    <td bgcolor="#006699" height="18">
+<div id="Clock" align="center" style="font-size: 20; color:#000000"></div></td>
+    <td width="35" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div  align="center"> <a href="../index.htm">主页</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="intro.htm">复兴概况</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="newface.htm">复兴新貌</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="../jiaoyutese/index.html">教育特色</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="life.htm">校园生活</a></div>
+    </td>
+    <td width="45" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="../alumni/index.htm" target="_blank">校友会</a></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"><a href="https://172.16.0.12">教育资源</a></div>
+    </td>
+    <td width="150" bgcolor="#000000" class="bar" height="18"> 
+      <div align="center"><font face="Arial">:::::::::::::::::::::::::::::::::::::::::::::::::</font></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center"></div>
+    </td>
+    <td width="60" bgcolor="#000000" class="bar" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" height="18"> 
+      <div align="center">　</div>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#006699" bordercolor="#FFFFFF" width="120"> 
+      <table width="129" border="0.5" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="https://fx.xxoo.skin/stuweb/g200002">科技与环保</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199810/index.htm">人类只有一个地球</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g200004/index.htm">科学在线</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g200006/index.htm">家园中华网</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199902/index.htm">求真基因网</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199803/index.htm">航天技术</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199904/index.htm">科技园地</a></font></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#a0cce3" height="15" onMouseOver="bgColor='white'" onMouseOut="bgColor='#a0cce3'" class="left" align="center" width="123">
+            <p align="center"><font face="华文中宋" size="2">::<a href="../stuweb/g199806/index.htm">二十一世纪畅想</a></font></p>
+          </td>
+        </tr>
+      </table>
+      <p align="center">本站正在建设中……</p>
+    </td>
+    <td rowspan="4" colspan="10" valign="top" height="400" align="center" > 
+      <table width="650" border="0" cellspacing="1" cellpadding="0" height="400">
+        <tr> 
+          <td height="401" valign="top" class="left"><!-- #BeginEditable "content" --> <br>
+            <table width="645" border="0" align="center">
+              <tr> 
+                <td width="215"> 
+                  <div align="center"><br>
+                    <img src="image_23.JPG" width="169" height="113"></div>
+                </td>
+                <td width="215"> 
+                  <div align="center"><br>
+                    <img src="image_26.jpg" width="169" height="113"></div>
+                </td>
+                <td width="215"> 
+                  <div align="center"><br>
+                    <img src="image_27.jpg" width="169" height="113"></div>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="3" class="left"> 
+                  <div align="center"><br>
+                    学校推进素质教育，每年都要举行科技节、艺术节、校运动会。许多学生都积极参加。 
+                    <p></p>
+                  </div>
+                  <div align="center"></div>
+                  <div align="center"></div>
+                </td>
+              </tr>
+              <tr> 
+                <td> 
+                  <div align="center"><br>
+                    <img src="image_1.jpg" width="169" height="113"></div>
+                </td>
+                <td> 
+                  <div align="center"><br>
+                    <img src="image_11.JPG" width="169" height="113"></div>
+                </td>
+                <td> 
+                  <div align="center"><br>
+                    <img src="image_19.jpg" width="169" height="113"></div>
+                </td>
+              </tr>
+              <tr> 
+                <td class="left"> 
+                  <div align="center"><br>
+                    学生在自助物理实验室做实验<br>
+                  </div>
+                </td>
+                <td class="left"> 
+                  <div align="center"><br>
+                    科技论坛：同学在作报告 </div>
+                </td>
+                <td class="left"> 
+                  <div align="center"><br>
+                    同学们架起火箭，准备点火<br>
+                  </div>
+                </td>
+              </tr>
+            </table>
+            <!-- #EndEditable --></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" width="120" height="15" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::<a href="../mailbox/Default.htm" target="_blank">校长信箱</a></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" width="120" height="15" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::留言簿</td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" width="120" height="15" onMouseOver="bgColor='#006699'" onMouseOut="bgColor='#000000'" valign="middle" align="left" class="bar">::<a href="mailto:webmaster@fuxing.sh.cn">联系我们</a></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000"  height="15" valign="middle" align="center" width="120"> 
+      <div align="center">
+        <script language="JavaScript">
+now = new Date()
+document.write(now.toLocaleString())//-->
+</script>
+      </div>
+    </td>
+    <td colspan="9" height="15" width="120"> 
+      <div align="right"><!-- #BeginEditable "comment" -->{comment}<!-- #EndEditable --></div>
+    </td>
+  </tr>
+  <tr bgcolor="#006699"> 
+    <td colspan="11" height="35" align="center" valign="middle">地址:中国上海市车站南路28号     
+      邮编:200434 电话:86-021-65606715</td>    
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>

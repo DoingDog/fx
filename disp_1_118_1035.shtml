@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div115" class='listitem3'><a href='list_1_115.shtml'>校园文化</a></div></td></tr><tr><td><div id="div116" class='listitem3'><a href='list_1_116.shtml'>学生天地</a></div></td></tr><tr><td><div id="div117" class='listitem3'><a href='list_1_117.shtml'>心理健康</a></div></td></tr><tr><td><div id="div118" class='listitem3'><a href='list_1_118.shtml'>民族教育</a></div></td></tr><tr><td><div id="div119" class='listitem3'><a href='list_1_119.shtml'>评选奖励</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_118_1180.shtml' title='标题:载歌载舞同贺新年   举杯共庆“扎西德勒”——复兴高级中学西藏班师生共迎藏历“水龙年”&#13;点击:300次&#13;日期:2012-2-24 8:11:40'  ><span style='color:;'>载歌载舞同贺新年&nbsp;&nbsp;&nbsp;举杯共庆</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_1068.shtml' title='标题:媒体报道：跟藏族学生相处是一种缘分 &#13;点击:351次&#13;日期:2011-11-18 10:36:42'  ><span style='color:;'>媒体报道：跟藏族学生相处是</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_1061.shtml' title='标题:媒体报道：上海西藏班学生走进“和美”现场 感受家乡气息 &#13;点击:293次&#13;日期:2011-11-15 8:02:29'  ><span style='color:;'>媒体报道：上海西藏班学生走</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_1035.shtml' title='标题:一场民族学生与民族英雄的对话——记复兴高级中学西藏班学生绍兴游&#13;点击:275次&#13;日期:2011-10-27 12:14:38'  ><span style='color:;'>一场民族学生与民族英雄的对</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_1020.shtml' title='标题:区教研员周六看望西藏学生&#13;点击:271次&#13;日期:2011-10-17 12:39:47'  ><span style='color:;'>区教研员周六看望西藏学生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_1007.shtml' title='标题:复兴高级中学西藏学生欢度中秋&#13;点击:472次&#13;日期:2011-9-15 11:56:27'  ><span style='color:;'>复兴高级中学西藏学生欢度中</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_931.shtml' title='标题:复兴高级中学西藏班工作简报2011年4月&#13;点击:402次&#13;日期:2011-5-30 10:22:36'  ><span style='color:;'>复兴高级中学西藏班工作简报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_930.shtml' title='标题:复兴高级中学西藏班工作简报2011年3月&#13;点击:170次&#13;日期:2011-5-30 10:22:17'  ><span style='color:;'>复兴高级中学西藏班工作简报</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_929.shtml' title='标题:2010级西藏班学生生活概览&#13;点击:440次&#13;日期:2011-5-30 10:19:55'  ><span style='color:;'>2010级西藏班学生生活概览</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_118_928.shtml' title='标题:2007级西藏班三年学习生活概览&#13;点击:237次&#13;日期:2011-5-30 10:13:38'  ><span style='color:;'>2007级西藏班三年学习生活概</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_118_1180.shtml' title='载歌载舞同贺新年   举杯共庆“扎西德勒”——复兴高级中学西藏班师生共迎藏历“水龙年”'  target='_blank'  >载歌载舞同贺新年&nbsp;&nbsp;&nbsp;举杯共庆</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_103.shtml">复兴德育</a> >> <a href="list_1_118.shtml">民族教育</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>一场民族学生与民族英雄的对话——记复兴高级中学西藏班学生绍兴游</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:许波&nbsp;&nbsp; 编辑日期:2011-10-27 12:14:38&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1035"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <div>
+<p><img alt="" src="/userfiles/upload/image/2011/10/28/20111028103807467944840.JPG" /></p>
+<p>&nbsp;2011年10月2日一早，上海市复兴中学西藏班的全体学生就坐上了等待在校门口的大巴车，兴奋地期待着即将到来的绍兴二日游。&nbsp;&nbsp;</p>
+<div>&nbsp;早在两天以前，学校就安排了老师就此次出行精心介绍了绍兴的风土人情和历史名人，尤其是这次游玩的主要景点&mdash;&mdash;鲁迅故居，并对鲁迅其人其文进行了专题梳理。作为文坛巨匠和民族英雄的鲁迅先生，他的作品屡屡出现于教科书中，伴随着学生每一阶段的成长。之前，学生仅仅是从书本上读到鲁迅的作品，学习鲁迅深邃的思想和爱国精神；今天，学生得以走进鲁迅的故乡，来到鲁迅从小生活的地方，感受一位更加真实、更加生活化、更加丰富立体的民族英雄 <br />
+<div>&nbsp;在紧张的学习之余，难得的放松和出行使西藏学生们兴致高昂，一路叽叽喳喳地说着绍兴的梅干菜，商量着去百草园捡落叶，不时夹杂着阵阵嬉闹声，冲淡了假期不能回家的伤感沉闷，显露出几分节庆的欢欣雀跃。 <br />
+<div>&nbsp;中午时分，西藏班一行到达了绍兴。在尝试了梅干菜和臭豆腐之后，学生们略作休息，迫不及待地开始了鲁迅故居之旅。首先映入眼帘的是一面高大的影壁墙，上书金色的&ldquo;民族脊梁&rdquo;四个大字。进入正门，学生们三三两两结伴而行。耳听乌篷船上艄公的吆喝，踏上长满青苔的青石板路，越过狭窄的拱形小桥，进入大名鼎鼎的三味书屋，嗅到百草园泥土的清新，围在一起听听传说中的社戏，买一盒龙须糖边走边分。这里的一切都让学生们感到陌生而又熟悉。 <br />
+<div>&nbsp;两天一夜的绍兴游很快就结束了，同学们回到了生活学习的复兴高级中学，用稍显稚嫩但是格外真诚的笔触记录了这次难忘的旅行。更尕旺毛同学说：&ldquo;我们走进百草园，寻找那紫得发亮的桑葚，如同听到长妈妈在讲述美女蛇的故事&rdquo;。而让德吉龙宗同学印象最深的则是绍兴的种种味道：&ldquo;浓郁地沁人心脾的臭味&rdquo;和鲁迅故居中弥漫的&ldquo;似有若无、萦绕于鼻端、不绝于心神&rdquo;的书香味。朱蓉珍同学是个心思细腻的女孩，她在游记中写道：&nbsp;&ldquo;青石板上人过无声，但岁月留痕。&rdquo; <br />
+<div>&nbsp;其实，在节假日组织远离家乡、无法回家团聚的西藏学生一起活动、旅行并不是第一次，这早就已经成为了复兴西藏班的&ldquo;光荣传统&rdquo;，形成了一整套系统的活动机制。在活动之前，老师们有针对性地选择一些有教育意义、能够培养学生各方面素质和能力的活动，事前精心策划，并对学生进行一些有意识的指导和培训。在活动中，由老师负责担任安全员，学生分组活动，自己亲手完成活动内容，亲身感受社会与学校的不同，把学校中学到的知识转化为实际操作的能力，并运用到实践生活中。活动结束后，通过学生自我总结、小组内反思讨论和老师点评指导&ldquo;三位一体&rdquo;的模式，总结成果、改正不足。通过各种活动形式，不仅锻炼了学生的实践能力，增强了班级凝聚力，培养了团队精神；更是为节假日不得回家的西藏同学们带来了节日的欢乐氛围，也送去了来自复兴大家庭的温暖和关爱。</p>
+<p style="text-align: center">&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+                            <div id="upfiles">
+                            
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1035&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1035"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

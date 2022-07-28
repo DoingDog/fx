@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="Template/FXGJ/css/xxgk.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="ztree/zTreeStyle/zTreeStyle.css" type="text/css">
+    <!--<link rel="stylesheet" href="ztree/zTreeStyle/zTreeIcons.css" type="text/css">-->
+    <script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="ztree/js/jquery-ztree-2.2.js"></script>
+    <script type="text/javascript" src="plugins/getclassfor2.0.ashx?cid=619"></script>
+    <style>#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; } #upfiles span{ display:none;}#upfiles a{color:#111; text-decoration:none;}#upfiles a:hover{ text-decoration:underline;}</style>
+    <script type="text/javascript"> $(function () { $("#upfiles span").remove(); });</script>
+    <script type="text/javascript">
+        function iframeFitHeight(oIframe) {try {var oWin = oIframe.name ? window.frames[oIframe.name] : oIframe.contentWindow; oIframe.style.height = oWin.document.body.scrollHeight + 50 + "px"; } catch (e) { } }
+        $(function () {
+            var setting = {
+                showLine: true,
+                checkable: false,
+                isSimpleData: true,
+                treeNodeKey: "id",
+                treeNodeParentKey: "pId"
+            }
+//            var treeNodes = [
+//            { "id": 621, "pId": 619, "name": "学校基本情况" },
+//            { "id": 625, "pId": 621, "name": "学校概况" },
+//            { "id": 626, "pId": 621, "name": "学校领导" },
+//            { "id": 627, "pId": 621, "name": "机构设置" },
+//            { "id": 628, "pId": 621, "name": "制度规范" },
+//            { "id": 629, "pId": 621, "name": "规划计划" },
+//            { "id": 630, "pId": 621, "name": "联系方式" },
+//            { "id": 622, "pId": 619, "name": "学校行政管理" },
+//            { "id": 637, "pId": 622, "name": "应急预案" },
+//            { "id": 638, "pId": 622, "name": "党建工作" },
+//            { "id": 639, "pId": 622, "name": "招生工作" },
+//            { "id": 640, "pId": 622, "name": "毕业生工作" },
+//            { "id": 631, "pId": 622, "name": "学校新闻" },
+//            { "id": 632, "pId": 622, "name": "每周安排" },
+//            { "id": 633, "pId": 622, "name": "教学工作" },
+//            { "id": 634, "pId": 622, "name": "学校收费" },
+//            { "id": 635, "pId": 622, "name": "德育建设" },
+//            { "id": 636, "pId": 622, "name": "后勤服务" },
+//            { "id": 623, "pId": 619, "name": "教师工作" },
+//            { "id": 641, "pId": 623, "name": "队伍建设" },
+//            { "id": 642, "pId": 623, "name": "教研科研" },
+//            { "id": 643, "pId": 623, "name": "教师招聘" },
+//            { "id": 624, "pId": 619, "name": "学生工作" },
+//            { "id": 644, "pId": 624, "name": "学籍管理" },
+//            { "id": 645, "pId": 624, "name": "帮困助学" },
+//            { "id": 646, "pId": 624, "name": "评选奖励" },
+//            { "id": 647, "pId": 624, "name": "团队活动" },
+//            { "id": 648, "pId": 624, "name": "课外活动" }
+//            ];
+            var zTree = $("#tree").zTree(setting, treeNodes);
+        });
+    </script>
+</head>
+<body>
+    <div class="header"></div>
+    <script src="template/FXGJ/head.js" type="text/javascript"></script>
+    <div class="listbg">
+        <div class="bodyer clearfix">
+            <div class="bleft">
+                <div style="height:120px;"></div>
+                <div class="lmdhpos">
+                    <ul id="tree" class="tree"></ul>
+                </div>
+            </div>
+            <div class="bright">
+                <div style="height:30px;"></div>
+                <div class="webpath">
+                    您现在的位置： <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_619.shtml">信息公开</a> >> <a href="list_1_622.shtml">学校行政管理</a> >> <a href="list_1_632.shtml">每周安排</a>
+                </div>
+                <div class="rcontent">
+                    <div class="c_tit">
+                        <span style='color:#000000'>2012学年第2学期第13周工作安排</span>
+                    </div>
+                    <div class="c_info">
+                        作者:校办&nbsp;&nbsp; 编辑日期:2013-5-10 14:57:54&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=2853"></script>
+                    </div>
+                    <div class="c_content">
+                        <table style="background-color: black" border="1" cellspacing="1" cellpadding="5" width="600" align="center">
+    <caption style="padding-bottom: 20px; line-height: 25px"><b style="color: red">一周工作安排</b><br />
+    (5月13日----5月17日) </caption>
+    <tbody>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%">星期</td>
+            <td style="text-align: center; background-color: #fff; width: 40%">上午</td>
+            <td style="text-align: center; background-color: #fff; width: 40%">下午</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期一</td>
+            <td style="background-color: #fff; width: 40%"><span class="Apple-style-span" style="line-height: 25px; font-size: 12px; color: rgb(50, 52, 51); font-family: 微软雅黑, 宋体; ">
+            <p><span style="font-size: 10pt; ">升旗仪式（操场）9:15</span></p>
+            <p><span style="font-size: 10pt; ">校长例会9：30</span></p>
+            </span></td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期二</td>
+            <td style="background-color: #fff; width: 40%"><span class="Apple-style-span" style="line-height: 25px; font-size: 13px; color: rgb(50, 52, 51); font-family: 微软雅黑, 宋体; ">行政例会9:30</span></td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期三</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期四</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期五</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;<span style="font-size: 10pt; ">15:15教工大会（2207教室）</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期六</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; background-color: #fff; width: 20%; height: 50px">星期日</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+            <td style="background-color: #fff; width: 40%">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+                        <div id="upfiles">
+                        
+                
+                        </div>
+                    </div>
+                    <div style="width: 100%; text-align: right;">
+                        
+                    </div>
+                    <div class="c_ps">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2853&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=2853"></script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:850px;top:48px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>

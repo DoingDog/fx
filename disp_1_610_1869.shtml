@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <title>上海市复兴高级中学</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="Stylesheet" type="text/css" href="css/index.css" />
+    <link href="Template/FXGJ/css/index.css" rel="stylesheet" type="text/css" />
+    <script src="../../js/AjaxPlunIns/Login.js" type="text/javascript"></script>
+<link href="Template/FXGJ/css/style.css" rel="stylesheet" type="text/css" />
+<script src="template/fxgj/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="template/fxgj/js/page.js" type="text/javascript"></script>
+<!--[if IE 6]><script type="text/javascript"> 
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} 
+</script><![endif]-->
+<style>
+#upfiles div{ line-height:20px; text-indent:20px; font-size:12px; background:url("images/ico_fj.gif") no-repeat; }
+#upfiles span{ display:none;}
+#upfiles a{color:#111; text-decoration:none;}
+#upfiles a:hover{ text-decoration:underline;}
+</style>
+<script type="text/javascript">
+    $(function(){
+        $("#upfiles span").remove();
+    });
+</script>
+</head>
+<body>
+    <script src="/template/FXGJ/head.js" type="text/javascript"></script>
+    <div id="mainbody">
+        <div class="bodyline">
+        </div>
+        <div class="bodyleft">
+            <div class="listhead2">
+                栏目导航</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div id="div610" class='listitem3'><a href='list_1_610.shtml'>招生信息</a></div></td></tr><tr><td><div id="div611" class='listitem3'><a href='list_1_611.shtml'>升学信息</a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                最新更新</div>
+            <div class="listcont">
+                <table style="width:100%;padding:0 5px 0 5px;" cellpadding="0" cellspacing="0"><tr><td><div class='listitem3'><a href='disp_1_610_2264.shtml' title='标题:教育收费公示&#13;点击:184次&#13;日期:2012-9-14 15:54:50'  ><span style='color:;'>教育收费公示</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2262.shtml' title='标题:上海市2012学年主要教育收费项目与收费标准&#13;点击:93次&#13;日期:2012-9-14 15:52:03'  ><span style='color:;'>上海市2012学年主要教育收费</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2268.shtml' title='标题:2012我校录取分数线&#13;点击:150次&#13;日期:2012-9-14 8:28:34'  ><span style='color:;'>2012我校录取分数线</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2223.shtml' title='标题:关于新生分班情况查询的通知&#13;点击:1656次&#13;日期:2012-7-23 11:59:44'  ><span style='color:;'>关于新生分班情况查询的通知</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_1936.shtml' title='标题:致报考我校的应届初中生&#13;点击:3511次&#13;日期:2012-6-15 23:33:33'  ><span style='color:;'>致报考我校的应届初中生</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_1902.shtml' title='标题:2012年复兴“提前录取”自荐生面试名单公示&#13;点击:6585次&#13;日期:2012-5-18 14:36:18'  ><span style='color:;'>2012年复兴“提前录取”自荐</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_1900.shtml' title='标题:2012年复兴“提前录取”推荐生面试名单公示&#13;点击:4610次&#13;日期:2012-5-18 14:18:48'  ><span style='color:;'>2012年复兴“提前录取”推荐</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2260.shtml' title='标题:招生简章2012&#13;点击:16次&#13;日期:2012-5-1 15:44:43'  ><span style='color:;'>招生简章2012</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_2258.shtml' title='标题:转发《关于2012年虹口区中等学校高中阶段招生考试工作的实施意见》&#13;点击:10次&#13;日期:2012-4-30 15:39:25'  ><span style='color:;'>转发《关于2012年虹口区中等</span></a></div></td></tr><tr><td><div class='listitem3'><a href='disp_1_610_1869.shtml' title='标题:国际课程班报名办法&#13;点击:2258次&#13;日期:2012-4-27 10:13:54'  ><span style='color:;'>国际课程班报名办法</span></a></div></td></tr></table>
+            </div>
+            <div class="listhead1">
+                热门信息</div>
+            <div class="listcont">
+		    
+      <div class="taxis-out">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>1</div><a href='disp_1_610_1866.shtml' title='2012年上海市复兴高级中学“提前录取”招生方案  '  target='_blank'  >2012年上海市复兴高级中学“</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>2</div><a href='disp_1_610_1191.shtml' title='复兴高级中学校园文化展示活动的通知'  target='_blank'  >复兴高级中学校园文化展示活</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>3</div><a href='disp_1_610_1902.shtml' title='2012年复兴“提前录取”自荐生面试名单公示'  target='_blank'  >2012年复兴“提前录取”自荐</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>4</div><a href='disp_1_610_1900.shtml' title='2012年复兴“提前录取”推荐生面试名单公示'  target='_blank'  >2012年复兴“提前录取”推荐</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>5</div><a href='disp_1_610_1936.shtml' title='致报考我校的应届初中生'  target='_blank'  >致报考我校的应届初中生</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>6</div><a href='disp_1_610_1867.shtml' title='复兴高级中学国际课程班招生简章'  target='_blank'  >复兴高级中学国际课程班招生</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>7</div><a href='disp_1_610_1869.shtml' title='国际课程班报名办法'  target='_blank'  >国际课程班报名办法</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>8</div><a href='disp_1_610_2223.shtml' title='关于新生分班情况查询的通知'  target='_blank'  >关于新生分班情况查询的通知</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>9</div><a href='disp_1_610_2264.shtml' title='教育收费公示'  target='_blank'  >教育收费公示</a></div>
+       <td>
+      </tr><tr> 
+       <td style="vertical-align:middle;">
+          <div class=listitem3> <div class=taxisfront>10</div><a href='disp_1_610_2268.shtml' title='2012我校录取分数线'  target='_blank'  >2012我校录取分数线</a></div>
+       <td>
+      </tr></table></div>
+            </div>
+        </div>
+        <div class="bodyright">
+            <div class="rightnav">
+                <div class="nav">
+                    <a>上海市复兴高级中学</a> &gt;&gt; <a href="channel_1.shtml">复兴高级</a> >> <a href="list_1_104.shtml">复兴教学</a> >> <a href="list_1_122.shtml">升学招生</a> >> <a href="list_1_610.shtml">招生信息</a></div>
+                <div class="search">
+                    <form id="Search" action="SearchResult.aspx" method="post">
+                    <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                            <td width="172px" align="center" valign="center">
+                                <input type="text" name="TxtKey" class="searchinp" />
+                            </td>
+                            <td width="58px" align="center" valign="center">
+                                <input type="submit" name="btnsearch" value="" class="searchbtn" />
+                            </td>
+                        </tr>
+                    </table>
+                    </form>
+                </div>
+            </div>
+            <div class="conthead">
+                <div class="headleft">
+                </div>
+                <div class="headcenter">
+                    <span style='color:#000000'>国际课程班报名办法</span>
+                </div>
+                <div class="headright">
+                </div>
+            </div>
+            <div style="width:770px; text-align:center;">
+            <table style="width: 730px; margin:0 auto; text-align:left;">
+                <tr>
+                    <td style="text-align: center; line-height: 20px; font-size: 10pt; letter-spacing: 1px;
+                        font-family: Tahoma; border-bottom: #829462 1px dashed; border-top: #829462 1px dashed;">
+                        作者:教导处&nbsp;&nbsp; 编辑日期:2012-4-27 10:13:54&nbsp;&nbsp; 点击数:
+                        <script type="text/javascript" src="PlugIns/PageCount.ashx?SerID=1869"></script>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="line-height: 25px; min-height: 400px; height: 400px; vertical-align: top;">
+                        <div id="div_Content" style="text-indent:2em;">
+                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各位同学，本校的国际课程班（<a target="_blank" href="https://fx.xxoo.skin/disp_1_610_1867.shtml">招生简章</a>）现接受报名，报名办法如下：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1、通过上海市复兴高级中学网站的链接进入报名页面进行<strong>网上报名</strong>。<a target="_blank" href="https://fx.xxoo.skin/Admissions2012-2.aspx">点击进入</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2、网上下载报名表（见附件），完整填写后用<strong>挂号信</strong>的方式寄往学校。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地址：上海市车站南路28号&nbsp; 对外交流处收&nbsp; 邮编：200434&nbsp;，敬请注明：<strong>国际课程班报名</strong> 字样。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3、直接到上海市复兴高级中学校办对外交流处进行<strong>现场报名</strong>。报名时请带好2张1寸彩色照片。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 如果还有疑问，请来电咨询：021-65174463</p>
+                            <div id="upfiles">
+                            <DIV><A onclick='javascript:window.open("/manage/download.aspx?File=/userfiles/upload/safe/2012/04/27/20120427105413527112930.doc");' href="javascript:void();">上海市复兴高级中学国际班招生报名表.doc</A>&nbsp;&nbsp;<SPAN class=Fwrong onclick='DelFile("/userfiles/upload/safe/2012/04/27/20120427105413527112930.doc",this)'>删除</SPAN></DIV>
+                            </div>
+                        </div>
+                        <div style="width: 100%; text-align: right;">
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 9pt; line-height: 25px;" align="left">
+                        上一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1869&type=pre"></script><br />
+                        下一条: <script type="text/javascript" src="PlugIns/NextPreInfo.ashx?id=1869"></script>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div id="mainbottom" style="position:relative;">
+        <div style="position:absolute;left:820px;top:282px;">
+            <div><script src="https://fx.xxoo.skin/count/mystat.aspx?style=icon"></script></div>
+        </div>
+        <div class="bottomback"></div>
+        <div class="bottomcontent">
+            Copyright © 上海市复兴高级中学  2011 All Rights Reserved  上海心通信息技术有限公司 协作制作<br />
+            上海市复兴高级中学 联系地址：中国上海市车站南路28号 邮编：200434 电话：+86-021-65606715 邮箱：<a href="mailto:fx@fuxing.sh.cn">fx@fuxing.sh.cn</a>
+        </div>
+    </div>
+</body>
+</html>
